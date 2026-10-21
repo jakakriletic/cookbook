@@ -1,0 +1,13 @@
+# Vmesne datoteke in lokalna preverjanja
+work/
+__pycache__/
+*.pyc
+~$*
+*.tmp
+Thumbs.db
+.DS_Store
+
+# Lokalna konfiguracija in poverilnice
+.env
+.env.*
+!.env.example
