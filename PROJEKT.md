@@ -4,7 +4,9 @@ Osebna kuharska knjiga za pripravo na MasterChef. Namen je hiter pregled med vaj
 
 ## Stanje
 
-21. 10. 2026: začetna uredniška zasnova in vizualni slog sta določena. Štirje uporabnikovi slikovni primeri so shranjeni v `reference/`. Za zdaj so slogovne reference. Vzorec Beurre blanc je prepisan za prikaz sloga; ni potrjen vnos v knjigo. Na prvi dejanski recept še čakamo. Ta projekt ne zahteva izdelave vseh spodaj naštetih receptov; seznam je okvir za prihodnje razvrščanje.
+29. 10. 2026: dodanih je prvih 10 vnosov za knjigo, R0001–R0010, iz uporabnikovega videa Fallow »The 5 Sauces Every Chef Needs to Learn«. V podpoglavju 4.4 je zbranih pet matičnih omak in pet izpeljank. Uporabnik je naročil njihovo vključitev; recepture so še delovne, ker vir ne poda vseh količin in izplenov. Naslednji ID je R0011. Register vsebuje povezave in odprta vprašanja. Končna knjiga DOCX še ni sestavljena; ta sprememba dopolnjuje zbirko receptov.
+
+Začetna uredniška zasnova in vizualni slog sta določena 21. 10. 2026. Štirje uporabnikovi slikovni primeri v `reference/` ostajajo slogovne reference. Vzorec Beurre blanc v HTML ni potrjen vnos v knjigo. Projekt ne zahteva izdelave vseh spodaj naštetih receptov; seznam je okvir za prihodnje razvrščanje.
 
 ## Zgradba knjige
 
@@ -26,7 +28,9 @@ Tri ravni: `1 Slaščičarske osnove` → `1.1 Osnovne kreme` → `1.1.1 Slašč
 3.1 Mise en place in rezi · 3.2 Klasične in sodobne tehnike · 3.3 Farse in mousseline · 3.4 Paniranje in hrustljavi elementi · 3.5 Marinade in slanice · 3.6 Fermentacija in vlaganje
 
 ### 4 Fondi juhe in omake
-4.1 Fondi in osnove · 4.2 Bistre juhe in consommé · 4.3 Kremne juhe · 4.4 Osnovne in izpeljane omake · 4.5 Maslene omake in emulzije · 4.6 Jus in redukcije · 4.7 Hladne omake in prelivi
+4.1 Fondi in osnove · 4.2 Bistre juhe in consommé · 4.3 Kremne juhe · 4.4 Matične in izpeljane omake · 4.5 Maslene omake in emulzije · 4.6 Jus in redukcije · 4.7 Hladne omake in prelivi
+
+Vsebina 4.4 je v `recepti/04-04-maticne-in-izpeljane-omake.md`. Pet matičnih omak (bešamel, velouté, espagnole, holandska in paradižnikova omaka) ima zaradi skupnega učenja glavno mesto v 4.4, skupaj s poslanimi izpeljankami. Iz 4.5 uporabi sklica na R0007 in R0008. Beurre blanc po morebitni poznejši potrditvi ostane v 4.5.
 
 ### 5 Zelenjava gobe in priloge
 5.1 Zelenjava · 5.2 Gobe · 5.3 Krompir · 5.4 Pireji in kreme · 5.5 Stročnice · 5.6 Solate · 5.7 Samostojne zelenjavne jedi
@@ -117,3 +121,9 @@ Repozitorij je `https://github.com/jakakriletic/cookbook`, remote `origin`, glav
 - `work/`: skripte, vmesne datoteke in preverjanja; ne mešaj z izdajo.
 
 Ob novem receptu: shrani izvirnik → prepiši in uredi → dodeli ID ter glavno mesto → zapiši oznake in povezave → posodobi register → ob izdaji sestavi knjigo, posodobi kazalo in preveri vse strani. Zabeleži datum in spremembe. Kazala strani ne vzdržuj ročno med zbiranjem receptov.
+
+## Dnevnik vsebine in odločitev
+
+- 29. 10. 2026: uporabnik je poslal `https://www.youtube.com/watch?v=xniS7kMpW4I` in naročil dodajanje v poglavje matičnih omak. Dodanih 10 ločenih Markdown receptov in pregled povezav med osnovami in izpeljankami. Podpoglavje 4.4 je preimenovano v »Matične in izpeljane omake«.
+- Izvorni spletni vir in nespremenjeni angleški samodejni podnapisi so ohranjeni v `reference/fallow-maticne-omake-2024.md` in `reference/fallow-maticne-omake-podnapisi.en.json`. Izvedbe niso nadomeščene s standardnimi recepti iz drugih virov. Hitro béarnaise in Fallowovi različici espagnole ter romesca jasno označi tudi v prihodnji izdaji.
+- Delne količine iz govora ostajajo delne; nič ni preračunano na izmišljen izplen. Nejasni dodatki in manjkajoči podatki so v registru ter uredniški evidenci posameznih receptov. Pred uporabo kot popolne recepture dopolni količine; praktične vaje še niso opravljene.
