@@ -2,7 +2,7 @@
 
 Posodobljeno: 31. 10. 2026.
 
-Za vključitev izbranih vnosov: **25** (R0001–R0025). Vsi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0026**.
+Za vključitev izbranih vnosov: **27** (R0001–R0027). Vsi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0028**.
 
 Štiri slike v `reference/` so trenutno slogovni primeri. Vzorčna stran Beurre blanc v HTML je prikaz oblikovanja; ne šteje kot potrjen recept in nima trajnega ID. Slike niso bile vsebinsko preverjene.
 
@@ -35,6 +35,10 @@ Za vključitev izbranih vnosov: **25** (R0001–R0025). Vsi so **delovni**: R000
 | [R0023](R0023-osnovna-razmerja.md) | Osnovna kuharska razmerja | 3.7 Osnovna razmerja | majoneza; vinaigrette; vlaganje; marinada; mleto meso | Fallow, 9 Ratios | delovno | R0001; R0007; R0022; sklici iz 3.5, 3.6, 4.7 |
 | [R0024](R0024-beurre-rouge.md) | Beurre rouge | 4.5 Maslene omake in emulzije | emulzija; rdeče vino; Francija | Fallow, kratki video | delovno — za dopolnitev | R0007 |
 | [R0025](R0025-raca-a-lorange.md) | Račje prsi à l'orange | 8.4 Perutnina | raca; pomaranča; Francija | Byatt, Duck à l'orange | delovno — za dopolnitev | R0006 |
+| [R0026](R0026-makroni-po-karimu.md) | Makroni po Karimu Merdjadiju | 2.6 Drobno pecivo | makroni; mandlji; italijanska meringa; Francija | Okusno.je, 5. 5. 2021 | delovno — za dopolnitev; varnostna prilagoditev | R0027 |
+| [R0027](R0027-cokoladni-ganas-za-makrone.md) | Čokoladni ganaš za makrone po Valrhoni | 1.2 Čokolada | čokolada; ganaš; polnilo | Valrhona, Dark Chocolate Macarons | delovno; uredniško izbrano polnilo | R0026 |
+
+Viri R0026–R0027: [evidenca spletnega iskanja in uredniških odločitev](../reference/makroni-karim-2026-10-31.md).
 
 Viri R0011–R0025 in dopolnitev R0001 ter R0007: [evidenca videov z dne 31. 10. 2026](../reference/videi-2026-10-31.md). [Pregled podpoglavja 5.4](05-04-pireji-in-kreme.md).
 
@@ -42,6 +46,8 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 
 ## Odprto
 
+- R0026: izplen, premer, način pečice, vrsta barvila, čas sušenja v domačih razmerah, potrebna količina polnila in shranjevanje. Varnostna prilagoditev priprave beljakov je ločena od osnovnega vira. Receptura ni praktično preizkušena.
+- R0027: čas in temperatura ohlajanja, odmerjanje na makron, shranjevanje ter ujemanje količine z R0026. Polnilo je iz drugega vira; kombinacija še ni preizkušena.
 - R0001–R0010: dopolniti vse izplene in manjkajoče količine. Vir poda pretežno tehniko; delne številke niso popolna razmerja. Recepti niso praktično preizkušeni.
 - R0001: razmerje 1 : 1 : 10 je dopolnjeno 31. 10. 2026 iz drugega Fallowovega videa; odprta ostaneta izplen in celoten čas.
 - R0003: absolutne količine masla, moke in tekočine; razmerje masla in moke je le približno.
@@ -68,6 +74,7 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 
 ## Dnevnik
 
+- 31. 10. 2026: po uporabnikovem naročilu izvedeno spletno iskanje in dodana R0026–R0027; makroni v 2.6 in ločeno čokoladno polnilo v 1.2. Viri, avtorstvo in uredniške prilagoditve so sledljivi.
 - 21. 10. 2026: vzpostavljeni struktura, slog, predloga in navodila za nadaljevanje.
 - 29. 10. 2026: po uporabnikovem naročilu dodanih 5 matičnih omak in 5 izpeljank iz videa Fallow, R0001–R0010. Shranjena vir in samodejni prepis, dodan pregled 4.4 in evidentirane nepopolnosti. Slogovne reference ostajajo izven potrjene vsebine.
 - 31. 10. 2026: po uporabnikovem naročilu dodanih 15 vnosov, R0011–R0025, iz osmih videov (Adam Byatt in Fallow). Kratke vsebine so združene v R0023 in pregled 5.4; dodano podpoglavje 3.7. R0001 in R0007 sta dopolnjena z razmerji. Pri R0015 je preverjena in kot varianta dodana sladka različica testa.
