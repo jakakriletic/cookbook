@@ -52,8 +52,20 @@ Osnova za [R0008 Hitro omako béarnaise](R0008-hitra-bearnaise.md). Iz podpoglav
 
 Avtor omeni prečiščeno maslo, sam pa zagovarja uporabo vsega stopljenega masla z mlečnimi delci zaradi okusa. Recept ohranja to možnost; količina in temperatura masla sta za dopolnitev.
 
+## Razmerje iz videa Fallow o razmerjih
+
+**5 prečiščeno maslo : 1 rumenjak : 1 tekočina** (po masi). Tekočina je pol kisa in pol vode, na primer 10 g kisa in 10 g vode. Preveč maščobe omako razbije, premalo je ne zgosti.
+
+- Najprej stepi sabayon nad vodno kopeljo. Kopel nato izklopi, ker ostanek toplote zadošča.
+- Maslo dolivaj v tankem curku.
+- Ko je dodana večina masla, poskusi. Dodatno kislino daj z limoninim sokom na koncu, da ne razredčiš že dosežene gostote.
+- **Varianta:** vmešaj peteršilj in drobnjak ter postrezi na poširanih jajcih.
+
+To razmerje je iz drugega videa in s prečiščenim maslom; zgornji postopek iz prvega videa uporablja neprečiščeno maslo in dodatno vodo. Obe izvedbi sta ohranjeni ločeno.
+
 ## Uredniška evidenca
 
+- 31. 10. 2026: dodano razmerje iz videa Fallow »9 Ratios Every Chef Needs to Know« (9:12–10:25). Delno odgovarja na odprto vprašanje o razmerju, ne pa na količine v izvedbi iz prvega videa.
 - Vir: Fallow, 12:21–14:35; del uvoda se začne okoli 12:15. Izvorni zapis v `reference/fallow-maticne-omake-2024.md`.
 - Ureditev: avtorjeva ocena približno 74 °C ni privzeta kot univerzalni cilj ali varnostno potrjen postopek. Razlaga o vplivu soli na beljakovine ni prenesena kot preverjeno dejstvo. Avtor pove, da na začetku ni dodal soli, končna količina pa ni podana.
 - Odprto: razmerje vseh sestavin, izplen, končno začinjanje, temperatura masla in preverjen režim priprave, toplega držanja ter shranjevanja. Gre za delovni tehnični zapis.

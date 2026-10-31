@@ -16,6 +16,8 @@ Mlečna matična omaka, zgoščena s prežganjem iz masla in moke (roux). V prik
 
 **Izplen:** za dopolnitev.
 
+**Razmerje po masi: 1 maslo : 1 moka : 10 mleko**, na primer 100 g masla, 100 g moke in 1 l mleka. Vir je Fallowov video o razmerjih; mleko se tam doda v treh delih, kuhanje traja 4–5 minut.
+
 ## Sestavine
 
 | Sestavina | Količina |
@@ -40,10 +42,13 @@ Mleka ne prilij vsega naenkrat. Postopno dodajanje in temeljito mešanje sta v p
 
 ## Serviranje in povezani recepti
 
-Osnova za [R0002 Čebulno omako soubise](R0002-soubise.md).
+Osnova za [R0002 Čebulno omako soubise](R0002-soubise.md) in [R0022 Omako Mornay](R0022-mornay.md). Razmerje je zbrano tudi v [R0023 Osnovna kuharska razmerja](R0023-osnovna-razmerja.md).
+
+**Preizkus kuhanosti (Fallow, Ratios).** Omako poskusi in jo pritisni ob nebo. Če ne pusti moknatega filma, je moka dobro skuhana. Omaka naj ne vre premočno, ker se prime dna.
 
 ## Uredniška evidenca
 
 - Vir: Fallow, 00:49–03:06; izvorni zapis in podnapisi v `reference/fallow-maticne-omake-2024.md`.
 - Ureditev: slovenski povzetek tehnike, poenotena imena in razdelitev na korake. Ohranjen je prikaz z rahlo porjavelim maslom.
-- Odprto: vse absolutne količine, izplen, natančno razmerje mleka in rouxa ter celoten čas priprave. Razmerje masla in moke je v govoru le približno.
+- Odprto: izplen in celoten čas priprave. Razmerje masla in moke je v prvem videu le približno.
+- 31. 10. 2026: dodano razmerje 1 : 1 : 10 iz videa Fallow »9 Ratios Every Chef Needs to Know« (7:01–8:34), ista tehnika z rahlo porjavelim maslom. Odprto vprašanje o razmerju je s tem zaprto; sestavine v preglednici ostajajo iz prvega videa.

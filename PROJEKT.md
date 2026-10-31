@@ -4,6 +4,8 @@ Osebna kuharska knjiga za pripravo na MasterChef. Namen je hiter pregled med vaj
 
 ## Stanje
 
+31. 10. 2026: dodanih 15 vnosov, R0011–R0025, iz osmih videov Adama Byatta (Trinity) in Fallowa: fond in osnove, pireji, krompir, ribja jed, choux, omake, razmerja in raca à l'orange. Kratke vsebine so po uporabnikovem naročilu združene: šest razmerij v R0023 in skupni nasveti o pirejih v `recepti/05-04-pireji-in-kreme.md`. R0001 in R0007 sta dopolnjena z razmerji. Naslednji ID je R0026. Vsi vnosi so delovni in niso praktično preizkušeni. Viri: `reference/videi-2026-10-31.md`.
+
 29. 10. 2026: dodanih je prvih 10 vnosov za knjigo, R0001–R0010, iz uporabnikovega videa Fallow »The 5 Sauces Every Chef Needs to Learn«. V podpoglavju 4.4 je zbranih pet matičnih omak in pet izpeljank. Uporabnik je naročil njihovo vključitev; recepture so še delovne, ker vir ne poda vseh količin in izplenov. Naslednji ID je R0011. Register vsebuje povezave in odprta vprašanja. Končna knjiga DOCX še ni sestavljena; ta sprememba dopolnjuje zbirko receptov.
 
 Začetna uredniška zasnova in vizualni slog sta določena 21. 10. 2026. Štirje uporabnikovi slikovni primeri v `reference/` ostajajo slogovne reference. Vzorec Beurre blanc v HTML ni potrjen vnos v knjigo. Projekt ne zahteva izdelave vseh spodaj naštetih receptov; seznam je okvir za prihodnje razvrščanje.
@@ -25,15 +27,19 @@ Tri ravni: `1 Slaščičarske osnove` → `1.1 Osnovne kreme` → `1.1.1 Slašč
 2.1 Sladice na krožniku · 2.2 Torte in rezine · 2.3 Pite in tarti · 2.4 Sladice v kozarcu · 2.5 Topli narastki in druge tople sladice · 2.6 Drobno pecivo
 
 ### 3 Slane kuharske osnove
-3.1 Mise en place in rezi · 3.2 Klasične in sodobne tehnike · 3.3 Farse in mousseline · 3.4 Paniranje in hrustljavi elementi · 3.5 Marinade in slanice · 3.6 Fermentacija in vlaganje
+3.1 Mise en place in rezi · 3.2 Klasične in sodobne tehnike · 3.3 Farse in mousseline · 3.4 Paniranje in hrustljavi elementi · 3.5 Marinade in slanice · 3.6 Fermentacija in vlaganje · 3.7 Osnovna razmerja
+
+Podpoglavje 3.7 je dodano 31. 10. 2026 za R0023, skupni vnos kratkih razmerij (majoneza, vinaigrette, vlaganje, pekoča omaka, marinada, mleto meso). Iz 3.5, 3.6 in 4.7 vodijo nanj sklici.
 
 ### 4 Fondi juhe in omake
 4.1 Fondi in osnove · 4.2 Bistre juhe in consommé · 4.3 Kremne juhe · 4.4 Matične in izpeljane omake · 4.5 Maslene omake in emulzije · 4.6 Jus in redukcije · 4.7 Hladne omake in prelivi
 
-Vsebina 4.4 je v `recepti/04-04-maticne-in-izpeljane-omake.md`. Pet matičnih omak (bešamel, velouté, espagnole, holandska in paradižnikova omaka) ima zaradi skupnega učenja glavno mesto v 4.4, skupaj s poslanimi izpeljankami. Iz 4.5 uporabi sklica na R0007 in R0008. Beurre blanc po morebitni poznejši potrditvi ostane v 4.5.
+Vsebina 4.4 je v `recepti/04-04-maticne-in-izpeljane-omake.md`. Omaka Mornay (R0022) je v 4.4 kot izpeljanka bešamela. Beurre rouge (R0024) je prvi recept z glavnim mestom v 4.5. Pet matičnih omak (bešamel, velouté, espagnole, holandska in paradižnikova omaka) ima zaradi skupnega učenja glavno mesto v 4.4, skupaj s poslanimi izpeljankami. Iz 4.5 uporabi sklica na R0007 in R0008. Beurre blanc po morebitni poznejši potrditvi ostane v 4.5.
 
 ### 5 Zelenjava gobe in priloge
 5.1 Zelenjava · 5.2 Gobe · 5.3 Krompir · 5.4 Pireji in kreme · 5.5 Stročnice · 5.6 Solate · 5.7 Samostojne zelenjavne jedi
+
+Pregled 5.4 je v `recepti/05-04-pireji-in-kreme.md`: preglednica pirejev in skupna pravila obeh kuharjev. Gobov pire (R0013) je kot komponenta morskega lista uvrščen v 5.4, ne v 5.2.
 
 ### 6 Testenine riž in žita
 6.1 Sveže testenine · 6.2 Polnjene testenine · 6.3 Njoki in cmoki · 6.4 Rižote in druge riževe jedi · 6.5 Polenta kaše in druga žita
@@ -124,6 +130,8 @@ Ob novem receptu: shrani izvirnik → prepiši in uredi → dodeli ID ter glavno
 
 ## Dnevnik vsebine in odločitev
 
+- 31. 10. 2026: uporabnik je poslal osem videov (Byatt: Sole Bonne Femme, Choux, Cauliflower Puree, Roast Potatoes, Duck à l'orange; Fallow: 4 Purees, 9 Ratios, Beurre rouge). Naročil je, naj se kratke vsebine iz istega videa združijo, recepti po potrebi dopolnijo in slog poenoti. Količine so iz opisov videov, razhajanja med opisom in prikazom so zapisana pri receptih. Komponente z lastno recepturo imajo svoj ID (R0011–R0013 za R0014).
+- 31. 10. 2026: pri choux (R0015) je uporabnik prosil za preverbo sladkorja v testu. Byatt ga ne doda; tradicionalni francoski recepti imajo ščep soli in pri sladkem testu malo sladkorja. Kot uredniška varianta je dodanih 5–10 g na Byattovo količino, z navedenimi viri; ni preizkušeno.
 - 29. 10. 2026: uporabnik je poslal `https://www.youtube.com/watch?v=xniS7kMpW4I` in naročil dodajanje v poglavje matičnih omak. Dodanih 10 ločenih Markdown receptov in pregled povezav med osnovami in izpeljankami. Podpoglavje 4.4 je preimenovano v »Matične in izpeljane omake«.
 - Izvorni spletni vir in nespremenjeni angleški samodejni podnapisi so ohranjeni v `reference/fallow-maticne-omake-2024.md` in `reference/fallow-maticne-omake-podnapisi.en.json`. Izvedbe niso nadomeščene s standardnimi recepti iz drugih virov. Hitro béarnaise in Fallowovi različici espagnole ter romesca jasno označi tudi v prihodnji izdaji.
 - Delne količine iz govora ostajajo delne; nič ni preračunano na izmišljen izplen. Nejasni dodatki in manjkajoči podatki so v registru ter uredniški evidenci posameznih receptov. Pred uporabo kot popolne recepture dopolni količine; praktične vaje še niso opravljene.
