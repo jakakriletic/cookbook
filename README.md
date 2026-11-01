@@ -11,6 +11,7 @@ Osebna kuharska knjiga za pripravo na MasterChef. Recepti se sproti zbirajo, ure
 - [Pireji in kreme](recepti/05-04-pireji-in-kreme.md) — šest pirejev Byatta in Fallowa ter skupna pravila.
 - [Osnovna kuharska razmerja](recepti/R0023-osnovna-razmerja.md) — majoneza, vinaigrette, vlaganje, pekoča omaka, marinada in mleto meso na eni strani.
 - [Makroni po Karimu](recepti/R0026-makroni-po-karimu.md) — drobno pecivo; povezano ločeno polnilo [ganaš po Valrhoni](recepti/R0027-cokoladni-ganas-za-makrone.md).
+- [Makroni — recept v sliki](outputs/makroni-po-karimu.png) — pokončna kartica s sestavinami, postopkom in ločenim čokoladnim polnilom.
 - [Viri z dne 31. 10. 2026](reference/videi-2026-10-31.md) — osem videov, iz katerih so R0011–R0025.
 - [Predloga recepta](recepti/PREDLOGA.md) — standardna vsebinska zgradba.
 - [Navodila za nadaljevanje](AGENTS.md) — trajna navodila za prihodnje seje.

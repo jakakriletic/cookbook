@@ -1,6 +1,6 @@
 # Register receptov
 
-Posodobljeno: 31. 10. 2026.
+Posodobljeno: 1. 11. 2026.
 
 Za vključitev izbranih vnosov: **27** (R0001–R0027). Vsi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0028**.
 
@@ -40,6 +40,8 @@ Za vključitev izbranih vnosov: **27** (R0001–R0027). Vsi so **delovni**: R000
 
 Viri R0026–R0027: [evidenca spletnega iskanja in uredniških odločitev](../reference/makroni-karim-2026-10-31.md).
 
+Dodatni slikovni prikaz R0026 s polnilom R0027: [kartica recepta PNG](../outputs/makroni-po-karimu.png), izdelana 1. 11. 2026. Glavni mesti obeh receptov ostajata v zgornji evidenci.
+
 Viri R0011–R0025 in dopolnitev R0001 ter R0007: [evidenca videov z dne 31. 10. 2026](../reference/videi-2026-10-31.md). [Pregled podpoglavja 5.4](05-04-pireji-in-kreme.md).
 
 Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](https://www.youtube.com/watch?v=xniS7kMpW4I). [Evidenca vira in uredniških odločitev](../reference/fallow-maticne-omake-2024.md). [Pregled podpoglavja 4.4](04-04-maticne-in-izpeljane-omake.md).
@@ -74,6 +76,7 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 
 ## Dnevnik
 
+- 1. 11. 2026: po uporabnikovem naročilu dodan vizualno preverjen slikovni prikaz makronov s polnilom; nova receptura ni dodana, vsebina obeh urejevalnih receptov je ohranjena.
 - 31. 10. 2026: po uporabnikovem naročilu izvedeno spletno iskanje in dodana R0026–R0027; makroni v 2.6 in ločeno čokoladno polnilo v 1.2. Viri, avtorstvo in uredniške prilagoditve so sledljivi.
 - 21. 10. 2026: vzpostavljeni struktura, slog, predloga in navodila za nadaljevanje.
 - 29. 10. 2026: po uporabnikovem naročilu dodanih 5 matičnih omak in 5 izpeljank iz videa Fallow, R0001–R0010. Shranjena vir in samodejni prepis, dodan pregled 4.4 in evidentirane nepopolnosti. Slogovne reference ostajajo izven potrjene vsebine.

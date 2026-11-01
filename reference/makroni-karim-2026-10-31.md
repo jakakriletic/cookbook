@@ -17,3 +17,9 @@ Vsi trije viri so bili odprti in preverjeni 31. 10. 2026. Zapis je evidenca pove
 - Osnova in dodano polnilo sta ločena, da ostaneta avtorstvo in morebitno poznejše prilagajanje sledljiva. Manjkajoče jagodno polnilo ni rekonstruirano po ugibanju.
 - Spremenjeno ravnanje z beljaki je označeno v receptu. Podrobnosti in manjkajoči podatki so samo v uredniški evidenci posameznega vnosa.
 - Obe recepturi ostajata delovni; praktična vaja in ujemanje obeh komponent še nista potrjena. Končna izdaja DOCX se ob tem dodatku ne sestavlja.
+
+## Slikovna kartica — 1. 11. 2026
+
+Na uporabnikovo naročilo je iz obstoječih receptov izdelan [PNG za ogled in deljenje](../outputs/makroni-po-karimu.png). Uporabljeno je vgrajeno orodje ImageGen; [natančno navodilo z besedilom za sliko](../outputs/makroni-po-karimu.prompt.txt) je shranjeno za ponovljivost. Fotografije in novi kulinarični podatki niso dodani. Urejevalna izvirnika sta še vedno R0026 in R0027.
+
+Vizualno so preverjeni berljivost, šumniki, vse količine sestavin, obe ločeni količini beljakov, ključne temperature in čas peke, šest korakov za lupinice ter ločeno označeno polnilo iz drugega vira. Slika ne predstavlja praktičnega preizkusa recepta.

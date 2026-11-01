@@ -4,6 +4,8 @@ Osebna kuharska knjiga za pripravo na MasterChef. Namen je hiter pregled med vaj
 
 ## Stanje
 
+1. 11. 2026: na uporabnikovo željo izdelana in vizualno preverjena slikovna kartica `outputs/makroni-po-karimu.png` z R0026 in ločeno označenim polnilom R0027. Izdelana z vgrajenim ImageGen; natančno navodilo je v `outputs/makroni-po-karimu.prompt.txt`. Slikovni prikaz je dodaten izvoz za uporabo in deljenje; urejevalna recepta ostajata v Markdownu. Število vnosov ostaja 27, naslednji ID R0028.
+
 31. 10. 2026: po spletnem iskanju na uporabnikovo naročilo dodana R0026 (makroni po Karimu, 2.6 Drobno pecivo) in R0027 (ganaš po Valrhoni, 1.2 Čokolada). Polnilo iz drugega vira je ločeno in označeno kot uredniški dodatek; varnostna prilagoditev ravnanja z beljaki je dokumentirana. Zbirka ima 27 delovnih vnosov; naslednji ID je R0028. Viri in odločitve: `reference/makroni-karim-2026-10-31.md`. Končna knjiga DOCX še ni sestavljena.
 
 31. 10. 2026: dodanih 15 vnosov, R0011–R0025, iz osmih videov Adama Byatta (Trinity) in Fallowa: fond in osnove, pireji, krompir, ribja jed, choux, omake, razmerja in raca à l'orange. Kratke vsebine so po uporabnikovem naročilu združene: šest razmerij v R0023 in skupni nasveti o pirejih v `recepti/05-04-pireji-in-kreme.md`. R0001 in R0007 sta dopolnjena z razmerji. Naslednji ID je R0026. Vsi vnosi so delovni in niso praktično preizkušeni. Viri: `reference/videi-2026-10-31.md`.
@@ -132,6 +134,7 @@ Ob novem receptu: shrani izvirnik → prepiši in uredi → dodeli ID ter glavno
 
 ## Dnevnik vsebine in odločitev
 
+- 1. 11. 2026: uporabnik je naročil pretvorbo izpisanega recepta za makrone v sliko. Izdelan je pokončni PNG v slogu »Topla kuharska beležnica«, brez fotografij in brez dodajanja neznanih izplenov. Preverjene so sestavine, količine, koraki, ključne temperature in časi ter ločen pripis polnila drugemu viru. Končna knjiga DOCX še ni sestavljena.
 - 31. 10. 2026: uporabnik je naročil poiskati dober recept za makrone, po možnosti Karimov, in ga dodati. Izbran je članek Okusno.je; lupinice so R0026, ločeno polnilo iz Valrhone R0027. Podpoglavji 2.6 in 1.2 sta s tem vsebinsko zapolnjeni. Izvirna navodila in uredniške spremembe so ločeni v evidencah; izpleni in praktični preizkus ostajajo odprti.
 - 31. 10. 2026: uporabnik je poslal osem videov (Byatt: Sole Bonne Femme, Choux, Cauliflower Puree, Roast Potatoes, Duck à l'orange; Fallow: 4 Purees, 9 Ratios, Beurre rouge). Naročil je, naj se kratke vsebine iz istega videa združijo, recepti po potrebi dopolnijo in slog poenoti. Količine so iz opisov videov, razhajanja med opisom in prikazom so zapisana pri receptih. Komponente z lastno recepturo imajo svoj ID (R0011–R0013 za R0014).
 - 31. 10. 2026: pri choux (R0015) je uporabnik prosil za preverbo sladkorja v testu. Byatt ga ne doda; tradicionalni francoski recepti imajo ščep soli in pri sladkem testu malo sladkorja. Kot uredniška varianta je dodanih 5–10 g na Byattovo količino, z navedenimi viri; ni preizkušeno.
