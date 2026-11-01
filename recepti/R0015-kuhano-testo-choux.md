@@ -86,6 +86,8 @@ Za Byattovo količino (280 g tekočine) to pomeni približno **5–10 g sladkorj
 
 ## Serviranje in povezani recepti
 
+Uredniški sklic, dodan 1. 11. 2026: v zbirki je zdaj [R0028 Slaščičarska krema](R0028-slascicarska-krema.md) iz drugega vira. Lahko je osnova za ločeno vajo polnjenja; ni predstavljena kot Byattova receptura ali rekonstrukcija njegovega polnila.
+
 Polnila v videu:
 - **Slani kanape s pirejem buče.** Pikanten pire pečene buče z medom brizgaj v podolgovat ekler z razrezom na hrbtni strani, ohladi in nareži na kanapeje.
 - **Paris-Brest.** Obroč prereži z nazobčanim nožem, napolni s kremo in potresi s čokolado ter mandljevimi lističi.

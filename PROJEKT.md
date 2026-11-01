@@ -4,6 +4,8 @@ Osebna kuharska knjiga za pripravo na MasterChef. Namen je hiter pregled med vaj
 
 ## Stanje
 
+1. 11. 2026: na naročilo za knjigo slaščičarskih osnov pregledana odprta učbenika Rink/Thibodeaux in BCcampus ter dodanih osem osnov R0028–R0035. Zbirka ima 35 delovnih vnosov; naslednji ID R0036. Pregled: `recepti/01-slascicarske-osnove.md`; viri, avtorske navedbe in uredniške odločitve: `reference/slascicarske-osnove-2026-11-01.md`. Tri vnose tvorijo prevedene recepture dodatka BCcampus, ostali imajo svoje spletne vire. Noben nov recept še ni praktično preizkušen.
+
 1. 11. 2026: na uporabnikovo željo izdelana in vizualno preverjena slikovna kartica `outputs/makroni-po-karimu.png` z R0026 in ločeno označenim polnilom R0027. Izdelana z vgrajenim ImageGen; natančno navodilo je v `outputs/makroni-po-karimu.prompt.txt`. Slikovni prikaz je dodaten izvoz za uporabo in deljenje; urejevalna recepta ostajata v Markdownu. Število vnosov ostaja 27, naslednji ID R0028.
 
 31. 10. 2026: po spletnem iskanju na uporabnikovo naročilo dodana R0026 (makroni po Karimu, 2.6 Drobno pecivo) in R0027 (ganaš po Valrhoni, 1.2 Čokolada). Polnilo iz drugega vira je ločeno in označeno kot uredniški dodatek; varnostna prilagoditev ravnanja z beljaki je dokumentirana. Zbirka ima 27 delovnih vnosov; naslednji ID je R0028. Viri in odločitve: `reference/makroni-karim-2026-10-31.md`. Končna knjiga DOCX še ni sestavljena.
@@ -26,6 +28,8 @@ Tri ravni: `1 Slaščičarske osnove` → `1.1 Osnovne kreme` → `1.1.1 Slašč
 
 ### 1 Slaščičarske osnove
 1.1 Osnovne kreme · 1.2 Čokolada · 1.3 Testa in biskviti · 1.4 Meringe in pene · 1.5 Želiranje in zgoščevanje · 1.6 Sladkor in karamela · 1.7 Sladoledi in sorbeti · 1.8 Sadni pripravki in sladke omake
+
+Pregled zapolnjene vsebine je v `recepti/01-slascicarske-osnove.md`. R0028, R0029 in R0032 so v 1.1; R0030, R0031 in R0033 v 1.3; R0034 v 1.4; R0035 v 1.6. Crème anglaise ima glavno mesto v 1.1 in samo sklic iz 1.8. Tuiles so osnovna tehnika v 1.3 in se iz 2.1 samo sklicujejo. Tri različice tuiles so v enem vnosu; prav tako dva kratka postopka za sušeno meringo. Podpoglavji 1.5 in 1.7 ostajata predvideni, brez dodajanja praznih strani v izdajo.
 
 ### 2 Sladice
 2.1 Sladice na krožniku · 2.2 Torte in rezine · 2.3 Pite in tarti · 2.4 Sladice v kozarcu · 2.5 Topli narastki in druge tople sladice · 2.6 Drobno pecivo
@@ -134,6 +138,7 @@ Ob novem receptu: shrani izvirnik → prepiši in uredi → dodeli ID ter glavno
 
 ## Dnevnik vsebine in odločitev
 
+- 1. 11. 2026: uporabnik je naročil poiskati knjigo z osnovami slaščičarstva in prenesti recepte v zbirko. Učbenik Rink/Thibodeaux je učni okvir, ne izvor izmišljenih količin. Iz dodatka knjige BCcampus so prevedene vse recepture in združene v R0033–R0035 (CC BY 4.0). R0030 je predelava Koch-Wiki (CC BY-SA 3.0); R0028, R0029, R0031 in R0032 so samostojno ubesedeni kratki zapisi ločenih spletnih receptur. Prihodnja izdaja mora ohraniti vse licenčne pripise, ki so zato ločeni od interne uredniške evidence. Pomanjkljivosti virov niso tiho popravljene; označene so v receptih in registru.
 - 1. 11. 2026: uporabnik je naročil pretvorbo izpisanega recepta za makrone v sliko. Izdelan je pokončni PNG v slogu »Topla kuharska beležnica«, brez fotografij in brez dodajanja neznanih izplenov. Preverjene so sestavine, količine, koraki, ključne temperature in časi ter ločen pripis polnila drugemu viru. Končna knjiga DOCX še ni sestavljena.
 - 31. 10. 2026: uporabnik je naročil poiskati dober recept za makrone, po možnosti Karimov, in ga dodati. Izbran je članek Okusno.je; lupinice so R0026, ločeno polnilo iz Valrhone R0027. Podpoglavji 2.6 in 1.2 sta s tem vsebinsko zapolnjeni. Izvirna navodila in uredniške spremembe so ločeni v evidencah; izpleni in praktični preizkus ostajajo odprti.
 - 31. 10. 2026: uporabnik je poslal osem videov (Byatt: Sole Bonne Femme, Choux, Cauliflower Puree, Roast Potatoes, Duck à l'orange; Fallow: 4 Purees, 9 Ratios, Beurre rouge). Naročil je, naj se kratke vsebine iz istega videa združijo, recepti po potrebi dopolnijo in slog poenoti. Količine so iz opisov videov, razhajanja med opisom in prikazom so zapisana pri receptih. Komponente z lastno recepturo imajo svoj ID (R0011–R0013 za R0014).

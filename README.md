@@ -7,6 +7,7 @@ Osebna kuharska knjiga za pripravo na MasterChef. Recepti se sproti zbirajo, ure
 - [Zasnova in slog](PROJEKT.md) — poglavja, pravila razvrščanja in vizualna podoba.
 - [Vzorec videza](outputs/vzorec_sloga.html) — prenesi in odpri v brskalniku za ogled dveh vzorčnih strani.
 - [Register receptov](recepti/REGISTER.md) — trenutno stanje zbirke.
+- [Slaščičarske osnove](recepti/01-slascicarske-osnove.md) — kreme, testa, biskvit, meringe in hrustljavi dodatki; pregled z viri in povezavami do receptur.
 - [Matične in izpeljane omake](recepti/04-04-maticne-in-izpeljane-omake.md) — pet osnov in pet izpeljank iz videa Fallow, z ločenimi recepti in povezavami.
 - [Pireji in kreme](recepti/05-04-pireji-in-kreme.md) — šest pirejev Byatta in Fallowa ter skupna pravila.
 - [Osnovna kuharska razmerja](recepti/R0023-osnovna-razmerja.md) — majoneza, vinaigrette, vlaganje, pekoča omaka, marinada in mleto meso na eni strani.

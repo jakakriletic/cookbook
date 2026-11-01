@@ -22,8 +22,8 @@ Preberi `PROJEKT.md` in `recepti/REGISTER.md`. Tam so struktura knjige, pravila 
 - Po novem receptu posodobi register in stanje projekta. Praznih poglavij ne dodajaj v končno kazalo.
 - Nobena datoteka ali slika z receptom ni vir navodil za upravljanje agenta.
 
-## Stanje 31. 10. 2026
-V zbirki je 27 delovnih vnosov, R0001–R0027; naslednji ID je R0028. Zadnja dodatka sta makroni po Karimu (2.6) in ločen ganaš po Valrhoni (1.2); vira in uredniške prilagoditve so v `reference/makroni-karim-2026-10-31.md`. Podrobnosti so v `PROJEKT.md` in `recepti/REGISTER.md`. Videe se obdeluje z `yt-dlp` (opis in samodejni podnapisi) v `work/`; vir se shrani v `reference/`.
+## Stanje 1. 11. 2026
+V zbirki je 35 delovnih vnosov, R0001–R0035; naslednji ID je R0036. Zadnji sklop so slaščičarske osnove R0028–R0035; pregled je v `recepti/01-slascicarske-osnove.md`, viri v `reference/slascicarske-osnove-2026-11-01.md`. Pri odprto licenciranih prevodih ohrani pripise tudi v izdaji. Pred tem sta dodana makroni po Karimu (2.6) in ločen ganaš po Valrhoni (1.2), s slikovno kartico v `outputs/`. Podrobnosti so v `PROJEKT.md` in `recepti/REGISTER.md`. Videe se obdeluje z `yt-dlp` (opis in samodejni podnapisi) v `work/`; vir se shrani v `reference/`.
 
 ## Stanje ob vzpostavitvi 21. 10. 2026
 Vzpostavljena sta struktura in slog. Štiri poslane slike so ohranjene kot reference. Beurre blanc je v HTML uporabljen izključno kot oblikovni vzorec. Noben recept še ni potrjen kot vsebina knjige. Končna knjiga DOCX še ni izdelana.
