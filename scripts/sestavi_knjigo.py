@@ -40,24 +40,32 @@ sec.top_margin,sec.bottom_margin = Mm(19),Mm(19)
 sec.left_margin,sec.right_margin = Mm(22),Mm(19)
 sec.header_distance,sec.footer_distance = Mm(8),Mm(9)
 styles=doc.styles
-normal=styles['Normal']; normal.font.name='Aptos'; normal.font.size=Pt(10.5); normal.font.color.rgb=RGBColor.from_string(INK)
-normal.paragraph_format.line_spacing=1.10; normal.paragraph_format.space_after=Pt(4)
+normal=styles['Normal']; normal.font.name='Aptos'; normal.font.size=Pt(12); normal.font.color.rgb=RGBColor.from_string(INK)
+normal.paragraph_format.line_spacing=1.20; normal.paragraph_format.space_after=Pt(5)
 for name, font, size, color in [('Title','Georgia',43,'000000'),('Subtitle','Aptos',15,GREEN),('Heading 1','Georgia',31,'000000'),('Heading 2','Georgia',18,'000000'),('Heading 3','Georgia',25,'000000')]:
     s=styles[name]; s.font.name=font; s.font.size=Pt(size); s.font.color.rgb=RGBColor.from_string(color)
     s.paragraph_format.space_before=Pt(10 if name!='Title' else 0); s.paragraph_format.space_after=Pt(10)
     s.paragraph_format.keep_with_next=True
-for name,size,color in [('Eyebrow',8.5,COPPER),('Recipe Section',11,GREEN),('Recipe Subsection',10.5,INK),('Source Note',9.5,'676B63'),('Source Heading',12,GREEN),('Book Bullet',10.5,INK),('Book Step',10.5,INK)]:
+for name,size,color in [('Eyebrow',9,COPPER),('Recipe Section',13,GREEN),('Recipe Subsection',12,INK),('Source Note',10.5,'50564D'),('Source Heading',12,GREEN),('Book Bullet',12,INK),('Book Step',12,INK),('Ingredient',12,INK),('Ingredient Note',12,INK),('Variant',12,GREEN)]:
     s=styles.add_style(name,1); s.base_style=normal; s.font.size=Pt(size); s.font.color.rgb=RGBColor.from_string(color)
-    if name in ['Recipe Section','Recipe Subsection','Source Heading','Eyebrow']:
+    if name in ['Recipe Section','Recipe Subsection','Source Heading','Eyebrow','Variant']:
         s.font.bold=True; s.paragraph_format.keep_with_next=True
     if name in ['Recipe Section','Source Heading']: s.paragraph_format.space_before=Pt(11)
 styles['Book Bullet'].paragraph_format.left_indent=Mm(3)
 styles['Book Bullet'].paragraph_format.first_line_indent=Mm(-3)
 styles['Book Step'].paragraph_format.left_indent=Mm(5)
 styles['Book Step'].paragraph_format.first_line_indent=Mm(-5)
+styles['Ingredient'].paragraph_format.space_after=Pt(4)
+styles['Ingredient'].paragraph_format.keep_together=True
+styles['Ingredient Note'].paragraph_format.space_after=Pt(5)
+styles['Ingredient Note'].paragraph_format.left_indent=Mm(4)
+styles['Variant'].paragraph_format.space_before=Pt(9)
+styles['Variant'].paragraph_format.space_after=Pt(4)
+styles['Source Note'].paragraph_format.line_spacing=1.15
+styles['Source Note'].paragraph_format.space_after=Pt(4)
 for name in ['TOC 1','TOC 2','TOC 3']:
     if name not in styles: styles.add_style(name,1)
-    s=styles[name]; s.base_style=normal; s.font.name='Aptos'; s.font.size=Pt(10 if name=='TOC 3' else 11)
+    s=styles[name]; s.base_style=normal; s.font.name='Aptos'; s.font.size=Pt(12)
     s.font.color.rgb=RGBColor.from_string(INK)
     s.paragraph_format.space_after=Pt(3 if name=='TOC 3' else 6)
     s.paragraph_format.left_indent=Mm({'TOC 1':0,'TOC 2':4,'TOC 3':9}[name])
@@ -116,32 +124,40 @@ def inline(p,text):
 def para(text,style=None):
     p=doc.add_paragraph(style=style); inline(p,text); return p
 
+converted_tables=[]
+def ingredient(name,quantity):
+    """Količina in ime ostaneta v istem odstavku, opomba tik pod njima."""
+    if quantity.strip()=='—': return  # Prazna celica v matrici: sestavina v tej različici ni uporabljena.
+    amount,sep,note=quantity.partition(';')
+    p=doc.add_paragraph(style='Ingredient')
+    # Znak — loči podatkovni oznaki brez slovničnega spreminjanja izvirnih imen.
+    inline(p,'**'+amount.strip()+'**  —  '+name)
+    if sep:
+        p.paragraph_format.keep_with_next=True
+        note_p=para(note.strip(),'Ingredient Note')
+        note_p.paragraph_format.keep_together=True
+
 def table(rows,small=False):
-    cols=len(rows[0]); t=doc.add_table(rows=0,cols=cols); t.autofit=False
-    widths=([109,60] if cols==2 else [72]+[(169-72)/(cols-1)]*(cols-1))
-    for col,width in zip(t.columns,widths): col.width=Mm(width)
-    pr=t._tbl.tblPr
-    borders=OxmlElement('w:tblBorders')
-    for edge in ['top','left','bottom','right','insideH','insideV']:
-        e=OxmlElement('w:'+edge); e.set(qn('w:val'),'single'); e.set(qn('w:sz'),'4'); e.set(qn('w:color'),LINE); borders.append(e)
-    pr.append(borders)
-    margins=OxmlElement('w:tblCellMar')
-    for name,value in [('top','65'),('bottom','65'),('left','100'),('right','100')]:
-        e=OxmlElement('w:'+name); e.set(qn('w:w'),value); e.set(qn('w:type'),'dxa'); margins.append(e)
-    pr.append(margins)
-    for rowidx,data in enumerate(rows):
-        row=t.add_row(); trpr=row._tr.get_or_add_trPr(); cant=OxmlElement('w:cantSplit'); trpr.append(cant)
-        if rowidx==0: repeat=OxmlElement('w:tblHeader'); trpr.append(repeat)
-        for i,cell in enumerate(row.cells):
-            cell.width=Mm(widths[i]); cell.vertical_alignment=1
-            sh=OxmlElement('w:shd'); sh.set(qn('w:fill'),GREEN if rowidx==0 else ('FFFFFF' if rowidx%2 else 'F1F0E9')); cell._tc.get_or_add_tcPr().append(sh)
-            p=cell.paragraphs[0]; p.paragraph_format.space_after=Pt(0); p.paragraph_format.space_before=Pt(0); p.paragraph_format.line_spacing=1.05
-            if i>0 and cols==2: p.alignment=WD_ALIGN_PARAGRAPH.RIGHT
-            inline(p,data[i] if i<len(data) else '')
-            for r in p.runs:
-                r.font.size=Pt(9.5 if cols>2 else 10)
-                if rowidx==0: r.bold=True; r.font.color.rgb=RGBColor(255,255,255)
-    doc.add_paragraph().paragraph_format.space_after=Pt(0)
+    """Tabelarični vir preoblikuj v navadne urejevalne sezname."""
+    headers=rows[0]; cols=len(headers)
+    converted_tables.append({'recipe':current,'rows':rows})
+    if cols==2 and headers[0].lower()=='sestavina' and headers[1].lower()=='količina':
+        for name,quantity in rows[1:]: ingredient(name,quantity)
+    elif cols>2 and headers[0].lower()=='sestavina':
+        # Različice so stolpci (npr. tri recepture tuiles).
+        for col in range(1,cols):
+            para(headers[col],'Variant')
+            for row in rows[1:]: ingredient(row[0],row[col])
+    else:
+        # Različice ali pregledi so vrstice (moussi, pireji, razmerja).
+        for row in rows[1:]:
+            para(row[0],'Variant')
+            for label,value in zip(headers[1:],row[1:]):
+                if headers[0].lower().startswith('različica') or (headers[0].lower()=='pire' and any('želatina' in h.lower() for h in headers[1:])):
+                    ingredient(label,value)
+                else:
+                    p=para('**'+label+':** '+value)
+                    p.paragraph_format.keep_together=True
 
 def markdown(text,notes=False):
     lines=text.splitlines(); i=0; license_section=False
@@ -176,7 +192,7 @@ p=doc.add_paragraph('Moj kuharski\nzvezek','Title'); p.paragraph_format.space_af
 para('Osnove, tehnike in recepti za kuharsko vajo','Subtitle')
 p=para('Zbirka za ponavljanje kuharskih postopkov, primerjavo receptur in beleženje izkušenj v domači kuhinji.'); p.paragraph_format.space_before=Mm(13); p.paragraph_format.right_indent=Mm(20)
 p=para('47 RECEPTOV  ·  7 POGLAVIJ','Eyebrow'); p.paragraph_format.space_before=Mm(38)
-para('Prva pregledna izdaja\n9. november 2026','Source Note')
+para('Pregledna izdaja z izboljšano berljivostjo\n9. november 2026','Source Note')
 
 # Nov odsek: številčenje se začne s kazalom, naslovnica brez noge.
 sec=doc.add_section(WD_SECTION_START.NEW_PAGE)
@@ -221,10 +237,13 @@ for subnum,items in group.items():
         markdown(source)
     for idx,r in enumerate(items,1):
         current=r['id']
-        eyebrow=para(f'{subnum}.{idx}  ·  {r["sub"].upper()}  ·  {current}','Eyebrow')
+        eyebrow=para(f'{subnum}.{idx}  ·  {r["sub"]}  ·  {current}','Eyebrow')
         if idx>1 or overview: eyebrow.paragraph_format.page_break_before=True
         p=doc.add_paragraph(r['title'],'Heading 3'); bookmark(p,current)
-        markdown(r['body'].replace('Licenčni pripis ohrani tudi v končni knjigi.','').replace('Pripis ohrani tudi v končni knjigi.',''))
+        body=r['body'].replace('Licenčni pripis ohrani tudi v končni knjigi.','').replace('Pripis ohrani tudi v končni knjigi.','')
+        # V izdaji ni vrstic/stolpcev tabel; ohrani pomen izbire iste recepture.
+        body=body.replace('Izberi **en stolpec**','Izberi **eno različico**').replace('Izberi **eno** vrstico','Izberi **eno** različico').replace('Za vsako vrstico uporabi','Za vsako različico uporabi').replace('Za izbrano vrstico uporabi','Za izbrano različico uporabi').replace('količino iz izbrane vrstice','količino iz izbrane različice')
+        markdown(body)
         manifest.append({'id':current,'title':r['title'],'number':f'{subnum}.{idx}','source':r['file']})
 
 current=''
@@ -232,11 +251,14 @@ p=doc.add_paragraph('Viri in uredniške opombe','Heading 1'); p.paragraph_format
 para('Pripisi avtorjem, različice virov in odprta vprašanja so zbrani po trajnih oznakah receptov. Količine in postopki v glavnem delu knjige ostajajo povezani s konkretnim navedenim virom. Posamezne licence veljajo za označene recepture, ne samodejno za celotno zbirko.','Source Note')
 for r in records:
     current=r['id']; p=para(f'{current}  {r["title"]}','Source Heading'); bookmark(p,'OP_'+current)
-    para('Izvor: '+r['meta'].get('izvor',''),'Source Note')
-    if r['meta'].get('vir'): p=doc.add_paragraph(style='Source Note'); link(p,'Odpri izvirni vir',r['meta']['vir'])
+    p=para('Izvor: '+r['meta'].get('izvor',''),'Source Note'); p.paragraph_format.keep_with_next=True
+    if r['meta'].get('vir'):
+        p=doc.add_paragraph(style='Source Note'); p.paragraph_format.keep_with_next=True; link(p,'Odpri izvirni vir',r['meta']['vir'])
     markdown(r['notes'],notes=True)
 
 OUT.parent.mkdir(exist_ok=True)
+(ROOT/'work/berljivost').mkdir(parents=True,exist_ok=True)
 doc.save(OUT)
 (ROOT/'work/knjiga-manifest.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2),encoding='utf-8')
-print(f'Ustvarjeno: {OUT}; {len(records)} receptov; {len(doc.tables)} tabel.')
+(ROOT/'work/berljivost/seznami-manifest.json').write_text(json.dumps(converted_tables,ensure_ascii=False,indent=2),encoding='utf-8')
+print(f'Ustvarjeno: {OUT}; {len(records)} receptov; {len(converted_tables)} virov tabel preoblikovanih v sezname; {len(doc.tables)} tabel v izdaji.')

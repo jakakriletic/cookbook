@@ -4,7 +4,7 @@ Posodobljeno: 9. 11. 2026.
 
 Za vključitev izbranih vnosov: **47** (R0001–R0047). Vsi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0048**.
 
-**Prva pregledna izdaja, 9. 11. 2026:** vseh 47 vnosov je sestavljenih v [Wordovo knjigo](../outputs/moj-kuharski-zvezek-2026-11-09.docx) in [PDF za listanje](../outputs/moj-kuharski-zvezek-2026-11-09.pdf), skupaj 79 strani z naslovnico, kazalom in viri. Številčenje strani v kazalu je posodobljeno; stanje receptur ostaja delovno.
+**Pregledna izdaja z izboljšano berljivostjo, 9. 11. 2026:** vseh 47 vnosov je sestavljenih v [Wordovo knjigo](../outputs/moj-kuharski-zvezek-2026-11-09.docx) in [PDF za listanje](../outputs/moj-kuharski-zvezek-2026-11-09.pdf), skupaj 94 strani z naslovnico, kazalom in viri. Namesto tabel so seznami s količino ob sestavini in glavno pisavo 12 pt. Številčenje strani v kazalu je posodobljeno; stanje receptur ostaja delovno.
 
 Štiri slike v `reference/` so trenutno slogovni primeri. Vzorčna stran Beurre blanc v HTML je prikaz oblikovanja; ne šteje kot potrjen recept in nima trajnega ID. Slike niso bile vsebinsko preverjene.
 
@@ -114,6 +114,8 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 - Končni naslov knjige lahko uporabnik določi pozneje; trenutni je »Moj kuharski zvezek«.
 
 ## Dnevnik
+
+- 9. 11. 2026: po raziskavi berljivosti in uporabnikovi pripombi preoblikovana knjiga: 63 tabel pretvorjenih v sezname in označene sklope, 12 pt glavno besedilo, 94 strani. Količine, 47 ID in naslednji R0048 so nespremenjeni; viri in preverjanje v `reference/berljivost-receptov-2026-11-09.md`.
 
 - 9. 11. 2026: prvič sestavljena celotna zbirka v urejevalno knjigo DOCX in PDF, 47 receptov in 79 strani; dodani samodejno kazalo, notranje povezave, učni pregledi in viri. Število vnosov in naslednji ID sta nespremenjena.
 
