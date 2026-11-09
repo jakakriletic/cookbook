@@ -4,6 +4,8 @@ Osebna kuharska knjiga za pripravo na MasterChef. Namen je hiter pregled med vaj
 
 ## Stanje
 
+9. 11. 2026 — prva pregledna izdaja knjige: na uporabnikovo naročilo sestavljena celotna trenutna zbirka 47 receptov v `outputs/moj-kuharski-zvezek-2026-11-09.docx` in istoimenski PDF. Izdaja ima **79 fizičnih strani**: naslovnica brez številke, kazalo od strani 1, uvod, sedem zapolnjenih poglavij in dodatek z viri ter uredniškimi opombami. Pravi naslovi Heading 1–3, samodejno kazalo s posodobljenimi stranmi, 188 notranjih povezav in 63 tabel; recepti niso praktično potrjeni. Vključeni učni pregledi mousseov, matičnih omak in pirejev; prazna poglavja ter slogovni vzorec Beurre blanc niso vključeni. Izdelava: `scripts/sestavi_knjigo.py`, posodobitev polj in izvoz v Wordu: `scripts/osvezi-knjigo.ps1`. Vseh 79 strani je izrisanih in vizualno pregledanih; vseh 47 receptnih številk strani v kazalu preverjenih proti PDF. Evidence in omejitve: `reference/izdaja-2026-11-09.md`. Naslednji ID ostaja R0048.
+
 9. 11. 2026: dodana dva zaporedna vnosa iz uporabnikovih videov Preppy Kitchen: R0046 (makroni s francosko meringo, 2.6) in R0047 (francoska maslena krema, 1.1). Uporabnik je izrecno dopolnil, naj bo krema posebej. Nova vnosa sta povezana, vsak z lastno datoteko in glavnim mestom; pregled v `recepti/02-06-drobno-pecivo.md`. Zbirka ima **47 delovnih vnosov**, naslednji ID **R0048**. Pri makronih ohranjena receptura poslanega videa iz 2021, ker je spletna kartica pozneje spremenjena; razlike in edina količinska dopolnitev (vanilja) so označene. Viri: `reference/preppy-kitchen-2026-11-09.md`. Končna knjiga DOCX še ni sestavljena.
 
 5. 11. 2026 (vsebinsko stanje dopisano 9. 11.): dodan sklop 1.9 Moussi — sladke pene, R0036–R0045, pregled `recepti/01-09-moussi.md`, viri `reference/moussi-2026-11-05.md`. Ti lokalno pripravljeni vnosi so bili 9. 11. ohranjeni in shranjeni v ločen commit `a72c03c`; pred novim urejanjem je uspel tudi fetch. Ohranjamo razlike med čokoladami, sladkanostjo pirejev in kakovostjo želatine.
@@ -137,12 +139,14 @@ Repozitorij je `https://github.com/jakakriletic/cookbook`, remote `origin`, glav
 - `recepti/R0001-kratko-ime.md`: prihodnji recepti s trajnimi ID.
 - `reference/`: izvirne slike in drugi viri.
 - `outputs/vzorec_sloga.html`: samostojen oblikovni prikaz, odpre se v brskalniku in natisne v A4.
-- `outputs/`: prihodnja izdaja DOCX in po želji PDF.
+- `outputs/`: oblikovni vzorec, dodatni prikazi in prva pregledna izdaja knjige DOCX ter PDF z dne 9. 11. 2026.
 - `work/`: skripte, vmesne datoteke in preverjanja; ne mešaj z izdajo.
 
 Ob novem receptu: shrani izvirnik → prepiši in uredi → dodeli ID ter glavno mesto → zapiši oznake in povezave → posodobi register → ob izdaji sestavi knjigo, posodobi kazalo in preveri vse strani. Zabeleži datum in spremembe. Kazala strani ne vzdržuj ročno med zbiranjem receptov.
 
 ## Dnevnik vsebine in odločitev
+
+- 9. 11. 2026: uporabnik je naročil, naj se trenutna vsebina spremeni v eno knjigo, da vidi vmesni videz. Izdelana prva pregledna izdaja DOCX in PDF z 47 recepti na 79 straneh. Videz sledi »Topli kuharski beležnici«: A4, krem podlaga, Georgia za naslove, Aptos za besedilo, zeleni naslovi notranjih razdelkov in bakrene oznake receptov. Podrobna uredniška evidenca je prestavljena v dodatek, licenčni pripisi ostanejo ob recepturah. Naslovnica ni oštevilčena; kazalo ima dejanske posodobljene strani. Word COM je v skritem lastnem procesu osvežil polja in izvozil PDF; paketni `render_docx.py` je z adapterjem za Wordov PDF izrisal strani za vizualno preverjanje, ker v Windows runtime ni LibreOffice. Izvorni Markdown recepti niso spremenjeni.
 
 - 9. 11. 2026: uporabnik je poslal `5zgfdImm_VA` (makroni) in `rBheeACVC9w` (francoska maslena krema) ter izrecno zahteval ločeno kremo. Dodana R0046–R0047. Iz videov sta pridobljena opisa in samodejni podnapisi, iz povezanih avtorjevih spletnih strani preverjene količine. Poznejše spletne spremembe niso zamenjale recepture makronov iz poslanega videa. Rumenjaki za kremo so uredniško pasterizirani; viri, temperaturni preračuni in odprti podatki so zapisani. Predhodne spremembe mousseov so ohranjene v ločenem commitu, nova sprememba se shrani posebej.
 

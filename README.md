@@ -2,6 +2,14 @@
 
 Osebna kuharska knjiga za pripravo na MasterChef. Recepti se sproti zbirajo, urejajo in razvrščajo v poglavja; cilj je enotno oblikovana knjiga v Wordu z začetnim kazalom in številkami strani.
 
+## Prva pregledna izdaja — 9. 11. 2026
+
+V knjigi je vseh **47 receptov**, sedem zapolnjenih poglavij in **79 strani**, vključno z naslovnico, kazalom ter viri. Recepti so še delovni; manjkajoči podatki ostajajo označeni.
+
+- [Odpri knjigo v Wordu](outputs/moj-kuharski-zvezek-2026-11-09.docx) — urejevalno besedilo, pravi naslovi, samodejno kazalo in notranje povezave.
+- [Prelistaj PDF](outputs/moj-kuharski-zvezek-2026-11-09.pdf) — preverjen izris iste knjige.
+- [Podrobnosti izdaje in ponovna sestava](reference/izdaja-2026-11-09.md).
+
 ## Vsebina projekta
 
 - [Zasnova in slog](PROJEKT.md) — poglavja, pravila razvrščanja in vizualna podoba.
