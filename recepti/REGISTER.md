@@ -1,8 +1,8 @@
 # Register receptov
 
-Posodobljeno: 1. 11. 2026.
+Posodobljeno: 5. 11. 2026.
 
-Za vključitev izbranih vnosov: **35** (R0001–R0035). Vsi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0036**.
+Za vključitev izbranih vnosov: **45** (R0001–R0045). Vsi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0046**.
 
 Štiri slike v `reference/` so trenutno slogovni primeri. Vzorčna stran Beurre blanc v HTML je prikaz oblikovanja; ne šteje kot potrjen recept in nima trajnega ID. Slike niso bile vsebinsko preverjene.
 
@@ -45,6 +45,19 @@ Za vključitev izbranih vnosov: **35** (R0001–R0035). Vsi so **delovni**: R000
 | [R0033](R0033-tuiles.md) | Tuiles — tanke hrustljave ploščice | 1.3 Testa in biskviti | hrustljavo; dekoracija; tri različice | BCcampus, dodatek; CC BY 4.0 | delovno; dodatek masla je uredniški popravek | sklic iz 2.1 |
 | [R0034](R0034-susene-meringe.md) | Sušene meringe — francoski in švicarski postopek | 1.4 Meringe in pene | meringa; hrustljavo; dekoracija | BCcampus, dodatek; CC BY 4.0 | delovno — domači režim za preverbo | R0026; R0032 |
 | [R0035](R0035-mandljev-krokant.md) | Mandljev krokant (nougatine) | 1.6 Sladkor in karamela | mandlji; karamela; dekoracija | BCcampus, dodatek; CC BY 4.0 | delovno — specifikacija glukoze za dopolnitev | — |
+
+| [R0036](R0036-cokoladni-mousse-z-beljaki.md) | Čokoladni mousse z beljaki — temni, mlečni in beli | 1.9 Moussi — sladke pene | mousse; čokolada | Valrhona, 5 shades of mousse | delovno; količine preverjene z virom | [pregled 1.9](01-09-moussi.md) |
+| [R0037](R0037-cokoladni-mousse-beljak-smetana.md) | Čokoladni mousse z rumenjaki, snegom in stepeno smetano | 1.9 Moussi — sladke pene | mousse; čokolada | Nagi Maehashi, RecipeTin Eats, Chocolate Mousse | delovno; izvirne prostorninske mere | [pregled 1.9](01-09-moussi.md) |
+| [R0038](R0038-sadni-mousse-pire-smetana.md) | Sadni mousse iz pireja, želatine in smetane | 1.9 Moussi — sladke pene | mousse; sadje | Ravifruit, Recettes – Recipes, 11/2014, stran 2 | delovno; količine preverjene z virom | [pregled 1.9](01-09-moussi.md) |
+| [R0039](R0039-cokoladni-mousse-pate-a-bombe.md) | Čokoladni mousse s pâte à bombe | 1.9 Moussi — sladke pene | mousse; čokolada | L’École Valrhona, Bombe Chocolate Mousse | delovno; količine preverjene z virom | [pregled 1.9](01-09-moussi.md) |
+| [R0040](R0040-pasijonkin-mousse-pate-a-bombe.md) | Pasijonkin mousse s pâte à bombe | 1.9 Moussi — sladke pene | mousse; sadje | Sally Elias, objava z dovoljenjem iz The Pastry Chef’s Little Black Book | delovno; količine preverjene z virom | [pregled 1.9](01-09-moussi.md) |
+| [R0041](R0041-cokoladni-mousse-creme-anglaise.md) | Čokoladni mousse na osnovi crème anglaise | 1.9 Moussi — sladke pene | mousse; čokolada | L’École Valrhona, Chocolate Mousse with Crème Anglaise | delovno; količine preverjene z virom | [pregled 1.9](01-09-moussi.md) |
+| [R0042](R0042-sadni-bavarois-banana-pasijonka.md) | Sadni bavarois — banana in pasijonka | 1.9 Moussi — sladke pene | mousse; sadje | Benoit Blin za Ponthier, Exotic fruits bavarois, komponenta 3 | delovno; količine preverjene z virom | [pregled 1.9](01-09-moussi.md) |
+| [R0043](R0043-cokoladni-mousse-ganas-smetana.md) | Čokoladni mousse iz ganaša in stepene smetane | 1.9 Moussi — sladke pene | mousse; čokolada | L’École Gourmet Valrhona, Guanaja, pear and cookie, komponenta 4 | delovno; količine preverjene z virom | [pregled 1.9](01-09-moussi.md) |
+| [R0044](R0044-sadni-mousse-italijanska-meringa.md) | Sadni mousse z italijansko meringo | 1.9 Moussi — sladke pene | mousse; sadje | Ravifruit, Recettes – Recipes, 11/2014, stran 2 | delovno; količine preverjene z virom | [pregled 1.9](01-09-moussi.md) |
+| [R0045](R0045-cokoladni-mousse-chiboust.md) | Čokoladni mousse na osnovi Chiboust | 1.9 Moussi — sladke pene | mousse; čokolada | Matt Adlard, Chocolate Mousse Guide, Chiboust Base | delovno; količine preverjene z virom | [pregled 1.9](01-09-moussi.md) |
+
+R0036–R0045: [Moussi — sladke pene](01-09-moussi.md); [viri in odprti podatki](../reference/moussi-2026-11-05.md).
 
 R0028–R0035: [pregled slaščičarskih osnov](01-slascicarske-osnove.md) in [evidenca virov ter licenc](../reference/slascicarske-osnove-2026-11-01.md).
 

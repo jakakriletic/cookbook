@@ -22,6 +22,10 @@ Delovni pregled za vajo. Vsaka receptura ima svoje glavno mesto in trajni ID. Š
 - **Sklic iz 1.8 Sadni pripravki in sladke omake:** [R0029 Crème anglaise](R0029-creme-anglaise.md); glavno mesto ostaja v 1.1.
 - **Uporaba osnov v drobnem pecivu:** [R0026 Makroni po Karimu](R0026-makroni-po-karimu.md), glavno mesto v 2.6.
 
+## 1.9 Moussi — sladke pene
+
+[Pregled osnov, uporabe in vseh receptur R0036–R0045](01-09-moussi.md). Vključeni so čokoladni in sadni primeri, tudi sadna pâte à bombe ter sadna kuhana osnova. Glavno mesto vseh mousseov je v 1.9; iz tort in sladic v kozarcu uporabljamo sklice.
+
 ## Uredniški predlog vaj
 
 Najprej primerjaj R0028 in R0029: obe osnovi vsebujeta rumenjake, vendar ju zaradi škroba ne kuhamo enako. Nato preizkusi génoise in beleži, koliko jajčne pene ohraniš med vmešavanjem. Meringe in maslena krema sta naslednja vaja; pri tuiles in krokantu spremljaj še oblikovanje ter debelino.
