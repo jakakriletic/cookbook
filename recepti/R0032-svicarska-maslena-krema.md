@@ -18,10 +18,10 @@ datum_prejema: "2026-11-01"
 
 | Sestavina | Količina |
 | --- | ---: |
-| Kristalni sladkor | 248 g |
+| Kristalni sladkor | 250 g |
 | Beljaki | 105 g |
 | Sol | ⅛ čajne žličke |
-| Mehko nesoljeno maslo, vsaj približno 18 °C | 454 g |
+| Mehko nesoljeno maslo, vsaj približno 18 °C | 450 g |
 | Vaniljev ekstrakt ali pasta | 1 čajna do 1 jedilna žlica, po okusu |
 
 ## Postopek
@@ -38,5 +38,6 @@ Za obmazovanje in polnjenje tort z [R0031 Génoise](R0031-biskvit-genoise.md). R
 
 ## Uredniška evidenca
 
+- 9. 11. 2026: na uporabnikovo željo sladkor zaokrožen z 248 g na 250 g, maslo s 454 g na 450 g; beljaki 105 g ostajajo nespremenjeni. [Izvirnik in odstopanja](../reference/prakticne-kolicine-2026-11-09.md). Zaokrožena različica še ni preizkušena.
 - [Susan Reid, King Arthur Baking](https://www.kingarthurbaking.com/recipes/swiss-meringue-buttercream-recipe), pregledano 1. 11. 2026. Samostojno ubeseden zapis; °C so pretvorbe. To je krema z maslom, ne recept za samostojne sušene meringe.
 - Odprto: izplen v gramih in praktični preizkus. Pogoji in rok shranjevanja v tem zapisu niso določeni.

@@ -1,5 +1,7 @@
 # Slaščičarske osnove — viri in odločitve 1. 11. 2026
 
+Poznejša dopolnitev 9. 11. 2026: R0028 je zdaj polovična serija za tri rumenjake, R0028/R0031/R0032 pa imajo uporabniško zahtevane praktične zaokrožitve. Izvirniki in preračuni so ločeni v [novi evidenci](prakticne-kolicine-2026-11-09.md). Spodnji zapis opisuje prvotno dodajanje receptov.
+
 Uporabnik je naročil poiskati knjigo z osnovami slaščičarstva in prenesti recepte v svojo zbirko. Izbran je vsebinsko smiseln sklop osmih manjkajočih osnov, R0028–R0035. Ne gre za prepis celotne zaščitene knjige. Vsak vnos ohranja lasten vir.
 
 ## Pregledani knjigi

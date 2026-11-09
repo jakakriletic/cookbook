@@ -4,6 +4,8 @@ Osebna kuharska knjiga za pripravo na MasterChef. Namen je hiter pregled med vaj
 
 ## Stanje
 
+9. 11. 2026 — praktične količine: R0028 je na uporabnikovo željo polovična serija za **3 velike rumenjake**, z orientacijo **približno 42 g** po pretvorbeni tabeli istega avtorja. Dejanska masa se stehta. Mleko 285 g, sladkor 65 g, škrob 14 g in maslo 55 g. Pregledane sestavinske količine vseh 46 aktivnih receptov; zaokrožitve tudi v R0031, R0032 in R0047, npr. 454 → 450 g in 248 → 250 g. Izvirniki in odstopanja so v `reference/prakticne-kolicine-2026-11-09.md`. Funkcionalne sestavine, jajca in občutljiva razmerja ostajajo natančna; zaokrožene različice še niso praktično preverjene. Aktualna knjiga ima 46 receptov, **92 fizičnih strani**, 188 notranjih povezav in 0 tabel. Celoten izris je preverjen; 76 strani je slikovno enakih že pregledani izdaji, 16 spremenjenih oziroma novih je ponovno vizualno pregledanih. Naslednji ID ostaja R0048.
+
 9. 11. 2026 — umik makronov Preppy Kitchen: na uporabnikovo izrecno željo je R0046 izključen iz aktivne zbirke in knjige ter arhiviran v `reference/umaknjeni/`. Edina vključena receptura makronov ostaja prejšnja Karimova R0026, brez podvajanja in sprememb količin ali postopka. Francoska maslena krema R0047 ostaja samostojna; povezave so preusmerjene na R0026, kombinacija je jasno označena kot nepreizkušen uredniški izbor. Aktualna Word in PDF imata **46 receptov na 91 fizičnih straneh**, tri strani kazala, 184 notranjih povezav in 0 tabel; 62 izvornih tabel je preurejenih v sezname. Naslednji ID ostaja **R0048**, umaknjenega R0046 ne uporabi ponovno.
 
 9. 11. 2026 — prejšnja postavitev po popravku berljivosti: takratni DOCX in PDF sta imela **47 receptov na 94 fizičnih straneh**, tri strani kazala in 188 notranjih povezav. Vseh 63 izvornih tabel je v izdaji preurejenih v navadne sezname: odebeljena količina tik ob sestavini, vsaka sestavina v svoji vrstici; primerjave in različice imajo ločene označene sklope. Glavno besedilo in sestavine so 12 pt z razmikom 1,2. To nadomešča prejšnje pravilo o širokih tabelah. Pregledani viri in utemeljitev: `reference/berljivost-receptov-2026-11-09.md`. Vseh 94 strani je vizualno pregledanih; kazalo, količine in povezave preverjeni. Izvorne recepture niso spremenjene, naslednji ID ostaja R0048. Spodnji zapis o 79 straneh opisuje prvotno postavitev, ohranjeno v zgodovini Git.
@@ -119,6 +121,8 @@ Ime sloga: **Topla kuharska beležnica**. Slogovne slike so navdih za hierarhijo
 
 ## Standardna vsebina recepta
 
+Trajna želja od 9. 11. 2026: kjer je smiselno, uporabi praktične količine, npr. 454 g → 450 g. Običajne večje sestavinske gramature lahko zmerno zaokrožiš, izvirnik in odstopanje pa evidentiraj. Ne zaokrožuj samodejno jajc, želatine, škroba, soli ali občutljivih slaščičarskih razmerij. Praktičnih vrednosti 125, 195 in 325 g ni treba spreminjati. Neznanih podatkov ne dopolnjuj s približkom brez vira; maso rumenjakov označi kot pretvorbo ali dejansko meritev.
+
 1. Številka in naslov.
 2. Kratek opis in izvor, če je znan.
 3. Porcije oziroma izplen; priprava, kuhanje in počivanje samo, če so podani.
@@ -150,6 +154,7 @@ Ob novem receptu: shrani izvirnik → prepiši in uredi → dodeli ID ter glavno
 
 ## Dnevnik vsebine in odločitev
 
+- 9. 11. 2026: slaščičarska krema R0028 preračunana na tri rumenjake; dodana sledljiva orientacija 42 g. Po naknadni uporabnikovi želji zaokrožene praktične količine v štirih receptih, z ohranjenimi izvirniki in izračuni v novi evidenci. Usklajena delitev sladkorja v postopku génoise. Razmerja makronov in mousseov ter funkcionalne sestavine niso samodejno spremenjeni.
 - 9. 11. 2026 — umik makronov Preppy Kitchen: na uporabnikovo izrecno željo je R0046 izključen iz aktivne zbirke in knjige ter arhiviran v `reference/umaknjeni/`. Edina vključena receptura makronov ostaja prejšnja Karimova R0026, brez podvajanja in sprememb količin ali postopka. Francoska maslena krema R0047 ostaja samostojna; povezave so preusmerjene na R0026, kombinacija je jasno označena kot nepreizkušen uredniški izbor. Aktualna Word in PDF imata **46 receptov na 91 fizičnih straneh**, tri strani kazala, 184 notranjih povezav in 0 tabel; 62 izvornih tabel je preurejenih v sezname. Naslednji ID ostaja **R0048**, umaknjenega R0046 ne uporabi ponovno.
 
 - 9. 11. 2026: po uporabnikovi pripombi o težko berljivih tabelah izvedena spletna raziskava berljivosti receptov in tiska. Nova postavitev uporablja sezname s poudarjeno količino ob sestavini ter 12-točkovno pisavo. Vseh 63 tabel preurejenih brez sprememb količin; različice tuiles in mousseov ostajajo ločene znotraj obstoječih ID. Ponovno sestavljena in pregledana DOCX ter PDF s 94 stranmi, osveženim kazalom in ohranjenimi pripisi. Raziskava ne trdi, da obstaja en univerzalno najboljši format. Izvirna izdaja z 79 stranmi ostaja v zgodovini Git.

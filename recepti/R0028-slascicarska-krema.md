@@ -12,19 +12,21 @@ datum_prejema: "2026-11-01"
 
 # Slaščičarska krema (crème pâtissière)
 
-**Izplen po viru:** 3 ameriške skodelice; masa za dopolnitev.
+**Osnova:** 3 veliki rumenjaki; polovična receptura z zaokroženimi količinami. **Izplen v gramih:** za dopolnitev.
 
 ## Sestavine
 
 | Sestavina | Količina |
 | --- | ---: |
-| Polnomastno mleko | 568 g |
-| Sladkor | 132 g |
-| Koruzni škrob | 28 g |
-| Sol | ¼ čajne žličke |
-| Veliki rumenjaki | 6; masa za dopolnitev |
-| Vaniljev ekstrakt | 2 čajni žlički |
-| Mrzlo nesoljeno maslo, kocke | 113 g |
+| Polnomastno mleko | 285 g |
+| Sladkor | 65 g |
+| Koruzni škrob | 14 g |
+| Sol | ⅛ čajne žličke |
+| Veliki rumenjaki | 3; približno 42 g po pretvorbeni tabeli King Arthur Baking |
+| Vaniljev ekstrakt | 1 čajna žlička |
+| Mrzlo nesoljeno maslo, kocke | 55 g |
+
+Uporabi tri rumenjake. Navedba 42 g je orientacijska pretvorba po avtorjevi tabeli, ne izmerjena masa tvojih jajc; dejansko maso stehtaj in zabeleži pri vaji.
 
 ## Postopek
 
@@ -41,6 +43,7 @@ Polnilo za [R0015 Choux](R0015-kuhano-testo-choux.md). Zamenjava za tekočo [R00
 
 ## Uredniška evidenca
 
-- [Vir: David Turner, King Arthur Baking](https://www.kingarthurbaking.com/recipes/pastry-cream-creme-patissiere-recipe), pregledano 1. 11. 2026; samostojno ubeseden strnjen zapis. Količine ohranjene; °C so preračun in zaokrožitev.
+- [Vir: David Turner, King Arthur Baking](https://www.kingarthurbaking.com/recipes/pastry-cream-creme-patissiere-recipe), pregledano 1. 11. in 9. 11. 2026; samostojno ubeseden strnjen zapis. Na uporabnikovo željo 9. 11. recept zmanjšan s šestih na tri rumenjake. Polovice 284 g mleka, 66 g sladkorja in 56,5 g masla so zaokrožene na 285 g, 65 g in 55 g. Škrob 14 g, sol in vanilja so točne polovice. Časi in temperature niso razpolovljeni.
+- [Pretvorbena tabela King Arthur Baking](https://www.kingarthurbaking.com/learn/ingredient-weight-chart), pregledano 9. 11. 2026: en velik svež rumenjak 14 g, torej trije približno 42 g. Recept sam gramature rumenjakov ne poda; dejanska masa je odvisna od jajc. [Izvirne količine in preračun](../reference/prakticne-kolicine-2026-11-09.md).
 - Različica iz spletnega vira, ne prepis učbenika. Ne podvajati v R0015.
-- Odprto: masa rumenjakov in izplen v gramih; domači preizkus. Uredniško: ohlajaj brez odlašanja, ne s počasnim ohlajanjem na pultu. Rok uporabnosti tu ni določen.
+- Odprto: dejanska masa treh uporabljenih rumenjakov, izplen v gramih in domači preizkus zaokrožene različice. Uredniško: ohlajaj brez odlašanja, ne s počasnim ohlajanjem na pultu. Rok uporabnosti tu ni določen.

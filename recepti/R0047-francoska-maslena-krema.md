@@ -23,7 +23,7 @@ Svilnata rumenjakova maslena krema s sladkornim sirupom. Primerna je za polnjenj
 | Kristalni sladkor | 100 g |
 | Voda | 45 ml |
 | Veliki rumenjaki; glej uredniško prilagoditev spodaj | 5 |
-| Nesoljeno maslo, zmehčano in narezano na kocke | 227 g |
+| Nesoljeno maslo, zmehčano in narezano na kocke | 225 g |
 | Vaniljev izvleček | 5 ml oziroma 1 merilna čajna žlička |
 | Sol, po želji | ščepec |
 
@@ -62,6 +62,7 @@ Za primerjavo beljakove osnove glej [R0032 Švicarska maslena krema](R0032-svica
 
 ## Uredniška evidenca
 
+- 9. 11. 2026: na uporabnikovo željo maslo zaokroženo z izvornih 227 g na 225 g. [Evidenca praktičnih količin](../reference/prakticne-kolicine-2026-11-09.md); zaokrožena različica še ni preizkušena.
 - Vir: John Kanell, Preppy Kitchen, [Easy French Buttercream Recipe](https://www.youtube.com/watch?v=rBheeACVC9w), 16. 4. 2024; [povezana spletna receptura](https://preppykitchen.com/how-to-make-french-buttercream/), pregledano 9. 11. 2026. Maslo 227 g in vanilja 5 ml sta metrična podatka spletne kartice; video poda skodelico masla in žličko vanilje.
 - 240 °F je 115,6 °C, prikazano kot približno 116 °C. Pri prilivanju je izbran spletni nasvet za nizko hitrost; video med prikazom omenja tudi srednje visoko hitrost.
 - Spletna kartica navaja 2¼ skodelice oziroma 375 g, vendar objavljena masa ni pojasnjena in se ne ujema preprosto s seštevkom sestavin. Tega podatka ne uporabljamo kot preverjen izplen. Kratek spletni skupni čas 10 minut ne zajame nujno hlajenja iz videa.

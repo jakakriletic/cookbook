@@ -4,7 +4,7 @@ Osebna kuharska knjiga za pripravo na MasterChef. Recepti se sproti zbirajo, ure
 
 ## Pregledna izdaja z izboljšano berljivostjo — 9. 11. 2026
 
-V knjigi je vseh **46 receptov**, sedem zapolnjenih poglavij in **91 strani**, vključno z naslovnico, kazalom ter viri. Sestavine so v seznamih s poudarjeno količino tik ob imenu; glavno besedilo je povečano na 12 pt. Recepti so še delovni; manjkajoči podatki ostajajo označeni.
+V knjigi je vseh **46 receptov**, sedem zapolnjenih poglavij in **92 strani**, vključno z naslovnico, kazalom ter viri. Slaščičarska krema je za tri rumenjake, običajne količine so smiselno zaokrožene. Sestavine so v seznamih s poudarjeno količino tik ob imenu; glavno besedilo je povečano na 12 pt. Recepti so še delovni; manjkajoči podatki ostajajo označeni.
 
 - [Odpri knjigo v Wordu](outputs/moj-kuharski-zvezek-2026-11-09.docx) — urejevalno besedilo, pravi naslovi, samodejno kazalo in notranje povezave.
 - [Prelistaj PDF](outputs/moj-kuharski-zvezek-2026-11-09.pdf) — preverjen izris iste knjige.

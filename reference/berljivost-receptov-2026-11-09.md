@@ -35,3 +35,5 @@ Preverjanje potrjuje vseh 47 receptov, njihove dejanske začetne strani v kazalu
 ## Poznejši umik recepta
 
 Po zaključku te spremembe je uporabnik naročil umik R0046 in ohranitev Karimovih makronov R0026. Aktualna izdaja ima zato 46 receptov, 91 strani, 184 notranjih povezav in 62 pretvorjenih podatkovnih skupin. Slog ostaja enak. Zgornji podatki o 47 receptih in 94 straneh opisujejo predhodno različico. Preverjanje nove izdaje je v `izdaja-2026-11-09.md`.
+
+Po nadaljnjem naročilu za tri rumenjake in praktično zaokrožene količine je knjiga ponovno sestavljena na 92 straneh z 46 recepti ter 188 notranjimi povezavami; podrobnosti v prakticne-kolicine-2026-11-09.md. Slog ostaja enak.
