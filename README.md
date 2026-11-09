@@ -4,7 +4,7 @@ Osebna kuharska knjiga za pripravo na MasterChef. Recepti se sproti zbirajo, ure
 
 ## Pregledna izdaja z izboljšano berljivostjo — 9. 11. 2026
 
-V knjigi je vseh **47 receptov**, sedem zapolnjenih poglavij in **94 strani**, vključno z naslovnico, kazalom ter viri. Sestavine so v seznamih s poudarjeno količino tik ob imenu; glavno besedilo je povečano na 12 pt. Recepti so še delovni; manjkajoči podatki ostajajo označeni.
+V knjigi je vseh **46 receptov**, sedem zapolnjenih poglavij in **91 strani**, vključno z naslovnico, kazalom ter viri. Sestavine so v seznamih s poudarjeno količino tik ob imenu; glavno besedilo je povečano na 12 pt. Recepti so še delovni; manjkajoči podatki ostajajo označeni.
 
 - [Odpri knjigo v Wordu](outputs/moj-kuharski-zvezek-2026-11-09.docx) — urejevalno besedilo, pravi naslovi, samodejno kazalo in notranje povezave.
 - [Prelistaj PDF](outputs/moj-kuharski-zvezek-2026-11-09.pdf) — preverjen izris iste knjige.
@@ -22,7 +22,7 @@ V knjigi je vseh **47 receptov**, sedem zapolnjenih poglavij in **94 strani**, v
 - [Pireji in kreme](recepti/05-04-pireji-in-kreme.md) — šest pirejev Byatta in Fallowa ter skupna pravila.
 - [Osnovna kuharska razmerja](recepti/R0023-osnovna-razmerja.md) — majoneza, vinaigrette, vlaganje, pekoča omaka, marinada in mleto meso na eni strani.
 - [Makroni po Karimu](recepti/R0026-makroni-po-karimu.md) — drobno pecivo; povezano ločeno polnilo [ganaš po Valrhoni](recepti/R0027-cokoladni-ganas-za-makrone.md).
-- [Drobno pecivo](recepti/02-06-drobno-pecivo.md) — pregled makronov in ločenih polnil; nova [izvedba Preppy Kitchen](recepti/R0046-makroni-preppy-kitchen.md) s [samostojno francosko masleno kremo](recepti/R0047-francoska-maslena-krema.md).
+- [Drobno pecivo](recepti/02-06-drobno-pecivo.md) — pregled makronov in ločenih polnil; Karimovi makroni in [samostojna francoska maslena krema](recepti/R0047-francoska-maslena-krema.md).
 - [Makroni — recept v sliki](outputs/makroni-po-karimu.png) — pokončna kartica s sestavinami, postopkom in ločenim čokoladnim polnilom.
 - [Viri z dne 31. 10. 2026](reference/videi-2026-10-31.md) — osem videov, iz katerih so R0011–R0025.
 - [Predloga recepta](recepti/PREDLOGA.md) — standardna vsebinska zgradba.

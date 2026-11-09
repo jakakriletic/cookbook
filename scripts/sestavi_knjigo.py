@@ -28,7 +28,8 @@ for line in (ROOT/'recepti/REGISTER.md').read_text(encoding='utf-8').splitlines(
     body = re.sub(r'^\s*# [^\n]+\n', '', body, count=1).strip()
     parts = re.split(r'^## Uredniška evidenca\s*$', body, maxsplit=1, flags=re.M)
     records.append(dict(id=rid,file=filename,title=cells[1],num=num,sub=sub,meta=meta,body=parts[0].strip(),notes=parts[1].strip() if len(parts)>1 else ''))
-assert len(records)==47
+assert len(records)==46
+assert 'R0046' not in {r['id'] for r in records}
 records.sort(key=lambda r: (*map(int,r['num'].split('.')),int(r['id'][1:])))
 bookmarks = {r['file']:r['id'] for r in records}
 bookmarks.update({'01-09-moussi.md':'SUB1_9','05-04-pireji-in-kreme.md':'SUB5_4','04-04-maticne-in-izpeljane-omake.md':'SUB4_4','02-06-drobno-pecivo.md':'SUB2_6','01-slascicarske-osnove.md':'CH1','REGISTER.md':'KAZALO'})
@@ -191,7 +192,7 @@ p=para('OSEBNA ZBIRKA ZA PRIPRAVO NA MASTERCHEF','Eyebrow'); p.paragraph_format.
 p=doc.add_paragraph('Moj kuharski\nzvezek','Title'); p.paragraph_format.space_after=Mm(9)
 para('Osnove, tehnike in recepti za kuharsko vajo','Subtitle')
 p=para('Zbirka za ponavljanje kuharskih postopkov, primerjavo receptur in beleženje izkušenj v domači kuhinji.'); p.paragraph_format.space_before=Mm(13); p.paragraph_format.right_indent=Mm(20)
-p=para('47 RECEPTOV  ·  7 POGLAVIJ','Eyebrow'); p.paragraph_format.space_before=Mm(38)
+p=para(f'{len(records)} RECEPTOV  ·  7 POGLAVIJ','Eyebrow'); p.paragraph_format.space_before=Mm(38)
 para('Pregledna izdaja z izboljšano berljivostjo\n9. november 2026','Source Note')
 
 # Nov odsek: številčenje se začne s kazalom, naslovnica brez noge.
@@ -209,7 +210,7 @@ field=OxmlElement('w:fldSimple'); field.set(qn('w:instr'),'TOC \\o "1-3" \\h \\z
 
 p=para('Kako uporabljati knjigo','Recipe Section'); p.paragraph_format.page_break_before=True
 para('Pri receptih so zbrani trenutno znani podatki. Oznaka »za dopolnitev« pomeni, da izvirni vir ne poda vseh količin ali pogojev priprave. Recepture še niso praktično preizkušene; ob vaji beleži uporabljene sestavine, dejanske čase in rezultat.')
-para('Kazalo vodi do vsakega recepta. Oznake R0001–R0047 ostajajo trajne, prikazne številke poglavij in receptov pa sledijo sedanji razvrstitvi. Povezave med recepti so klikljive.')
+para('Kazalo vodi do vsakega recepta. Oznake receptov ostajajo trajne, prikazne številke poglavij in receptov pa sledijo sedanji razvrstitvi. Povezave med recepti so klikljive.')
 para('Osnovne kreme, fondi, omake in pireji imajo vsak svoje mesto. Sestavljene jedi se nanje sklicujejo. Francoska maslena krema je samostojna osnova; pri makronih je povezava do nje.')
 para('Viri in uredniške opombe so zbrani na koncu knjige. Licenčni pripisi odprto objavljenih receptur so ohranjeni tudi ob receptih.')
 para('Sladko in slano','Recipe Section')

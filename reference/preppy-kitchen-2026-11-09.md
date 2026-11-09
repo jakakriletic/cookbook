@@ -2,6 +2,10 @@
 
 Uporabnik je poslal dva videa in naročil dodajanje kot zaporedna recepta, nato izrecno dopolnil, naj bo francoska maslena krema posebej. Dodana sta R0046 (2.6 Drobno pecivo) in R0047 (1.1 Osnovne kreme), s povezavama v obe smeri. Enotna velika receptura ni izdelana; Karimovi makroni R0026 ostajajo samostojna druga izvedba.
 
+## Poznejši umik
+
+9. 11. 2026 je uporabnik naročil umik makronov po Preppy Kitchen in uporabo prejšnjega Karimovega recepta. R0046 je arhiviran v `umaknjeni/R0046-makroni-preppy-kitchen.md` ter izključen iz registra aktivnih receptov in knjige. R0026 ostaja enkrat v 2.6; R0047 ostaja samostojna krema v 1.1. Spodnja evidenca prvotnega dodajanja je ohranjena za sledljivost.
+
 ## Viri
 
 | Video | Avtor · objava | Recept |

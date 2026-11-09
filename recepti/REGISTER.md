@@ -2,9 +2,9 @@
 
 Posodobljeno: 9. 11. 2026.
 
-Za vključitev izbranih vnosov: **47** (R0001–R0047). Vsi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0048**.
+Za vključitev izbranih vnosov: **46** (R0001–R0045 in R0047). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0048**.
 
-**Pregledna izdaja z izboljšano berljivostjo, 9. 11. 2026:** vseh 47 vnosov je sestavljenih v [Wordovo knjigo](../outputs/moj-kuharski-zvezek-2026-11-09.docx) in [PDF za listanje](../outputs/moj-kuharski-zvezek-2026-11-09.pdf), skupaj 94 strani z naslovnico, kazalom in viri. Namesto tabel so seznami s količino ob sestavini in glavno pisavo 12 pt. Številčenje strani v kazalu je posodobljeno; stanje receptur ostaja delovno.
+**Pregledna izdaja z izboljšano berljivostjo, 9. 11. 2026:** vseh 46 aktivnih vnosov je sestavljenih v [Wordovo knjigo](../outputs/moj-kuharski-zvezek-2026-11-09.docx) in [PDF za listanje](../outputs/moj-kuharski-zvezek-2026-11-09.pdf), skupaj 91 strani z naslovnico, kazalom in viri. Namesto tabel so seznami s količino ob sestavini in glavno pisavo 12 pt. Številčenje strani v kazalu je posodobljeno; stanje receptur ostaja delovno.
 
 Štiri slike v `reference/` so trenutno slogovni primeri. Vzorčna stran Beurre blanc v HTML je prikaz oblikovanja; ne šteje kot potrjen recept in nima trajnega ID. Slike niso bile vsebinsko preverjene.
 
@@ -37,7 +37,7 @@ Za vključitev izbranih vnosov: **47** (R0001–R0047). Vsi so **delovni**: R000
 | [R0023](R0023-osnovna-razmerja.md) | Osnovna kuharska razmerja | 3.7 Osnovna razmerja | majoneza; vinaigrette; vlaganje; marinada; mleto meso | Fallow, 9 Ratios | delovno | R0001; R0007; R0022; sklici iz 3.5, 3.6, 4.7 |
 | [R0024](R0024-beurre-rouge.md) | Beurre rouge | 4.5 Maslene omake in emulzije | emulzija; rdeče vino; Francija | Fallow, kratki video | delovno — za dopolnitev | R0007 |
 | [R0025](R0025-raca-a-lorange.md) | Račje prsi à l'orange | 8.4 Perutnina | raca; pomaranča; Francija | Byatt, Duck à l'orange | delovno — za dopolnitev | R0006 |
-| [R0026](R0026-makroni-po-karimu.md) | Makroni po Karimu Merdjadiju | 2.6 Drobno pecivo | makroni; mandlji; italijanska meringa; Francija | Okusno.je, 5. 5. 2021 | delovno — za dopolnitev; varnostna prilagoditev | R0027 |
+| [R0026](R0026-makroni-po-karimu.md) | Makroni po Karimu Merdjadiju | 2.6 Drobno pecivo | makroni; mandlji; italijanska meringa; Francija | Okusno.je, 5. 5. 2021 | delovno — za dopolnitev; varnostna prilagoditev | R0027; R0047 |
 | [R0027](R0027-cokoladni-ganas-za-makrone.md) | Čokoladni ganaš za makrone po Valrhoni | 1.2 Čokolada | čokolada; ganaš; polnilo | Valrhona, Dark Chocolate Macarons | delovno; uredniško izbrano polnilo | R0026 |
 | [R0028](R0028-slascicarska-krema.md) | Slaščičarska krema (crème pâtissière) | 1.1 Osnovne kreme | krema; vanilja; škrob | David Turner, King Arthur Baking | delovno | R0015; R0029 |
 | [R0029](R0029-creme-anglaise.md) | Vaniljeva omaka (crème anglaise) | 1.1 Osnovne kreme | jajčna krema; sladka omaka; vanilja | Eddie Benghanem, spletna objava iz knjige | delovno | R0028; sklic iz 1.8 |
@@ -58,10 +58,9 @@ Za vključitev izbranih vnosov: **47** (R0001–R0047). Vsi so **delovni**: R000
 | [R0043](R0043-cokoladni-mousse-ganas-smetana.md) | Čokoladni mousse iz ganaša in stepene smetane | 1.9 Moussi — sladke pene | mousse; čokolada | L’École Gourmet Valrhona, Guanaja, pear and cookie, komponenta 4 | delovno; količine preverjene z virom | [pregled 1.9](01-09-moussi.md) |
 | [R0044](R0044-sadni-mousse-italijanska-meringa.md) | Sadni mousse z italijansko meringo | 1.9 Moussi — sladke pene | mousse; sadje | Ravifruit, Recettes – Recipes, 11/2014, stran 2 | delovno; količine preverjene z virom | [pregled 1.9](01-09-moussi.md) |
 | [R0045](R0045-cokoladni-mousse-chiboust.md) | Čokoladni mousse na osnovi Chiboust | 1.9 Moussi — sladke pene | mousse; čokolada | Matt Adlard, Chocolate Mousse Guide, Chiboust Base | delovno; količine preverjene z virom | [pregled 1.9](01-09-moussi.md) |
-| [R0046](R0046-makroni-preppy-kitchen.md) | Makroni s francosko meringo po Preppy Kitchen | 2.6 Drobno pecivo | makroni; mandlji; francoska meringa; Francija | John Kanell, video 18. 2. 2021 | delovno — video različica; vanilja označeno dopolnjena | R0047; R0026 |
-| [R0047](R0047-francoska-maslena-krema.md) | Francoska maslena krema | 1.1 Osnovne kreme | maslena krema; rumenjaki; pâte à bombe; Francija | John Kanell, video 16. 4. 2024 in spletna kartica | delovno — izplen in masa rumenjakov za dopolnitev | R0046; R0032 |
+| [R0047](R0047-francoska-maslena-krema.md) | Francoska maslena krema | 1.1 Osnovne kreme | maslena krema; rumenjaki; pâte à bombe; Francija | John Kanell, video 16. 4. 2024 in spletna kartica | delovno — izplen in masa rumenjakov za dopolnitev | R0026; R0032 |
 
-R0046–R0047: [viri in razlike med video ter spletno različico](../reference/preppy-kitchen-2026-11-09.md). [Pregled 2.6 Drobno pecivo](02-06-drobno-pecivo.md); francoska maslena krema je samostojen recept v 1.1.
+R0047: [viri](../reference/preppy-kitchen-2026-11-09.md). [Pregled 2.6 Drobno pecivo](02-06-drobno-pecivo.md); francoska maslena krema je samostojen recept v 1.1. **Umaknjeno:** [R0046 Makroni po Preppy Kitchen](../reference/umaknjeni/R0046-makroni-preppy-kitchen.md), 9. 11. 2026 na uporabnikovo željo nadomeščeno z obstoječim R0026 po Karimu; arhiv ni del izdaje.
 
 R0036–R0045: [Moussi — sladke pene](01-09-moussi.md); [viri in odprti podatki](../reference/moussi-2026-11-05.md).
 
@@ -77,7 +76,6 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 
 ## Odprto
 
-- R0046: praktični preizkus izvedbe iz videa, izplen, premer, način pečice, natančen rok zorenja in hranjenja ter potrebna količina R0047. Vanilja 1 žlička je označena dopolnitev iz avtorjeve nove spletne kartice; drugih količin in peke nove kartice ne mešati s poslanim videom.
 - R0047: masa petih velikih rumenjakov oziroma ustreznik izbranega pasteriziranega izdelka, dejanski izplen, odmerjanje, praktični preizkus, rok v hladilniku in režim servisa. Ne uporabljati nepojasnjenega spletnega izplena 375 g kot potrjenega podatka.
 
 - R0028–R0035: praktični preizkusi. Pri prevedenih odprtih receptih ohraniti licenčne pripise tudi v končni izdaji.
@@ -114,6 +112,8 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 - Končni naslov knjige lahko uporabnik določi pozneje; trenutni je »Moj kuharski zvezek«.
 
 ## Dnevnik
+
+- 9. 11. 2026 — umik makronov Preppy Kitchen: na uporabnikovo izrecno željo je R0046 izključen iz aktivne zbirke in knjige ter arhiviran v `reference/umaknjeni/`. Edina vključena receptura makronov ostaja prejšnja Karimova R0026, brez podvajanja in sprememb količin ali postopka. Francoska maslena krema R0047 ostaja samostojna; povezave so preusmerjene na R0026, kombinacija je jasno označena kot nepreizkušen uredniški izbor. Aktualna Word in PDF imata **46 receptov na 91 fizičnih straneh**, tri strani kazala, 184 notranjih povezav in 0 tabel; 62 izvornih tabel je preurejenih v sezname. Naslednji ID ostaja **R0048**, umaknjenega R0046 ne uporabi ponovno.
 
 - 9. 11. 2026: po raziskavi berljivosti in uporabnikovi pripombi preoblikovana knjiga: 63 tabel pretvorjenih v sezname in označene sklope, 12 pt glavno besedilo, 94 strani. Količine, 47 ID in naslednji R0048 so nespremenjeni; viri in preverjanje v `reference/berljivost-receptov-2026-11-09.md`.
 

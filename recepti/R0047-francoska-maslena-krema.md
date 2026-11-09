@@ -54,7 +54,7 @@ Uporabi **pasterizirane rumenjake oziroma pasterizirana jajca**. Vir ne izmeri t
 
 ## Uporaba in shranjevanje
 
-Za makrone glej [R0046 Makroni s francosko meringo po Preppy Kitchen](R0046-makroni-preppy-kitchen.md). Potrebna količina kreme na makron oziroma za celotno serijo je za dopolnitev.
+Za lupinice glej [R0026 Makroni po Karimu](R0026-makroni-po-karimu.md). Kombinacija te kreme s Karimovimi lupinicami je uredniški izbor iz drugega vira, še brez praktičnega preizkusa. Potrebna količina kreme na makron oziroma za celotno serijo je za dopolnitev.
 
 Avtorjeva spletna stran dopušča zamrzovanje kreme v nepredušni posodi do **3 mesece**; odtajanje čez noč v hladilniku in ponovno stepanje pred uporabo. To je avtorjev navedeni rok, ne rezultat našega preizkusa. Rok v hladilniku in režim servisa sta za dopolnitev.
 
@@ -65,5 +65,5 @@ Za primerjavo beljakove osnove glej [R0032 Švicarska maslena krema](R0032-svica
 - Vir: John Kanell, Preppy Kitchen, [Easy French Buttercream Recipe](https://www.youtube.com/watch?v=rBheeACVC9w), 16. 4. 2024; [povezana spletna receptura](https://preppykitchen.com/how-to-make-french-buttercream/), pregledano 9. 11. 2026. Maslo 227 g in vanilja 5 ml sta metrična podatka spletne kartice; video poda skodelico masla in žličko vanilje.
 - 240 °F je 115,6 °C, prikazano kot približno 116 °C. Pri prilivanju je izbran spletni nasvet za nizko hitrost; video med prikazom omenja tudi srednje visoko hitrost.
 - Spletna kartica navaja 2¼ skodelice oziroma 375 g, vendar objavljena masa ni pojasnjena in se ne ujema preprosto s seštevkom sestavin. Tega podatka ne uporabljamo kot preverjen izplen. Kratek spletni skupni čas 10 minut ne zajame nujno hlajenja iz videa.
-- Po uporabnikovi izrecni dopolnitvi samostojen recept v 1.1. Zaporedni ID za R0046 ne spreminja glavnega mesta v knjigi.
+- Po uporabnikovi izrecni dopolnitvi samostojen recept v 1.1. Po umiku makronov R0046 dne 9. 11. 2026 krema ostaja v knjigi; povezava na lupinice je preusmerjena na R0026, brez sprememb količin kreme.
 - Odprto: masa rumenjakov, dejanski izplen, odmerjanje, praktični preizkus in rok v hladilniku. [Skupna evidenca virov](../reference/preppy-kitchen-2026-11-09.md).

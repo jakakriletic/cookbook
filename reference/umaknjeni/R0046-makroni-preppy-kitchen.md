@@ -6,11 +6,13 @@ podpoglavje: "Drobno pecivo"
 oznake: [makroni, mandlji, francoska meringa, Francija]
 izvor: "Francija; izvedba Johna Kanella, Preppy Kitchen"
 vir: "https://www.youtube.com/watch?v=5zgfdImm_VA"
-stanje: delovno
+stanje: umaknjeno na uporabnikovo željo 2026-11-09
 datum_prejema: "2026-11-09"
 ---
 
 # Makroni s francosko meringo po Preppy Kitchen
+
+Arhiv: 9. 11. 2026 umaknjeno na uporabnikovo željo. V knjigi ostaja R0026 po Karimu; ta zapis ni vključen v izdajo.
 
 Mandljeve lupinice s francosko meringo, pri kateri sladkor postopno vtepamo v beljake. Količine in peka sledijo poslanemu videu iz leta 2021.
 
@@ -43,7 +45,7 @@ Tehtnica, sekljalnik, fino cedilo, mešalnik z metlico, lopatica, slaščičarsk
 5. **Nabrizgaj.** Papir na vogalih pritrdi s pikami mase. Vrečko drži navpično in brizgaj enake kroge z razmikom približno 2,5 cm. Pekač nekajkrat potrkaj ob pult; vidne mehurčke prebodi z zobotrebcem.
 6. **Posuši površino.** V prikazu traja približno **40 minut**. Površina mora izgubiti sijaj in se ob rahlem dotiku ne sme oprijemati suhega prsta. Upoštevaj stanje površine, ne samo ure.
 7. **Speci.** Pekač postavi na srednjo višino ogrete pečice pri približno **150 °C** za približno **14 minut**. Na polovici peke pekač obrni za 180°. Lupinice naj razvijejo značilno nogico in se spodaj posušijo.
-8. **Ohladi in sestavi.** Lupinice ohladi, nato jih odstrani s papirja. Na ravno stran ene nabrizgaj [R0047 Francosko masleno kremo](R0047-francoska-maslena-krema.md) in pokrij z drugo. Sestavljene makrone daj v zaprto posodo v hladilnik; video priporoča nekaj dni zorenja za mehkejšo sredico, brez natančnega roka.
+8. **Ohladi in sestavi.** Lupinice ohladi, nato jih odstrani s papirja. Na ravno stran ene nabrizgaj [R0047 Francosko masleno kremo](../../recepti/R0047-francoska-maslena-krema.md) in pokrij z drugo. Sestavljene makrone daj v zaprto posodo v hladilnik; video priporoča nekaj dni zorenja za mehkejšo sredico, brez natančnega roka.
 
 ## Kritične točke
 
@@ -53,7 +55,7 @@ Tehtnica, sekljalnik, fino cedilo, mešalnik z metlico, lopatica, slaščičarsk
 
 ## Povezani recepti
 
-**Naslednji vnos:** [R0047 Francoska maslena krema](R0047-francoska-maslena-krema.md), samostojna osnova v 1.1. Za primerjavo italijanske meringe uporabi [R0026 Makrone po Karimu](R0026-makroni-po-karimu.md); razmerij obeh receptov ne mešaj.
+**Naslednji vnos:** [R0047 Francoska maslena krema](../../recepti/R0047-francoska-maslena-krema.md), samostojna osnova v 1.1. Za primerjavo italijanske meringe uporabi [R0026 Makrone po Karimu](../../recepti/R0026-makroni-po-karimu.md); razmerij obeh receptov ne mešaj.
 
 ## Uredniška evidenca
 
@@ -61,4 +63,4 @@ Tehtnica, sekljalnik, fino cedilo, mešalnik z metlico, lopatica, slaščičarsk
 - [Avtorjeva spletna receptura](https://preppykitchen.com/french-macarons/) je bila pozneje spremenjena: 168 g mandljev, 120 g sladkorja v prahu, 100 g kristalnega sladkorja ter 270 °F za 18–20 minut. Teh podatkov in njenega izplena 36 makronov ne prenašamo v izvedbo iz videa. Vanilja je edina označena količinska dopolnitev iz spletne kartice.
 - 300 °F je preračunano v 148,9 °C in za prikaz zaokroženo na približno 150 °C. Razmik enega palca je približno 2,5 cm. Število in premer lupinic ter režim pečice ostajajo za dopolnitev.
 - Polnilo je po izrecni uporabnikovi dopolnitvi ločen recept, brez podvojene recepture. Količina R0047, potrebna za to serijo lupinic, ni preverjena. Praktični preizkus in natančen rok hranjenja sta za dopolnitev.
-- [Viri, razlike med različicami in uredniške odločitve](../reference/preppy-kitchen-2026-11-09.md).
+- [Viri, razlike med različicami in uredniške odločitve](../preppy-kitchen-2026-11-09.md).

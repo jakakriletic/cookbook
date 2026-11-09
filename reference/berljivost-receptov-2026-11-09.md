@@ -31,3 +31,7 @@ Spremenjen je sestavljalnik `scripts/sestavi_knjigo.py`, ponovno sta sestavljena
 Končni DOCX in PDF imata **94 fizičnih strani**, tri strani kazala in zadnjo vidno številko 93. Vseh 94 strani je bilo odprtih in vizualno pregledanih v izrisu: brez odrezanega besedila, prekrivanja, manjkajočih šumnikov ali praznih strani. Pri zadnjem popravku primerjalnega pregleda pirejev je bila ponovno pregledana spremenjena stran; preostali izrisi so bili preverjeno enaki že pregledanim.
 
 Preverjanje potrjuje vseh 47 receptov, njihove dejanske začetne strani v kazalu, 188 notranjih povezav z obstoječimi cilji ter ohranitev besedila in količin iz vseh 63 izvornih tabel. V Wordu ni tabel ali slik celih strani; besedilo ostaja urejevalno. Licence in pomembne oznake nejasnosti so ohranjene. Novi recepti ali ID niso dodani. Vmesne slike, manifest podatkov ter preverjanja ostanejo v `work/`.
+
+## Poznejši umik recepta
+
+Po zaključku te spremembe je uporabnik naročil umik R0046 in ohranitev Karimovih makronov R0026. Aktualna izdaja ima zato 46 receptov, 91 strani, 184 notranjih povezav in 62 pretvorjenih podatkovnih skupin. Slog ostaja enak. Zgornji podatki o 47 receptih in 94 straneh opisujejo predhodno različico. Preverjanje nove izdaje je v `izdaja-2026-11-09.md`.
