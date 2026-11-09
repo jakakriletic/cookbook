@@ -1,5 +1,7 @@
 # Makroni — izbor virov 31. 10. 2026
 
+Poznejša dopolnitev 9. 11. 2026: postopek R0026 je na uporabnikovo željo tehnično razširjen, količine in režim peke pa ohranjeni. Novi viri, uredniški dodatki in omejitve so v [evidenci tehnične dopolnitve](makroni-tehnika-2026-11-09.md). Spodnji zapis in slikovna kartica opisujeta prvotno krajšo različico.
+
 Uporabnik je naročil spletno iskanje dobrega recepta za makrone, prednostno Karima Merdjadija, ter vključitev v zbirko. Uporabnikov lastni recept ali priloga nista bila poslana.
 
 | Vnos | Spletni vir | Uporaba |
