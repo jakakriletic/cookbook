@@ -1,5 +1,7 @@
 # Karimovi makroni — tehnična dopolnitev
 
+Poznejši popravek istega dne: uporabnik je ob posnetku zaslona naročil odstranitev seznama »Posebna oprema« in uvodnega pojasnila pod »Postopek«. Oba bloka sta odstranjena; vseh 12 korakov, sestavine in preostala navodila so nespremenjeni. Sledljivost uredniških dodatkov ostaja tukaj ter v dodatku z viri, ne v uvodu postopka.
+
 Uporabnik je 9. 11. 2026 naročil podrobnejšo tehnično razlago postopka R0026. Razširjen je obstoječi vnos, brez novega ID ali nove recepture. Polnili R0027 in R0047 ostajata ločeni.
 
 ## Preverjeni viri

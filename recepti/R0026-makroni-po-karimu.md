@@ -33,13 +33,7 @@ Mandljeve lupinice z italijansko meringo; polnilo izberi posebej.
 | Drobno mleti mandlji | 150 g |
 | Jedilno barvilo; vrsta za dopolnitev | 2 g |
 
-## Posebna oprema
-
-Tehtnica, termometer za sladkor, mešalnik, fino cedilo, lopatica, slaščičarska vrečka z gladkim nastavkom, pekač in papir za peko.
-
 ## Postopek
-
-Količine, sirup in režim peke sledijo izvirnemu receptu. Opisi gibov, kontrolnih znakov in odpravljanja napak so uredniška tehnična dopolnitev.
 
 ### Priprava mandljeve mase
 
