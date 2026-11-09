@@ -1,8 +1,8 @@
 # Register receptov
 
-Posodobljeno: 5. 11. 2026.
+Posodobljeno: 9. 11. 2026.
 
-Za vključitev izbranih vnosov: **45** (R0001–R0045). Vsi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0046**.
+Za vključitev izbranih vnosov: **47** (R0001–R0047). Vsi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0048**.
 
 Štiri slike v `reference/` so trenutno slogovni primeri. Vzorčna stran Beurre blanc v HTML je prikaz oblikovanja; ne šteje kot potrjen recept in nima trajnega ID. Slike niso bile vsebinsko preverjene.
 
@@ -56,6 +56,10 @@ Za vključitev izbranih vnosov: **45** (R0001–R0045). Vsi so **delovni**: R000
 | [R0043](R0043-cokoladni-mousse-ganas-smetana.md) | Čokoladni mousse iz ganaša in stepene smetane | 1.9 Moussi — sladke pene | mousse; čokolada | L’École Gourmet Valrhona, Guanaja, pear and cookie, komponenta 4 | delovno; količine preverjene z virom | [pregled 1.9](01-09-moussi.md) |
 | [R0044](R0044-sadni-mousse-italijanska-meringa.md) | Sadni mousse z italijansko meringo | 1.9 Moussi — sladke pene | mousse; sadje | Ravifruit, Recettes – Recipes, 11/2014, stran 2 | delovno; količine preverjene z virom | [pregled 1.9](01-09-moussi.md) |
 | [R0045](R0045-cokoladni-mousse-chiboust.md) | Čokoladni mousse na osnovi Chiboust | 1.9 Moussi — sladke pene | mousse; čokolada | Matt Adlard, Chocolate Mousse Guide, Chiboust Base | delovno; količine preverjene z virom | [pregled 1.9](01-09-moussi.md) |
+| [R0046](R0046-makroni-preppy-kitchen.md) | Makroni s francosko meringo po Preppy Kitchen | 2.6 Drobno pecivo | makroni; mandlji; francoska meringa; Francija | John Kanell, video 18. 2. 2021 | delovno — video različica; vanilja označeno dopolnjena | R0047; R0026 |
+| [R0047](R0047-francoska-maslena-krema.md) | Francoska maslena krema | 1.1 Osnovne kreme | maslena krema; rumenjaki; pâte à bombe; Francija | John Kanell, video 16. 4. 2024 in spletna kartica | delovno — izplen in masa rumenjakov za dopolnitev | R0046; R0032 |
+
+R0046–R0047: [viri in razlike med video ter spletno različico](../reference/preppy-kitchen-2026-11-09.md). [Pregled 2.6 Drobno pecivo](02-06-drobno-pecivo.md); francoska maslena krema je samostojen recept v 1.1.
 
 R0036–R0045: [Moussi — sladke pene](01-09-moussi.md); [viri in odprti podatki](../reference/moussi-2026-11-05.md).
 
@@ -70,6 +74,9 @@ Viri R0011–R0025 in dopolnitev R0001 ter R0007: [evidenca videov z dne 31. 10.
 Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](https://www.youtube.com/watch?v=xniS7kMpW4I). [Evidenca vira in uredniških odločitev](../reference/fallow-maticne-omake-2024.md). [Pregled podpoglavja 4.4](04-04-maticne-in-izpeljane-omake.md).
 
 ## Odprto
+
+- R0046: praktični preizkus izvedbe iz videa, izplen, premer, način pečice, natančen rok zorenja in hranjenja ter potrebna količina R0047. Vanilja 1 žlička je označena dopolnitev iz avtorjeve nove spletne kartice; drugih količin in peke nove kartice ne mešati s poslanim videom.
+- R0047: masa petih velikih rumenjakov oziroma ustreznik izbranega pasteriziranega izdelka, dejanski izplen, odmerjanje, praktični preizkus, rok v hladilniku in režim servisa. Ne uporabljati nepojasnjenega spletnega izplena 375 g kot potrjenega podatka.
 
 - R0028–R0035: praktični preizkusi. Pri prevedenih odprtih receptih ohraniti licenčne pripise tudi v končni izdaji.
 - R0028: masa rumenjakov in izplen v gramih. R0029: masa rumenjakov in čas hlajenja.
@@ -105,6 +112,8 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 - Končni naslov knjige lahko uporabnik določi pozneje; trenutni je »Moj kuharski zvezek«.
 
 ## Dnevnik
+
+- 9. 11. 2026: dodana zaporedna R0046 (makroni s francosko meringo iz videa Preppy Kitchen) in R0047 (francoska maslena krema). Po uporabnikovi dopolnitvi je krema samostojna v 1.1, pri makronih v 2.6 je sklic. Razlike do nove spletne recepture, dopolnitev vanilje in uredniška izbira pasteriziranih rumenjakov so dokumentirane. Predhodni sklop mousseov je ohranjen v ločenem commitu.
 
 - 1. 11. 2026: po uporabnikovem naročilu pregledana odprta učbenika in dodan sklop osmih slaščičarskih osnov R0028–R0035. Prevedene so vse recepture dodatka BCcampus, z združenimi različicami; druge osnove imajo ločene spletne vire. Dodani pregled poglavja 1, pripisi in evidence nejasnosti; obstoječa choux in ganaš nista podvojena.
 - 1. 11. 2026: po uporabnikovem naročilu dodan vizualno preverjen slikovni prikaz makronov s polnilom; nova receptura ni dodana, vsebina obeh urejevalnih receptov je ohranjena.

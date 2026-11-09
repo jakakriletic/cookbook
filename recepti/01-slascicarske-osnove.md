@@ -17,6 +17,8 @@ Delovni pregled za vajo. Vsaka receptura ima svoje glavno mesto in trajni ID. Š
 
 ### Že v zbirki
 
+- **1.1 Osnovne kreme:** [R0047 Francoska maslena krema](R0047-francoska-maslena-krema.md), dodana 9. 11. 2026 iz samostojnega videa Preppy Kitchen. Rumenjakova osnova s sirupom; uporaba pri [R0046 Makroni s francosko meringo](R0046-makroni-preppy-kitchen.md), ki imajo glavno mesto v 2.6.
+
 - **1.2 Čokolada:** [R0027 Čokoladni ganaš po Valrhoni](R0027-cokoladni-ganas-za-makrone.md).
 - **1.3 Testa in biskviti:** [R0015 Kuhano testo — choux](R0015-kuhano-testo-choux.md).
 - **Sklic iz 1.8 Sadni pripravki in sladke omake:** [R0029 Crème anglaise](R0029-creme-anglaise.md); glavno mesto ostaja v 1.1.

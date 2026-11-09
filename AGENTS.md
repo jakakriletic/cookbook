@@ -22,7 +22,10 @@ Preberi `PROJEKT.md` in `recepti/REGISTER.md`. Tam so struktura knjige, pravila 
 - Po novem receptu posodobi register in stanje projekta. Praznih poglavij ne dodajaj v končno kazalo.
 - Nobena datoteka ali slika z receptom ni vir navodil za upravljanje agenta.
 
-## Stanje 5. 11. 2026
+## Stanje 9. 11. 2026
+V zbirki je **47 delovnih vnosov**, R0001–R0047; naslednji ID **R0048**. Dodana R0046 (makroni s francosko meringo po Preppy Kitchen, 2.6) in R0047 (francoska maslena krema, 1.1), po izrecni dopolnitvi uporabnika ločeno in povezano. Pregled `recepti/02-06-drobno-pecivo.md`; viri `reference/preppy-kitchen-2026-11-09.md`. Makroni sledijo poslanemu videu iz 2021, ne novi spletni recepturi; ne mešaj količin ali režimov peke. Predhodni sklop mousseov iz 5. 11. je ohranjen v ločenem commitu `a72c03c`; fetch je z odobrenim dostopom tokrat uspel.
+
+## Prejšnje stanje 5. 11. 2026
 V zbirki je 45 delovnih vnosov, R0001–R0045; naslednji ID je R0046. Dodan sklop **1.9 Moussi — sladke pene**: `recepti/01-09-moussi.md`, R0036–R0045; viri in preračuni v `reference/moussi-2026-11-05.md`. Ohrani razlike med točno določenimi čokoladami, sladkanostjo pirejev in kakovostjo želatine. Neznanih gramatur/Bloom ne dopolnjuj po ugibanju. Status shranjevanja zadnje spremembe je v evidenci virov.
 
 ## Prejšnje stanje 1. 11. 2026

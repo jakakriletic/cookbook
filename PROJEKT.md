@@ -4,6 +4,10 @@ Osebna kuharska knjiga za pripravo na MasterChef. Namen je hiter pregled med vaj
 
 ## Stanje
 
+9. 11. 2026: dodana dva zaporedna vnosa iz uporabnikovih videov Preppy Kitchen: R0046 (makroni s francosko meringo, 2.6) in R0047 (francoska maslena krema, 1.1). Uporabnik je izrecno dopolnil, naj bo krema posebej. Nova vnosa sta povezana, vsak z lastno datoteko in glavnim mestom; pregled v `recepti/02-06-drobno-pecivo.md`. Zbirka ima **47 delovnih vnosov**, naslednji ID **R0048**. Pri makronih ohranjena receptura poslanega videa iz 2021, ker je spletna kartica pozneje spremenjena; razlike in edina količinska dopolnitev (vanilja) so označene. Viri: `reference/preppy-kitchen-2026-11-09.md`. Končna knjiga DOCX še ni sestavljena.
+
+5. 11. 2026 (vsebinsko stanje dopisano 9. 11.): dodan sklop 1.9 Moussi — sladke pene, R0036–R0045, pregled `recepti/01-09-moussi.md`, viri `reference/moussi-2026-11-05.md`. Ti lokalno pripravljeni vnosi so bili 9. 11. ohranjeni in shranjeni v ločen commit `a72c03c`; pred novim urejanjem je uspel tudi fetch. Ohranjamo razlike med čokoladami, sladkanostjo pirejev in kakovostjo želatine.
+
 1. 11. 2026: na naročilo za knjigo slaščičarskih osnov pregledana odprta učbenika Rink/Thibodeaux in BCcampus ter dodanih osem osnov R0028–R0035. Zbirka ima 35 delovnih vnosov; naslednji ID R0036. Pregled: `recepti/01-slascicarske-osnove.md`; viri, avtorske navedbe in uredniške odločitve: `reference/slascicarske-osnove-2026-11-01.md`. Tri vnose tvorijo prevedene recepture dodatka BCcampus, ostali imajo svoje spletne vire. Noben nov recept še ni praktično preizkušen.
 
 1. 11. 2026: na uporabnikovo željo izdelana in vizualno preverjena slikovna kartica `outputs/makroni-po-karimu.png` z R0026 in ločeno označenim polnilom R0027. Izdelana z vgrajenim ImageGen; natančno navodilo je v `outputs/makroni-po-karimu.prompt.txt`. Slikovni prikaz je dodaten izvoz za uporabo in deljenje; urejevalna recepta ostajata v Markdownu. Število vnosov ostaja 27, naslednji ID R0028.
@@ -27,12 +31,14 @@ Tri ravni: `1 Slaščičarske osnove` → `1.1 Osnovne kreme` → `1.1.1 Slašč
 ## Predlagana poglavja in podpoglavja
 
 ### 1 Slaščičarske osnove
-1.1 Osnovne kreme · 1.2 Čokolada · 1.3 Testa in biskviti · 1.4 Meringe in pene · 1.5 Želiranje in zgoščevanje · 1.6 Sladkor in karamela · 1.7 Sladoledi in sorbeti · 1.8 Sadni pripravki in sladke omake
+1.1 Osnovne kreme · 1.2 Čokolada · 1.3 Testa in biskviti · 1.4 Meringe in pene · 1.5 Želiranje in zgoščevanje · 1.6 Sladkor in karamela · 1.7 Sladoledi in sorbeti · 1.8 Sadni pripravki in sladke omake · 1.9 Moussi — sladke pene
 
 Pregled zapolnjene vsebine je v `recepti/01-slascicarske-osnove.md`. R0028, R0029 in R0032 so v 1.1; R0030, R0031 in R0033 v 1.3; R0034 v 1.4; R0035 v 1.6. Crème anglaise ima glavno mesto v 1.1 in samo sklic iz 1.8. Tuiles so osnovna tehnika v 1.3 in se iz 2.1 samo sklicujejo. Tri različice tuiles so v enem vnosu; prav tako dva kratka postopka za sušeno meringo. Podpoglavji 1.5 in 1.7 ostajata predvideni, brez dodajanja praznih strani v izdajo.
 
 ### 2 Sladice
 2.1 Sladice na krožniku · 2.2 Torte in rezine · 2.3 Pite in tarti · 2.4 Sladice v kozarcu · 2.5 Topli narastki in druge tople sladice · 2.6 Drobno pecivo
+
+Pregled 2.6 je v `recepti/02-06-drobno-pecivo.md`: R0026 po Karimu z italijansko meringo in R0046 po Preppy Kitchen s francosko meringo. Polnili R0027 in R0047 imata glavni mesti v 1.2 oziroma 1.1, v pregledu so samo sklici. Nova R0046–R0047 imata zaporedna ID in povezavi za nadaljevanje priprave; zaradi tega ne spreminjamo razvrstitve osnovne kreme.
 
 ### 3 Slane kuharske osnove
 3.1 Mise en place in rezi · 3.2 Klasične in sodobne tehnike · 3.3 Farse in mousseline · 3.4 Paniranje in hrustljavi elementi · 3.5 Marinade in slanice · 3.6 Fermentacija in vlaganje · 3.7 Osnovna razmerja
@@ -137,6 +143,8 @@ Repozitorij je `https://github.com/jakakriletic/cookbook`, remote `origin`, glav
 Ob novem receptu: shrani izvirnik → prepiši in uredi → dodeli ID ter glavno mesto → zapiši oznake in povezave → posodobi register → ob izdaji sestavi knjigo, posodobi kazalo in preveri vse strani. Zabeleži datum in spremembe. Kazala strani ne vzdržuj ročno med zbiranjem receptov.
 
 ## Dnevnik vsebine in odločitev
+
+- 9. 11. 2026: uporabnik je poslal `5zgfdImm_VA` (makroni) in `rBheeACVC9w` (francoska maslena krema) ter izrecno zahteval ločeno kremo. Dodana R0046–R0047. Iz videov sta pridobljena opisa in samodejni podnapisi, iz povezanih avtorjevih spletnih strani preverjene količine. Poznejše spletne spremembe niso zamenjale recepture makronov iz poslanega videa. Rumenjaki za kremo so uredniško pasterizirani; viri, temperaturni preračuni in odprti podatki so zapisani. Predhodne spremembe mousseov so ohranjene v ločenem commitu, nova sprememba se shrani posebej.
 
 - 1. 11. 2026: uporabnik je naročil poiskati knjigo z osnovami slaščičarstva in prenesti recepte v zbirko. Učbenik Rink/Thibodeaux je učni okvir, ne izvor izmišljenih količin. Iz dodatka knjige BCcampus so prevedene vse recepture in združene v R0033–R0035 (CC BY 4.0). R0030 je predelava Koch-Wiki (CC BY-SA 3.0); R0028, R0029, R0031 in R0032 so samostojno ubesedeni kratki zapisi ločenih spletnih receptur. Prihodnja izdaja mora ohraniti vse licenčne pripise, ki so zato ločeni od interne uredniške evidence. Pomanjkljivosti virov niso tiho popravljene; označene so v receptih in registru.
 - 1. 11. 2026: uporabnik je naročil pretvorbo izpisanega recepta za makrone v sliko. Izdelan je pokončni PNG v slogu »Topla kuharska beležnica«, brez fotografij in brez dodajanja neznanih izplenov. Preverjene so sestavine, količine, koraki, ključne temperature in časi ter ločen pripis polnila drugemu viru. Končna knjiga DOCX še ni sestavljena.
