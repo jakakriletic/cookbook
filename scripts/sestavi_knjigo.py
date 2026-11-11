@@ -33,7 +33,7 @@ CHAPTERS = [
     (3, 'Biskviti'),
     (4, 'Meringe in hrustljavi dodatki'),
     (5, 'Moussi'),
-    (6, 'Drobno pecivo'),
+    (6, 'Sladice in pecivo'),
     (7, 'Kuharske osnove'),
     (8, 'Okisovanje'),
     (9, 'Omake'),

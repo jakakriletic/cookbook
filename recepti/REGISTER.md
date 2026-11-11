@@ -2,7 +2,7 @@
 
 Posodobljeno: 11. 11. 2026.
 
-Za vključitev izbranih vnosov: **59** (R0001–R0045 in R0047–R0060). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0061**.
+Za vključitev izbranih vnosov: **61** (R0001–R0045 in R0047–R0062). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0063**.
 
 **11. 11. 2026:** dodana poglavja 14 Julius fine dining (R0048, R0049), 15 Biskviti (R0050, R0051) in 16 Okisovanje (R0052, R0053). Vsi so vključeni v berljivo izdajo z dne 11. 11. 2026. Pri 12 receptih je dodana vrstica »Razmerje po masi«; pregled v `reference/razmerja-2026-11-11.md`.
 
@@ -45,6 +45,8 @@ Zgradba je poenotena 11. 11. 2026: številke v stolpcu »Glavno poglavje« so en
 | [R0040](R0040-pasijonkin-mousse-pate-a-bombe.md) | Pasijonkin mousse s pâte à bombe | 5.2 Sadni moussi | mousse; sadje | Sally Elias, objava z dovoljenjem iz The Pastry Chef’s Little Black Book | delovno; količine preverjene z virom | [pregled 1.9](01-09-moussi.md) |
 | [R0042](R0042-sadni-bavarois-banana-pasijonka.md) | Sadni bavarois — banana in pasijonka | 5.2 Sadni moussi | mousse; sadje | Benoit Blin za Ponthier, Exotic fruits bavarois, komponenta 3 | delovno; količine preverjene z virom | [pregled 1.9](01-09-moussi.md) |
 | [R0026](R0026-makroni-po-karimu.md) | Makroni po Karimu Merdjadiju | 6.1 Makroni | makroni; mandlji; italijanska meringa; Francija | Okusno.je, 5. 5. 2021 | delovno — razširjen tehnični postopek; varnostna prilagoditev | R0027; R0047 |
+| [R0061](R0061-cokoladni-fondant.md) | Čokoladni fondant (lava cake) | 6.2 Tople sladice | fondant; lava cake; čokolada; topla sladica | Gordon Ramsay, BBC Good Food | delovno — ni preizkušeno | R0062 |
+| [R0062](R0062-cokoladni-sufle.md) | Čokoladni sufle | 6.2 Tople sladice | sufle; čokolada; beljaki; topla sladica | King Arthur Baking, Triple Chocolate Soufflé | delovno — ni preizkušeno | R0061 |
 | [R0023](R0023-osnovna-razmerja.md) | Osnovna kuharska razmerja | 7.1 Osnovna razmerja | majoneza; vinaigrette; vlaganje; marinada; mleto meso | Fallow, 9 Ratios | delovno | R0001; R0007; R0022; sklici iz 3.5, 3.6, 4.7 |
 | [R0011](R0011-ribji-fumet.md) | Ribji fumet | 7.2 Fondi | fond; ribe; Francija | Byatt, Sole Bonne Femme, opis | delovno — voda za dopolnitev | R0014 |
 | [R0012](R0012-gobova-osnova.md) | Gobova osnova | 7.2 Fondi | fond; gobe | Byatt, Sole Bonne Femme, opis | delovno | R0013; R0014 |
@@ -103,6 +105,7 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 
 ## Odprto
 
+- R0061–R0062: velikost modelčkov in čas peke v domači pečici; pri sufleju preračun °F in unč. Ni preizkušeno.
 - R0057–R0060: ameriške in avstralske mere so preračunane (moka pri bao in flatbread naj se ob vaji stehta); postopek testa za testenine je uredniški. Nič ni preizkušeno.
 - R0056: gostota testa pri razmerju moke in škroba pol-pol in količina vode (105 ml je ocena); količine so preračunane iz ameriških mer. Ni preizkušeno.
 - R0054–R0055: količine so prebrane prek samodejnega povzetka strani; pri R0055 je količina ribe uredniška ocena. Nobena receptura ni praktično preizkušena.
@@ -150,6 +153,7 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 
 ## Dnevnik
 
+- 11. 11. 2026: dodana R0061 čokoladni fondant (Gordon Ramsay) in R0062 čokoladni sufle (King Arthur Baking) v novo podpoglavje 6.2 Tople sladice; poglavje 6 preimenovano v »Sladice in pecivo«. Uporabnik je naročil samostojno dodajanje, ker ga nekaj časa ne bo. Viri: `reference/tople-sladice-2026-11-11.md`. Aktivnih vnosov je 61, naslednji ID R0063.
 - 11. 11. 2026: dodani R0057 bao bun (12.2 Kitajska) ter osnovna testa R0058 testo za testenine (uporabnikovi razmerji), R0059 vlečeno testo s kisom in R0060 flatbread brez kvasa v nova podpoglavja 2.2–2.4. Viri: `reference/testa-in-bao-2026-11-11.md`. Aktivnih vnosov je 59, naslednji ID R0061.
 - 11. 11. 2026: dodan R0056, sladkokisli piščanec po Two Plaid Aprons, v novo podpoglavje 12.2 Kitajska. Uporabnikove prilagoditve: 250 g piščanca, navadna moka, moka in škrob pol-pol. Vir: `reference/sladkokisli-piscanec-2026-11-11.md`. Aktivnih vnosov je 55, naslednji ID R0057.
 - 11. 11. 2026: dodana R0054, klasični perujski ceviche (novo poglavje 12 Tuja kulinarika, 12.1 Peru), in R0055, Julesov ribji ceviche (13.3). Julius fine dining je preštevilčen z 12 na 13. Viri: `reference/ceviche-2026-11-11.md`. Aktivnih vnosov je 54, naslednji ID R0056.

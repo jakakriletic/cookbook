@@ -4,6 +4,8 @@ Osebna kuharska knjiga za pripravo na MasterChef. Namen je hiter pregled med vaj
 
 ## Stanje
 
+11. 11. 2026 — tople sladice: dodana R0061 čokoladni fondant (lava cake) in R0062 čokoladni sufle v 6.2 Tople sladice; poglavje 6 se zdaj imenuje »Sladice in pecivo«. Aktivnih vnosov je 61, naslednji ID R0063.
+
 11. 11. 2026 — osnovna testa in bao: dodani R0057 bao bun (12.2 Kitajska), R0058 testo za testenine po uporabnikovih razmerjih, R0059 vlečeno testo s kisom in R0060 flatbread brez kvasa (2.2–2.4). Poglavje 2 Testa zdaj obsega sladka in slana testa. Aktivnih vnosov je 59, naslednji ID R0061.
 
 11. 11. 2026 — sladkokisli piščanec: dodan R0056 v novo podpoglavje 12.2 Kitajska, po Two Plaid Aprons s prilagoditvami za 250 g piščanca, navadno moko in testo pol moke, pol škroba. Aktivnih vnosov je 55, naslednji ID R0057.
@@ -73,7 +75,7 @@ Zgradba je poenotena 11. 11. 2026 na uporabnikovo željo, da bo hitro jasno, kje
 | 3 Biskviti | 3.1 Klasični biskviti · 3.2 Pistacijevi biskviti | biskviti in podlage za torte |
 | 4 Meringe in hrustljavi dodatki | 4.1 Meringe · 4.2 Hrustljave ploščice in krokant | meringe, tuiles, krokant, karamela |
 | 5 Moussi | 5.1 Čokoladni moussi · 5.2 Sadni moussi | vse sladke pene; pregled `recepti/01-09-moussi.md` je na začetku 5.1 |
-| 6 Drobno pecivo | 6.1 Makroni | makroni, piškoti, drobno pecivo |
+| 6 Sladice in pecivo | 6.1 Makroni · 6.2 Tople sladice | končne sladice in drobno pecivo: makroni, piškoti, fondant, sufle, torte, tarte |
 
 **Slano**
 

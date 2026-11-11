@@ -1,7 +1,7 @@
 ---
 id: R0026
 naslov: "Makroni po Karimu Merdjadiju"
-poglavje: "Drobno pecivo"
+poglavje: "Sladice in pecivo"
 podpoglavje: "Makroni"
 oznake: [makroni, mandlji, italijanska meringa, Francija]
 izvor: "Francija; osnovna receptura, predstavljena ob Karimu Merdjadiju na Okusno.je"
