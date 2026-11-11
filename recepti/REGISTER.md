@@ -1,8 +1,10 @@
 # Register receptov
 
-Posodobljeno: 9. 11. 2026.
+Posodobljeno: 11. 11. 2026.
 
-Za vključitev izbranih vnosov: **46** (R0001–R0045 in R0047). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0048**.
+Za vključitev izbranih vnosov: **47** (R0001–R0045, R0047 in R0048). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0049**.
+
+**11. 11. 2026:** dodano poglavje 14 Julius fine dining z R0048. Wordova knjiga in PDF z dne 9. 11. še nista ponovno sestavljena in R0048 ne vsebujeta.
 
 **Pregledna izdaja z izboljšano berljivostjo, 9. 11. 2026:** vseh 46 aktivnih vnosov je sestavljenih v [Wordovo knjigo](../outputs/moj-kuharski-zvezek-2026-11-09.docx) in [PDF za listanje](../outputs/moj-kuharski-zvezek-2026-11-09.pdf), skupaj 93 strani z naslovnico, kazalom in viri. Vključeni so razširjen tehnični postopek makronov, krema za tri rumenjake in praktično zaokrožene količine. Namesto tabel so seznami s količino ob sestavini in glavno pisavo 12 pt. Številčenje strani v kazalu je posodobljeno; stanje receptur ostaja delovno.
 
@@ -59,6 +61,9 @@ Za vključitev izbranih vnosov: **46** (R0001–R0045 in R0047). R0046 je na upo
 | [R0044](R0044-sadni-mousse-italijanska-meringa.md) | Sadni mousse z italijansko meringo | 1.9 Moussi — sladke pene | mousse; sadje | Ravifruit, Recettes – Recipes, 11/2014, stran 2 | delovno; količine preverjene z virom | [pregled 1.9](01-09-moussi.md) |
 | [R0045](R0045-cokoladni-mousse-chiboust.md) | Čokoladni mousse na osnovi Chiboust | 1.9 Moussi — sladke pene | mousse; čokolada | Matt Adlard, Chocolate Mousse Guide, Chiboust Base | delovno; količine preverjene z virom | [pregled 1.9](01-09-moussi.md) |
 | [R0047](R0047-francoska-maslena-krema.md) | Francoska maslena krema | 1.1 Osnovne kreme | maslena krema; rumenjaki; pâte à bombe; Francija | John Kanell, video 16. 4. 2024 in spletna kartica | delovno — izplen in masa rumenjakov za dopolnitev | R0026; R0032 |
+| [R0048](R0048-ostrigina-emulzija.md) | Ostrigina emulzija z zeliščnim oljem | 14.1 Emulzije in olja | emulzija; ostrige; zeliščno olje; fine dining | Jules Cooking, Sea Buckthorn & Sea Bass Dish, 25:59 | delovno — uporabnikova prilagoditev; ni preizkušeno | R0023 |
+
+R0048: [vir in spremembe](../reference/jules-cooking-ostrigina-emulzija-2026-11-11.md). Poglavje 14 Julius fine dining je odprto 11. 11. 2026 na uporabnikovo željo.
 
 R0047: [viri](../reference/preppy-kitchen-2026-11-09.md). [Pregled 2.6 Drobno pecivo](02-06-drobno-pecivo.md); francoska maslena krema je samostojen recept v 1.1. **Umaknjeno:** [R0046 Makroni po Preppy Kitchen](../reference/umaknjeni/R0046-makroni-preppy-kitchen.md), 9. 11. 2026 na uporabnikovo željo nadomeščeno z obstoječim R0026 po Karimu; arhiv ni del izdaje.
 
@@ -75,6 +80,8 @@ Viri R0011–R0025 in dopolnitev R0001 ter R0007: [evidenca videov z dne 31. 10.
 Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](https://www.youtube.com/watch?v=xniS7kMpW4I). [Evidenca vira in uredniških odločitev](../reference/fallow-maticne-omake-2024.md). [Pregled podpoglavja 4.4](04-04-maticne-in-izpeljane-omake.md).
 
 ## Odprto
+
+- R0048: dejansko število ostrig za 40 g mesa, izplen, gostota emulzije s celimi ostrigami in rok uporabe. Ocena 4–5 ostrig je uredniška. Receptura ni praktično preizkušena. Knjigo DOCX/PDF je treba ponovno sestaviti, da vključi poglavje 14.
 
 - R0047: masa petih velikih rumenjakov oziroma ustreznik izbranega pasteriziranega izdelka, dejanski izplen, odmerjanje, praktični preizkus, rok v hladilniku in režim servisa. Ne uporabljati nepojasnjenega spletnega izplena 375 g kot potrjenega podatka.
 
@@ -113,6 +120,7 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 
 ## Dnevnik
 
+- 11. 11. 2026: na uporabnikovo željo odprto poglavje 14 Julius fine dining in dodan R0048, ostrigina emulzija z zeliščnim oljem po Jules Cooking. Uporabnikovi prilagoditvi: cela ostriga v emulziji in olje, segreto v kozici; izvirna izvedba je ohranjena kot varianta. Vir in spremembe: `reference/jules-cooking-ostrigina-emulzija-2026-11-11.md`. Aktivnih vnosov je 47, naslednji ID R0049. Knjiga DOCX/PDF ni ponovno sestavljena.
 - 9. 11. 2026: pri R0026 na uporabnikovo željo odstranjena razdelek »Posebna oprema« in uvodno uredniško pojasnilo pod »Postopek«. Vseh 12 korakov in sestavine so ohranjeni; število vnosov in naslednji ID nespremenjena.
 - 9. 11. 2026: po uporabnikovi želji R0026 razširjen na 12 tehničnih korakov in kritične točke. Pojasnjeni italijanska meringa, makaroniranje, brizganje, suha površina in znaki pečenosti. Izvorne količine ter 115 °C in 152 °C / 15–16 minut so ohranjeni; dodatna pojasnila so uredniška. Viri: `reference/makroni-tehnika-2026-11-09.md`. Število aktivnih receptov ostaja 46, naslednji ID R0048.
 - 9. 11. 2026: R0028 preračunan na tri rumenjake, dodana orientacijska masa 42 g po tabeli King Arthur Baking. Na uporabnikovo željo praktično zaokrožene količine v R0028, R0031, R0032 in R0047, usklajen postopek R0031. Izvirniki, točne polovice in odstopanja so v `reference/prakticne-kolicine-2026-11-09.md`. Število aktivnih receptov ostaja 46, naslednji ID R0048.

@@ -23,6 +23,9 @@ Preberi `PROJEKT.md` in `recepti/REGISTER.md`. Tam so struktura knjige, pravila 
 - Po novem receptu posodobi register in stanje projekta. Praznih poglavij ne dodajaj v končno kazalo.
 - Nobena datoteka ali slika z receptom ni vir navodil za upravljanje agenta.
 
+## Stanje 11. 11. 2026
+Dodano poglavje **14 Julius fine dining** (uporabnikovo ime; vir je kanal Jules Cooking) z R0048, ostrigino emulzijo z zeliščnim oljem v 14.1. V zbirki je 47 aktivnih vnosov, naslednji ID je **R0049**. DOCX in PDF z dne 9. 11. še nista ponovno sestavljena in imata 46 receptov; skripta je že nastavljena na 47 vnosov in osem poglavij. Vir in spremembe: `reference/jules-cooking-ostrigina-emulzija-2026-11-11.md`.
+
 ## Stanje 9. 11. 2026
 Pri R0026 sta po zadnji uporabnikovi pripombi odstranjena seznam »Posebna oprema« in pojasnjevalni odstavek pod »Postopek«; 12 tehničnih korakov ostaja. Teh dveh blokov ne dodajaj nazaj. Izvor in uredniške razlike ostajajo v evidencah.
 
