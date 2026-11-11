@@ -65,7 +65,7 @@ Mešalnik, majhna kozica, termometer, fino cedilo s papirnato brisačo, ledena k
 
 ## Serviranje in povezani recepti
 
-V viru: pika emulzije in vanjo košček surovega ostriginega trebuha, ob brancinu z mousseom, vinaigrettom iz rakitovca, napihnjenim ješprenom in sladko-kislo kumaro. Osnovno razmerje majoneze je v [R0023](R0023-osnovna-razmerja.md).
+V viru: pika emulzije in vanjo košček surovega ostriginega trebuha, ob brancinu s farso ([R0049](R0049-brancinova-farsa.md)), vinaigrettom iz rakitovca, napihnjenim ješprenom in sladko-kislo kumaro. Osnovno razmerje majoneze je v [R0023](R0023-osnovna-razmerja.md).
 
 Olja nastane več, kot ga gre v emulzijo; ostanek uporabi za kapljice na krožniku.
 

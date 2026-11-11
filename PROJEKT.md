@@ -4,6 +4,8 @@ Osebna kuharska knjiga za pripravo na MasterChef. Namen je hiter pregled med vaj
 
 ## Stanje
 
+11. 11. 2026 — brancinova farsa: iz istega videa Jules Cooking dodan R0049, pečena brancinova farsa, v novo podpoglavje **14.2 Farse in mousseline**. Na uporabnikovo željo je količina ribe podana kot 100 g fileja namesto ostružkov; druge količine in peka (120 °C, približno 10 minut) so iz vira. Vir in spremembe: `reference/jules-cooking-brancinova-farsa-2026-11-11.md`. Aktivnih vnosov je 48, naslednji ID R0050; skripta je nastavljena na 48 vnosov, DOCX in PDF z dne 9. 11. ostajata nesestavljena z 46 recepti.
+
 11. 11. 2026 — novo poglavje Julius fine dining: na uporabnikovo željo odprto poglavje **14 Julius fine dining** in dodan prvi vnos R0048, ostrigina emulzija z zeliščnim oljem (14.1 Emulzije in olja), po videu in pisanem receptu Jules Cooking. Uporabnikovi prilagoditvi sta cela ostriga v emulziji in olje, segreto v kozici; izvirna izvedba je varianta. Vir in spremembe so v `reference/jules-cooking-ostrigina-emulzija-2026-11-11.md`. Aktivnih vnosov je 47, naslednji ID R0049. Skripta `scripts/sestavi_knjigo.py` je pripravljena na 47 vnosov in osem poglavij, vendar DOCX in PDF z dne 9. 11. **nista ponovno sestavljena** in R0048 ne vsebujeta.
 
 9. 11. 2026 — skrajšanje uvoda pri R0026: na uporabnikovo željo odstranjena ločen seznam »Posebna oprema« in pojasnjevalni odstavek pod naslovom »Postopek«. Vseh 12 tehničnih korakov, sestavine in druga navodila so ohranjeni. Podatki o izvoru in uredniških dopolnitvah ostajajo v evidencah; ne vračaj jih kot uvodno besedilo med sestavine in korake.
@@ -96,9 +98,9 @@ Države znotraj skupinskih podpoglavij loči v oznakah recepta. Ko bo dovolj vse
 13.1 Poskusi in popravki · 13.2 Lastna opažanja · 13.3 Organizacija dela in servis
 
 ### 14 Julius fine dining
-14.1 Emulzije in olja
+14.1 Emulzije in olja · 14.2 Farse in mousseline
 
-Poglavje je dodano 11. 11. 2026 na uporabnikovo željo za recepte in komponente v slogu fine dining po Jules Cooking; ime poglavja je uporabnikovo. Recepti iz tega vira imajo glavno mesto tukaj, tudi kadar bi tehnika sodila v vsebinsko poglavje; iz vsebinskih poglavij se nanje sklicuj. Prvi vnos je R0048. Podpoglavja dodajaj po vsebini.
+Poglavje je dodano 11. 11. 2026 na uporabnikovo željo za recepte in komponente v slogu fine dining po Jules Cooking; ime poglavja je uporabnikovo. Recepti iz tega vira imajo glavno mesto tukaj, tudi kadar bi tehnika sodila v vsebinsko poglavje; iz vsebinskih poglavij se nanje sklicuj. Prvi vnos je R0048; R0049 (brancinova farsa) je v 14.2, iz 3.3 Farse in mousseline nanj vodi sklic. Podpoglavja dodajaj po vsebini.
 
 Poglavja so pripravljena za rast. V dejanski knjigi objavi samo tista, ki vsebujejo recepte ali uporabne zapiske. Razvrstitev lahko prilagodiš vsebini; spremembe zapiši tukaj in v register.
 
@@ -165,6 +167,7 @@ Ob novem receptu: shrani izvirnik → prepiši in uredi → dodeli ID ter glavno
 
 ## Dnevnik vsebine in odločitev
 
+- 11. 11. 2026: uporabnik je iz videa `HCWKVZK1HPs` naročil še prepis brancinove farse s peko, s količino v fileju namesto v ostružkih, in potrdil dodajanje v poglavje Julius fine dining. Dodan R0049 v 14.2; pisanega recepta za to farso na spletni strani avtorja ni bilo, zato so količine samo iz videa.
 - 11. 11. 2026: uporabnik je poslal `HCWKVZK1HPs` (Jules Cooking) in naročil prepis ostrigine emulzije, nato prilagoditev na celo ostrigo in segrevanje olja v kozici ter novo poglavje »Julius fine dining« v repozitoriju. Dodana R0048 in poglavje 14; uredniške ocene in variante so označene, količine vira nespremenjene.
 - 9. 11. 2026: na uporabnikovo naročilo podrobneje razložen postopek Karimovih makronov. Ponovno pregledan izvirnik Okusno.je in primarni tehnični viri King Arthur Baking, Le Cordon Bleu ter KitchenAid. Ohranjen lasten režim recepta; niso preneseni tuji časi, količine, zorenje ali roki hranjenja. Uredniške kontrolne točke niso predstavljene kot praktični preizkus.
 - 9. 11. 2026: slaščičarska krema R0028 preračunana na tri rumenjake; dodana sledljiva orientacija 42 g. Po naknadni uporabnikovi želji zaokrožene praktične količine v štirih receptih, z ohranjenimi izvirniki in izračuni v novi evidenci. Usklajena delitev sladkorja v postopku génoise. Razmerja makronov in mousseov ter funkcionalne sestavine niso samodejno spremenjeni.

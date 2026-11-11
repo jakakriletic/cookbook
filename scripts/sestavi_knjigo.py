@@ -28,7 +28,7 @@ for line in (ROOT/'recepti/REGISTER.md').read_text(encoding='utf-8').splitlines(
     body = re.sub(r'^\s*# [^\n]+\n', '', body, count=1).strip()
     parts = re.split(r'^## Uredniška evidenca\s*$', body, maxsplit=1, flags=re.M)
     records.append(dict(id=rid,file=filename,title=cells[1],num=num,sub=sub,meta=meta,body=parts[0].strip(),notes=parts[1].strip() if len(parts)>1 else ''))
-assert len(records)==47
+assert len(records)==48
 assert 'R0046' not in {r['id'] for r in records}
 records.sort(key=lambda r: (*map(int,r['num'].split('.')),int(r['id'][1:])))
 bookmarks = {r['file']:r['id'] for r in records}
