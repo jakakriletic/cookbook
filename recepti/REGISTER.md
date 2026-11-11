@@ -2,7 +2,7 @@
 
 Posodobljeno: 11. 11. 2026.
 
-Za vključitev izbranih vnosov: **54** (R0001–R0045 in R0047–R0055). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0056**.
+Za vključitev izbranih vnosov: **55** (R0001–R0045 in R0047–R0056). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0057**.
 
 **11. 11. 2026:** dodana poglavja 14 Julius fine dining (R0048, R0049), 15 Biskviti (R0050, R0051) in 16 Okisovanje (R0052, R0053). Vsi so vključeni v berljivo izdajo z dne 11. 11. 2026. Pri 12 receptih je dodana vrstica »Razmerje po masi«; pregled v `reference/razmerja-2026-11-11.md`.
 
@@ -69,6 +69,7 @@ Zgradba je poenotena 11. 11. 2026: številke v stolpcu »Glavno poglavje« so en
 | [R0014](R0014-morski-list-bonne-femme.md) | Morski list bonne femme | 11.1 Ribe | morski list; dušenje; Francija | Byatt, Sole Bonne Femme | delovno — za dopolnitev | R0011; R0012; R0013 |
 | [R0025](R0025-raca-a-lorange.md) | Račje prsi à l'orange | 11.2 Perutnina | raca; pomaranča; Francija | Byatt, Duck à l'orange | delovno — za dopolnitev | R0006 |
 | [R0054](R0054-klasicni-perujski-ceviche.md) | Klasični perujski ceviche | 12.1 Peru | ceviche; surova riba; limeta; Peru | Generalni konzulat Peruja, PICAchef | delovno — ni preizkušeno | R0055 |
+| [R0056](R0056-sladkokisli-piscanec.md) | Sladkokisli piščanec | 12.2 Kitajska | piščanec; cvrtje; sladkokisla omaka; Kitajska | Two Plaid Aprons, Sweet and Sour Chicken | delovno — uporabnikova prilagoditev; ni preizkušeno | — |
 | [R0048](R0048-ostrigina-emulzija.md) | Ostrigina emulzija z zeliščnim oljem | 13.1 Emulzije in olja | emulzija; ostrige; zeliščno olje; fine dining | Jules Cooking, Sea Buckthorn & Sea Bass Dish, 25:59 | delovno — uporabnikova prilagoditev; ni preizkušeno | R0023; R0049 |
 | [R0049](R0049-brancinova-farsa.md) | Pečena brancinova farsa | 13.2 Farse | farsa; brancin; beljak; fine dining | Jules Cooking, Sea Buckthorn & Sea Bass Dish, 23:43 | delovno — uporabnikova prilagoditev; ni preizkušeno | R0048; sklic iz 3.3 |
 | [R0055](R0055-ribji-ceviche-jules.md) | Ribji ceviche z ingverjem in limonsko travo | 13.3 Ceviche | ceviche; brancin; fine dining | Jules Cooking, Fish ceviche | delovno — količina ribe je ocena; ni preizkušeno | R0054 |
@@ -98,6 +99,7 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 
 ## Odprto
 
+- R0056: gostota testa pri razmerju moke in škroba pol-pol in količina vode (105 ml je ocena); količine so preračunane iz ameriških mer. Ni preizkušeno.
 - R0054–R0055: količine so prebrane prek samodejnega povzetka strani; pri R0055 je količina ribe uredniška ocena. Nobena receptura ni praktično preizkušena.
 - R0053: recept je v celoti uredniški, brez objavljenega vira; odprti so čas počivanja, rok uporabe in primernost razmerja 1 : 1 : 1 za različno sadje.
 - Razmerja: klasična razmerja pri R0003, R0011, R0015, R0027, R0029, R0030, R0032 in R0049 so uredniški dodatek po spominu na strokovno literaturo in 11. 11. 2026 niso bila ponovno preverjena z virom. Brez znanega razmerja ostajajo med drugim slaščičarska krema, génoise, tuiles, francoska maslena krema, moussi, pireji in beurre rouge.
@@ -143,6 +145,7 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 
 ## Dnevnik
 
+- 11. 11. 2026: dodan R0056, sladkokisli piščanec po Two Plaid Aprons, v novo podpoglavje 12.2 Kitajska. Uporabnikove prilagoditve: 250 g piščanca, navadna moka, moka in škrob pol-pol. Vir: `reference/sladkokisli-piscanec-2026-11-11.md`. Aktivnih vnosov je 55, naslednji ID R0057.
 - 11. 11. 2026: dodana R0054, klasični perujski ceviche (novo poglavje 12 Tuja kulinarika, 12.1 Peru), in R0055, Julesov ribji ceviche (13.3). Julius fine dining je preštevilčen z 12 na 13. Viri: `reference/ceviche-2026-11-11.md`. Aktivnih vnosov je 54, naslednji ID R0056.
 - 11. 11. 2026: dodan R0053, okisano sadje v vakuumu (16.1), kot uredniška prilagoditev R0052 z nalivom 1 : 1 : 1. Na uporabnikovo željo pregledana cela zbirka in pri 12 receptih z znanim razmerjem dodana vrstica »Razmerje po masi« pod izplenom (R0003, R0007, R0011, R0015, R0026, R0027, R0029, R0030, R0032, R0034, R0049, R0052); R0001, R0022 in R0023 so razmerja že imeli. Novo trajno pravilo je v `AGENTS.md` in `PROJEKT.md`. Aktivnih vnosov je 52, naslednji ID R0054. Knjiga DOCX/PDF ni ponovno sestavljena.
 - 11. 11. 2026: na uporabnikovo željo odprto poglavje 16 Okisovanje in dodan R0052, osnovna okisana zelenjava v vakuumu. Uporabnik je prosil za zgled po Mojmirju Šiftarju; spletno iskanje njegovega postopka ni dalo rezultata, zato recept ni pripisan njemu in je njegova izvedba označena »za dopolnitev«. Naliv uporablja razmerje 4 : 2 : 1 iz R0023. Vir: `reference/okisovanje-2026-11-11.md`. Aktivnih vnosov je 51, naslednji ID R0053. Knjiga DOCX/PDF ni ponovno sestavljena.

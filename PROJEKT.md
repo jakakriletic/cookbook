@@ -4,6 +4,8 @@ Osebna kuharska knjiga za pripravo na MasterChef. Namen je hiter pregled med vaj
 
 ## Stanje
 
+11. 11. 2026 — sladkokisli piščanec: dodan R0056 v novo podpoglavje 12.2 Kitajska, po Two Plaid Aprons s prilagoditvami za 250 g piščanca, navadno moko in testo pol moke, pol škroba. Aktivnih vnosov je 55, naslednji ID R0057.
+
 11. 11. 2026 — ceviche: dodana R0054, klasični perujski ceviche (novo poglavje **12 Tuja kulinarika**, 12.1 Peru), in R0055, Julesov ribji ceviche (13.3 Ceviche). Julius fine dining je zdaj poglavje 13. Aktivnih vnosov je 54, naslednji ID R0056. Viri: `reference/ceviche-2026-11-11.md`.
 
 11. 11. 2026 — poenotena zgradba: na uporabnikovo željo, da se v knjigi res znajde, so poglavja preurejena po vrsti jedi, najprej sladko (1–6), nato slano (7–11), na koncu 12 Julius fine dining, ki po uporabnikovi želji ostane samostojno. Številke so zdaj enake v registru in v knjigi. Génoise je v 3 Biskviti, moussi so razdeljeni na čokoladne in sadne, omake so urejene po družinah. Pri Omakah in Glavnih jedeh je vrstica »Glej tudi« na recepte iz poglavja Julius. Nova zgradba in pravila so spodaj v razdelku »Poglavja in podpoglavja«.
@@ -80,7 +82,7 @@ Zgradba je poenotena 11. 11. 2026 na uporabnikovo željo, da bo hitro jasno, kje
 | 9 Omake | 9.1 Matične in izpeljane omake · 9.2 Maslene omake | tople in hladne omake, emulzije, prelivi; pregled `recepti/04-04-maticne-in-izpeljane-omake.md` na začetku 9.1 |
 | 10 Priloge | 10.1 Krompir · 10.2 Pireji | zelenjavne priloge, krompir, pireji; pregled `recepti/05-04-pireji-in-kreme.md` na začetku 10.2 |
 | 11 Glavne jedi | 11.1 Ribe · 11.2 Perutnina | končne jedi z ribami, mesom, perutnino |
-| 12 Tuja kulinarika | 12.1 Peru | celovite jedi neevropskih kuhinj; podpoglavje po državi (japonska, indijska, kitajska, mongolska, ruska … ruska je izrecna uporabnikova izjema) |
+| 12 Tuja kulinarika | 12.1 Peru · 12.2 Kitajska | celovite jedi neevropskih kuhinj; podpoglavje po državi (japonska, indijska, kitajska, mongolska, ruska … ruska je izrecna uporabnikova izjema) |
 | 13 Julius fine dining | 13.1 Emulzije in olja · 13.2 Farse · 13.3 Ceviche | vsi recepti iz Jules Cooking, ne glede na vrsto |
 
 Novo podpoglavje dodaj v ustrezno poglavje z naslednjo prosto številko (npr. 2.2 Listnato testo, 9.3 Hladne omake, 11.3 Govedina). Novo poglavje dodaj samo, če vsebina ne sodi v nobeno obstoječe, in ga uvrsti v sladki ali slani del; številke za njim se tedaj premaknejo v registru, v `CHAPTERS` skripte `scripts/sestavi_knjigo.py` in tukaj. Predvidena poznejša poglavja, ko bo vsebina: Testenine, riž in žita · Jajca in sirne jedi · Kruh in slana peka · Sestavljeni krožniki in meniji. Praznih poglavij ne dodajaj v knjigo.
@@ -88,7 +90,7 @@ Novo podpoglavje dodaj v ustrezno poglavje z naslednjo prosto številko (npr. 2.
 ## Pravila razvrščanja
 
 1. **Kaj je to?** Komponenta (krema, testo, omaka, fond, pire) gre v poglavje svoje vrste; končna jed v Sladice/Drobno pecivo ali Glavne jedi. Vsak recept ima eno glavno mesto; drugje je samo sklic.
-2. **Recepti Jules Cooking** imajo glavno mesto v 13 Julius fine dining. V vsebinskem poglavju, kamor bi sicer sodili, skripta na začetku poglavja izpiše vrstico »Glej tudi« (`SEE_ALSO` v skripti): ostrigina emulzija pri Omakah; brancinova farsa in oba cevicheja pri Glavnih jedeh. Uporabnik je izrecno dovolil to delno podvajanje.
+2. **Recepti Jules Cooking** imajo glavno mesto v 13 Julius fine dining. V vsebinskem poglavju, kamor bi sicer sodili, skripta na začetku poglavja izpiše vrstico »Glej tudi« (`SEE_ALSO` v skripti): ostrigina emulzija pri Omakah; brancinova farsa, oba cevicheja in sladkokisli piščanec pri Glavnih jedeh (enako velja za jedi iz Tuje kulinarike, ki sodijo med ribe ali meso). Uporabnik je izrecno dovolil to delno podvajanje.
 3. **Omake** so v 9.1 urejene po družinah: matična omaka, takoj za njo njene izpeljanke.
 4. **Celovite jedi neevropskih kuhinj** imajo glavno mesto v 12 Tuja kulinarika, podpoglavje po državi; univerzalna tehnika ostane v vsebinskem poglavju s sklicem.
 5. Razvrstitev slogovnih primerov, če jih uporabnik vključi: mesni mousse → 7 Kuharske osnove (farse); beurre blanc → 9.2 Maslene omake; riba s krompirjevimi luskami → 11.1 Ribe; barbajuan → Kruh in slana peka.
