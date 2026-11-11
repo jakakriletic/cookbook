@@ -2,7 +2,7 @@
 
 Posodobljeno: 11. 11. 2026.
 
-Za vključitev izbranih vnosov: **55** (R0001–R0045 in R0047–R0056). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0057**.
+Za vključitev izbranih vnosov: **59** (R0001–R0045 in R0047–R0060). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0061**.
 
 **11. 11. 2026:** dodana poglavja 14 Julius fine dining (R0048, R0049), 15 Biskviti (R0050, R0051) in 16 Okisovanje (R0052, R0053). Vsi so vključeni v berljivo izdajo z dne 11. 11. 2026. Pri 12 receptih je dodana vrstica »Razmerje po masi«; pregled v `reference/razmerja-2026-11-11.md`.
 
@@ -25,6 +25,9 @@ Zgradba je poenotena 11. 11. 2026: številke v stolpcu »Glavno poglavje« so en
 | [R0027](R0027-cokoladni-ganas-za-makrone.md) | Čokoladni ganaš za makrone po Valrhoni | 1.3 Ganaši | čokolada; ganaš; polnilo | Valrhona, Dark Chocolate Macarons | delovno; uredniško izbrano polnilo | R0026 |
 | [R0015](R0015-kuhano-testo-choux.md) | Kuhano testo (pâte à choux) | 2.1 Osnovna testa | choux; eklerji; Francija | Byatt, Mastering Choux Pastry | delovno; sladkor je uredniška varianta | — |
 | [R0030](R0030-sladko-krhko-testo.md) | Sladko krhko testo (pâte sucrée) | 2.1 Osnovna testa | krhko testo; tart | Koch-Wiki; CC BY-SA 3.0 | delovno — peka za dopolnitev | — |
+| [R0058](R0058-testo-za-testenine.md) | Testo za testenine — s celim jajcem in z rumenjaki | 2.2 Testo za testenine | testenine; jajčno testo; rumenjaki | uporabnikovi razmerji | delovno — postopek uredniški; ni preizkušeno | — |
+| [R0059](R0059-vleceno-testo.md) | Vlečeno testo | 2.3 Vlečeno testo | vlečeno testo; zavitek; štruklji; kis | Vesna Meško, Jana 2025 | delovno — ni preizkušeno | — |
+| [R0060](R0060-ploscati-kruh.md) | Mehki ploščati kruh brez kvasa (flatbread) | 2.4 Ploščati kruh | flatbread; brez kvasa; ponev | RecipeTin Eats, Easy Soft Flatbread | delovno — ni preizkušeno | — |
 | [R0031](R0031-biskvit-genoise.md) | Masleni biskvit génoise | 3.1 Klasični biskviti | biskvit; jajčna pena | King Arthur Test Kitchen | delovno | R0032 |
 | [R0050](R0050-pistacijev-biskvit-albouze.md) | Pistacijev biskvit s pistacijevo pasto | 3.2 Pistacijevi biskviti | biskvit; pistacija; pistacijeva pasta; meringa | Bruno Albouze, Pistachio Biscuit | delovno — ni preizkušeno | R0051; R0031 |
 | [R0051](R0051-pistacijev-biskvit-mlete-pistacije.md) | Pistacijev biskvit z mletimi pistacijami | 3.2 Pistacijevi biskviti | biskvit; pistacija; mlete pistacije | Wypieki Beaty, Pistachio sponge cake for a layer cake | delovno — ni preizkušeno | R0050; R0031 |
@@ -70,6 +73,7 @@ Zgradba je poenotena 11. 11. 2026: številke v stolpcu »Glavno poglavje« so en
 | [R0025](R0025-raca-a-lorange.md) | Račje prsi à l'orange | 11.2 Perutnina | raca; pomaranča; Francija | Byatt, Duck à l'orange | delovno — za dopolnitev | R0006 |
 | [R0054](R0054-klasicni-perujski-ceviche.md) | Klasični perujski ceviche | 12.1 Peru | ceviche; surova riba; limeta; Peru | Generalni konzulat Peruja, PICAchef | delovno — ni preizkušeno | R0055 |
 | [R0056](R0056-sladkokisli-piscanec.md) | Sladkokisli piščanec | 12.2 Kitajska | piščanec; cvrtje; sladkokisla omaka; Kitajska | Two Plaid Aprons, Sweet and Sour Chicken | delovno — uporabnikova prilagoditev; ni preizkušeno | — |
+| [R0057](R0057-bao-bun.md) | Bao bun — parjene zložene žemljice | 12.2 Kitajska | bao; kvašeno testo; kuhanje na pari; Kitajska | Omnivore's Cookbook, Steamed Bao Buns | delovno — ni preizkušeno | R0056 |
 | [R0048](R0048-ostrigina-emulzija.md) | Ostrigina emulzija z zeliščnim oljem | 13.1 Emulzije in olja | emulzija; ostrige; zeliščno olje; fine dining | Jules Cooking, Sea Buckthorn & Sea Bass Dish, 25:59 | delovno — uporabnikova prilagoditev; ni preizkušeno | R0023; R0049 |
 | [R0049](R0049-brancinova-farsa.md) | Pečena brancinova farsa | 13.2 Farse | farsa; brancin; beljak; fine dining | Jules Cooking, Sea Buckthorn & Sea Bass Dish, 23:43 | delovno — uporabnikova prilagoditev; ni preizkušeno | R0048; sklic iz 3.3 |
 | [R0055](R0055-ribji-ceviche-jules.md) | Ribji ceviche z ingverjem in limonsko travo | 13.3 Ceviche | ceviche; brancin; fine dining | Jules Cooking, Fish ceviche | delovno — količina ribe je ocena; ni preizkušeno | R0054 |
@@ -99,6 +103,7 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 
 ## Odprto
 
+- R0057–R0060: ameriške in avstralske mere so preračunane (moka pri bao in flatbread naj se ob vaji stehta); postopek testa za testenine je uredniški. Nič ni preizkušeno.
 - R0056: gostota testa pri razmerju moke in škroba pol-pol in količina vode (105 ml je ocena); količine so preračunane iz ameriških mer. Ni preizkušeno.
 - R0054–R0055: količine so prebrane prek samodejnega povzetka strani; pri R0055 je količina ribe uredniška ocena. Nobena receptura ni praktično preizkušena.
 - R0053: recept je v celoti uredniški, brez objavljenega vira; odprti so čas počivanja, rok uporabe in primernost razmerja 1 : 1 : 1 za različno sadje.
@@ -145,6 +150,7 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 
 ## Dnevnik
 
+- 11. 11. 2026: dodani R0057 bao bun (12.2 Kitajska) ter osnovna testa R0058 testo za testenine (uporabnikovi razmerji), R0059 vlečeno testo s kisom in R0060 flatbread brez kvasa v nova podpoglavja 2.2–2.4. Viri: `reference/testa-in-bao-2026-11-11.md`. Aktivnih vnosov je 59, naslednji ID R0061.
 - 11. 11. 2026: dodan R0056, sladkokisli piščanec po Two Plaid Aprons, v novo podpoglavje 12.2 Kitajska. Uporabnikove prilagoditve: 250 g piščanca, navadna moka, moka in škrob pol-pol. Vir: `reference/sladkokisli-piscanec-2026-11-11.md`. Aktivnih vnosov je 55, naslednji ID R0057.
 - 11. 11. 2026: dodana R0054, klasični perujski ceviche (novo poglavje 12 Tuja kulinarika, 12.1 Peru), in R0055, Julesov ribji ceviche (13.3). Julius fine dining je preštevilčen z 12 na 13. Viri: `reference/ceviche-2026-11-11.md`. Aktivnih vnosov je 54, naslednji ID R0056.
 - 11. 11. 2026: dodan R0053, okisano sadje v vakuumu (16.1), kot uredniška prilagoditev R0052 z nalivom 1 : 1 : 1. Na uporabnikovo željo pregledana cela zbirka in pri 12 receptih z znanim razmerjem dodana vrstica »Razmerje po masi« pod izplenom (R0003, R0007, R0011, R0015, R0026, R0027, R0029, R0030, R0032, R0034, R0049, R0052); R0001, R0022 in R0023 so razmerja že imeli. Novo trajno pravilo je v `AGENTS.md` in `PROJEKT.md`. Aktivnih vnosov je 52, naslednji ID R0054. Knjiga DOCX/PDF ni ponovno sestavljena.

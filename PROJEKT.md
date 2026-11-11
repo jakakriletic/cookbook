@@ -4,6 +4,8 @@ Osebna kuharska knjiga za pripravo na MasterChef. Namen je hiter pregled med vaj
 
 ## Stanje
 
+11. 11. 2026 — osnovna testa in bao: dodani R0057 bao bun (12.2 Kitajska), R0058 testo za testenine po uporabnikovih razmerjih, R0059 vlečeno testo s kisom in R0060 flatbread brez kvasa (2.2–2.4). Poglavje 2 Testa zdaj obsega sladka in slana testa. Aktivnih vnosov je 59, naslednji ID R0061.
+
 11. 11. 2026 — sladkokisli piščanec: dodan R0056 v novo podpoglavje 12.2 Kitajska, po Two Plaid Aprons s prilagoditvami za 250 g piščanca, navadno moko in testo pol moke, pol škroba. Aktivnih vnosov je 55, naslednji ID R0057.
 
 11. 11. 2026 — ceviche: dodana R0054, klasični perujski ceviche (novo poglavje **12 Tuja kulinarika**, 12.1 Peru), in R0055, Julesov ribji ceviche (13.3 Ceviche). Julius fine dining je zdaj poglavje 13. Aktivnih vnosov je 54, naslednji ID R0056. Viri: `reference/ceviche-2026-11-11.md`.
@@ -67,7 +69,7 @@ Zgradba je poenotena 11. 11. 2026 na uporabnikovo željo, da bo hitro jasno, kje
 | Poglavje | Podpoglavja (zapolnjena) | Kaj sodi sem |
 | --- | --- | --- |
 | 1 Kreme in polnila | 1.1 Osnovne kreme · 1.2 Maslene kreme · 1.3 Ganaši | kuhane jajčne kreme, maslene kreme, čokoladna polnila |
-| 2 Testa | 2.1 Osnovna testa | choux, krhko, listnato in druga testa |
+| 2 Testa | 2.1 Osnovna testa · 2.2 Testo za testenine · 2.3 Vlečeno testo · 2.4 Ploščati kruh | vsa osnovna testa, sladka in slana: choux, krhko, testenine, vlečeno, ploščati kruh, listnato |
 | 3 Biskviti | 3.1 Klasični biskviti · 3.2 Pistacijevi biskviti | biskviti in podlage za torte |
 | 4 Meringe in hrustljavi dodatki | 4.1 Meringe · 4.2 Hrustljave ploščice in krokant | meringe, tuiles, krokant, karamela |
 | 5 Moussi | 5.1 Čokoladni moussi · 5.2 Sadni moussi | vse sladke pene; pregled `recepti/01-09-moussi.md` je na začetku 5.1 |
@@ -82,7 +84,7 @@ Zgradba je poenotena 11. 11. 2026 na uporabnikovo željo, da bo hitro jasno, kje
 | 9 Omake | 9.1 Matične in izpeljane omake · 9.2 Maslene omake | tople in hladne omake, emulzije, prelivi; pregled `recepti/04-04-maticne-in-izpeljane-omake.md` na začetku 9.1 |
 | 10 Priloge | 10.1 Krompir · 10.2 Pireji | zelenjavne priloge, krompir, pireji; pregled `recepti/05-04-pireji-in-kreme.md` na začetku 10.2 |
 | 11 Glavne jedi | 11.1 Ribe · 11.2 Perutnina | končne jedi z ribami, mesom, perutnino |
-| 12 Tuja kulinarika | 12.1 Peru · 12.2 Kitajska | celovite jedi neevropskih kuhinj; podpoglavje po državi (japonska, indijska, kitajska, mongolska, ruska … ruska je izrecna uporabnikova izjema) |
+| 12 Tuja kulinarika | 12.1 Peru · 12.2 Kitajska (sladkokisli piščanec, bao bun) | celovite jedi neevropskih kuhinj; podpoglavje po državi (japonska, indijska, kitajska, mongolska, ruska … ruska je izrecna uporabnikova izjema) |
 | 13 Julius fine dining | 13.1 Emulzije in olja · 13.2 Farse · 13.3 Ceviche | vsi recepti iz Jules Cooking, ne glede na vrsto |
 
 Novo podpoglavje dodaj v ustrezno poglavje z naslednjo prosto številko (npr. 2.2 Listnato testo, 9.3 Hladne omake, 11.3 Govedina). Novo poglavje dodaj samo, če vsebina ne sodi v nobeno obstoječe, in ga uvrsti v sladki ali slani del; številke za njim se tedaj premaknejo v registru, v `CHAPTERS` skripte `scripts/sestavi_knjigo.py` in tukaj. Predvidena poznejša poglavja, ko bo vsebina: Testenine, riž in žita · Jajca in sirne jedi · Kruh in slana peka · Sestavljeni krožniki in meniji. Praznih poglavij ne dodajaj v knjigo.
