@@ -4,6 +4,8 @@ Osebna kuharska knjiga za pripravo na MasterChef. Namen je hiter pregled med vaj
 
 ## Stanje
 
+11. 11. 2026 — ceviche: dodana R0054, klasični perujski ceviche (novo poglavje **12 Tuja kulinarika**, 12.1 Peru), in R0055, Julesov ribji ceviche (13.3 Ceviche). Julius fine dining je zdaj poglavje 13. Aktivnih vnosov je 54, naslednji ID R0056. Viri: `reference/ceviche-2026-11-11.md`.
+
 11. 11. 2026 — poenotena zgradba: na uporabnikovo željo, da se v knjigi res znajde, so poglavja preurejena po vrsti jedi, najprej sladko (1–6), nato slano (7–11), na koncu 12 Julius fine dining, ki po uporabnikovi želji ostane samostojno. Številke so zdaj enake v registru in v knjigi. Génoise je v 3 Biskviti, moussi so razdeljeni na čokoladne in sadne, omake so urejene po družinah. Pri Omakah in Glavnih jedeh je vrstica »Glej tudi« na recepte iz poglavja Julius. Nova zgradba in pravila so spodaj v razdelku »Poglavja in podpoglavja«.
 
 11. 11. 2026 — nova berljiva izdaja: uporabnik je naročil pregled celotne knjige in PDF brez nepotrebnih besedil v čim bolj intuitivnem slogu. `scripts/sestavi_knjigo.py` je prepisan: iz tiska izpusti uredniške opombe, oznake virov, »za dopolnitev«, trajne ID, opremo in uvodno stran; ključni podatki in razmerje po masi so v poudarjenem polju, sestavine v poravnanih stolpcih, viri v eni vrstici na recept na koncu. Poglavja so v tisku urejena od sladkega k slanemu in zaporedno oštevilčena. Nova datoteka `outputs/moj-kuharski-zvezek.docx` in PDF imata 52 receptov, 10 poglavij in 87 strani; izdaja z dne 9. 11. je odstranjena iz `outputs/`. Podrobnosti in predlogi vsebinske ureditve: `reference/izdaja-2026-11-11.md`.
@@ -56,7 +58,7 @@ Tri ravni: `1 Kreme in polnila` → `1.1 Osnovne kreme` → recept. Interni nasl
 
 ## Poglavja in podpoglavja
 
-Zgradba je poenotena 11. 11. 2026 na uporabnikovo željo, da bo hitro jasno, kje je kaj. Poglavja so urejena **po vrsti jedi oziroma komponente**, najprej sladko, nato slano. Edina izjema je poglavje 12 Julius fine dining, ki je po izrecni uporabnikovi želji urejeno po viru (Jules Cooking), da so njegovi fine dining recepti zbrani skupaj. Vrstni red receptov znotraj podpoglavja je vrstni red vrstic v registru.
+Zgradba je poenotena 11. 11. 2026 na uporabnikovo željo, da bo hitro jasno, kje je kaj. Poglavja so urejena **po vrsti jedi oziroma komponente**, najprej sladko, nato slano. Edina izjema je poglavje 13 Julius fine dining, ki je po izrecni uporabnikovi želji urejeno po viru (Jules Cooking), da so njegovi fine dining recepti zbrani skupaj. Vrstni red receptov znotraj podpoglavja je vrstni red vrstic v registru.
 
 **Sladko**
 
@@ -78,16 +80,17 @@ Zgradba je poenotena 11. 11. 2026 na uporabnikovo željo, da bo hitro jasno, kje
 | 9 Omake | 9.1 Matične in izpeljane omake · 9.2 Maslene omake | tople in hladne omake, emulzije, prelivi; pregled `recepti/04-04-maticne-in-izpeljane-omake.md` na začetku 9.1 |
 | 10 Priloge | 10.1 Krompir · 10.2 Pireji | zelenjavne priloge, krompir, pireji; pregled `recepti/05-04-pireji-in-kreme.md` na začetku 10.2 |
 | 11 Glavne jedi | 11.1 Ribe · 11.2 Perutnina | končne jedi z ribami, mesom, perutnino |
-| 12 Julius fine dining | 12.1 Emulzije in olja · 12.2 Farse | vsi recepti iz Jules Cooking, ne glede na vrsto |
+| 12 Tuja kulinarika | 12.1 Peru | celovite jedi neevropskih kuhinj; podpoglavje po državi (japonska, indijska, kitajska, mongolska, ruska … ruska je izrecna uporabnikova izjema) |
+| 13 Julius fine dining | 13.1 Emulzije in olja · 13.2 Farse · 13.3 Ceviche | vsi recepti iz Jules Cooking, ne glede na vrsto |
 
-Novo podpoglavje dodaj v ustrezno poglavje z naslednjo prosto številko (npr. 2.2 Listnato testo, 9.3 Hladne omake, 11.3 Govedina). Novo poglavje dodaj samo, če vsebina ne sodi v nobeno obstoječe, in ga uvrsti v sladki ali slani del; številke za njim se tedaj premaknejo v registru, v `CHAPTERS` skripte `scripts/sestavi_knjigo.py` in tukaj. Predvidena poznejša poglavja, ko bo vsebina: Testenine, riž in žita · Jajca in sirne jedi · Kruh in slana peka · Tuja kulinarika (japonska, indijska, kitajska, mongolska, ruska in druge kuhinje; ruska je izrecna uporabnikova izjema) · Sestavljeni krožniki in meniji. Praznih poglavij ne dodajaj v knjigo.
+Novo podpoglavje dodaj v ustrezno poglavje z naslednjo prosto številko (npr. 2.2 Listnato testo, 9.3 Hladne omake, 11.3 Govedina). Novo poglavje dodaj samo, če vsebina ne sodi v nobeno obstoječe, in ga uvrsti v sladki ali slani del; številke za njim se tedaj premaknejo v registru, v `CHAPTERS` skripte `scripts/sestavi_knjigo.py` in tukaj. Predvidena poznejša poglavja, ko bo vsebina: Testenine, riž in žita · Jajca in sirne jedi · Kruh in slana peka · Sestavljeni krožniki in meniji. Praznih poglavij ne dodajaj v knjigo.
 
 ## Pravila razvrščanja
 
 1. **Kaj je to?** Komponenta (krema, testo, omaka, fond, pire) gre v poglavje svoje vrste; končna jed v Sladice/Drobno pecivo ali Glavne jedi. Vsak recept ima eno glavno mesto; drugje je samo sklic.
-2. **Recepti Jules Cooking** imajo glavno mesto v 12 Julius fine dining. V vsebinskem poglavju, kamor bi sicer sodili, skripta na začetku poglavja izpiše vrstico »Glej tudi« (`SEE_ALSO` v skripti): ostrigina emulzija pri Omakah, brancinova farsa pri Glavnih jedeh. Uporabnik je izrecno dovolil to delno podvajanje.
+2. **Recepti Jules Cooking** imajo glavno mesto v 13 Julius fine dining. V vsebinskem poglavju, kamor bi sicer sodili, skripta na začetku poglavja izpiše vrstico »Glej tudi« (`SEE_ALSO` v skripti): ostrigina emulzija pri Omakah; brancinova farsa in oba cevicheja pri Glavnih jedeh. Uporabnik je izrecno dovolil to delno podvajanje.
 3. **Omake** so v 9.1 urejene po družinah: matična omaka, takoj za njo njene izpeljanke.
-4. **Celovite jedi tujih kuhinj** bodo imele glavno mesto v poglavju Tuja kulinarika; univerzalna tehnika ostane v vsebinskem poglavju s sklicem.
+4. **Celovite jedi neevropskih kuhinj** imajo glavno mesto v 12 Tuja kulinarika, podpoglavje po državi; univerzalna tehnika ostane v vsebinskem poglavju s sklicem.
 5. Razvrstitev slogovnih primerov, če jih uporabnik vključi: mesni mousse → 7 Kuharske osnove (farse); beurre blanc → 9.2 Maslene omake; riba s krompirjevimi luskami → 11.1 Ribe; barbajuan → Kruh in slana peka.
 
 ## Vizualni slog
