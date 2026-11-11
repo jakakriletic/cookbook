@@ -16,6 +16,8 @@ Kratko kuhan svetel fond iz kosti ploščatih rib, ki se po kuhanju odišavi z z
 
 **Izplen:** za dopolnitev.
 
+**Razmerje po masi: 3 voda : 2 kosti** je klasično izhodišče za fond; pri 500 g kosti je to približno 750 g vode. Vir recepta količine vode ne poda.
+
 ## Sestavine
 
 | Sestavina | Količina |
@@ -55,3 +57,4 @@ Uporabljen pri [R0014 Morski list bonne femme](R0014-morski-list-bonne-femme.md)
 - Vir: Adam Byatt, »How to cook: Sole Bonne Femme«, opis videa; v videu se fumet le omeni (3:14). Izvorni zapis v `reference/videi-2026-10-31.md`.
 - Ureditev: prevod in razdelitev na korake. Količine so iz opisa videa.
 - Odprto: količina vode in zelišč, izplen.
+- 11. 11. 2026: na uporabnikovo željo dodana vrstica »Razmerje po masi« pod izplenom. Klasično razmerje je uredniški dodatek in ni iz vira recepta. Količina vode ostaja odprta, 750 g je le izračun iz razmerja. Pregled: `reference/razmerja-2026-11-11.md`.

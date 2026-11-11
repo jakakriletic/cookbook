@@ -16,6 +16,8 @@ datum_prejema: "2026-10-29"
 
 **Izplen:** za dopolnitev.
 
+**Razmerje po masi: 1 maslo : 1 moka** za roux. Za količino tekočine je izhodišče bešamel [R0001](R0001-besamel.md), 1 : 1 : 10.
+
 ## Sestavine
 
 | Sestavina | Količina |
@@ -49,3 +51,4 @@ Avtor omeni tudi dodatek gorčice za omako k piščančjim prsim. Količina za t
 - Vir: Fallow, 04:10–05:36; izvorni zapis v `reference/fallow-maticne-omake-2024.md`.
 - Ureditev: ohranjena konkretna izbira fonda; primerjava z bešamelom je zgoščena v opis postopka.
 - Odprto: absolutne količine, izplen in čas kuhanja. Razmerje masla in moke se v govoru navezuje na približno razmerje pri bešamelu.
+- 11. 11. 2026: na uporabnikovo željo dodana vrstica »Razmerje po masi« pod izplenom. Razmerje rouxa 1 : 1 je klasično; izhodišče 1 : 1 : 10 je preneseno z bešamela in ni podatek iz tega videa. Pregled: `reference/razmerja-2026-11-11.md`.

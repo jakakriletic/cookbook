@@ -4,6 +4,8 @@ Osebna kuharska knjiga za pripravo na MasterChef. Namen je hiter pregled med vaj
 
 ## Stanje
 
+11. 11. 2026 — razmerja in okisano sadje: dodan R0053, okisano sadje v vakuumu (16.1), uredniška prilagoditev R0052 z nalivom 1 : 1 : 1. Uporabnik je naročil, naj se pri vseh jedeh z znanim razmerjem to vedno navede. Pregledana je cela zbirka; vrstica **»Razmerje po masi«** je takoj pod izplenom pri R0003, R0007, R0011, R0015, R0026, R0027, R0029, R0030, R0032, R0034, R0049 in R0052, poleg obstoječih R0001, R0022 in R0023. Kjer se receptura razlikuje od klasičnega razmerja, sta navedeni obe. Pregled, viri in izpuščeni recepti: `reference/razmerja-2026-11-11.md`. Aktivnih vnosov je 52, naslednji ID R0054; DOCX in PDF z dne 9. 11. ostajata nesestavljena.
+
 11. 11. 2026 — novo poglavje Okisovanje: na uporabnikovo željo odprto poglavje **16 Okisovanje** s podpoglavjem 16.1 Hitro okisanje in R0052, osnovno okisano zelenjavo v vakuumu. Uporabnik je želel zgled po Mojmirju Šiftarju (vakuumiranje za hrustljavost); njegov postopek v objavljenih virih **ni bil najden**, zato je naliv po razmerju 4 : 2 : 1 iz R0023, vakuumska tehnika pa je uredniški povzetek splošne prakse. Mojmirjeva izvedba je v receptu »za dopolnitev«. Vir in iskanje: `reference/okisovanje-2026-11-11.md`. Aktivnih vnosov je 51, naslednji ID R0053; skripta je nastavljena na 51 vnosov in deset poglavij, DOCX in PDF z dne 9. 11. ostajata nesestavljena z 46 recepti.
 
 11. 11. 2026 — novo poglavje Biskviti: na uporabnikovo željo odprto poglavje **15 Biskviti** s podpoglavjem 15.1 Pistacijevi biskviti. Dodana sta R0050 (Bruno Albouze, s pistacijevo pasto) in R0051 (Wypieki Beaty, z mletimi pistacijami), oba iz spletnega iskanja; količine so nespremenjene. Viri in uredniške odločitve: `reference/pistacijevi-biskviti-2026-11-11.md`. Aktivnih vnosov je 50, naslednji ID R0052; skripta je nastavljena na 50 vnosov in devet poglavij, DOCX in PDF z dne 9. 11. ostajata nesestavljena z 46 recepti.
@@ -114,7 +116,7 @@ Poglavje je dodano 11. 11. 2026 na uporabnikovo željo. Prva vnosa sta R0050 in 
 ### 16 Okisovanje
 16.1 Hitro okisanje
 
-Poglavje je dodano 11. 11. 2026 na uporabnikovo željo. Prvi vnos je R0052. Kratko razmerje vlaganja ostaja v R0023 (3.7), 3.6 Fermentacija in vlaganje se na 16 samo sklicuje; fermentacija ne sodi sem. Podpoglavja dodajaj po tehniki.
+Poglavje je dodano 11. 11. 2026 na uporabnikovo željo. Prvi vnos je R0052, drugi R0053 (sadje). Kratko razmerje vlaganja ostaja v R0023 (3.7), 3.6 Fermentacija in vlaganje se na 16 samo sklicuje; fermentacija ne sodi sem. Podpoglavja dodajaj po tehniki.
 
 Poglavja so pripravljena za rast. V dejanski knjigi objavi samo tista, ki vsebujejo recepte ali uporabne zapiske. Razvrstitev lahko prilagodiš vsebini; spremembe zapiši tukaj in v register.
 
@@ -152,7 +154,7 @@ Trajna želja od 9. 11. 2026: kjer je smiselno, uporabi praktične količine, np
 
 1. Številka in naslov.
 2. Kratek opis in izvor, če je znan.
-3. Porcije oziroma izplen; priprava, kuhanje in počivanje samo, če so podani.
+3. Porcije oziroma izplen; priprava, kuhanje in počivanje samo, če so podani. Takoj pod izplenom vrstica »Razmerje po masi«, kadar ima jed splošno znano razmerje.
 4. Sestavine, razdeljene po komponentah.
 5. Posebna oprema, če je potrebna in znana.
 6. Oštevilčen postopek.
@@ -181,6 +183,7 @@ Ob novem receptu: shrani izvirnik → prepiši in uredi → dodeli ID ter glavno
 
 ## Dnevnik vsebine in odločitev
 
+- 11. 11. 2026: uporabnik je vprašal, ali lahko enako okisa sadje, in naročil ločen recept ter trajno pravilo, da se znana razmerja (npr. bešamel, jajčne kreme) vedno navedejo na najbolj intuitivnem mestu. Izbrano mesto je vrstica »Razmerje po masi« pod izplenom, kot jo je že imel R0001. Razmerja niso dodana tam, kjer splošno sprejetega razmerja ni.
 - 11. 11. 2026: uporabnik je naročil poglavje »Okisovanje« z osnovnim receptom in prosil, naj se pogleda Mojmirjev način z vakuumiranjem. Iskanje po okusno.je in 24ur ni našlo njegovega postopka. Dodan R0052 z razmerjem iz R0023 in jasno označeno uredniško vakuumsko tehniko; Mojmirjeva izvedba ostaja odprta.
 - 11. 11. 2026: uporabnik je naročil spletno iskanje recepta za pistacijev biskvit, vprašal o nujnosti vinskega kamna in nato naročil dodajanje obeh receptov v novo poglavje »Biskviti«. Dodana R0050 in R0051 v 15.1; zamenjava vinskega kamna je zapisana kot uredniška varianta pri R0050.
 - 11. 11. 2026: uporabnik je iz videa `HCWKVZK1HPs` naročil še prepis brancinove farse s peko, s količino v fileju namesto v ostružkih, in potrdil dodajanje v poglavje Julius fine dining. Dodan R0049 v 14.2; pisanega recepta za to farso na spletni strani avtorja ni bilo, zato so količine samo iz videa.

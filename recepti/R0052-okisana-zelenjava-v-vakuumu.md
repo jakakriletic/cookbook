@@ -16,6 +16,8 @@ Hitro okisanje surove zelenjave v hladnem nalivu iz kisa, vode in sladkorja. Vak
 
 **Izplen:** približno 300 g okisane zelenjave; količina zelenjave je uredniška orientacija.
 
+**Razmerje po masi: 4 kis : 2 voda : 1 sladkor.**
+
 ## Sestavine
 
 ### Naliv · 4 : 2 : 1
@@ -71,3 +73,4 @@ Osnovno razmerje naliva in klasično vlaganje z zalivanjem sta v [R0023](R0023-o
 - Vakuumska tehnika: uredniški povzetek splošne prakse hitrega vakuumskega okisanja s hladnim nalivom, ne en sam recept. Pregledani viri in iskanje Mojmirjevega postopka: `reference/okisovanje-2026-11-11.md`.
 - Uredniško in nepreverjeno: približno 300 g zelenjave na to količino naliva, izbor zelenjave, vsi triki ter opozorila. Sol in začimbe v viru razmerja nimajo količin, zato so »za dopolnitev«.
 - Odprto: Mojmirjevo razmerje in postopek, čas počivanja po vrstah zelenjave, količina soli, rok uporabe v hladilniku, razmerje naliva in zelenjave. Receptura ni praktično preizkušena.
+- 11. 11. 2026: na uporabnikovo željo dodana vrstica »Razmerje po masi« pod izplenom. Razmerje je iz R0023 (Fallow). Pregled: `reference/razmerja-2026-11-11.md`.

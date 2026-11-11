@@ -14,6 +14,8 @@ datum_prejema: "2026-11-01"
 
 **Izplen po viru:** približno 4 ameriške skodelice; masa za dopolnitev.
 
+**Razmerje po masi: 1 beljaki : 2 sladkor : 3 maslo** je klasično izhodišče. Ta receptura ima več sladkorja in masla, približno 1 : 2,4 : 4,3.
+
 ## Sestavine
 
 | Sestavina | Količina |
@@ -41,3 +43,4 @@ Za obmazovanje in polnjenje tort z [R0031 Génoise](R0031-biskvit-genoise.md). R
 - 9. 11. 2026: na uporabnikovo željo sladkor zaokrožen z 248 g na 250 g, maslo s 454 g na 450 g; beljaki 105 g ostajajo nespremenjeni. [Izvirnik in odstopanja](../reference/prakticne-kolicine-2026-11-09.md). Zaokrožena različica še ni preizkušena.
 - [Susan Reid, King Arthur Baking](https://www.kingarthurbaking.com/recipes/swiss-meringue-buttercream-recipe), pregledano 1. 11. 2026. Samostojno ubeseden zapis; °C so pretvorbe. To je krema z maslom, ne recept za samostojne sušene meringe.
 - Odprto: izplen v gramih in praktični preizkus. Pogoji in rok shranjevanja v tem zapisu niso določeni.
+- 11. 11. 2026: na uporabnikovo željo dodana vrstica »Razmerje po masi« pod izplenom. Klasično razmerje je uredniški dodatek in ni iz vira recepta. Razmerje recepture je izračunano iz njenih količin. Pregled: `reference/razmerja-2026-11-11.md`.

@@ -17,6 +17,8 @@ datum_prejema: "2026-11-01"
 
 To je recept za surovo osnovo; čas in temperatura peke sta **za dopolnitev**.
 
+**Razmerje po masi: 2 moka : 1 maslo : 1 sladkor** v tej recepturi. Klasično krhko testo je 3 moka : 2 maslo : 1 sladkor.
+
 ## Sestavine
 
 | Sestavina | Količina |
@@ -49,3 +51,4 @@ Prevedeno in prilagojeno iz [»Pâte sucrée«, sodelavci Koch-Wiki, različica 
 - Pregledano 1. 11. 2026. Količine niso spremenjene; razmerja z veliko rumenjaki nismo nadomestili s klasičnim razmerjem iz drugega vira.
 - Nemški tip 405 ni samodejno preimenovan v slovenski tip 400; domača izbira moke in masa rumenjakov sta za preverbo.
 - Postopek vira nima peke. Recept ni praktično preizkušen.
+- 11. 11. 2026: na uporabnikovo željo dodana vrstica »Razmerje po masi« pod izplenom. Razmerje 2 : 1 : 1 je izračunano iz količin recepture. Klasično razmerje je uredniški dodatek in ni iz vira recepta. Pregled: `reference/razmerja-2026-11-11.md`.

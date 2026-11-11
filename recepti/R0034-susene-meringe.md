@@ -15,6 +15,8 @@ datum_prejema: "2026-11-01"
 
 Osnova za palčke, ploščice in košarice na sladicah. Oba postopka uporabljata iste sestavine; **izberi enega**. Izplen in velikost oblik sta **za dopolnitev**.
 
+**Razmerje po masi: 1 beljaki : 1,5–2 sladkor.**
+
 ## Sestavine
 
 | Sestavina | Količina |
@@ -58,3 +60,4 @@ Prevod in prilagoditev razdelka »Meringues« iz [Modern Pastry and Plated Desse
 
 - Pregledano 1. 11. 2026. Razmerje in razhajanje v času preverjena še v [poglavju Garnishes](https://opentextbc.ca/modernpastryandplateddesserts/chapter/garnishes/).
 - Odprto: izplen, oblika, velikost, način pečice, čas sušenja pri domači izvedbi ter temperatura in čas švicarskega segrevanja. Brez praktičnega preizkusa.
+- 11. 11. 2026: na uporabnikovo željo dodana vrstica »Razmerje po masi« pod izplenom. Razmerje je iz vira in je bilo že zapisano pod sestavinami. Pregled: `reference/razmerja-2026-11-11.md`.

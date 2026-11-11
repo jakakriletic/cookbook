@@ -16,6 +16,8 @@ Hollandaise je topla emulzija rumenjakov, masla in kisline. V videu avtor rumenj
 
 **Izplen:** za dopolnitev.
 
+**Razmerje po masi: 5 prečiščeno maslo : 1 rumenjak : 1 tekočina.** Podrobnosti so v razdelku o razmerju spodaj.
+
 ## Sestavine
 
 | Sestavina | Količina |
@@ -69,3 +71,4 @@ To razmerje je iz drugega videa in s prečiščenim maslom; zgornji postopek iz 
 - Vir: Fallow, 12:21–14:35; del uvoda se začne okoli 12:15. Izvorni zapis v `reference/fallow-maticne-omake-2024.md`.
 - Ureditev: avtorjeva ocena približno 74 °C ni privzeta kot univerzalni cilj ali varnostno potrjen postopek. Razlaga o vplivu soli na beljakovine ni prenesena kot preverjeno dejstvo. Avtor pove, da na začetku ni dodal soli, končna količina pa ni podana.
 - Odprto: razmerje vseh sestavin, izplen, končno začinjanje, temperatura masla in preverjen režim priprave, toplega držanja ter shranjevanja. Gre za delovni tehnični zapis.
+- 11. 11. 2026: na uporabnikovo željo dodana vrstica »Razmerje po masi« pod izplenom. Razmerje je iz Fallowovega videa o razmerjih in je bilo že zapisano nižje v receptu. Pregled: `reference/razmerja-2026-11-11.md`.

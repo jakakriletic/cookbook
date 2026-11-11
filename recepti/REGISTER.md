@@ -2,9 +2,9 @@
 
 Posodobljeno: 11. 11. 2026.
 
-Za vključitev izbranih vnosov: **51** (R0001–R0045 in R0047–R0052). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0053**.
+Za vključitev izbranih vnosov: **52** (R0001–R0045 in R0047–R0053). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0054**.
 
-**11. 11. 2026:** dodana poglavja 14 Julius fine dining (R0048, R0049), 15 Biskviti (R0050, R0051) in 16 Okisovanje (R0052). Wordova knjiga in PDF z dne 9. 11. še nista ponovno sestavljena in teh petih vnosov ne vsebujeta.
+**11. 11. 2026:** dodana poglavja 14 Julius fine dining (R0048, R0049), 15 Biskviti (R0050, R0051) in 16 Okisovanje (R0052, R0053). Wordova knjiga in PDF z dne 9. 11. še nista ponovno sestavljena in teh šestih vnosov ne vsebujeta. Pri 12 receptih je dodana vrstica »Razmerje po masi«; pregled v `reference/razmerja-2026-11-11.md`.
 
 **Pregledna izdaja z izboljšano berljivostjo, 9. 11. 2026:** vseh 46 aktivnih vnosov je sestavljenih v [Wordovo knjigo](../outputs/moj-kuharski-zvezek-2026-11-09.docx) in [PDF za listanje](../outputs/moj-kuharski-zvezek-2026-11-09.pdf), skupaj 93 strani z naslovnico, kazalom in viri. Vključeni so razširjen tehnični postopek makronov, krema za tri rumenjake in praktično zaokrožene količine. Namesto tabel so seznami s količino ob sestavini in glavno pisavo 12 pt. Številčenje strani v kazalu je posodobljeno; stanje receptur ostaja delovno.
 
@@ -65,7 +65,8 @@ Za vključitev izbranih vnosov: **51** (R0001–R0045 in R0047–R0052). R0046 j
 | [R0049](R0049-brancinova-farsa.md) | Pečena brancinova farsa | 14.2 Farse in mousseline | farsa; brancin; beljak; fine dining | Jules Cooking, Sea Buckthorn & Sea Bass Dish, 23:43 | delovno — uporabnikova prilagoditev; ni preizkušeno | R0048; sklic iz 3.3 |
 | [R0050](R0050-pistacijev-biskvit-albouze.md) | Pistacijev biskvit s pistacijevo pasto | 15.1 Pistacijevi biskviti | biskvit; pistacija; pistacijeva pasta; meringa | Bruno Albouze, Pistachio Biscuit | delovno — ni preizkušeno | R0051; R0031 |
 | [R0051](R0051-pistacijev-biskvit-mlete-pistacije.md) | Pistacijev biskvit z mletimi pistacijami | 15.1 Pistacijevi biskviti | biskvit; pistacija; mlete pistacije | Wypieki Beaty, Pistachio sponge cake for a layer cake | delovno — ni preizkušeno | R0050; R0031 |
-| [R0052](R0052-okisana-zelenjava-v-vakuumu.md) | Osnovna okisana zelenjava v vakuumu | 16.1 Hitro okisanje | okisanje; vakuum; zelenjava; kis | Fallow, 9 Ratios (razmerje); vakuumska tehnika uredniško | delovno — Mojmirjeva izvedba za dopolnitev; ni preizkušeno | R0023; sklic iz 3.6 |
+| [R0052](R0052-okisana-zelenjava-v-vakuumu.md) | Osnovna okisana zelenjava v vakuumu | 16.1 Hitro okisanje | okisanje; vakuum; zelenjava; kis | Fallow, 9 Ratios (razmerje); vakuumska tehnika uredniško | delovno — Mojmirjeva izvedba za dopolnitev; ni preizkušeno | R0023; R0053; sklic iz 3.6 |
+| [R0053](R0053-okisano-sadje-v-vakuumu.md) | Okisano sadje v vakuumu | 16.1 Hitro okisanje | okisanje; vakuum; sadje; kis | uredniška prilagoditev R0052 | delovno — uredniško; ni preizkušeno | R0052; R0023 |
 
 R0052: [viri in iskanje Mojmirjevega postopka](../reference/okisovanje-2026-11-11.md). Poglavje 16 Okisovanje je odprto 11. 11. 2026 na uporabnikovo željo; razmerje naliva ostaja v R0023.
 
@@ -91,6 +92,8 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 
 ## Odprto
 
+- R0053: recept je v celoti uredniški, brez objavljenega vira; odprti so čas počivanja, rok uporabe in primernost razmerja 1 : 1 : 1 za različno sadje.
+- Razmerja: klasična razmerja pri R0003, R0011, R0015, R0027, R0029, R0030, R0032 in R0049 so uredniški dodatek po spominu na strokovno literaturo in 11. 11. 2026 niso bila ponovno preverjena z virom. Brez znanega razmerja ostajajo med drugim slaščičarska krema, génoise, tuiles, francoska maslena krema, moussi, pireji in beurre rouge.
 - R0052: razmerje in postopek Mojmirja Šiftarja za okisanje z vakuumom nista bila najdena v objavljenih virih; potrebna je epizoda ali uporabnikov zapis. Odprti so tudi čas počivanja, količina soli, razmerje naliva in zelenjave ter rok uporabe. Vakuumska tehnika je uredniški povzetek in ni preizkušena.
 - R0050: debelina biskvita, način praženja pistacij, vrsta olja; zamenjava vinskega kamna z limoninim sokom je uredniška varianta. R0051: masa jajc, gramatura pecilnega praška, pražene ali surove pistacije. Obe recepturi sta povzeti s spletnih strani in nista praktično preizkušeni.
 - R0049: izplen, debelina sloja, način pečice, odstotek maščobe smetane, temperatura masla in rok uporabe. Ocena »en manjši file« je uredniška. Receptura ni praktično preizkušena.
@@ -133,6 +136,7 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 
 ## Dnevnik
 
+- 11. 11. 2026: dodan R0053, okisano sadje v vakuumu (16.1), kot uredniška prilagoditev R0052 z nalivom 1 : 1 : 1. Na uporabnikovo željo pregledana cela zbirka in pri 12 receptih z znanim razmerjem dodana vrstica »Razmerje po masi« pod izplenom (R0003, R0007, R0011, R0015, R0026, R0027, R0029, R0030, R0032, R0034, R0049, R0052); R0001, R0022 in R0023 so razmerja že imeli. Novo trajno pravilo je v `AGENTS.md` in `PROJEKT.md`. Aktivnih vnosov je 52, naslednji ID R0054. Knjiga DOCX/PDF ni ponovno sestavljena.
 - 11. 11. 2026: na uporabnikovo željo odprto poglavje 16 Okisovanje in dodan R0052, osnovna okisana zelenjava v vakuumu. Uporabnik je prosil za zgled po Mojmirju Šiftarju; spletno iskanje njegovega postopka ni dalo rezultata, zato recept ni pripisan njemu in je njegova izvedba označena »za dopolnitev«. Naliv uporablja razmerje 4 : 2 : 1 iz R0023. Vir: `reference/okisovanje-2026-11-11.md`. Aktivnih vnosov je 51, naslednji ID R0053. Knjiga DOCX/PDF ni ponovno sestavljena.
 - 11. 11. 2026: na uporabnikovo željo odprto poglavje 15 Biskviti in dodana pistacijeva biskvita iz spletnega iskanja: R0050 po Brunu Albouzeju (s pistacijevo pasto) in R0051 po Wypieki Beaty (z mletimi pistacijami). Količine so nespremenjene; pri R0050 je uredniška varianta brez vinskega kamna. Viri: `reference/pistacijevi-biskviti-2026-11-11.md`. Aktivnih vnosov je 50, naslednji ID R0052. Knjiga DOCX/PDF ni ponovno sestavljena.
 - 11. 11. 2026: iz istega videa Jules Cooking dodan R0049, pečena brancinova farsa, v novo podpoglavje 14.2 Farse in mousseline. Uporabnikova prilagoditev: 100 g fileja namesto ostružkov in obrezkov; izvirna izvedba je varianta. Vir: `reference/jules-cooking-brancinova-farsa-2026-11-11.md`. Aktivnih vnosov je 48, naslednji ID R0050. Knjiga DOCX/PDF ni ponovno sestavljena.

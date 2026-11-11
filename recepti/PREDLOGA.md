@@ -16,6 +16,8 @@ Kratek opis, če je znan.
 
 **Izplen:** za dopolnitev
 
+**Razmerje po masi:** samo, kadar ima jed splošno znano razmerje; sicer vrstico izpusti.
+
 ## Sestavine
 
 ### Komponenta

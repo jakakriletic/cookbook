@@ -16,6 +16,8 @@ Gladka ribja farsa iz brancina, beljaka, masla in smetane, pečena v tankem sloj
 
 **Izplen:** za dopolnitev.
 
+**Razmerje po masi: 2 riba : 1 beljak : 1,8 smetana : 0,4 maslo** v tej recepturi. Klasična mousseline je 8 riba ali meso : 4 smetana : 1 jajce.
+
 ## Sestavine
 
 | Sestavina | Količina |
@@ -62,3 +64,4 @@ V viru: izrezana farsa leži na koščkih sladko-kisle kumare med rezinami branc
 - Uporabnikova prilagoditev, 11. 11. 2026: 100 g fileja namesto ostružkov in obrezkov. Druge količine, 120 °C in približno 10 minut so iz vira, nespremenjeni.
 - Uredniško: ocena »en manjši file«, navedba »brez kože in kosti, dobro ohlajen« in razdelek Kritične točke. Vir pove le, da mora zmes ostati hladna.
 - Odprto: izplen, debelina sloja, način pečice, odstotek maščobe smetane (splošni recept za ribjo farso na julescooking.com navaja 35 %, ta video ne), temperatura masla in rok uporabe. Receptura ni praktično preizkušena.
+- 11. 11. 2026: na uporabnikovo željo dodana vrstica »Razmerje po masi« pod izplenom. Razmerje recepture je izračunano iz njenih količin. Klasično razmerje je uredniški dodatek in ni iz vira recepta. Pregled: `reference/razmerja-2026-11-11.md`.

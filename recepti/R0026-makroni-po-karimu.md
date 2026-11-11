@@ -16,6 +16,8 @@ Mandljeve lupinice z italijansko meringo; polnilo izberi posebej.
 
 **Izplen:** za dopolnitev. **Peka:** 152 °C, 15–16 minut; način pečice za dopolnitev.
 
+**Razmerje po masi: 1 mleti mandlji : 1 sladkor v prahu : 1 kristalni sladkor**; beljakov je skupaj približno 0,75 dela, razdeljenih na polovico.
+
 ## Sestavine
 
 ### Italijanska meringa
@@ -85,3 +87,4 @@ Ločene beljake hrani pokrite v hladilniku pri največ **4 °C** do priprave. Ne
 - Dolgo staranje beljakov na sobni temperaturi je izpuščeno; varnostna prilagoditev temelji na [FDA — Are You Storing Food Safely?](https://www.fda.gov/consumers/consumer-updates/are-you-storing-food-safely). Preizkus sirupa z vilicami je nadomeščen z uporabo termometra.
 - Odprto: izplen, premer lupinic, način pečice, vrsta barvila, čas sušenja v domačih razmerah, količina polnila in shranjevanje sestavljenih makronov. Časov in roka uporabnosti nismo ocenili. Praktični preizkus še ni opravljen.
 - [Evidenca izbire virov in uredniških odločitev](../reference/makroni-karim-2026-10-31.md).
+- 11. 11. 2026: na uporabnikovo željo dodana vrstica »Razmerje po masi« pod izplenom. Razmerje je izračunano iz količin te recepture (150 g : 150 g : 150 g, beljaki 2 × 56 g). Pregled: `reference/razmerja-2026-11-11.md`.

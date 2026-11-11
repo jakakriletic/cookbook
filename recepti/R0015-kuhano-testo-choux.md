@@ -16,6 +16,8 @@ Najbolj vsestransko testo: iz iste osnove nastanejo eklerji, profiterole, Paris-
 
 **Izplen:** za dopolnitev.
 
+**Razmerje po masi: 2 tekočina : 1 maslo : 1 moka : 2 jajca** je klasično razmerje kuhanega testa. Byattova izvedba spodaj je blizu: 280 g tekočine, 115 g masla, 150 g moke in 4 jajca.
+
 ## Sestavine
 
 ### Osnova po Byattu
@@ -103,3 +105,4 @@ Byatt kremo imenuje »crème mousseline«: slaščičarska krema z vmešano step
 - Uredniška opomba: slaščičarska krema s stepeno smetano se klasično imenuje crème légère; crème mousseline ima namesto smetane maslo. Ohranjeno je avtorjevo poimenovanje.
 - Razhajanja: opis predvideva ohlajanje testa pred brizganjem, video ga brizga toplega. V profesionalni pečici (Rational) avtor peče na ventilator z 20 % vlage.
 - Odprto: masa jajc, izplen, recepti za craquelin (avtor ga omeni, v opisu ga ni), za kremo in polnila.
+- 11. 11. 2026: na uporabnikovo željo dodana vrstica »Razmerje po masi« pod izplenom. Klasično razmerje je uredniški dodatek in ni iz vira recepta. Pregled: `reference/razmerja-2026-11-11.md`.

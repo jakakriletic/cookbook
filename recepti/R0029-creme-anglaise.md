@@ -14,6 +14,8 @@ datum_prejema: "2026-11-01"
 
 **Izplen po viru:** 500 g. **Priprava po viru:** 20 minut.
 
+**Razmerje po masi: 4 mleko in smetana : 1 rumenjak : 1 sladkor** je klasično razmerje crème anglaise. Ta receptura je blizu: 370 ml tekočine, 4 rumenjaki in 80 g sladkorja.
+
 ## Sestavine
 
 | Sestavina | Količina |
@@ -49,3 +51,4 @@ Uredniško: po dodatku rumenjakov omake ne kuhaj kot škrobno slaščičarsko kr
 - [L'Hôtellerie Restauration, 12. 12. 2016](https://www.lhotellerie-restauration.fr/actualite/la-creme-anglaise), javno objavljena receptura iz knjige Eddieja Benghanema; pregledano 1. 11. 2026. Besedilo je samostojno strnjeno, fotografije niso prevzete.
 - 17 in 20 cl sta pretvorjena v ml, polovici sladkorja izračunani. Izplen je navedba vira, ne domača meritev.
 - Odprto: masa rumenjakov, čas hlajenja in praktični preizkus. Rok uporabnosti ni določen.
+- 11. 11. 2026: na uporabnikovo željo dodana vrstica »Razmerje po masi« pod izplenom. Klasično razmerje je uredniški dodatek in ni iz vira recepta. Pregled: `reference/razmerja-2026-11-11.md`.

@@ -16,6 +16,8 @@ Ločeno polnilo za [R0026 Makrone po Karimu](R0026-makroni-po-karimu.md); uredni
 
 **Izplen:** približno 110 g pred izgubami — uredniški seštevek sestavin. Število napolnjenih makronov R0026 je za dopolnitev.
 
+**Razmerje po masi: 1 čokolada : 1 smetana** je klasično izhodišče za ganaš. Ta receptura ima nekoliko več smetane, 1 : 1,2.
+
 ## Sestavine
 
 | Sestavina | Količina |
@@ -40,3 +42,4 @@ Lopatica, palični mešalnik, slaščičarska vrečka.
 - Količini sta ohranjeni brez preračuna. Za R0026 po potrebi pripravi dodatno serijo; ujemanje izplenov ni potrjeno. Izplen, naveden za Valrhonino celotno sladico, ni prenesen na Karimove lupinice.
 - Korak o konsistenci je jasno označen uredniški dodatek. Odprto: čas in temperatura ohlajanja, količina na makron, rok ter pogoji shranjevanja. Zamenjava čokolade z drugačnim deležem kakava ni preverjena. Recept še ni praktično preizkušen.
 - [Evidenca virov](../reference/makroni-karim-2026-10-31.md).
+- 11. 11. 2026: na uporabnikovo željo dodana vrstica »Razmerje po masi« pod izplenom. Klasično razmerje je uredniški dodatek in ni iz vira recepta. Razmerje 1 : 1,2 je izračunano iz količin recepture. Pregled: `reference/razmerja-2026-11-11.md`.
