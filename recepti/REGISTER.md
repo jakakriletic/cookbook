@@ -2,9 +2,9 @@
 
 Posodobljeno: 11. 11. 2026.
 
-Za vključitev izbranih vnosov: **50** (R0001–R0045 in R0047–R0051). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0052**.
+Za vključitev izbranih vnosov: **51** (R0001–R0045 in R0047–R0052). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0053**.
 
-**11. 11. 2026:** dodani poglavji 14 Julius fine dining (R0048, R0049) in 15 Biskviti (R0050, R0051). Wordova knjiga in PDF z dne 9. 11. še nista ponovno sestavljena in teh štirih vnosov ne vsebujeta.
+**11. 11. 2026:** dodana poglavja 14 Julius fine dining (R0048, R0049), 15 Biskviti (R0050, R0051) in 16 Okisovanje (R0052). Wordova knjiga in PDF z dne 9. 11. še nista ponovno sestavljena in teh petih vnosov ne vsebujeta.
 
 **Pregledna izdaja z izboljšano berljivostjo, 9. 11. 2026:** vseh 46 aktivnih vnosov je sestavljenih v [Wordovo knjigo](../outputs/moj-kuharski-zvezek-2026-11-09.docx) in [PDF za listanje](../outputs/moj-kuharski-zvezek-2026-11-09.pdf), skupaj 93 strani z naslovnico, kazalom in viri. Vključeni so razširjen tehnični postopek makronov, krema za tri rumenjake in praktično zaokrožene količine. Namesto tabel so seznami s količino ob sestavini in glavno pisavo 12 pt. Številčenje strani v kazalu je posodobljeno; stanje receptur ostaja delovno.
 
@@ -65,6 +65,9 @@ Za vključitev izbranih vnosov: **50** (R0001–R0045 in R0047–R0051). R0046 j
 | [R0049](R0049-brancinova-farsa.md) | Pečena brancinova farsa | 14.2 Farse in mousseline | farsa; brancin; beljak; fine dining | Jules Cooking, Sea Buckthorn & Sea Bass Dish, 23:43 | delovno — uporabnikova prilagoditev; ni preizkušeno | R0048; sklic iz 3.3 |
 | [R0050](R0050-pistacijev-biskvit-albouze.md) | Pistacijev biskvit s pistacijevo pasto | 15.1 Pistacijevi biskviti | biskvit; pistacija; pistacijeva pasta; meringa | Bruno Albouze, Pistachio Biscuit | delovno — ni preizkušeno | R0051; R0031 |
 | [R0051](R0051-pistacijev-biskvit-mlete-pistacije.md) | Pistacijev biskvit z mletimi pistacijami | 15.1 Pistacijevi biskviti | biskvit; pistacija; mlete pistacije | Wypieki Beaty, Pistachio sponge cake for a layer cake | delovno — ni preizkušeno | R0050; R0031 |
+| [R0052](R0052-okisana-zelenjava-v-vakuumu.md) | Osnovna okisana zelenjava v vakuumu | 16.1 Hitro okisanje | okisanje; vakuum; zelenjava; kis | Fallow, 9 Ratios (razmerje); vakuumska tehnika uredniško | delovno — Mojmirjeva izvedba za dopolnitev; ni preizkušeno | R0023; sklic iz 3.6 |
+
+R0052: [viri in iskanje Mojmirjevega postopka](../reference/okisovanje-2026-11-11.md). Poglavje 16 Okisovanje je odprto 11. 11. 2026 na uporabnikovo željo; razmerje naliva ostaja v R0023.
 
 R0050–R0051: [viri in uredniške odločitve](../reference/pistacijevi-biskviti-2026-11-11.md). Poglavje 15 Biskviti je odprto 11. 11. 2026 na uporabnikovo željo; génoise R0031 ostaja v 1.3.
 
@@ -88,6 +91,7 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 
 ## Odprto
 
+- R0052: razmerje in postopek Mojmirja Šiftarja za okisanje z vakuumom nista bila najdena v objavljenih virih; potrebna je epizoda ali uporabnikov zapis. Odprti so tudi čas počivanja, količina soli, razmerje naliva in zelenjave ter rok uporabe. Vakuumska tehnika je uredniški povzetek in ni preizkušena.
 - R0050: debelina biskvita, način praženja pistacij, vrsta olja; zamenjava vinskega kamna z limoninim sokom je uredniška varianta. R0051: masa jajc, gramatura pecilnega praška, pražene ali surove pistacije. Obe recepturi sta povzeti s spletnih strani in nista praktično preizkušeni.
 - R0049: izplen, debelina sloja, način pečice, odstotek maščobe smetane, temperatura masla in rok uporabe. Ocena »en manjši file« je uredniška. Receptura ni praktično preizkušena.
 - R0048: dejansko število ostrig za 40 g mesa, izplen, gostota emulzije s celimi ostrigami in rok uporabe. Ocena 4–5 ostrig je uredniška. Receptura ni praktično preizkušena. Knjigo DOCX/PDF je treba ponovno sestaviti, da vključi poglavje 14.
@@ -129,6 +133,7 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 
 ## Dnevnik
 
+- 11. 11. 2026: na uporabnikovo željo odprto poglavje 16 Okisovanje in dodan R0052, osnovna okisana zelenjava v vakuumu. Uporabnik je prosil za zgled po Mojmirju Šiftarju; spletno iskanje njegovega postopka ni dalo rezultata, zato recept ni pripisan njemu in je njegova izvedba označena »za dopolnitev«. Naliv uporablja razmerje 4 : 2 : 1 iz R0023. Vir: `reference/okisovanje-2026-11-11.md`. Aktivnih vnosov je 51, naslednji ID R0053. Knjiga DOCX/PDF ni ponovno sestavljena.
 - 11. 11. 2026: na uporabnikovo željo odprto poglavje 15 Biskviti in dodana pistacijeva biskvita iz spletnega iskanja: R0050 po Brunu Albouzeju (s pistacijevo pasto) in R0051 po Wypieki Beaty (z mletimi pistacijami). Količine so nespremenjene; pri R0050 je uredniška varianta brez vinskega kamna. Viri: `reference/pistacijevi-biskviti-2026-11-11.md`. Aktivnih vnosov je 50, naslednji ID R0052. Knjiga DOCX/PDF ni ponovno sestavljena.
 - 11. 11. 2026: iz istega videa Jules Cooking dodan R0049, pečena brancinova farsa, v novo podpoglavje 14.2 Farse in mousseline. Uporabnikova prilagoditev: 100 g fileja namesto ostružkov in obrezkov; izvirna izvedba je varianta. Vir: `reference/jules-cooking-brancinova-farsa-2026-11-11.md`. Aktivnih vnosov je 48, naslednji ID R0050. Knjiga DOCX/PDF ni ponovno sestavljena.
 - 11. 11. 2026: na uporabnikovo željo odprto poglavje 14 Julius fine dining in dodan R0048, ostrigina emulzija z zeliščnim oljem po Jules Cooking. Uporabnikovi prilagoditvi: cela ostriga v emulziji in olje, segreto v kozici; izvirna izvedba je ohranjena kot varianta. Vir in spremembe: `reference/jules-cooking-ostrigina-emulzija-2026-11-11.md`. Aktivnih vnosov je 47, naslednji ID R0049. Knjiga DOCX/PDF ni ponovno sestavljena.

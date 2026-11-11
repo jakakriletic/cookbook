@@ -4,6 +4,8 @@ Osebna kuharska knjiga za pripravo na MasterChef. Namen je hiter pregled med vaj
 
 ## Stanje
 
+11. 11. 2026 — novo poglavje Okisovanje: na uporabnikovo željo odprto poglavje **16 Okisovanje** s podpoglavjem 16.1 Hitro okisanje in R0052, osnovno okisano zelenjavo v vakuumu. Uporabnik je želel zgled po Mojmirju Šiftarju (vakuumiranje za hrustljavost); njegov postopek v objavljenih virih **ni bil najden**, zato je naliv po razmerju 4 : 2 : 1 iz R0023, vakuumska tehnika pa je uredniški povzetek splošne prakse. Mojmirjeva izvedba je v receptu »za dopolnitev«. Vir in iskanje: `reference/okisovanje-2026-11-11.md`. Aktivnih vnosov je 51, naslednji ID R0053; skripta je nastavljena na 51 vnosov in deset poglavij, DOCX in PDF z dne 9. 11. ostajata nesestavljena z 46 recepti.
+
 11. 11. 2026 — novo poglavje Biskviti: na uporabnikovo željo odprto poglavje **15 Biskviti** s podpoglavjem 15.1 Pistacijevi biskviti. Dodana sta R0050 (Bruno Albouze, s pistacijevo pasto) in R0051 (Wypieki Beaty, z mletimi pistacijami), oba iz spletnega iskanja; količine so nespremenjene. Viri in uredniške odločitve: `reference/pistacijevi-biskviti-2026-11-11.md`. Aktivnih vnosov je 50, naslednji ID R0052; skripta je nastavljena na 50 vnosov in devet poglavij, DOCX in PDF z dne 9. 11. ostajata nesestavljena z 46 recepti.
 
 11. 11. 2026 — brancinova farsa: iz istega videa Jules Cooking dodan R0049, pečena brancinova farsa, v novo podpoglavje **14.2 Farse in mousseline**. Na uporabnikovo željo je količina ribe podana kot 100 g fileja namesto ostružkov; druge količine in peka (120 °C, približno 10 minut) so iz vira. Vir in spremembe: `reference/jules-cooking-brancinova-farsa-2026-11-11.md`. Aktivnih vnosov je 48, naslednji ID R0050; skripta je nastavljena na 48 vnosov, DOCX in PDF z dne 9. 11. ostajata nesestavljena z 46 recepti.
@@ -109,6 +111,11 @@ Poglavje je dodano 11. 11. 2026 na uporabnikovo željo za recepte in komponente 
 
 Poglavje je dodano 11. 11. 2026 na uporabnikovo željo. Prva vnosa sta R0050 in R0051. Masleni biskvit génoise R0031 za zdaj ostaja v 1.3 Testa in biskviti in je iz 15 povezan s sklicem; morebitno selitev odloči uporabnik. Podpoglavja dodajaj po vrsti biskvita.
 
+### 16 Okisovanje
+16.1 Hitro okisanje
+
+Poglavje je dodano 11. 11. 2026 na uporabnikovo željo. Prvi vnos je R0052. Kratko razmerje vlaganja ostaja v R0023 (3.7), 3.6 Fermentacija in vlaganje se na 16 samo sklicuje; fermentacija ne sodi sem. Podpoglavja dodajaj po tehniki.
+
 Poglavja so pripravljena za rast. V dejanski knjigi objavi samo tista, ki vsebujejo recepte ali uporabne zapiske. Razvrstitev lahko prilagodiš vsebini; spremembe zapiši tukaj in v register.
 
 ## Pravila razvrščanja
@@ -174,6 +181,7 @@ Ob novem receptu: shrani izvirnik → prepiši in uredi → dodeli ID ter glavno
 
 ## Dnevnik vsebine in odločitev
 
+- 11. 11. 2026: uporabnik je naročil poglavje »Okisovanje« z osnovnim receptom in prosil, naj se pogleda Mojmirjev način z vakuumiranjem. Iskanje po okusno.je in 24ur ni našlo njegovega postopka. Dodan R0052 z razmerjem iz R0023 in jasno označeno uredniško vakuumsko tehniko; Mojmirjeva izvedba ostaja odprta.
 - 11. 11. 2026: uporabnik je naročil spletno iskanje recepta za pistacijev biskvit, vprašal o nujnosti vinskega kamna in nato naročil dodajanje obeh receptov v novo poglavje »Biskviti«. Dodana R0050 in R0051 v 15.1; zamenjava vinskega kamna je zapisana kot uredniška varianta pri R0050.
 - 11. 11. 2026: uporabnik je iz videa `HCWKVZK1HPs` naročil še prepis brancinove farse s peko, s količino v fileju namesto v ostružkih, in potrdil dodajanje v poglavje Julius fine dining. Dodan R0049 v 14.2; pisanega recepta za to farso na spletni strani avtorja ni bilo, zato so količine samo iz videa.
 - 11. 11. 2026: uporabnik je poslal `HCWKVZK1HPs` (Jules Cooking) in naročil prepis ostrigine emulzije, nato prilagoditev na celo ostrigo in segrevanje olja v kozici ter novo poglavje »Julius fine dining« v repozitoriju. Dodana R0048 in poglavje 14; uredniške ocene in variante so označene, količine vira nespremenjene.

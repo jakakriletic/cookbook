@@ -13,7 +13,7 @@ from docx.opc.constants import RELATIONSHIP_TYPE as RT
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / 'outputs/moj-kuharski-zvezek-2026-11-09.docx'
 INK, GREEN, COPPER, PAPER, LINE = '252822', '2F5B52', 'A26A35', 'F7F3EB', 'DEDAD1'
-chapters = {1:'Slaščičarske osnove',2:'Sladice',3:'Slane kuharske osnove',4:'Fondi juhe in omake',5:'Zelenjava gobe in priloge',7:'Ribe in morski sadeži',8:'Meso perutnina in divjačina',14:'Julius fine dining',15:'Biskviti'}
+chapters = {1:'Slaščičarske osnove',2:'Sladice',3:'Slane kuharske osnove',4:'Fondi juhe in omake',5:'Zelenjava gobe in priloge',7:'Ribe in morski sadeži',8:'Meso perutnina in divjačina',14:'Julius fine dining',15:'Biskviti',16:'Okisovanje'}
 records = []
 for line in (ROOT/'recepti/REGISTER.md').read_text(encoding='utf-8').splitlines():
     if not re.match(r'\| \[R\d{4}\]', line): continue
@@ -28,7 +28,7 @@ for line in (ROOT/'recepti/REGISTER.md').read_text(encoding='utf-8').splitlines(
     body = re.sub(r'^\s*# [^\n]+\n', '', body, count=1).strip()
     parts = re.split(r'^## Uredniška evidenca\s*$', body, maxsplit=1, flags=re.M)
     records.append(dict(id=rid,file=filename,title=cells[1],num=num,sub=sub,meta=meta,body=parts[0].strip(),notes=parts[1].strip() if len(parts)>1 else ''))
-assert len(records)==50
+assert len(records)==51
 assert 'R0046' not in {r['id'] for r in records}
 records.sort(key=lambda r: (*map(int,r['num'].split('.')),int(r['id'][1:])))
 bookmarks = {r['file']:r['id'] for r in records}
