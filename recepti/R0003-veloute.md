@@ -16,7 +16,7 @@ datum_prejema: "2026-10-29"
 
 **Izplen:** za dopolnitev.
 
-**Razmerje po masi: 1 maslo : 1 moka** za roux. Za količino tekočine je izhodišče bešamel [R0001](R0001-besamel.md), 1 : 1 : 10.
+**Razmerje po masi: 1 maslo : 1 moka** za roux. Za količino tekočine je izhodišče [bešamel](R0001-besamel.md), 1 : 1 : 10.
 
 ## Sestavine
 

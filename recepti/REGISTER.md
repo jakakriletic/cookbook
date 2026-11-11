@@ -4,7 +4,9 @@ Posodobljeno: 11. 11. 2026.
 
 Za vključitev izbranih vnosov: **52** (R0001–R0045 in R0047–R0053). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0054**.
 
-**11. 11. 2026:** dodana poglavja 14 Julius fine dining (R0048, R0049), 15 Biskviti (R0050, R0051) in 16 Okisovanje (R0052, R0053). Wordova knjiga in PDF z dne 9. 11. še nista ponovno sestavljena in teh šestih vnosov ne vsebujeta. Pri 12 receptih je dodana vrstica »Razmerje po masi«; pregled v `reference/razmerja-2026-11-11.md`.
+**11. 11. 2026:** dodana poglavja 14 Julius fine dining (R0048, R0049), 15 Biskviti (R0050, R0051) in 16 Okisovanje (R0052, R0053). Vsi so vključeni v berljivo izdajo z dne 11. 11. 2026. Pri 12 receptih je dodana vrstica »Razmerje po masi«; pregled v `reference/razmerja-2026-11-11.md`.
+
+**Berljiva izdaja, 11. 11. 2026:** vseh 52 aktivnih vnosov je v [Wordovi knjigi](../outputs/moj-kuharski-zvezek.docx) in [PDF](../outputs/moj-kuharski-zvezek.pdf), 10 poglavij, 87 strani. Uredniške opombe so samo v izvornih datotekah, ne v tisku; podrobnosti v `reference/izdaja-2026-11-11.md`.
 
 **Pregledna izdaja z izboljšano berljivostjo, 9. 11. 2026:** vseh 46 aktivnih vnosov je sestavljenih v [Wordovo knjigo](../outputs/moj-kuharski-zvezek-2026-11-09.docx) in [PDF za listanje](../outputs/moj-kuharski-zvezek-2026-11-09.pdf), skupaj 93 strani z naslovnico, kazalom in viri. Vključeni so razširjen tehnični postopek makronov, krema za tri rumenjake in praktično zaokrožene količine. Namesto tabel so seznami s količino ob sestavini in glavno pisavo 12 pt. Številčenje strani v kazalu je posodobljeno; stanje receptur ostaja delovno.
 
