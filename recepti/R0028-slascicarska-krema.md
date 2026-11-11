@@ -1,7 +1,7 @@
 ---
 id: R0028
 naslov: "Slaščičarska krema (crème pâtissière)"
-poglavje: "Slaščičarske osnove"
+poglavje: "Kreme in polnila"
 podpoglavje: "Osnovne kreme"
 oznake: [krema, vanilja, škrob, Francija]
 izvor: "David Turner, King Arthur Baking"

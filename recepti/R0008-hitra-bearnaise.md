@@ -1,7 +1,7 @@
 ---
 id: R0008
 naslov: "Hitra omaka béarnaise"
-poglavje: "Fondi juhe in omake"
+poglavje: "Omake"
 podpoglavje: "Matične in izpeljane omake"
 oznake: [izpeljana omaka, hollandaise, pehtran, šalotka, Francija]
 izvor: "Fallowova hitra različica francoske omake"

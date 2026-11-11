@@ -1,8 +1,8 @@
 ---
 id: R0040
 naslov: "Pasijonkin mousse s pâte à bombe"
-poglavje: "Slaščičarske osnove"
-podpoglavje: "Moussi — sladke pene"
+poglavje: "Moussi"
+podpoglavje: "Sadni moussi"
 oznake: ["mousse","pasijonka","sadje","pâte à bombe"]
 izvor: "Sally Elias, objava z dovoljenjem iz The Pastry Chef’s Little Black Book"
 vir: "https://thecakemd.wordpress.com/2021/02/08/passion-fruit-mousse/"

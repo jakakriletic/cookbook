@@ -1,8 +1,8 @@
 ---
 id: R0012
 naslov: "Gobova osnova"
-poglavje: "Fondi juhe in omake"
-podpoglavje: "Fondi in osnove"
+poglavje: "Kuharske osnove"
+podpoglavje: "Fondi"
 oznake: [fond, gobe, šampinjoni, vegetarijansko]
 izvor: "Izvedba Adam Byatt, Trinity"
 vir: "https://www.youtube.com/watch?v=2sO4nVF6In8"

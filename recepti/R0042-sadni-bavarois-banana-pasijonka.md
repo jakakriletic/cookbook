@@ -1,8 +1,8 @@
 ---
 id: R0042
 naslov: "Sadni bavarois — banana in pasijonka"
-poglavje: "Slaščičarske osnove"
-podpoglavje: "Moussi — sladke pene"
+poglavje: "Moussi"
+podpoglavje: "Sadni moussi"
 oznake: ["mousse","bavarois","banana","pasijonka","anglaise"]
 izvor: "Benoit Blin za Ponthier, Exotic fruits bavarois, komponenta 3"
 vir: "https://www.ponthier.fr/en/our-recipes/exotic-fruits-bavarois/"

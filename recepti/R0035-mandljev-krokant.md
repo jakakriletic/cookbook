@@ -1,8 +1,8 @@
 ---
 id: R0035
 naslov: "Mandljev krokant (nougatine)"
-poglavje: "Slaščičarske osnove"
-podpoglavje: "Sladkor in karamela"
+poglavje: "Meringe in hrustljavi dodatki"
+podpoglavje: "Hrustljave ploščice in krokant"
 oznake: [krokant, nougatine, mandlji, karamela, dekoracija]
 izvor: "The BC Cook Articulation Committee, Modern Pastry and Plated Dessert Techniques, 2015"
 vir: "https://opentextbc.ca/modernpastryandplateddesserts/back-matter/appendix-standard-recipes-for-dessert-garnishes/"

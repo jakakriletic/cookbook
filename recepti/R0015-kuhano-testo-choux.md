@@ -1,8 +1,8 @@
 ---
 id: R0015
 naslov: "Kuhano testo (pâte à choux)"
-poglavje: "Slaščičarske osnove"
-podpoglavje: "Testa in biskviti"
+poglavje: "Testa"
+podpoglavje: "Osnovna testa"
 oznake: [testo, choux, eklerji, profiterole, Paris-Brest, gougères, Francija]
 izvor: "Francoska slaščičarska osnova; izvedba Adam Byatt, Trinity"
 vir: "https://www.youtube.com/watch?v=iCNhlUSNjVE"

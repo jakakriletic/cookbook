@@ -1,7 +1,7 @@
 ---
 id: R0010
 naslov: "Romesco po Fallowu"
-poglavje: "Fondi juhe in omake"
+poglavje: "Omake"
 podpoglavje: "Matične in izpeljane omake"
 oznake: [izpeljana omaka, paradižnik, paprika, mandlji, Španija, Katalonija]
 izvor: "Katalonski romesco; izvedba Fallow s pripravljeno paradižnikovo osnovo"

@@ -1,8 +1,8 @@
 ---
 id: R0032
 naslov: "Švicarska maslena krema"
-poglavje: "Slaščičarske osnove"
-podpoglavje: "Osnovne kreme"
+poglavje: "Kreme in polnila"
+podpoglavje: "Maslene kreme"
 oznake: [maslena krema, švicarska meringa, torta]
 izvor: "Susan Reid, King Arthur Baking"
 vir: "https://www.kingarthurbaking.com/recipes/swiss-meringue-buttercream-recipe"

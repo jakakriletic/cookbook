@@ -1,8 +1,8 @@
 ---
 id: R0011
 naslov: "Ribji fumet"
-poglavje: "Fondi juhe in omake"
-podpoglavje: "Fondi in osnove"
+poglavje: "Kuharske osnove"
+podpoglavje: "Fondi"
 oznake: [fond, ribe, ploščate ribe, Francija]
 izvor: "Francoska kuharska osnova; izvedba Adam Byatt, Trinity"
 vir: "https://www.youtube.com/watch?v=2sO4nVF6In8"

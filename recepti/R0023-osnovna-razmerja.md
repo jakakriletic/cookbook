@@ -1,7 +1,7 @@
 ---
 id: R0023
 naslov: "Osnovna kuharska razmerja"
-poglavje: "Slane kuharske osnove"
+poglavje: "Kuharske osnove"
 podpoglavje: "Osnovna razmerja"
 oznake: [razmerja, majoneza, aioli, vinaigrette, vlaganje, pekoča omaka, marinada, mleto meso, Fallow]
 izvor: "Fallow; po knjigi Michaela Ruhlmana »Ratio«"

@@ -1,7 +1,7 @@
 ---
 id: R0002
 naslov: "Čebulna omaka soubise"
-poglavje: "Fondi juhe in omake"
+poglavje: "Omake"
 podpoglavje: "Matične in izpeljane omake"
 oznake: [izpeljana omaka, bešamel, čebula, Francija]
 izvor: "Francoska omaka; izvedba Fallow"

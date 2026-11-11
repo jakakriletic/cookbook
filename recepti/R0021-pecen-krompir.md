@@ -1,7 +1,7 @@
 ---
 id: R0021
 naslov: "Pečen krompir na račji masti"
-poglavje: "Zelenjava gobe in priloge"
+poglavje: "Priloge"
 podpoglavje: "Krompir"
 oznake: [krompir, pečenje, račja mast, nedeljsko kosilo, Anglija]
 izvor: "Britansko nedeljsko kosilo; izvedba Adam Byatt"

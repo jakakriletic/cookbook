@@ -1,8 +1,8 @@
 ---
 id: R0034
 naslov: "Sušene meringe — francoski in švicarski postopek"
-poglavje: "Slaščičarske osnove"
-podpoglavje: "Meringe in pene"
+poglavje: "Meringe in hrustljavi dodatki"
+podpoglavje: "Meringe"
 oznake: [meringa, beljaki, hrustljavo, dekoracija]
 izvor: "The BC Cook Articulation Committee, Modern Pastry and Plated Dessert Techniques, 2015"
 vir: "https://opentextbc.ca/modernpastryandplateddesserts/back-matter/appendix-standard-recipes-for-dessert-garnishes/"

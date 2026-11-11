@@ -1,8 +1,8 @@
 ---
 id: R0041
 naslov: "Čokoladni mousse na osnovi crème anglaise"
-poglavje: "Slaščičarske osnove"
-podpoglavje: "Moussi — sladke pene"
+poglavje: "Moussi"
+podpoglavje: "Čokoladni moussi"
 oznake: ["mousse","čokolada","anglaise","torta"]
 izvor: "L’École Valrhona, Chocolate Mousse with Crème Anglaise"
 vir: "https://essentials.valrhona.com/essential/52"

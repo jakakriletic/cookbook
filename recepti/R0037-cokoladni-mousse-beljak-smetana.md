@@ -1,8 +1,8 @@
 ---
 id: R0037
 naslov: "Čokoladni mousse z rumenjaki, snegom in stepeno smetano"
-poglavje: "Slaščičarske osnove"
-podpoglavje: "Moussi — sladke pene"
+poglavje: "Moussi"
+podpoglavje: "Čokoladni moussi"
 oznake: ["mousse","čokolada","beljaki","stepena smetana"]
 izvor: "Nagi Maehashi, RecipeTin Eats, Chocolate Mousse"
 vir: "https://www.recipetineats.com/chocolate-mousse/"

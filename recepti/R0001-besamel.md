@@ -1,7 +1,7 @@
 ---
 id: R0001
 naslov: "Bešamel"
-poglavje: "Fondi juhe in omake"
+poglavje: "Omake"
 podpoglavje: "Matične in izpeljane omake"
 oznake: [matična omaka, mleko, roux, Francija]
 izvor: "Francoska kuharska osnova; izvedba Fallow"

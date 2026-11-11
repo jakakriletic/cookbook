@@ -1,8 +1,8 @@
 ---
 id: R0018
 naslov: "Korenčkov pire s kumino in koriandrom"
-poglavje: "Zelenjava gobe in priloge"
-podpoglavje: "Pireji in kreme"
+poglavje: "Priloge"
+podpoglavje: "Pireji"
 oznake: [pire, korenček, korenčkov sok, kumina, koriander]
 izvor: "Izvedba Fallow"
 vir: "https://www.youtube.com/watch?v=qal3bbhiG88&t=404s"

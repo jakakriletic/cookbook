@@ -1,8 +1,8 @@
 ---
 id: R0036
 naslov: "Čokoladni mousse z beljaki — temni, mlečni in beli"
-poglavje: "Slaščičarske osnove"
-podpoglavje: "Moussi — sladke pene"
+poglavje: "Moussi"
+podpoglavje: "Čokoladni moussi"
 oznake: ["mousse","čokolada","beljaki","trije okusi"]
 izvor: "Valrhona, 5 shades of mousse"
 vir: "https://www.valrhona.com/en/inspiring-you/recipes/all-our-recipes/5-shades-of-mousse"

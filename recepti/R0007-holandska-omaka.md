@@ -1,7 +1,7 @@
 ---
 id: R0007
 naslov: "Holandska omaka"
-poglavje: "Fondi juhe in omake"
+poglavje: "Omake"
 podpoglavje: "Matične in izpeljane omake"
 oznake: [matična omaka, hollandaise, topla emulzija, rumenjaki, Francija]
 izvor: "Francoska kuharska osnova; izvedba Fallow"

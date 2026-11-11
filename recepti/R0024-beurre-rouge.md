@@ -1,8 +1,8 @@
 ---
 id: R0024
 naslov: "Beurre rouge"
-poglavje: "Fondi juhe in omake"
-podpoglavje: "Maslene omake in emulzije"
+poglavje: "Omake"
+podpoglavje: "Maslene omake"
 oznake: [maslena omaka, emulzija, rdeče vino, šalotka, Francija]
 izvor: "Francoska maslena omaka; izvedba Fallow"
 vir: "https://www.youtube.com/shorts/2e_MwhbA8_s"

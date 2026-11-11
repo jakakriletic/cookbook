@@ -1,7 +1,7 @@
 ---
 id: R0009
 naslov: "Paradižnikova omaka"
-poglavje: "Fondi juhe in omake"
+poglavje: "Omake"
 podpoglavje: "Matične in izpeljane omake"
 oznake: [matična omaka, sauce tomat, paradižnik, Francija]
 izvor: "Fallowova izvedba sauce tomat"

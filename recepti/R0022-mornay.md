@@ -1,7 +1,7 @@
 ---
 id: R0022
 naslov: "Omaka Mornay"
-poglavje: "Fondi juhe in omake"
+poglavje: "Omake"
 podpoglavje: "Matične in izpeljane omake"
 oznake: [izpeljana omaka, bešamel, sir, Francija]
 izvor: "Francoska izpeljanka bešamela; izvedba Fallow"

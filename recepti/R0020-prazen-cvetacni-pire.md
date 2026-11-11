@@ -1,8 +1,8 @@
 ---
 id: R0020
 naslov: "Pražen cvetačni pire s parmezanom"
-poglavje: "Zelenjava gobe in priloge"
-podpoglavje: "Pireji in kreme"
+poglavje: "Priloge"
+podpoglavje: "Pireji"
 oznake: [pire, cvetača, karamelizacija, parmezan, kis]
 izvor: "Izvedba Fallow; dolgoletni pire na meniju restavracije"
 vir: "https://www.youtube.com/watch?v=qal3bbhiG88&t=1002s"

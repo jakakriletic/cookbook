@@ -1,8 +1,8 @@
 ---
 id: R0039
 naslov: "Čokoladni mousse s pâte à bombe"
-poglavje: "Slaščičarske osnove"
-podpoglavje: "Moussi — sladke pene"
+poglavje: "Moussi"
+podpoglavje: "Čokoladni moussi"
 oznake: ["mousse","čokolada","pâte à bombe","torta"]
 izvor: "L’École Valrhona, Bombe Chocolate Mousse"
 vir: "https://essentials.valrhona.com/essential/51"

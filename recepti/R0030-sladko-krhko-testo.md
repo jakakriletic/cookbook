@@ -1,8 +1,8 @@
 ---
 id: R0030
 naslov: "Sladko krhko testo (pâte sucrée)"
-poglavje: "Slaščičarske osnove"
-podpoglavje: "Testa in biskviti"
+poglavje: "Testa"
+podpoglavje: "Osnovna testa"
 oznake: [krhko testo, tart, Francija]
 izvor: "Koch-Wiki, Pâte sucrée, različica 391137"
 vir: "https://www.kochwiki.org/index.php?title=P%C3%A2te_sucr%C3%A9e&oldid=391137"

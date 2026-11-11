@@ -1,7 +1,7 @@
 ---
 id: R0029
 naslov: "Vaniljeva omaka (crème anglaise)"
-poglavje: "Slaščičarske osnove"
+poglavje: "Kreme in polnila"
 podpoglavje: "Osnovne kreme"
 oznake: [vanilja, jajčna krema, sladka omaka, Francija]
 izvor: "Eddie Benghanem, Le Grand Cours de pâtisserie; spletno objavljena receptura"

@@ -1,8 +1,8 @@
 ---
 id: R0038
 naslov: "Sadni mousse iz pireja, želatine in smetane"
-poglavje: "Slaščičarske osnove"
-podpoglavje: "Moussi — sladke pene"
+poglavje: "Moussi"
+podpoglavje: "Sadni moussi"
 oznake: ["mousse","sadje","brez jajc","želatina"]
 izvor: "Ravifruit, Recettes – Recipes, 11/2014, stran 2"
 vir: "https://files.meilleurduchef.com/mdc/pdf/produit/rav/puree-fruit-framboise-ravifruit/recettes_sorbets_pates_de_fruits_mousses.pdf"

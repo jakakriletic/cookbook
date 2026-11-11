@@ -1,7 +1,7 @@
 ---
 id: R0005
 naslov: "Espagnole po Fallowu"
-poglavje: "Fondi juhe in omake"
+poglavje: "Omake"
 podpoglavje: "Matične in izpeljane omake"
 oznake: [matična omaka, rjava omaka, goveji fond, slanina, Francija]
 izvor: "Francoska kuharska osnova; izvedba Fallow"

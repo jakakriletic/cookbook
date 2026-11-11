@@ -1,8 +1,8 @@
 ---
 id: R0019
 naslov: "Zelen pire bučk z baziliko"
-poglavje: "Zelenjava gobe in priloge"
-podpoglavje: "Pireji in kreme"
+poglavje: "Priloge"
+podpoglavje: "Pireji"
 oznake: [pire, bučke, bazilika, drobnjak, veganski, hitro kuhanje]
 izvor: "Izvedba Fallow"
 vir: "https://www.youtube.com/watch?v=qal3bbhiG88&t=709s"

@@ -1,8 +1,8 @@
 ---
 id: R0016
 naslov: "Bel cvetačni pire"
-poglavje: "Zelenjava gobe in priloge"
-podpoglavje: "Pireji in kreme"
+poglavje: "Priloge"
+podpoglavje: "Pireji"
 oznake: [pire, cvetača, smetana, potenje, juha]
 izvor: "Izvedba Adam Byatt, Trinity"
 vir: "https://www.youtube.com/watch?v=il2tY3X9O3k"

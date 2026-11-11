@@ -1,8 +1,8 @@
 ---
 id: R0043
 naslov: "Čokoladni mousse iz ganaša in stepene smetane"
-poglavje: "Slaščičarske osnove"
-podpoglavje: "Moussi — sladke pene"
+poglavje: "Moussi"
+podpoglavje: "Čokoladni moussi"
 oznake: ["mousse","čokolada","ganaš","brez jajc"]
 izvor: "L’École Gourmet Valrhona, Guanaja, pear and cookie, komponenta 4"
 vir: "https://www.valrhona.com/en/inspiring-you/recipes/all-our-recipes/guanaja-pear-and-cookie"

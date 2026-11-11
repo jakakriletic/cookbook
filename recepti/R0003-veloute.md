@@ -1,7 +1,7 @@
 ---
 id: R0003
 naslov: "Velouté"
-poglavje: "Fondi juhe in omake"
+poglavje: "Omake"
 podpoglavje: "Matične in izpeljane omake"
 oznake: [matična omaka, svetli fond, roux, Francija]
 izvor: "Francoska kuharska osnova; izvedba Fallow"

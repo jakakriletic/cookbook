@@ -1,8 +1,8 @@
 ---
 id: R0013
 naslov: "Gobov pire"
-poglavje: "Zelenjava gobe in priloge"
-podpoglavje: "Pireji in kreme"
+poglavje: "Priloge"
+podpoglavje: "Pireji"
 oznake: [pire, gobe, šampinjoni, madeira, smetana]
 izvor: "Izvedba Adam Byatt, Trinity"
 vir: "https://www.youtube.com/watch?v=2sO4nVF6In8"

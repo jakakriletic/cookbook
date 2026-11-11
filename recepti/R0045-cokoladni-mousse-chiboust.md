@@ -1,8 +1,8 @@
 ---
 id: R0045
 naslov: "Čokoladni mousse na osnovi Chiboust"
-poglavje: "Slaščičarske osnove"
-podpoglavje: "Moussi — sladke pene"
+poglavje: "Moussi"
+podpoglavje: "Čokoladni moussi"
 oznake: ["mousse","čokolada","Chiboust","slaščičarska krema"]
 izvor: "Matt Adlard, Chocolate Mousse Guide, Chiboust Base"
 vir: "https://mattadlard.com/recipes/chocolate-mousse-guide/"

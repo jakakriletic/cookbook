@@ -1,8 +1,8 @@
 ---
 id: R0027
 naslov: "Čokoladni ganaš za makrone po Valrhoni"
-poglavje: "Slaščičarske osnove"
-podpoglavje: "Čokolada"
+poglavje: "Kreme in polnila"
+podpoglavje: "Ganaši"
 oznake: [čokolada, ganaš, polnilo, makroni]
 izvor: "Valrhona, Dark Chocolate Macarons; komponenta ganache"
 vir: "https://www.valrhona.us/our-recipes/recipes/all-our-recipes/dark-chocolate-macarons"

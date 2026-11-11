@@ -1,8 +1,8 @@
 ---
 id: R0014
 naslov: "Morski list bonne femme"
-poglavje: "Ribe in morski sadeži"
-podpoglavje: "Ribje jedi"
+poglavje: "Glavne jedi"
+podpoglavje: "Ribe"
 oznake: [morski list, dušenje, smetanova omaka, gobe, Francija, Escoffier]
 izvor: "Klasična francoska jed; sodobna izvedba Adam Byatt, Trinity"
 vir: "https://www.youtube.com/watch?v=2sO4nVF6In8"

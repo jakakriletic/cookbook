@@ -1,8 +1,8 @@
 ---
 id: R0047
 naslov: "Francoska maslena krema"
-poglavje: "Slaščičarske osnove"
-podpoglavje: "Osnovne kreme"
+poglavje: "Kreme in polnila"
+podpoglavje: "Maslene kreme"
 oznake: [maslena krema, rumenjaki, pâte à bombe, polnilo, Francija]
 izvor: "Francija; izvedba Johna Kanella, Preppy Kitchen"
 vir: "https://www.youtube.com/watch?v=rBheeACVC9w"

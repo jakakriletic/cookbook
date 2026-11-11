@@ -1,8 +1,8 @@
 ---
 id: R0033
 naslov: "Tuiles — tanke hrustljave ploščice"
-poglavje: "Slaščičarske osnove"
-podpoglavje: "Testa in biskviti"
+poglavje: "Meringe in hrustljavi dodatki"
+podpoglavje: "Hrustljave ploščice in krokant"
 oznake: [tuiles, hrustljavo, dekoracija, Francija]
 izvor: "The BC Cook Articulation Committee, Modern Pastry and Plated Dessert Techniques, 2015"
 vir: "https://opentextbc.ca/modernpastryandplateddesserts/back-matter/appendix-standard-recipes-for-dessert-garnishes/"

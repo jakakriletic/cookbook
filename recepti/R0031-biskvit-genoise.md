@@ -1,8 +1,8 @@
 ---
 id: R0031
 naslov: "Masleni biskvit génoise"
-poglavje: "Slaščičarske osnove"
-podpoglavje: "Testa in biskviti"
+poglavje: "Biskviti"
+podpoglavje: "Klasični biskviti"
 oznake: [biskvit, génoise, jajčna pena]
 izvor: "King Arthur Test Kitchen"
 vir: "https://www.kingarthurbaking.com/recipes/genoise-recipe"

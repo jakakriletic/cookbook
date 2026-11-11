@@ -24,27 +24,34 @@ DUMP = ROOT / 'work/knjiga-besedilo.txt'
 
 INK, MUTED, GREEN, COPPER, PAPER, BOX = '23261F', '676B62', '2F5B52', 'A26A35', 'FBF8F2', 'F1EBDF'
 
-# Vrstni red poglavij v tisku: sladko, nato slano, na koncu sestavljeni krožniki.
-# Ključ je številka poglavja v registru; prikazne številke so zaporedne.
+# Poglavja: najprej sladko (1–6), nato slano (7–11), na koncu Julius fine dining (12).
+# Številke so enake v registru in v knjigi. Vrstni red receptov znotraj
+# podpoglavja je vrstni red vrstic v registru.
 CHAPTERS = [
-    (1, 'Slaščičarske osnove'),
-    (15, 'Biskviti'),
-    (2, 'Sladice'),
-    (3, 'Slane kuharske osnove'),
-    (16, 'Okisovanje'),
-    (4, 'Fondi, juhe in omake'),
-    (5, 'Zelenjava, gobe in priloge'),
-    (7, 'Ribe in morski sadeži'),
-    (8, 'Meso, perutnina in divjačina'),
-    (14, 'Julius fine dining'),
+    (1, 'Kreme in polnila'),
+    (2, 'Testa'),
+    (3, 'Biskviti'),
+    (4, 'Meringe in hrustljavi dodatki'),
+    (5, 'Moussi'),
+    (6, 'Drobno pecivo'),
+    (7, 'Kuharske osnove'),
+    (8, 'Okisovanje'),
+    (9, 'Omake'),
+    (10, 'Priloge'),
+    (11, 'Glavne jedi'),
+    (12, 'Julius fine dining'),
 ]
+PARTS = {1: 'SLADKO', 7: 'SLANO', 12: 'FINE DINING'}
 
 # Pregledne strani podpoglavij: kateri razdelki gredo v tisk.
 OVERVIEWS = {
-    '1.9': ('01-09-moussi.md', ['Kateri mousse za kaj', 'Kako razumeti različne postopke', 'Natančnost, ki odloča o rezultatu']),
-    '4.4': ('04-04-maticne-in-izpeljane-omake.md', []),
-    '5.4': ('05-04-pireji-in-kreme.md', ['Skupna pravila', 'Predstavitev']),
+    '5.1': ('01-09-moussi.md', ['Kateri mousse za kaj', 'Kako razumeti različne postopke', 'Natančnost, ki odloča o rezultatu']),
+    '9.1': ('04-04-maticne-in-izpeljane-omake.md', []),
+    '10.2': ('05-04-pireji-in-kreme.md', ['Skupna pravila', 'Predstavitev']),
 }
+
+# Recepti z glavnim mestom drugje, ki jih je smiselno najti tudi v tem poglavju.
+SEE_ALSO = {9: ['R0048'], 11: ['R0049']}
 
 # Razdelki receptov: preimenovanje za tisk ali izpust (None).
 SECTION_MAP = {
@@ -204,7 +211,9 @@ files = {r['file']: r['id'] for r in records}
 order = {key: i for i, (key, _) in enumerate(CHAPTERS)}
 missing = {int(r['num'].split('.')[0]) for r in records} - set(order)
 assert not missing, f'Poglavja brez imena v CHAPTERS: {missing}'
-records.sort(key=lambda r: (order[int(r['num'].split('.')[0])], int(r['num'].split('.')[1]), int(r['id'][1:])))
+for pos, r in enumerate(records):
+    r['pos'] = pos
+records.sort(key=lambda r: (order[int(r['num'].split('.')[0])], int(r['num'].split('.')[1]), r['pos']))
 
 # Prikazne številke: zaporedna poglavja in podpoglavja.
 display = {}
@@ -605,10 +614,23 @@ for subnum, items in group.items():
     ch = int(subnum.split('.')[0])
     disp_sub = sub_no[subnum]
     if ch != last_ch:
-        p = doc.add_paragraph(f'{chapter_no[ch]}  {chapter_names[ch]}', 'Heading 1')
-        p.paragraph_format.page_break_before = True
+        if ch in PARTS:
+            p = para(PARTS[ch], 'Eyebrow'); p.paragraph_format.page_break_before = True
+            p = doc.add_paragraph(f'{chapter_no[ch]}  {chapter_names[ch]}', 'Heading 1')
+        else:
+            p = doc.add_paragraph(f'{chapter_no[ch]}  {chapter_names[ch]}', 'Heading 1')
+            p.paragraph_format.page_break_before = True
         bookmark(p, f'CH{chapter_no[ch]}'); last_ch = ch
         dump.append(f'\n\n######## {chapter_no[ch]} {chapter_names[ch]}')
+        if ch in SEE_ALSO:
+            p = doc.add_paragraph(style='Small')
+            p.add_run('Glej tudi: ')
+            for k, rid in enumerate(SEE_ALSO[ch]):
+                if k: p.add_run(', ')
+                link(p, titles[rid], next(r['file'] for r in records if r['id'] == rid))
+                other = int(next(r['num'] for r in records if r['id'] == rid).split('.')[0])
+                p.add_run(f' ({chapter_names[other]})')
+            dump.append('Glej tudi: ' + ', '.join(titles[x] for x in SEE_ALSO[ch]))
         p = doc.add_paragraph(f'{disp_sub}  {items[0]["sub"]}', 'Heading 2')
     else:
         p = doc.add_paragraph(f'{disp_sub}  {items[0]["sub"]}', 'Heading 2')

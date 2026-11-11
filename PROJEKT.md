@@ -4,6 +4,8 @@ Osebna kuharska knjiga za pripravo na MasterChef. Namen je hiter pregled med vaj
 
 ## Stanje
 
+11. 11. 2026 — poenotena zgradba: na uporabnikovo željo, da se v knjigi res znajde, so poglavja preurejena po vrsti jedi, najprej sladko (1–6), nato slano (7–11), na koncu 12 Julius fine dining, ki po uporabnikovi želji ostane samostojno. Številke so zdaj enake v registru in v knjigi. Génoise je v 3 Biskviti, moussi so razdeljeni na čokoladne in sadne, omake so urejene po družinah. Pri Omakah in Glavnih jedeh je vrstica »Glej tudi« na recepte iz poglavja Julius. Nova zgradba in pravila so spodaj v razdelku »Poglavja in podpoglavja«.
+
 11. 11. 2026 — nova berljiva izdaja: uporabnik je naročil pregled celotne knjige in PDF brez nepotrebnih besedil v čim bolj intuitivnem slogu. `scripts/sestavi_knjigo.py` je prepisan: iz tiska izpusti uredniške opombe, oznake virov, »za dopolnitev«, trajne ID, opremo in uvodno stran; ključni podatki in razmerje po masi so v poudarjenem polju, sestavine v poravnanih stolpcih, viri v eni vrstici na recept na koncu. Poglavja so v tisku urejena od sladkega k slanemu in zaporedno oštevilčena. Nova datoteka `outputs/moj-kuharski-zvezek.docx` in PDF imata 52 receptov, 10 poglavij in 87 strani; izdaja z dne 9. 11. je odstranjena iz `outputs/`. Podrobnosti in predlogi vsebinske ureditve: `reference/izdaja-2026-11-11.md`.
 
 11. 11. 2026 — razmerja in okisano sadje: dodan R0053, okisano sadje v vakuumu (16.1), uredniška prilagoditev R0052 z nalivom 1 : 1 : 1. Uporabnik je naročil, naj se pri vseh jedeh z znanim razmerjem to vedno navede. Pregledana je cela zbirka; vrstica **»Razmerje po masi«** je takoj pod izplenom pri R0003, R0007, R0011, R0015, R0026, R0027, R0029, R0030, R0032, R0034, R0049 in R0052, poleg obstoječih R0001, R0022 in R0023. Kjer se receptura razlikuje od klasičnega razmerja, sta navedeni obe. Pregled, viri in izpuščeni recepti: `reference/razmerja-2026-11-11.md`. Aktivnih vnosov je 52, naslednji ID R0054; DOCX in PDF z dne 9. 11. ostajata nesestavljena.
@@ -50,89 +52,43 @@ Naslovnica → kazalo po poglavjih, podpoglavjih in receptih → recepti → stv
 
 Kazalo bo takoj za naslovnico in bo obsegalo toliko strani, kot jih zahteva vsebina. Ne rezerviraj več praznih strani vnaprej. Pokaži dejanske številke strani in povezave do receptov. Naslovnica nima vidne številke; kazalo se začne s stranjo 1. V Wordu uporabi sloge Heading 1–3 in samodejno kazalo. Pred izvozom posodobi vsa polja in preveri številke strani. Ne vpisuj izmišljenih številk strani v delovno vsebino.
 
-Tri ravni: `1 Slaščičarske osnove` → `1.1 Osnovne kreme` → `1.1.1 Slaščičarska krema`. Interni naslovi recepta, npr. Sestavine, Postopek in Triki, niso vključeni v kazalo. Številčenje se izdela iz trenutne strukture; trajni ID recepta ostaja isti.
+Tri ravni: `1 Kreme in polnila` → `1.1 Osnovne kreme` → recept. Interni naslovi recepta, npr. Sestavine, Postopek in Nasveti, niso vključeni v kazalo. Številke poglavij in podpoglavij so **enake v registru in v knjigi**; trajni ID recepta ostaja isti.
 
-## Predlagana poglavja in podpoglavja
+## Poglavja in podpoglavja
 
-### 1 Slaščičarske osnove
-1.1 Osnovne kreme · 1.2 Čokolada · 1.3 Testa in biskviti · 1.4 Meringe in pene · 1.5 Želiranje in zgoščevanje · 1.6 Sladkor in karamela · 1.7 Sladoledi in sorbeti · 1.8 Sadni pripravki in sladke omake · 1.9 Moussi — sladke pene
+Zgradba je poenotena 11. 11. 2026 na uporabnikovo željo, da bo hitro jasno, kje je kaj. Poglavja so urejena **po vrsti jedi oziroma komponente**, najprej sladko, nato slano. Edina izjema je poglavje 12 Julius fine dining, ki je po izrecni uporabnikovi želji urejeno po viru (Jules Cooking), da so njegovi fine dining recepti zbrani skupaj. Vrstni red receptov znotraj podpoglavja je vrstni red vrstic v registru.
 
-Pregled zapolnjene vsebine je v `recepti/01-slascicarske-osnove.md`. R0028, R0029 in R0032 so v 1.1; R0030, R0031 in R0033 v 1.3; R0034 v 1.4; R0035 v 1.6. Crème anglaise ima glavno mesto v 1.1 in samo sklic iz 1.8. Tuiles so osnovna tehnika v 1.3 in se iz 2.1 samo sklicujejo. Tri različice tuiles so v enem vnosu; prav tako dva kratka postopka za sušeno meringo. Podpoglavji 1.5 in 1.7 ostajata predvideni, brez dodajanja praznih strani v izdajo.
+**Sladko**
 
-### 2 Sladice
-2.1 Sladice na krožniku · 2.2 Torte in rezine · 2.3 Pite in tarti · 2.4 Sladice v kozarcu · 2.5 Topli narastki in druge tople sladice · 2.6 Drobno pecivo
+| Poglavje | Podpoglavja (zapolnjena) | Kaj sodi sem |
+| --- | --- | --- |
+| 1 Kreme in polnila | 1.1 Osnovne kreme · 1.2 Maslene kreme · 1.3 Ganaši | kuhane jajčne kreme, maslene kreme, čokoladna polnila |
+| 2 Testa | 2.1 Osnovna testa | choux, krhko, listnato in druga testa |
+| 3 Biskviti | 3.1 Klasični biskviti · 3.2 Pistacijevi biskviti | biskviti in podlage za torte |
+| 4 Meringe in hrustljavi dodatki | 4.1 Meringe · 4.2 Hrustljave ploščice in krokant | meringe, tuiles, krokant, karamela |
+| 5 Moussi | 5.1 Čokoladni moussi · 5.2 Sadni moussi | vse sladke pene; pregled `recepti/01-09-moussi.md` je na začetku 5.1 |
+| 6 Drobno pecivo | 6.1 Makroni | makroni, piškoti, drobno pecivo |
 
-Pregled 2.6 je v `recepti/02-06-drobno-pecivo.md`: edina vključena receptura makronov je R0026 po Karimu z italijansko meringo. R0046 po Preppy Kitchen je na uporabnikovo željo umaknjen in arhiviran v `reference/umaknjeni/`. Polnili R0027 in R0047 ohranita glavni mesti v 1.2 oziroma 1.1. Karimova receptura ni podvojena; R0046 se ne uporabi ponovno.
+**Slano**
 
-### 3 Slane kuharske osnove
-3.1 Mise en place in rezi · 3.2 Klasične in sodobne tehnike · 3.3 Farse in mousseline · 3.4 Paniranje in hrustljavi elementi · 3.5 Marinade in slanice · 3.6 Fermentacija in vlaganje · 3.7 Osnovna razmerja
+| Poglavje | Podpoglavja (zapolnjena) | Kaj sodi sem |
+| --- | --- | --- |
+| 7 Kuharske osnove | 7.1 Osnovna razmerja · 7.2 Fondi | razmerja, fondi, osnove, farse in tehnike, ki niso samostojna jed |
+| 8 Okisovanje | 8.1 Hitro okisanje | okisanje in vlaganje zelenjave in sadja (fermentacija naj dobi svoje podpoglavje) |
+| 9 Omake | 9.1 Matične in izpeljane omake · 9.2 Maslene omake | tople in hladne omake, emulzije, prelivi; pregled `recepti/04-04-maticne-in-izpeljane-omake.md` na začetku 9.1 |
+| 10 Priloge | 10.1 Krompir · 10.2 Pireji | zelenjavne priloge, krompir, pireji; pregled `recepti/05-04-pireji-in-kreme.md` na začetku 10.2 |
+| 11 Glavne jedi | 11.1 Ribe · 11.2 Perutnina | končne jedi z ribami, mesom, perutnino |
+| 12 Julius fine dining | 12.1 Emulzije in olja · 12.2 Farse | vsi recepti iz Jules Cooking, ne glede na vrsto |
 
-Podpoglavje 3.7 je dodano 31. 10. 2026 za R0023, skupni vnos kratkih razmerij (majoneza, vinaigrette, vlaganje, pekoča omaka, marinada, mleto meso). Iz 3.5, 3.6 in 4.7 vodijo nanj sklici.
-
-### 4 Fondi juhe in omake
-4.1 Fondi in osnove · 4.2 Bistre juhe in consommé · 4.3 Kremne juhe · 4.4 Matične in izpeljane omake · 4.5 Maslene omake in emulzije · 4.6 Jus in redukcije · 4.7 Hladne omake in prelivi
-
-Vsebina 4.4 je v `recepti/04-04-maticne-in-izpeljane-omake.md`. Omaka Mornay (R0022) je v 4.4 kot izpeljanka bešamela. Beurre rouge (R0024) je prvi recept z glavnim mestom v 4.5. Pet matičnih omak (bešamel, velouté, espagnole, holandska in paradižnikova omaka) ima zaradi skupnega učenja glavno mesto v 4.4, skupaj s poslanimi izpeljankami. Iz 4.5 uporabi sklica na R0007 in R0008. Beurre blanc po morebitni poznejši potrditvi ostane v 4.5.
-
-### 5 Zelenjava gobe in priloge
-5.1 Zelenjava · 5.2 Gobe · 5.3 Krompir · 5.4 Pireji in kreme · 5.5 Stročnice · 5.6 Solate · 5.7 Samostojne zelenjavne jedi
-
-Pregled 5.4 je v `recepti/05-04-pireji-in-kreme.md`: preglednica pirejev in skupna pravila obeh kuharjev. Gobov pire (R0013) je kot komponenta morskega lista uvrščen v 5.4, ne v 5.2.
-
-### 6 Testenine riž in žita
-6.1 Sveže testenine · 6.2 Polnjene testenine · 6.3 Njoki in cmoki · 6.4 Rižote in druge riževe jedi · 6.5 Polenta kaše in druga žita
-
-### 7 Ribe in morski sadeži
-7.1 Čiščenje in filetiranje · 7.2 Ribje jedi · 7.3 Raki · 7.4 Školjke · 7.5 Glavonožci
-
-### 8 Meso perutnina in divjačina
-8.1 Govedina in teletina · 8.2 Svinjina · 8.3 Jagnjetina in kozliček · 8.4 Perutnina · 8.5 Divjačina · 8.6 Drobovina · 8.7 Terine paštete in mesni izdelki
-
-### 9 Jajca sir in mlečne jedi
-9.1 Jajčne tehnike in jedi · 9.2 Sirne jedi · 9.3 Slani narastki in sufleji
-
-### 10 Kruh in slana peka
-10.1 Kruh in droži · 10.2 Focaccia in ploščati kruhi · 10.3 Slane pite in tarti · 10.4 Slani žepki in drugo polnjeno pecivo
-
-### 11 Tuja kulinarika
-11.1 Japonska · 11.2 Indija · 11.3 Kitajska · 11.4 Mongolija · 11.5 Rusija · 11.6 Koreja · 11.7 Tajska in Vietnam · 11.8 Bližnji vzhod · 11.9 Mehika · 11.10 Druge svetovne kuhinje
-
-Države znotraj skupinskih podpoglavij loči v oznakah recepta. Ko bo dovolj vsebine, skupino razdeli in po potrebi preštevilči. Rusija je tukaj po izrecni želji uporabnika. Francija, Italija, Španija, Monako in preostala Evropa se razvrščajo po jedi ali tehniki; izvor ostane oznaka.
-
-### 12 Sestavljeni krožniki in meniji
-12.1 Predjedi · 12.2 Glavne jedi · 12.3 Degustacijski meniji · 12.4 Časovni načrti priprave
-
-### 13 Zapiski z vaj
-13.1 Poskusi in popravki · 13.2 Lastna opažanja · 13.3 Organizacija dela in servis
-
-### 14 Julius fine dining
-14.1 Emulzije in olja · 14.2 Farse in mousseline
-
-Poglavje je dodano 11. 11. 2026 na uporabnikovo željo za recepte in komponente v slogu fine dining po Jules Cooking; ime poglavja je uporabnikovo. Recepti iz tega vira imajo glavno mesto tukaj, tudi kadar bi tehnika sodila v vsebinsko poglavje; iz vsebinskih poglavij se nanje sklicuj. Prvi vnos je R0048; R0049 (brancinova farsa) je v 14.2, iz 3.3 Farse in mousseline nanj vodi sklic. Podpoglavja dodajaj po vsebini.
-
-### 15 Biskviti
-15.1 Pistacijevi biskviti
-
-Poglavje je dodano 11. 11. 2026 na uporabnikovo željo. Prva vnosa sta R0050 in R0051. Masleni biskvit génoise R0031 za zdaj ostaja v 1.3 Testa in biskviti in je iz 15 povezan s sklicem; morebitno selitev odloči uporabnik. Podpoglavja dodajaj po vrsti biskvita.
-
-### 16 Okisovanje
-16.1 Hitro okisanje
-
-Poglavje je dodano 11. 11. 2026 na uporabnikovo željo. Prvi vnos je R0052, drugi R0053 (sadje). Kratko razmerje vlaganja ostaja v R0023 (3.7), 3.6 Fermentacija in vlaganje se na 16 samo sklicuje; fermentacija ne sodi sem. Podpoglavja dodajaj po tehniki.
-
-Poglavja so pripravljena za rast. V dejanski knjigi objavi samo tista, ki vsebujejo recepte ali uporabne zapiske. Razvrstitev lahko prilagodiš vsebini; spremembe zapiši tukaj in v register.
+Novo podpoglavje dodaj v ustrezno poglavje z naslednjo prosto številko (npr. 2.2 Listnato testo, 9.3 Hladne omake, 11.3 Govedina). Novo poglavje dodaj samo, če vsebina ne sodi v nobeno obstoječe, in ga uvrsti v sladki ali slani del; številke za njim se tedaj premaknejo v registru, v `CHAPTERS` skripte `scripts/sestavi_knjigo.py` in tukaj. Predvidena poznejša poglavja, ko bo vsebina: Testenine, riž in žita · Jajca in sirne jedi · Kruh in slana peka · Tuja kulinarika (japonska, indijska, kitajska, mongolska, ruska in druge kuhinje; ruska je izrecna uporabnikova izjema) · Sestavljeni krožniki in meniji. Praznih poglavij ne dodajaj v knjigo.
 
 ## Pravila razvrščanja
 
-Najprej presodi, ali gre za osnovno tehniko, samostojno komponento ali končno jed. Osnovno kremo uvrsti v 1, končno sladico v 2. Univerzalne omake so v 4 in se iz ribjih ali mesnih receptov nanje sklicuj. Sestavljeni krožnik s časovnico je v 12; posamezne komponente ostanejo v svojih poglavjih.
-
-Celovite jedi kuhinj, navedenih v 11, imajo glavno mesto v 11 in oznake po sestavini/tehniki. Univerzalna tehnika, uporabljena v taki jedi, lahko ostane v vsebinskem poglavju in dobi povezavo iz 11. Recepta nikoli ne podvajaj.
-
-Predvidena razvrstitev slogovnih primerov, če jih uporabnik pozneje vključi:
-- Mesni mousse → 3.3 Farse in mousseline; oznaka francoska osnova.
-- Beurre blanc → 4.5 Maslene omake in emulzije; oznaka Francija.
-- Riba s hrustljavimi krompirjevimi luskami → 7.2 Ribje jedi; sklica na farso in omako.
-- Barbajuan → 10.4 Slani žepki in drugo polnjeno pecivo; oznaka Monako.
+1. **Kaj je to?** Komponenta (krema, testo, omaka, fond, pire) gre v poglavje svoje vrste; končna jed v Sladice/Drobno pecivo ali Glavne jedi. Vsak recept ima eno glavno mesto; drugje je samo sklic.
+2. **Recepti Jules Cooking** imajo glavno mesto v 12 Julius fine dining. V vsebinskem poglavju, kamor bi sicer sodili, skripta na začetku poglavja izpiše vrstico »Glej tudi« (`SEE_ALSO` v skripti): ostrigina emulzija pri Omakah, brancinova farsa pri Glavnih jedeh. Uporabnik je izrecno dovolil to delno podvajanje.
+3. **Omake** so v 9.1 urejene po družinah: matična omaka, takoj za njo njene izpeljanke.
+4. **Celovite jedi tujih kuhinj** bodo imele glavno mesto v poglavju Tuja kulinarika; univerzalna tehnika ostane v vsebinskem poglavju s sklicem.
+5. Razvrstitev slogovnih primerov, če jih uporabnik vključi: mesni mousse → 7 Kuharske osnove (farse); beurre blanc → 9.2 Maslene omake; riba s krompirjevimi luskami → 11.1 Ribe; barbajuan → Kruh in slana peka.
 
 ## Vizualni slog
 
@@ -185,6 +141,7 @@ Ob novem receptu: shrani izvirnik → prepiši in uredi → dodeli ID ter glavno
 
 ## Dnevnik vsebine in odločitev
 
+- 11. 11. 2026: uporabnik je naročil poenotenje zgradbe, da se bo znašel. Poglavje Julius fine dining je na vprašanje izrecno želel obdržati (»da vem, kiri so fine dining recepti od njega, tudi če se malo podvoji«). Preštevilčeni so register, glave receptov in skripta; staro načrtovano številčenje 1–16 je nadomeščeno.
 - 11. 11. 2026: uporabnik je naročil pregled smiselnosti knjige in predelavo PDF v maksimalno berljiv slog brez »brezveznih« razlag. Odločitev: izvorne datoteke receptov ostanejo s celotno evidenco, čiščenje se dogaja samo pri sestavi knjige. Vsebinski predlogi (génoise v Biskviti, združitev Slanih osnov in Okisovanja) so zapisani, a ne izvedeni brez uporabnikove potrditve.
 - 11. 11. 2026: uporabnik je vprašal, ali lahko enako okisa sadje, in naročil ločen recept ter trajno pravilo, da se znana razmerja (npr. bešamel, jajčne kreme) vedno navedejo na najbolj intuitivnem mestu. Izbrano mesto je vrstica »Razmerje po masi« pod izplenom, kot jo je že imel R0001. Razmerja niso dodana tam, kjer splošno sprejetega razmerja ni.
 - 11. 11. 2026: uporabnik je naročil poglavje »Okisovanje« z osnovnim receptom in prosil, naj se pogleda Mojmirjev način z vakuumiranjem. Iskanje po okusno.je in 24ur ni našlo njegovega postopka. Dodan R0052 z razmerjem iz R0023 in jasno označeno uredniško vakuumsko tehniko; Mojmirjeva izvedba ostaja odprta.

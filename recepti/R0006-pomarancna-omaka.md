@@ -1,7 +1,7 @@
 ---
 id: R0006
 naslov: "Pomarančna omaka à l'orange"
-poglavje: "Fondi juhe in omake"
+poglavje: "Omake"
 podpoglavje: "Matične in izpeljane omake"
 oznake: [izpeljana omaka, espagnole, pomaranča, raca, Francija]
 izvor: "Izvedba Fallow na francoski osnovi"

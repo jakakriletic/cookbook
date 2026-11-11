@@ -1,7 +1,7 @@
 ---
 id: R0004
 naslov: "Zeliščni velouté"
-poglavje: "Fondi juhe in omake"
+poglavje: "Omake"
 podpoglavje: "Matične in izpeljane omake"
 oznake: [izpeljana omaka, velouté, špinača, zelišča, Francija]
 izvor: "Izvedba Fallow na francoski osnovi"

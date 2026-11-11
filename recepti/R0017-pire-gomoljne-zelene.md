@@ -1,8 +1,8 @@
 ---
 id: R0017
 naslov: "Pire gomoljne zelene z začinjenim mlekom"
-poglavje: "Zelenjava gobe in priloge"
-podpoglavje: "Pireji in kreme"
+poglavje: "Priloge"
+podpoglavje: "Pireji"
 oznake: [pire, gomoljna zelena, koriander, timijan, počasno kuhanje]
 izvor: "Izvedba Fallow; po pireju iz Dinner by Heston"
 vir: "https://www.youtube.com/watch?v=qal3bbhiG88&t=12s"

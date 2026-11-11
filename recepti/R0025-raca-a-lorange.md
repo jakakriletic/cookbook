@@ -1,7 +1,7 @@
 ---
 id: R0025
 naslov: "Račje prsi à l'orange"
-poglavje: "Meso perutnina in divjačina"
+poglavje: "Glavne jedi"
 podpoglavje: "Perutnina"
 oznake: [raca, račje prsi, pomaranča, Cointreau, Francija]
 izvor: "Klasična francoska jed; sodobna izvedba Adam Byatt, Trinity"
