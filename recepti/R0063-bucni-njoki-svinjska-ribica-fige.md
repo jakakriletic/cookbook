@@ -1,8 +1,8 @@
 ---
 id: R0063
 naslov: "Bučni njoki s svinjsko ribico, figami in pecorino omako"
-poglavje: "Glavne jedi"
-podpoglavje: "Svinjina"
+poglavje: "Tuja kulinarika"
+podpoglavje: "Italijanske jedi"
 oznake: [njoki, buča, svinjina, svinjska ribica, fige, pecorino, rumenjak, orehi, jesen]
 izvor: "uporabnikov recept po spominu"
 vir: ""
@@ -52,6 +52,10 @@ Sladki bučni njoki, sočna svinjska ribica in pečene fige, povezani s kremasto
 - **Sol.** Pecorino je zelo slan, zato meso soli zmerno, omake pa ne.
 - **Meso na koncu.** Ribico dodaj čisto na koncu, samo da se pogreje. Sok, ki se nabere med počivanjem, vlij v omako.
 - **Cele fige.** Če želiš, da fige ostanejo lepe, jih po peki odstavi in jih položi na krožnik šele ob serviranju.
+
+## Povezani recepti
+
+- Za pripravo njokov lahko uporabiš [bučne njoke iz kaboče](R0064-bucni-njoki-iz-kaboce.md).
 
 ## Variante
 

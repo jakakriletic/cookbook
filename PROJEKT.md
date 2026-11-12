@@ -4,6 +4,8 @@ Osebna kuharska knjiga za pripravo na MasterChef. Namen je hiter pregled med vaj
 
 ## Stanje
 
+12. 11. 2026 — italijanske jedi: dodani bučni njoki iz kaboče po Chef Italiano (R0064) v novo podpoglavje 12.3 Italijanske jedi. Tja je na uporabnikovo željo iz 11.3 Svinjina prestavljen tudi R0063, bučni njoki s svinjsko ribico, figami in pecorino omako. Recepta sta povezana. Iz Glavnih jedi vodi sklic na R0063. Evidenca vira je v `reference/bucni-njoki-chef-italiano-2026-11-12.md`. Word in PDF sta ponovno sestavljena s 63 recepti, 13 poglavji in 109 fizičnimi stranmi. Naslednji ID je R0065.
+
 12. 11. 2026 — bučni njoki: dodan R0063, bučni njoki s svinjsko ribico, figami in pecorino omako, v novo podpoglavje 11.3 Svinjina. Uporabnikov recept po spominu, na izrecno željo konceptualni zapis brez količin; toastani orehi in balzamični kis dodani po uporabnikovi potrditvi. Aktivnih vnosov je 62, naslednji ID R0064. DOCX in PDF nista ponovno sestavljena.
 
 11. 11. 2026 — tople sladice: dodana R0061 čokoladni fondant (lava cake) in R0062 čokoladni sufle v 6.2 Tople sladice; poglavje 6 se zdaj imenuje »Sladice in pecivo«. Aktivnih vnosov je 61, naslednji ID R0063.
@@ -87,8 +89,8 @@ Zgradba je poenotena 11. 11. 2026 na uporabnikovo željo, da bo hitro jasno, kje
 | 8 Okisovanje | 8.1 Hitro okisanje | okisanje in vlaganje zelenjave in sadja (fermentacija naj dobi svoje podpoglavje) |
 | 9 Omake | 9.1 Matične in izpeljane omake · 9.2 Maslene omake | tople in hladne omake, emulzije, prelivi; pregled `recepti/04-04-maticne-in-izpeljane-omake.md` na začetku 9.1 |
 | 10 Priloge | 10.1 Krompir · 10.2 Pireji | zelenjavne priloge, krompir, pireji; pregled `recepti/05-04-pireji-in-kreme.md` na začetku 10.2 |
-| 11 Glavne jedi | 11.1 Ribe · 11.2 Perutnina · 11.3 Svinjina | končne jedi z ribami, mesom, perutnino |
-| 12 Tuja kulinarika | 12.1 Peru · 12.2 Kitajska (sladkokisli piščanec, bao bun) | celovite jedi neevropskih kuhinj; podpoglavje po državi (japonska, indijska, kitajska, mongolska, ruska … ruska je izrecna uporabnikova izjema) |
+| 11 Glavne jedi | 11.1 Ribe · 11.2 Perutnina | končne jedi z ribami, mesom, perutnino |
+| 12 Tuja kulinarika | 12.1 Peru · 12.2 Kitajska (sladkokisli piščanec, bao bun) · 12.3 Italijanske jedi (bučni njoki) | celovite jedi neevropskih kuhinj in podpoglavja po uporabnikovi izbiri, med njimi italijanske jedi |
 | 13 Julius fine dining | 13.1 Emulzije in olja · 13.2 Farse · 13.3 Ceviche | vsi recepti iz Jules Cooking, ne glede na vrsto |
 
 Novo podpoglavje dodaj v ustrezno poglavje z naslednjo prosto številko (npr. 2.2 Listnato testo, 9.3 Hladne omake, 11.3 Govedina). Novo poglavje dodaj samo, če vsebina ne sodi v nobeno obstoječe, in ga uvrsti v sladki ali slani del; številke za njim se tedaj premaknejo v registru, v `CHAPTERS` skripte `scripts/sestavi_knjigo.py` in tukaj. Predvidena poznejša poglavja, ko bo vsebina: Testenine, riž in žita · Jajca in sirne jedi · Kruh in slana peka · Sestavljeni krožniki in meniji. Praznih poglavij ne dodajaj v knjigo.
@@ -98,7 +100,7 @@ Novo podpoglavje dodaj v ustrezno poglavje z naslednjo prosto številko (npr. 2.
 1. **Kaj je to?** Komponenta (krema, testo, omaka, fond, pire) gre v poglavje svoje vrste; končna jed v Sladice/Drobno pecivo ali Glavne jedi. Vsak recept ima eno glavno mesto; drugje je samo sklic.
 2. **Recepti Jules Cooking** imajo glavno mesto v 13 Julius fine dining. V vsebinskem poglavju, kamor bi sicer sodili, skripta na začetku poglavja izpiše vrstico »Glej tudi« (`SEE_ALSO` v skripti): ostrigina emulzija pri Omakah; brancinova farsa, oba cevicheja in sladkokisli piščanec pri Glavnih jedeh (enako velja za jedi iz Tuje kulinarike, ki sodijo med ribe ali meso). Uporabnik je izrecno dovolil to delno podvajanje.
 3. **Omake** so v 9.1 urejene po družinah: matična omaka, takoj za njo njene izpeljanke.
-4. **Celovite jedi neevropskih kuhinj** imajo glavno mesto v 12 Tuja kulinarika, podpoglavje po državi; univerzalna tehnika ostane v vsebinskem poglavju s sklicem.
+4. **Celovite jedi neevropskih kuhinj** imajo glavno mesto v 12 Tuja kulinarika, podpoglavje po državi; univerzalna tehnika ostane v vsebinskem poglavju s sklicem. V tem poglavju sta na uporabnikovo željo R0063 in R0064 uvrščena pod Italijanske jedi.
 5. Razvrstitev slogovnih primerov, če jih uporabnik vključi: mesni mousse → 7 Kuharske osnove (farse); beurre blanc → 9.2 Maslene omake; riba s krompirjevimi luskami → 11.1 Ribe; barbajuan → Kruh in slana peka.
 
 ## Vizualni slog
@@ -145,7 +147,7 @@ Repozitorij je `https://github.com/jakakriletic/cookbook`, remote `origin`, glav
 - `recepti/R0001-kratko-ime.md`: prihodnji recepti s trajnimi ID.
 - `reference/`: izvirne slike in drugi viri.
 - `outputs/vzorec_sloga.html`: samostojen oblikovni prikaz, odpre se v brskalniku in natisne v A4.
-- `outputs/`: oblikovni vzorec, dodatni prikazi in prva pregledna izdaja knjige DOCX ter PDF z dne 9. 11. 2026.
+- `outputs/`: oblikovni vzorec, dodatni prikazi in aktualna knjiga `moj-kuharski-zvezek.docx` ter `moj-kuharski-zvezek.pdf`.
 - `work/`: skripte, vmesne datoteke in preverjanja; ne mešaj z izdajo.
 
 Ob novem receptu: shrani izvirnik → prepiši in uredi → dodeli ID ter glavno mesto → zapiši oznake in povezave → posodobi register → ob izdaji sestavi knjigo, posodobi kazalo in preveri vse strani. Zabeleži datum in spremembe. Kazala strani ne vzdržuj ročno med zbiranjem receptov.

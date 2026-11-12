@@ -52,7 +52,7 @@ OVERVIEWS = {
 }
 
 # Recepti z glavnim mestom drugje, ki jih je smiselno najti tudi v tem poglavju.
-SEE_ALSO = {9: ['R0048'], 11: ['R0049', 'R0054', 'R0055', 'R0056']}
+SEE_ALSO = {9: ['R0048'], 11: ['R0049', 'R0054', 'R0055', 'R0056', 'R0063']}
 
 # Razdelki receptov: preimenovanje za tisk ali izpust (None).
 SECTION_MAP = {
