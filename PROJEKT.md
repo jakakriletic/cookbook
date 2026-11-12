@@ -4,6 +4,8 @@ Osebna kuharska knjiga za pripravo na MasterChef. Namen je hiter pregled med vaj
 
 ## Stanje
 
+12. 11. 2026 — bučni njoki: dodan R0063, bučni njoki s svinjsko ribico, figami in pecorino omako, v novo podpoglavje 11.3 Svinjina. Uporabnikov recept po spominu, na izrecno željo konceptualni zapis brez količin; toastani orehi in balzamični kis dodani po uporabnikovi potrditvi. Aktivnih vnosov je 62, naslednji ID R0064. DOCX in PDF nista ponovno sestavljena.
+
 11. 11. 2026 — tople sladice: dodana R0061 čokoladni fondant (lava cake) in R0062 čokoladni sufle v 6.2 Tople sladice; poglavje 6 se zdaj imenuje »Sladice in pecivo«. Aktivnih vnosov je 61, naslednji ID R0063.
 
 11. 11. 2026 — osnovna testa in bao: dodani R0057 bao bun (12.2 Kitajska), R0058 testo za testenine po uporabnikovih razmerjih, R0059 vlečeno testo s kisom in R0060 flatbread brez kvasa (2.2–2.4). Poglavje 2 Testa zdaj obsega sladka in slana testa. Aktivnih vnosov je 59, naslednji ID R0061.
@@ -85,7 +87,7 @@ Zgradba je poenotena 11. 11. 2026 na uporabnikovo željo, da bo hitro jasno, kje
 | 8 Okisovanje | 8.1 Hitro okisanje | okisanje in vlaganje zelenjave in sadja (fermentacija naj dobi svoje podpoglavje) |
 | 9 Omake | 9.1 Matične in izpeljane omake · 9.2 Maslene omake | tople in hladne omake, emulzije, prelivi; pregled `recepti/04-04-maticne-in-izpeljane-omake.md` na začetku 9.1 |
 | 10 Priloge | 10.1 Krompir · 10.2 Pireji | zelenjavne priloge, krompir, pireji; pregled `recepti/05-04-pireji-in-kreme.md` na začetku 10.2 |
-| 11 Glavne jedi | 11.1 Ribe · 11.2 Perutnina | končne jedi z ribami, mesom, perutnino |
+| 11 Glavne jedi | 11.1 Ribe · 11.2 Perutnina · 11.3 Svinjina | končne jedi z ribami, mesom, perutnino |
 | 12 Tuja kulinarika | 12.1 Peru · 12.2 Kitajska (sladkokisli piščanec, bao bun) | celovite jedi neevropskih kuhinj; podpoglavje po državi (japonska, indijska, kitajska, mongolska, ruska … ruska je izrecna uporabnikova izjema) |
 | 13 Julius fine dining | 13.1 Emulzije in olja · 13.2 Farse · 13.3 Ceviche | vsi recepti iz Jules Cooking, ne glede na vrsto |
 

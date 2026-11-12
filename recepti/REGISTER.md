@@ -1,8 +1,8 @@
 # Register receptov
 
-Posodobljeno: 11. 11. 2026.
+Posodobljeno: 12. 11. 2026.
 
-Za vključitev izbranih vnosov: **61** (R0001–R0045 in R0047–R0062). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0063**.
+Za vključitev izbranih vnosov: **62** (R0001–R0045 in R0047–R0063). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0064**.
 
 **11. 11. 2026:** dodana poglavja 14 Julius fine dining (R0048, R0049), 15 Biskviti (R0050, R0051) in 16 Okisovanje (R0052, R0053). Vsi so vključeni v berljivo izdajo z dne 11. 11. 2026. Pri 12 receptih je dodana vrstica »Razmerje po masi«; pregled v `reference/razmerja-2026-11-11.md`.
 
@@ -73,6 +73,7 @@ Zgradba je poenotena 11. 11. 2026: številke v stolpcu »Glavno poglavje« so en
 | [R0013](R0013-gobov-pire.md) | Gobov pire | 10.2 Pireji | pire; gobe; madeira | Byatt, Sole Bonne Femme, opis | delovno | R0012; R0014 |
 | [R0014](R0014-morski-list-bonne-femme.md) | Morski list bonne femme | 11.1 Ribe | morski list; dušenje; Francija | Byatt, Sole Bonne Femme | delovno — za dopolnitev | R0011; R0012; R0013 |
 | [R0025](R0025-raca-a-lorange.md) | Račje prsi à l'orange | 11.2 Perutnina | raca; pomaranča; Francija | Byatt, Duck à l'orange | delovno — za dopolnitev | R0006 |
+| [R0063](R0063-bucni-njoki-svinjska-ribica-fige.md) | Bučni njoki s svinjsko ribico, figami in pecorino omako | 11.3 Svinjina | njoki; buča; svinjina; fige; pecorino | uporabnikov recept po spominu | delovno — konceptualni zapis brez količin | — |
 | [R0054](R0054-klasicni-perujski-ceviche.md) | Klasični perujski ceviche | 12.1 Peru | ceviche; surova riba; limeta; Peru | Generalni konzulat Peruja, PICAchef | delovno — ni preizkušeno | R0055 |
 | [R0056](R0056-sladkokisli-piscanec.md) | Sladkokisli piščanec | 12.2 Kitajska | piščanec; cvrtje; sladkokisla omaka; Kitajska | Two Plaid Aprons, Sweet and Sour Chicken | delovno — uporabnikova prilagoditev; ni preizkušeno | — |
 | [R0057](R0057-bao-bun.md) | Bao bun — parjene zložene žemljice | 12.2 Kitajska | bao; kvašeno testo; kuhanje na pari; Kitajska | Omnivore's Cookbook, Steamed Bao Buns | delovno — ni preizkušeno | R0056 |
@@ -105,6 +106,7 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 
 ## Odprto
 
+- R0063: konceptualni zapis brez količin na uporabnikovo željo; količine, razmerje krompirja in buče ter morebitno jajce v njokih za dopolnitev. Ni preizkušeno.
 - R0061–R0062: velikost modelčkov in čas peke v domači pečici; pri sufleju preračun °F in unč. Ni preizkušeno.
 - R0057–R0060: ameriške in avstralske mere so preračunane (moka pri bao in flatbread naj se ob vaji stehta); postopek testa za testenine je uredniški. Nič ni preizkušeno.
 - R0056: gostota testa pri razmerju moke in škroba pol-pol in količina vode (105 ml je ocena); količine so preračunane iz ameriških mer. Ni preizkušeno.
@@ -153,6 +155,7 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 
 ## Dnevnik
 
+- 12. 11. 2026: dodan R0063, bučni njoki s svinjsko ribico, figami in pecorino omako, v novo podpoglavje 11.3 Svinjina. Uporabnikov recept po spominu, na izrecno željo konceptualno brez količin; uporabnik je potrdil dodatka toastani orehi in balzamični kis. Aktivnih vnosov je 62, naslednji ID R0064. Knjiga DOCX/PDF ni ponovno sestavljena.
 - 11. 11. 2026: dodana R0061 čokoladni fondant (Gordon Ramsay) in R0062 čokoladni sufle (King Arthur Baking) v novo podpoglavje 6.2 Tople sladice; poglavje 6 preimenovano v »Sladice in pecivo«. Uporabnik je naročil samostojno dodajanje, ker ga nekaj časa ne bo. Viri: `reference/tople-sladice-2026-11-11.md`. Aktivnih vnosov je 61, naslednji ID R0063.
 - 11. 11. 2026: dodani R0057 bao bun (12.2 Kitajska) ter osnovna testa R0058 testo za testenine (uporabnikovi razmerji), R0059 vlečeno testo s kisom in R0060 flatbread brez kvasa v nova podpoglavja 2.2–2.4. Viri: `reference/testa-in-bao-2026-11-11.md`. Aktivnih vnosov je 59, naslednji ID R0061.
 - 11. 11. 2026: dodan R0056, sladkokisli piščanec po Two Plaid Aprons, v novo podpoglavje 12.2 Kitajska. Uporabnikove prilagoditve: 250 g piščanca, navadna moka, moka in škrob pol-pol. Vir: `reference/sladkokisli-piscanec-2026-11-11.md`. Aktivnih vnosov je 55, naslednji ID R0057.
