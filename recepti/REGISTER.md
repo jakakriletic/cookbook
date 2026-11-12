@@ -2,9 +2,9 @@
 
 Posodobljeno: 12. 11. 2026.
 
-Za vključitev izbranih vnosov: **63** (R0001–R0045 in R0047–R0064). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0065**.
+Za vključitev izbranih vnosov: **75** (R0001–R0045 in R0047–R0076). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0077**.
 
-**Aktualna izdaja, 12. 11. 2026:** [Wordova knjiga](../outputs/moj-kuharski-zvezek.docx) in [PDF](../outputs/moj-kuharski-zvezek.pdf) imata 63 receptov, 13 poglavij in 109 fizičnih strani. R0064 in R0063 sta v podpoglavju 12.3 Italijanske jedi.
+**Aktualna izdaja, 12. 11. 2026:** [Wordova knjiga](../outputs/moj-kuharski-zvezek.docx) in [PDF](../outputs/moj-kuharski-zvezek.pdf) imata 75 receptov, 13 poglavij in 121 fizičnih strani. Podpoglavje 12.3 Italijanske jedi ima 14 receptov.
 
 **11. 11. 2026:** dodana poglavja 14 Julius fine dining (R0048, R0049), 15 Biskviti (R0050, R0051) in 16 Okisovanje (R0052, R0053). Vsi so vključeni v berljivo izdajo z dne 11. 11. 2026. Pri 12 receptih je dodana vrstica »Razmerje po masi«; pregled v `reference/razmerja-2026-11-11.md`.
 
@@ -78,6 +78,18 @@ Zgradba je poenotena 11. 11. 2026: številke v stolpcu »Glavno poglavje« so en
 | [R0054](R0054-klasicni-perujski-ceviche.md) | Klasični perujski ceviche | 12.1 Peru | ceviche; surova riba; limeta; Peru | Generalni konzulat Peruja, PICAchef | delovno — ni preizkušeno | R0055 |
 | [R0056](R0056-sladkokisli-piscanec.md) | Sladkokisli piščanec | 12.2 Kitajska | piščanec; cvrtje; sladkokisla omaka; Kitajska | Two Plaid Aprons, Sweet and Sour Chicken | delovno — uporabnikova prilagoditev; ni preizkušeno | — |
 | [R0057](R0057-bao-bun.md) | Bao bun — parjene zložene žemljice | 12.2 Kitajska | bao; kvašeno testo; kuhanje na pari; Kitajska | Omnivore's Cookbook, Steamed Bao Buns | delovno — ni preizkušeno | R0056 |
+| [R0065](R0065-bucatini-all-amatriciana.md) | Bucatini all’amatriciana | 12.3 Italijanske jedi | testenine; guanciale; paradižnik; pecorino | Chef Italiano, Bucatini all’Amatriciana | delovno — ni preizkušeno | — |
+| [R0066](R0066-spaghetti-cacio-e-pepe.md) | Spaghetti cacio e pepe | 12.3 Italijanske jedi | testenine; pecorino; črni poper; emulzija | Chef Italiano, Spaghetti Cacio e Pepe | delovno — ni preizkušeno | — |
+| [R0067](R0067-fettuccine-alfredo.md) | Fettuccine Alfredo | 12.3 Italijanske jedi | testenine; maslo; parmigiano; emulzija | Chef Italiano, Fettuccine Alfredo | delovno — količine za dopolnitev | — |
+| [R0068](R0068-spaghetti-alla-carbonara.md) | Spaghetti alla carbonara | 12.3 Italijanske jedi | testenine; guanciale; rumenjak; pecorino | Chef Italiano, Creamy Spaghetti alla Carbonara | delovno — ni preizkušeno | — |
+| [R0069](R0069-spaghetti-alla-gricia.md) | Spaghetti alla gricia | 12.3 Italijanske jedi | testenine; guanciale; pecorino; belo vino | Chef Italiano, Spaghetti alla Gricia | delovno — ni preizkušeno | — |
+| [R0070](R0070-spaghetti-aglio-e-olio.md) | Spaghetti aglio e olio | 12.3 Italijanske jedi | testenine; česen; oljčno olje; emulzija | Chef Italiano, Spaghetti Aglio e Olio | delovno — ni preizkušeno | — |
+| [R0071](R0071-spaghetti-alla-puttanesca.md) | Spaghetti alla puttanesca | 12.3 Italijanske jedi | testenine; inčuni; olive; kapre | Chef Italiano, Spaghetti alla Puttanesca | delovno — ni preizkušeno | — |
+| [R0072](R0072-spaghettoni-alla-norma.md) | Spaghettoni alla Norma | 12.3 Italijanske jedi | testenine; jajčevec; paradižnik; ricotta salata | Chef Italiano, Spaghettoni alla Norma | delovno — količine za dopolnitev | — |
+| [R0073](R0073-pici-all-aglione.md) | Pici all’aglione | 12.3 Italijanske jedi | testenine; aglione; česen; paradižnik | Chef Italiano, Pici all’Aglione | delovno — ni preizkušeno | — |
+| [R0074](R0074-spaghettoni-z-rjavim-maslom-in-bottargo.md) | Spaghettoni z rjavim maslom in bottargo | 12.3 Italijanske jedi | testenine; bottarga; rjavo maslo; limona | Chef Italiano, Spaghettoni with Brown Butter & Bottarga | delovno — količine za dopolnitev | — |
+| [R0075](R0075-pappardelle-s-kostanjevo-kremo-in-klobaso.md) | Pappardelle s kostanjevo kremo in klobaso | 12.3 Italijanske jedi | testenine; kostanj; klobasa; rožmarin | Chef Italiano, Pappardelle with Chestnut Cream, Sausage & Rosemary | delovno — količine za dopolnitev | — |
+| [R0076](R0076-testenine-s-pistacijevim-pestom-in-kozicami.md) | Testenine s pistacijevim pestom in kozicami | 12.3 Italijanske jedi | testenine; pistacije; kozice; belo vino | Chef Italiano, Pistachio Pesto & Shrimp Pasta | delovno — količine za dopolnitev | — |
 | [R0064](R0064-bucni-njoki-iz-kaboce.md) | Bučni njoki iz kaboče | 12.3 Italijanske jedi | njoki; kaboča; krompir; Italija | Chef Italiano, Pumpkin Gnocchi | delovno — ni preizkušeno | R0063 |
 | [R0063](R0063-bucni-njoki-svinjska-ribica-fige.md) | Bučni njoki s svinjsko ribico, figami in pecorino omako | 12.3 Italijanske jedi | njoki; buča; svinjina; fige; pecorino | uporabnikov recept po spominu | delovno — konceptualni zapis brez količin | R0064 |
 | [R0048](R0048-ostrigina-emulzija.md) | Ostrigina emulzija z zeliščnim oljem | 13.1 Emulzije in olja | emulzija; ostrige; zeliščno olje; fine dining | Jules Cooking, Sea Buckthorn & Sea Bass Dish, 25:59 | delovno — uporabnikova prilagoditev; ni preizkušeno | R0023; R0049 |
@@ -109,6 +121,7 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 
 ## Odprto
 
+- R0065–R0076: [viri in odprti podatki](../reference/chef-italiano-testenine-2026-11-12.md). Pri R0067, R0072 in R0074–R0076 so avtorjeve gramature za dopolnitev. Pri R0074 sta drobtine z bottargo in drobnjakovo olje navedena kot pripravljeni sestavini. Noben od vnosov ni praktično preizkušen.
 - R0063: konceptualni zapis brez količin na uporabnikovo željo; količine, razmerje krompirja in buče ter morebitno jajce v njokih za dopolnitev. Ni preizkušeno.
 - R0064: izplen, celotni čas peke buče in krompirja ter čas kuhanja njokov za dopolnitev. Ni preizkušeno.
 - R0061–R0062: velikost modelčkov in čas peke v domači pečici; pri sufleju preračun °F in unč. Ni preizkušeno.
@@ -159,6 +172,7 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 
 ## Dnevnik
 
+- 12. 11. 2026: dodanih 12 receptov Chef Italiano (R0065–R0076) v 12.3 Italijanske jedi. Izbor vključuje amatriciano, cacio e pepe, Alfredo in manj običajne jedi. Viri so v `reference/chef-italiano-testenine-2026-11-12.md`. Aktivnih vnosov je 75, naslednji ID R0077.
 - 12. 11. 2026: dodan R0064, bučni njoki iz kaboče po Chef Italiano, v 12.3 Italijanske jedi. Tja je iz 11.3 Svinjina prestavljen tudi R0063. Recepta sta povezana. Vir in razlike med opisom in podnapisi so v `reference/bucni-njoki-chef-italiano-2026-11-12.md`. Aktivnih vnosov je 63, naslednji ID R0065.
 - 12. 11. 2026: dodan R0063, bučni njoki s svinjsko ribico, figami in pecorino omako, v novo podpoglavje 11.3 Svinjina. Uporabnikov recept po spominu, na izrecno željo konceptualno brez količin; uporabnik je potrdil dodatka toastani orehi in balzamični kis. Aktivnih vnosov je 62, naslednji ID R0064. Knjiga DOCX/PDF ni ponovno sestavljena.
 - 11. 11. 2026: dodana R0061 čokoladni fondant (Gordon Ramsay) in R0062 čokoladni sufle (King Arthur Baking) v novo podpoglavje 6.2 Tople sladice; poglavje 6 preimenovano v »Sladice in pecivo«. Uporabnik je naročil samostojno dodajanje, ker ga nekaj časa ne bo. Viri: `reference/tople-sladice-2026-11-11.md`. Aktivnih vnosov je 61, naslednji ID R0063.
