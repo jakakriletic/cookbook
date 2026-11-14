@@ -4,6 +4,8 @@ Osebna kuharska knjiga za pripravo na MasterChef. Namen je hiter pregled med vaj
 
 ## Stanje
 
+14. 11. 2026 — rogljički: na uporabnikovo željo dodana R0077, klasično francosko listnato kvašeno testo za rogljičke s počitkom čez noč, in R0078, hitri rogljički v enem dnevu (postanki v zamrzovalniku, približno 5 ur), v novo podpoglavje 2.5 Listnato kvašeno testo. Oba sta uredniška recepta po splošni strokovni praksi z vsemi temperaturami; evidenca v `reference/listnato-kvaseno-testo-2026-11-14.md`. Word in PDF sta ponovno sestavljena: 77 receptov, 13 poglavij, 128 fizičnih strani. Aktivnih vnosov je 77, naslednji ID R0079.
+
 12. 11. 2026 — izbor Chef Italiano: v 12.3 Italijanske jedi je dodanih 12 receptov (R0065–R0076), od amatriciane, cacia e pepe in fettuccinov Alfredo do jedi z bottargo, kostanjem ter pistacijami in kozicami. Video in pisni viri, odprte gramature ter uredniške odločitve so v `reference/chef-italiano-testenine-2026-11-12.md`. Word in PDF imata 75 receptov, 13 poglavij in 121 fizičnih strani. Naslednji ID je R0077.
 
 12. 11. 2026 — italijanske jedi: dodani bučni njoki iz kaboče po Chef Italiano (R0064) v novo podpoglavje 12.3 Italijanske jedi. Tja je na uporabnikovo željo iz 11.3 Svinjina prestavljen tudi R0063, bučni njoki s svinjsko ribico, figami in pecorino omako. Recepta sta povezana. Iz Glavnih jedi vodi sklic na R0063. Evidenca vira je v `reference/bucni-njoki-chef-italiano-2026-11-12.md`. Word in PDF sta ponovno sestavljena s 63 recepti, 13 poglavji in 109 fizičnimi stranmi. Naslednji ID je R0065.
@@ -77,7 +79,7 @@ Zgradba je poenotena 11. 11. 2026 na uporabnikovo željo, da bo hitro jasno, kje
 | Poglavje | Podpoglavja (zapolnjena) | Kaj sodi sem |
 | --- | --- | --- |
 | 1 Kreme in polnila | 1.1 Osnovne kreme · 1.2 Maslene kreme · 1.3 Ganaši | kuhane jajčne kreme, maslene kreme, čokoladna polnila |
-| 2 Testa | 2.1 Osnovna testa · 2.2 Testo za testenine · 2.3 Vlečeno testo · 2.4 Ploščati kruh | vsa osnovna testa, sladka in slana: choux, krhko, testenine, vlečeno, ploščati kruh, listnato |
+| 2 Testa | 2.1 Osnovna testa · 2.2 Testo za testenine · 2.3 Vlečeno testo · 2.4 Ploščati kruh · 2.5 Listnato kvašeno testo | vsa osnovna testa, sladka in slana: choux, krhko, testenine, vlečeno, ploščati kruh, listnato |
 | 3 Biskviti | 3.1 Klasični biskviti · 3.2 Pistacijevi biskviti | biskviti in podlage za torte |
 | 4 Meringe in hrustljavi dodatki | 4.1 Meringe · 4.2 Hrustljave ploščice in krokant | meringe, tuiles, krokant, karamela |
 | 5 Moussi | 5.1 Čokoladni moussi · 5.2 Sadni moussi | vse sladke pene; pregled `recepti/01-09-moussi.md` je na začetku 5.1 |

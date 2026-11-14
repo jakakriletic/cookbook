@@ -1,10 +1,10 @@
 # Register receptov
 
-Posodobljeno: 12. 11. 2026.
+Posodobljeno: 14. 11. 2026.
 
-Za vključitev izbranih vnosov: **75** (R0001–R0045 in R0047–R0076). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0077**.
+Za vključitev izbranih vnosov: **77** (R0001–R0045 in R0047–R0078). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0079**.
 
-**Aktualna izdaja, 12. 11. 2026:** [Wordova knjiga](../outputs/moj-kuharski-zvezek.docx) in [PDF](../outputs/moj-kuharski-zvezek.pdf) imata 75 receptov, 13 poglavij in 121 fizičnih strani. Podpoglavje 12.3 Italijanske jedi ima 14 receptov.
+**Aktualna izdaja, 14. 11. 2026:** [Wordova knjiga](../outputs/moj-kuharski-zvezek.docx) in [PDF](../outputs/moj-kuharski-zvezek.pdf) imata 77 receptov, 13 poglavij in 128 fizičnih strani (14. 11. 2026, z R0077–R0078).
 
 **11. 11. 2026:** dodana poglavja 14 Julius fine dining (R0048, R0049), 15 Biskviti (R0050, R0051) in 16 Okisovanje (R0052, R0053). Vsi so vključeni v berljivo izdajo z dne 11. 11. 2026. Pri 12 receptih je dodana vrstica »Razmerje po masi«; pregled v `reference/razmerja-2026-11-11.md`.
 
@@ -30,6 +30,8 @@ Zgradba je poenotena 11. 11. 2026: številke v stolpcu »Glavno poglavje« so en
 | [R0058](R0058-testo-za-testenine.md) | Testo za testenine — s celim jajcem in z rumenjaki | 2.2 Testo za testenine | testenine; jajčno testo; rumenjaki | uporabnikovi razmerji | delovno — postopek uredniški; ni preizkušeno | — |
 | [R0059](R0059-vleceno-testo.md) | Vlečeno testo | 2.3 Vlečeno testo | vlečeno testo; zavitek; štruklji; kis | Vesna Meško, Jana 2025 | delovno — ni preizkušeno | — |
 | [R0060](R0060-ploscati-kruh.md) | Mehki ploščati kruh brez kvasa (flatbread) | 2.4 Ploščati kruh | flatbread; brez kvasa; ponev | RecipeTin Eats, Easy Soft Flatbread | delovno — ni preizkušeno | — |
+| [R0077](R0077-francosko-listnato-kvaseno-testo.md) | Francosko listnato kvašeno testo za rogljičke (croissant) | 2.5 Listnato kvašeno testo | croissant; laminiranje; viennoiserie | uredniški recept po splošni strokovni praksi | delovno — ni preizkušeno | R0078 |
+| [R0078](R0078-hitri-rogljicki-v-enem-dnevu.md) | Hitri rogljički v enem dnevu | 2.5 Listnato kvašeno testo | croissant; laminiranje; istodnevno | uredniški recept po splošni strokovni praksi | delovno — ni preizkušeno | R0077 |
 | [R0031](R0031-biskvit-genoise.md) | Masleni biskvit génoise | 3.1 Klasični biskviti | biskvit; jajčna pena | King Arthur Test Kitchen | delovno | R0032 |
 | [R0050](R0050-pistacijev-biskvit-albouze.md) | Pistacijev biskvit s pistacijevo pasto | 3.2 Pistacijevi biskviti | biskvit; pistacija; pistacijeva pasta; meringa | Bruno Albouze, Pistachio Biscuit | delovno — ni preizkušeno | R0051; R0031 |
 | [R0051](R0051-pistacijev-biskvit-mlete-pistacije.md) | Pistacijev biskvit z mletimi pistacijami | 3.2 Pistacijevi biskviti | biskvit; pistacija; mlete pistacije | Wypieki Beaty, Pistachio sponge cake for a layer cake | delovno — ni preizkušeno | R0050; R0031 |
@@ -121,6 +123,8 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 
 ## Odprto
 
+- R0077–R0078: uredniška recepta brez enotnega objavljenega vira; časi vzhajanja in peke ter moka za preverjanje ob vaji. [Evidenca](../reference/listnato-kvaseno-testo-2026-11-14.md).
+
 - R0065–R0076: [viri in odprti podatki](../reference/chef-italiano-testenine-2026-11-12.md). Pri R0067, R0072 in R0074–R0076 so avtorjeve gramature za dopolnitev. Pri R0074 sta drobtine z bottargo in drobnjakovo olje navedena kot pripravljeni sestavini. Noben od vnosov ni praktično preizkušen.
 - R0063: konceptualni zapis brez količin na uporabnikovo željo; količine, razmerje krompirja in buče ter morebitno jajce v njokih za dopolnitev. Ni preizkušeno.
 - R0064: izplen, celotni čas peke buče in krompirja ter čas kuhanja njokov za dopolnitev. Ni preizkušeno.
@@ -171,6 +175,8 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 - Končni naslov knjige lahko uporabnik določi pozneje; trenutni je »Moj kuharski zvezek«.
 
 ## Dnevnik
+
+- 14. 11. 2026: dodana R0077 francosko listnato kvašeno testo za rogljičke (klasično, čez noč) in R0078 hitri rogljički v enem dnevu v novo podpoglavje 2.5 Listnato kvašeno testo. Uredniška recepta. Aktivnih vnosov je 77, naslednji ID R0079.
 
 - 12. 11. 2026: dodanih 12 receptov Chef Italiano (R0065–R0076) v 12.3 Italijanske jedi. Izbor vključuje amatriciano, cacio e pepe, Alfredo in manj običajne jedi. Viri so v `reference/chef-italiano-testenine-2026-11-12.md`. Aktivnih vnosov je 75, naslednji ID R0077.
 - 12. 11. 2026: dodan R0064, bučni njoki iz kaboče po Chef Italiano, v 12.3 Italijanske jedi. Tja je iz 11.3 Svinjina prestavljen tudi R0063. Recepta sta povezana. Vir in razlike med opisom in podnapisi so v `reference/bucni-njoki-chef-italiano-2026-11-12.md`. Aktivnih vnosov je 63, naslednji ID R0065.
