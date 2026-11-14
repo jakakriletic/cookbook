@@ -1,9 +1,9 @@
 ---
 id: R0014
 naslov: "Morski list bonne femme"
-poglavje: "Glavne jedi"
-podpoglavje: "Ribe"
-oznake: [morski list, dušenje, smetanova omaka, gobe, Francija, Escoffier]
+poglavje: "Julius fine dining"
+podpoglavje: "Ribje jedi"
+oznake: [morski list, dušenje, smetanova omaka, gobe, Francija, Escoffier, fine dining]
 izvor: "Klasična francoska jed; sodobna izvedba Adam Byatt, Trinity"
 vir: "https://www.youtube.com/watch?v=2sO4nVF6In8"
 stanje: delovno
@@ -62,13 +62,13 @@ Kratke ostre škarje, nizka ognjevarna posoda, v kateri riba leži udobno, papir
 4. **Razpolovi.** Ribo po dolgem prereži na sredini. Po potrebi jo speri v hladni vodi, odcedi in hrani na suhi papirnati brisači.
 
 ### Dušenje
-5. **Ogrej pečico.** Na **170 °C** (v videu 180 °C).
+5. **Ogrej pečico.** Nastavi jo na **170 °C**.
 6. **Pripravi posodo.** Ribo položi v posodo, dodaj šalotko, timijan, sojino omako, tartufov sok, obe osnovi, maslo in sol. Tekočina naj ribe ne prekrije, ker se riba duši in ne kuha.
 7. **Duši.** Pokrij s papirnatim pokrovčkom in duši **8–12 minut**, odvisno od velikosti ribe.
 8. **Pusti počivati.** Ribo pusti počivati v tekočini **6–8 minut**, nato jo preloži na krožnik.
 
 ### Omaka
-9. **Močno reduciraj.** Tekočino od dušenja zgosti na močnem ognju. Po opisu jo reduciraj za dve tretjini; v videu pusti le približno 10 %. Šalotke in timijana še ne precedi.
+9. **Reduciraj tekočino.** Tekočino od dušenja s šalotko in timijanom na močnem ognju reduciraj na približno tretjino začetne količine.
 10. **Dodaj smetano.** Dodaj gosto smetano in crème fraîche ter reduciraj za polovico. Omaka mora prekriti žlico tako, da žlice skozi omako ni več videti.
 11. **Fileti ribo.** Medtem ribo z nožem dvigni s kosti, odstrani vse drobne koščice in obreži filete za krožnik. Sok, ki se nabere na krožniku, vlij v omako.
 12. **Precedi.** Omako precedi skozi fino cedilo in vmešaj drobnjak. Vroča omaka naj ribo ogreje; po potrebi jo nežno pogrej.
@@ -84,13 +84,9 @@ Kratke ostre škarje, nizka ognjevarna posoda, v kateri riba leži udobno, papir
 - **Ne mešaj maščob.** Byatt pri jedeh s smetanovo omako uporablja samo mlečne maščobe, pri jedeh z vinaigrette pa samo olje.
 - **Arome precedi šele na koncu.** Šalotka in timijan med redukcijo še oddajata okus.
 
-## Serviranje in povezani recepti
-
-Osnovi: [R0011 Ribji fumet](R0011-ribji-fumet.md) in [R0012 Gobova osnova](R0012-gobova-osnova.md). Priloga: [R0013 Gobov pire](R0013-gobov-pire.md).
-
 ## Uredniška evidenca
 
 - Vir: Adam Byatt, »How to cook: Sole Bonne Femme«, 20. 9. 2026, opis videa in prikaz 0:28–10:17. Izvorni zapis v `reference/videi-2026-10-31.md`.
 - Ureditev: priprava ribe je združena iz opisa (glava, hrbtenica) in prikaza (koža, obrezovanje robov, kri). Fileti so v prikazu sneti po kuhanju.
-- Razhajanja: temperatura pečice 170 °C (opis) ali 180 °C (video); redukcija za dve tretjini (opis) ali do približno 10 % (video).
+- Razhajanja: v postopku sta uporabljena podatka iz opisa, 170 °C in redukcija na tretjino. V videu Byatt omeni 180 °C in tekočino reducira na približno 10 %.
 - Odprto: količini smetane in crème fraîche, število porcij, recept za vložene gobe.

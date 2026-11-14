@@ -4,7 +4,7 @@ Posodobljeno: 14. 11. 2026.
 
 Za vključitev izbranih vnosov: **77** (R0001–R0045 in R0047–R0078). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0079**.
 
-**Aktualna izdaja, 14. 11. 2026:** [Wordova knjiga](../outputs/moj-kuharski-zvezek.docx) in [PDF](../outputs/moj-kuharski-zvezek.pdf) imata 77 receptov, 13 poglavij in 128 fizičnih strani. R0025 je v podpoglavju 13.4 Račje jedi.
+**Aktualna izdaja, 14. 11. 2026:** [Wordova knjiga](../outputs/moj-kuharski-zvezek.docx) in [PDF](../outputs/moj-kuharski-zvezek.pdf) imata 77 receptov, 13 poglavij in 128 fizičnih strani. R0025 je v 13.4 Račje jedi, R0014 pa v 13.5 Ribje jedi.
 
 **11. 11. 2026:** dodana poglavja 14 Julius fine dining (R0048, R0049), 15 Biskviti (R0050, R0051) in 16 Okisovanje (R0052, R0053). Vsi so vključeni v berljivo izdajo z dne 11. 11. 2026. Pri 12 receptih je dodana vrstica »Razmerje po masi«; pregled v `reference/razmerja-2026-11-11.md`.
 
@@ -75,7 +75,6 @@ Zgradba je poenotena 11. 11. 2026: številke v stolpcu »Glavno poglavje« so en
 | [R0018](R0018-korenckov-pire.md) | Korenčkov pire s kumino in koriandrom | 10.2 Pireji | pire; korenček | Fallow, 4 Purees, 06:44 | delovno — za dopolnitev | — |
 | [R0019](R0019-pire-buck-z-zelisci.md) | Zelen pire bučk z baziliko | 10.2 Pireji | pire; bučke; veganski | Fallow, 4 Purees, 11:49 | delovno | — |
 | [R0013](R0013-gobov-pire.md) | Gobov pire | 10.2 Pireji | pire; gobe; madeira | Byatt, Sole Bonne Femme, opis | delovno | R0012; R0014 |
-| [R0014](R0014-morski-list-bonne-femme.md) | Morski list bonne femme | 11.1 Ribe | morski list; dušenje; Francija | Byatt, Sole Bonne Femme | delovno — za dopolnitev | R0011; R0012; R0013 |
 | [R0054](R0054-klasicni-perujski-ceviche.md) | Klasični perujski ceviche | 12.1 Peru | ceviche; surova riba; limeta; Peru | Generalni konzulat Peruja, PICAchef | delovno — ni preizkušeno | R0055 |
 | [R0056](R0056-sladkokisli-piscanec.md) | Sladkokisli piščanec | 12.2 Kitajska | piščanec; cvrtje; sladkokisla omaka; Kitajska | Two Plaid Aprons, Sweet and Sour Chicken | delovno — uporabnikova prilagoditev; ni preizkušeno | — |
 | [R0057](R0057-bao-bun.md) | Bao bun — parjene zložene žemljice | 12.2 Kitajska | bao; kvašeno testo; kuhanje na pari; Kitajska | Omnivore's Cookbook, Steamed Bao Buns | delovno — ni preizkušeno | R0056 |
@@ -97,6 +96,7 @@ Zgradba je poenotena 11. 11. 2026: številke v stolpcu »Glavno poglavje« so en
 | [R0049](R0049-brancinova-farsa.md) | Pečena brancinova farsa | 13.2 Farse | farsa; brancin; beljak; fine dining | Jules Cooking, Sea Buckthorn & Sea Bass Dish, 23:43 | delovno — uporabnikova prilagoditev; ni preizkušeno | R0048; sklic iz 3.3 |
 | [R0055](R0055-ribji-ceviche-jules.md) | Ribji ceviche z ingverjem in limonsko travo | 13.3 Ceviche | ceviche; brancin; fine dining | Jules Cooking, Fish ceviche | delovno — količina ribe je ocena; ni preizkušeno | R0054 |
 | [R0025](R0025-raca-a-lorange.md) | Račje prsi à l’orange z bučno-pomarančnim pirejem | 13.4 Račje jedi | raca; pomaranča; maslena buča; fine dining | Adam Byatt, Trinity; prilagojen pire | delovno — ni preizkušeno | R0006; sklic iz 11 |
+| [R0014](R0014-morski-list-bonne-femme.md) | Morski list bonne femme | 13.5 Ribje jedi | morski list; dušenje; Francija; fine dining | Byatt, Sole Bonne Femme | delovno — za dopolnitev | R0011; R0012; R0013; sklic iz 11 |
 
 R0025: [vir in prilagoditve](../reference/raca-a-lorange-2026-11-14.md). Glavno mesto je 13.4 Račje jedi.
 
@@ -178,6 +178,7 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 
 ## Dnevnik
 
+- 14. 11. 2026: Byattov R0014 prestavljen iz 11.1 Ribe v 13.5 Ribje jedi s sklicem iz 11 Glavne jedi.
 - 14. 11. 2026: Byattov R0025 prestavljen iz Perutnine v 13.4 Račje jedi in dopolnjen z bučno-pomarančnim pirejem. [Evidenca](../reference/raca-a-lorange-2026-11-14.md).
 - 14. 11. 2026: dodana R0077 francosko listnato kvašeno testo za rogljičke (klasično, čez noč) in R0078 hitri rogljički v enem dnevu v novo podpoglavje 2.5 Listnato kvašeno testo. Uredniška recepta. Aktivnih vnosov je 77, naslednji ID R0079.
 

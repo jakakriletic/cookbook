@@ -52,7 +52,7 @@ OVERVIEWS = {
 }
 
 # Recepti z glavnim mestom drugje, ki jih je smiselno najti tudi v tem poglavju.
-SEE_ALSO = {9: ['R0048'], 11: ['R0049', 'R0054', 'R0055', 'R0056', 'R0063', 'R0025']}
+SEE_ALSO = {9: ['R0048'], 11: ['R0014', 'R0025', 'R0049', 'R0054', 'R0055', 'R0056', 'R0063']}
 
 # Razdelki receptov: preimenovanje za tisk ali izpust (None).
 SECTION_MAP = {
@@ -208,6 +208,7 @@ for line in (ROOT / 'recepti/REGISTER.md').read_text(encoding='utf-8').splitline
 assert records and 'R0046' not in {r['id'] for r in records}
 titles = {r['id']: r['title'] for r in records}
 files = {r['file']: r['id'] for r in records}
+by_id = {r['id']: r for r in records}
 
 order = {key: i for i, (key, _) in enumerate(CHAPTERS)}
 missing = {int(r['num'].split('.')[0]) for r in records} - set(order)
@@ -217,15 +218,14 @@ for pos, r in enumerate(records):
 records.sort(key=lambda r: (order[int(r['num'].split('.')[0])], int(r['num'].split('.')[1]), r['pos']))
 
 # Prikazne številke: zaporedna poglavja in podpoglavja.
-display = {}
-chapter_no, sub_no = {}, {}
+recipe_chapters = {int(r['num'].split('.')[0]) for r in records}
+active_chapters = [ch for ch, _ in CHAPTERS if ch in recipe_chapters or ch in SEE_ALSO]
+chapter_no = {ch: number for number, ch in enumerate(active_chapters, 1)}
+sub_no = {}
 for r in records:
     ch = int(r['num'].split('.')[0])
-    if ch not in chapter_no:
-        chapter_no[ch] = len(chapter_no) + 1
     if r['num'] not in sub_no:
         sub_no[r['num']] = f"{chapter_no[ch]}.{sum(1 for k in sub_no if k.split('.')[0] == str(ch)) + 1}"
-    display[r['id']] = sub_no[r['num']]
 
 def strip_ids(text):
     """Odstrani trajne ID iz besedila; povezave dobijo naslov recepta."""
@@ -578,7 +578,7 @@ def section_title(name):
     return p
 
 # --- Naslovnica ------------------------------------------------------------
-n_ch = len({int(r['num'].split('.')[0]) for r in records})
+n_ch = len(chapter_no)
 p = para('OSEBNA KUHARSKA KNJIGA', 'Eyebrow'); p.paragraph_format.space_before = Mm(55)
 p = doc.add_paragraph('Moj kuharski\nzvezek', 'Title')
 para('Osnove, tehnike in recepti za kuharsko vajo', 'Lead')
@@ -609,29 +609,52 @@ group = defaultdict(list)
 for r in records:
     group[r['num']].append(r)
 chapter_names = dict(CHAPTERS)
+
+
+def chapter_heading(ch):
+    if ch in PARTS:
+        p = para(PARTS[ch], 'Eyebrow')
+        p.paragraph_format.page_break_before = True
+    p = doc.add_paragraph(f'{chapter_no[ch]}  {chapter_names[ch]}', 'Heading 1')
+    p.paragraph_format.page_break_before = ch not in PARTS
+    bookmark(p, f'CH{chapter_no[ch]}')
+    dump.append(f'\n\n######## {chapter_no[ch]} {chapter_names[ch]}')
+
+
+def cross_references(ch, standalone=False):
+    references = SEE_ALSO[ch]
+    if not standalone:
+        p = doc.add_paragraph('Glej tudi: ', style='Small')
+    for k, rid in enumerate(references):
+        if standalone:
+            p = doc.add_paragraph()
+        elif k:
+            p.add_run(', ')
+        recipe = by_id[rid]
+        link(p, recipe['title'], recipe['file'])
+        other = int(recipe['num'].split('.')[0])
+        p.add_run(f' ({chapter_names[other]})')
+    dump.append('Glej tudi: ' + ', '.join(titles[rid] for rid in references))
+
+
+for ch in SEE_ALSO.keys() - recipe_chapters:
+    group[f'{ch}.0'] = []
+
 last_ch = None
 manifest = []
-for subnum, items in group.items():
+for subnum in sorted(group, key=lambda number: (order[int(number.split('.')[0])], int(number.split('.')[1]))):
+    items = group[subnum]
     ch = int(subnum.split('.')[0])
+    if not items:
+        chapter_heading(ch)
+        cross_references(ch, standalone=True)
+        continue
     disp_sub = sub_no[subnum]
     if ch != last_ch:
-        if ch in PARTS:
-            p = para(PARTS[ch], 'Eyebrow'); p.paragraph_format.page_break_before = True
-            p = doc.add_paragraph(f'{chapter_no[ch]}  {chapter_names[ch]}', 'Heading 1')
-        else:
-            p = doc.add_paragraph(f'{chapter_no[ch]}  {chapter_names[ch]}', 'Heading 1')
-            p.paragraph_format.page_break_before = True
-        bookmark(p, f'CH{chapter_no[ch]}'); last_ch = ch
-        dump.append(f'\n\n######## {chapter_no[ch]} {chapter_names[ch]}')
+        chapter_heading(ch)
         if ch in SEE_ALSO:
-            p = doc.add_paragraph(style='Small')
-            p.add_run('Glej tudi: ')
-            for k, rid in enumerate(SEE_ALSO[ch]):
-                if k: p.add_run(', ')
-                link(p, titles[rid], next(r['file'] for r in records if r['id'] == rid))
-                other = int(next(r['num'] for r in records if r['id'] == rid).split('.')[0])
-                p.add_run(f' ({chapter_names[other]})')
-            dump.append('Glej tudi: ' + ', '.join(titles[x] for x in SEE_ALSO[ch]))
+            cross_references(ch)
+        last_ch = ch
         p = doc.add_paragraph(f'{disp_sub}  {items[0]["sub"]}', 'Heading 2')
     else:
         p = doc.add_paragraph(f'{disp_sub}  {items[0]["sub"]}', 'Heading 2')
