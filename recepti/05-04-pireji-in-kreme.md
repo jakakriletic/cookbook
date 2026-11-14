@@ -39,4 +39,4 @@ Pireji iz treh uporabnikovih videov dveh kuhinj: Adam Byatt (Trinity) in Fallow.
 
 - Dodano 31. 10. 2026 po uporabnikovem naročilu, naj se kratki nasveti iz videov združijo. To je uvod v podpoglavje, ne recept, in nima ID R.
 - Viri: Adam Byatt, »How to make: Cauliflower Puree« (il2tY3X9O3k); Fallow, »The 4 Purees Every Chef Should Know« (qal3bbhiG88); Adam Byatt, »Sole Bonne Femme« (2sO4nVF6In8). Avtor nasveta je naveden, kadar ga poda le eden.
-- Pire sladkega krompirja iz R0025 nima recepta, zato ni v preglednici.
+- Bučno-pomarančni pire je zapisan kot sestavni del [R0025 Račje prsi à l’orange](R0025-raca-a-lorange.md).

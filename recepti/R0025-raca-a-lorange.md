@@ -1,18 +1,18 @@
 ---
 id: R0025
-naslov: "Račje prsi à l'orange"
-poglavje: "Glavne jedi"
-podpoglavje: "Perutnina"
-oznake: [raca, račje prsi, pomaranča, Cointreau, Francija]
-izvor: "Klasična francoska jed; sodobna izvedba Adam Byatt, Trinity"
+naslov: "Račje prsi à l’orange z bučno-pomarančnim pirejem"
+poglavje: "Julius fine dining"
+podpoglavje: "Račje jedi"
+oznake: [raca, račje prsi, pomaranča, maslena buča, Cointreau, fine dining, Francija]
+izvor: "Adam Byatt, Trinity · bučno-pomarančni pire po prilagoditvi"
 vir: "https://www.youtube.com/watch?v=cCaRoEi1TL4"
 stanje: delovno
 datum_prejema: "2026-10-31"
 ---
 
-# Račje prsi à l'orange
+# Račje prsi à l’orange z bučno-pomarančnim pirejem
 
-Sodobna izvedba klasike. Račje prsi se pečejo samo po koži, ne da bi jih obrnil, zato je koža povsem hrustljava, meso pa rožnato. Omaka nastane v isti ponvi iz karameliziranega sladkorja, pomaranče, Cointreauja in račjega fonda.
+Račje prsi s hrustljavo kožo, omako iz račjega fonda in Cointreauja ter gladkim pirejem iz pečene maslene buče in pomaranče.
 
 **Porcije:** 4.
 
@@ -21,14 +21,14 @@ Sodobna izvedba klasike. Račje prsi se pečejo samo po koži, ne da bi jih obrn
 ### Raca
 | Sestavina | Količina |
 | --- | ---: |
-| Raca, pasma Aylesbury | 1 |
+| Cela raca (po možnosti Aylesbury) ali 2 račji prsi s kožo | 1 |
 | Sol in črni poper | po okusu |
 | Oljčno olje (iz videa) | malo |
 
 ### Omaka
 | Sestavina | Količina |
 | --- | ---: |
-| Pomaranči, filetirani; olupek ene, olupljen z lupilnikom | 2 |
+| Pomaranči za fileje, sok in trakove lupinice | 2 |
 | Rožnati poper | 3 g |
 | Koromačeva semena (iz videa) | malo |
 | Sladkor | 25 g |
@@ -37,50 +37,47 @@ Sodobna izvedba klasike. Račje prsi se pečejo samo po koži, ne da bi jih obrn
 | Maslo | košček |
 | Drobnjak, sesekljan | 2 žlički |
 
-### Priloga
+### Bučno-pomarančni pire
 | Sestavina | Količina |
 | --- | ---: |
-| Pire sladkega krompirja (v videu s pomarančo) | 250 g |
+| Maslena buča, olupljena in očiščena | 400 g |
+| Sveže iztisnjen pomarančni sok | 30 ml |
+| Drobno naribana pomarančna lupinica | ½ pomaranče |
+| Nesoljeno maslo | 30 g |
+| Sol | po okusu |
 
 ## Posebna oprema
 
-Težka ponev z enakomerno toplotno porazdelitvijo in fino cedilo.
+Težka ponev, kuhinjski termometer, mešalnik in fino cedilo.
 
 ## Postopek
 
-### Razkosanje
-1. **Izkosti raco.** Raco izkosti kot za galantino: koža naj ostane cela, prsi pa pritrjene nanjo. Stegna odstrani za drugo jed.
-2. **Obreži.** Kožo s prsmi obreži v velik kvadrat. Ohrani čim več kože, ker se pri peki skrči.
-3. **Pretopi mast.** Obrezke z maščobo daj v kozico s hladno vodo in jih kuhaj na šibkem ognju. Voda izpari in ostane čista račja mast.
+### Bučno-pomarančni pire
+1. **Speci bučo.** Bučo nareži na 2 cm velike kocke, posoli in razporedi v eni plasti. Peci na **200 °C** približno **25–35 minut**, da jo zlahka pretlačiš z vilicami.
+2. **Pripravi pire.** Vročo bučo zmešaj z maslom in lupinico. Sok dodajaj po malem, da pire obdrži obliko. Posoli po okusu, pretlači skozi fino cedilo in pokrito ohrani toplo.
+
+### Priprava race in pomaranč
+3. **Pripravi pomaranči.** Z ene odreži tanke trakove lupinice. Obe olupi do mesa in izreži fileje med membranami. Iz ostankov iztisni sok.
+4. **Izkosti raco.** Celo raco izkosti kot za galantino, da prsi ostaneta na istem kosu kože. Kožo obreži v kvadrat s širokim robom. Stegna prihrani za drugo jed.
 
 ### Peka prsi
-4. **Začni v hladni ponvi.** Ponev posoli in dodaj malo olja. Kožo s prsmi položi s kožo navzdol, raztegni, začini s poprom in peci na nizkem ognju.
-5. **Peci počasi samo po koži.** Mesa ne obračaj. Prsi polivaj z maščobo, ki se izceja, dokler ni koža hrustljava, meso pa rožnato. Proti koncu lahko povišaš ogenj za barvo. Kuhanost preveri s pritiskom.
-6. **Počitek.** Prsi preloži na toplo in pusti počivati **vsaj 15 minut**.
+5. **Začni v hladni ponvi.** Osuši kožo. Ponev posoli in naolji. Prsi položi na kožo, meso popopraj in začni peči na nizkem ognju.
+6. **Počasi pretopi maščobo.** Prsi polivaj z maščobo iz ponve. Ko je koža zlato rjava, izmeri temperaturo v najdebelejšem delu vsakega kosa. Po potrebi ju obrni in dopeci do **74 °C**.
+7. **Pusti počivati.** Prsi prestavi na topel krožnik s kožo navzgor. Pusti počivati **vsaj 15 minut** in medtem pripravi omako.
 
 ### Omaka
-7. **Prepraži začimbe.** V ponvi od race odlij večino maščobe; usedlina naj ostane. Dodaj nekaj trakov pomarančnega olupka, rožnati poper in koromač ter na kratko prepraži.
-8. **Karameliziraj.** Dodaj sladkor, povišaj ogenj in ga rahlo karameliziraj.
-9. **Deglaziraj.** Prilij Cointreau, nato pomarančni sok, ki da omaki sladko-kislo noto.
-10. **Reduciraj s fondom.** Prilij račji fond (v videu še malo vode) in reduciraj do sijoče glazure. Dodaj košček masla in na kratko povri.
-11. **Precedi in zaključi.** Precedi skozi fino cedilo, dodaj sveže pomarančne krhlje in drobnjak.
+8. **Karameliziraj sladkor.** Iz ponve odlij večino maščobe. V preostali na kratko segrej lupinico, rožnati poper in koromač. Dodaj sladkor in ga segrevaj do svetle karamele.
+9. **Deglaziraj in reduciraj.** Odmakni ponev z ognja in previdno prilij Cointreau ter sok. Vrni na ogenj, postrgaj zapečene sokove in reduciraj. Prilij fond in zreduciraj, da omaka v tankem sloju obda hrbtno stran žlice.
+10. **Končaj omako.** Vmešaj maslo, na kratko povri in precedi. Pred serviranjem vmešaj fileje in drobnjak.
 
 ### Serviranje
-12. **Nareži in sestavi.** Na krožnik daj pire sladkega krompirja. Prsi nareži s kožo vred, da se izmenjujeta hrustljava koža in rožnato meso. Prelij z omako.
-
-## Kritične točke in triki
-
-- **Počasi in nizko.** Koža se mora počasi pretopiti in zapeči. Pri premočnem ognju se preveč skrči.
-- **Omaka je bistvo.** Če je mogoče, jo kuhaj v ponvi od race; v videu Byatt počivajoče meso preliva z omako.
-- **Poenostavitev.** Če je razkosanje prezahtevno, uporabi navadne račje prsi.
-
-## Serviranje in povezani recepti
-
-Drugačna različica omake na osnovi espagnole je [R0006 Pomarančna omaka à l'orange](R0006-pomarancna-omaka.md). Splošni nasveti za pireje so v [pregledu 5.4](05-04-pireji-in-kreme.md).
+11. **Sestavi krožnik.** Prsi prečno nareži in položi ob pire s kožo navzgor. Omako s fileji nalij ob meso.
 
 ## Uredniška evidenca
 
 - Vir: Adam Byatt, »Michelin level Duck à l'orange«, 20. 7. 2026, opis videa in prikaz 0:00–8:03. Izvorni zapis v `reference/videi-2026-10-31.md`.
 - Ureditev: sestavine in vrstni red omake so iz opisa; olje, koromač, sol pod kožo, pretapljanje masti in 15 minut počitka so iz videa. Opis navaja hladno ponev, v videu je ponev na nizkem ognju z oljem.
 - Razhajanja: v videu se pomarančni krhlji kuhajo v omaki in nato odstranijo; po opisu se sveži dodajo na koncu.
-- Odprto: recepta za račji fond in pire sladkega krompirja, čas peke prsi.
+- Prilagoditev 14. 11. 2026: pire iz pečene maslene buče in pomaranče je uredniški recept na uporabnikovo željo. Domači zaključek peke s termometrom ter serviranje z omako ob mesu sta uredniška. [Evidenca prilagoditev](../reference/raca-a-lorange-2026-11-14.md).
+- Za dopolnitev: avtorjeva receptura za račji fond, količina koromačevih semen in čas peke prsi. Pire je za praktični preizkus.
+- Povezani recept: [pomarančna omaka na osnovi espagnole](R0006-pomarancna-omaka.md).

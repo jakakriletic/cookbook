@@ -1,0 +1,9 @@
+# R0025 Račje prsi à l’orange z bučno-pomarančnim pirejem
+
+14. 11. 2026 je uporabnik navedel naslov »Michelin level Duck à l'orange« in naročil podpoglavje v fine diningu ter prilogo iz buče in pomaranče. Naslov ustreza videu [Adam Byatt, Michelin level Duck à l'orange](https://www.youtube.com/watch?v=cCaRoEi1TL4), že povzetemu v R0025. Izvor in razhajanja so v [prvotni evidenci](videi-2026-10-31.md) in uredniški evidenci recepta.
+
+- R0025 ima glavno mesto v 13.4 Račje jedi in sklic iz 11 Glavne jedi. ID je ohranjen.
+- Byatt za štiri porcije navede eno celo raco in kot poenostavitev predlaga uporabo račjih prsi. Opis navaja 250 g pireja iz sladkega krompirja, v videu pri 7:31 pa Byatt pove, da pire vsebuje tudi pomarančo.
+- Na uporabnikovo željo je priloga pire iz pečene maslene buče s svežim pomarančnim sokom in lupinico. Uredniško izhodišče za štiri porcije je 400 g očiščene buče, do 30 ml soka, lupinica polovice pomaranče in 30 g masla. Peka kock pri 200 °C in razpon 25–35 minut sta uredniška. Povezava buče z maslom in pomarančno lupinico je opisana tudi v [Food Network Kitchen, Butternut Squash Puree](https://www.foodnetwork.com/recipes/butternut-squash-puree-recipe-1938031). Gostota, razpon peke in izplen pireja so za preverjanje ob vaji.
+- Byatt v videu prsi peče po koži in pečenost oceni s pritiskom. Domača izvedba začne enako, končno pečenost pa preveri s termometrom. Cilj 74 °C za račje prsi je po [USDA, Duck and Goose from Farm to Table](https://www.govinfo.gov/content/pkg/GOVPUB-A110-PURL-gpo19088/pdf/GOVPUB-A110-PURL-gpo19088.pdf). Obračanje na koncu peke po potrebi, odmik ponve z ognja pri dodatku likerja in omaka ob mesu so uredniške prilagoditve.
+- Čas peke prsi, avtorjeva receptura za račji fond in natančna količina koromačevih semen so za dopolnitev. Enotnega klasičnega masnega razmerja za to jed ali pire ni.
