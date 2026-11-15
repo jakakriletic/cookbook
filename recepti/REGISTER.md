@@ -178,6 +178,7 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 
 ## Dnevnik
 
+- 15. 11. 2026: R0064 bučni njoki iz kaboče dopolnjeni z uredniškimi orientacijskimi časi peke buče in krompirja ter kuhanja njokov (vir jih ne navaja). [Evidenca](../reference/bucni-njoki-chef-italiano-2026-11-12.md). Knjiga DOCX/PDF ni ponovno sestavljena.
 - 14. 11. 2026: Byattov R0014 prestavljen iz 11.1 Ribe v 13.5 Ribje jedi s sklicem iz 11 Glavne jedi.
 - 14. 11. 2026: Byattov R0025 prestavljen iz Perutnine v 13.4 Račje jedi in dopolnjen z bučno-pomarančnim pirejem. [Evidenca](../reference/raca-a-lorange-2026-11-14.md).
 - 14. 11. 2026: dodana R0077 francosko listnato kvašeno testo za rogljičke (klasično, čez noč) in R0078 hitri rogljički v enem dnevu v novo podpoglavje 2.5 Listnato kvašeno testo. Uredniška recepta. Aktivnih vnosov je 77, naslednji ID R0079.
