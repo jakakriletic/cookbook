@@ -2,7 +2,7 @@
 
 Posodobljeno: 16. 11. 2026.
 
-Za vključitev izbranih vnosov: **80** (R0001–R0045 in R0047–R0081). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0082**.
+Za vključitev izbranih vnosov: **81** (R0001–R0045 in R0047–R0082). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0083**.
 
 **Aktualna izdaja, 14. 11. 2026:** [Wordova knjiga](../outputs/moj-kuharski-zvezek.docx) in [PDF](../outputs/moj-kuharski-zvezek.pdf) imata 77 receptov, 13 poglavij in 128 fizičnih strani. R0025 je v 13.4 Račje jedi, R0014 pa v 13.5 Ribje jedi.
 
@@ -34,7 +34,8 @@ Zgradba je poenotena 11. 11. 2026: številke v stolpcu »Glavno poglavje« so en
 | [R0077](R0077-francosko-listnato-kvaseno-testo.md) | Francosko listnato kvašeno testo za rogljičke (croissant) | 2.5 Listnato kvašeno testo | croissant; laminiranje; viennoiserie | uredniški recept po splošni strokovni praksi | delovno — ni preizkušeno | R0078 |
 | [R0078](R0078-hitri-rogljicki-v-enem-dnevu.md) | Hitri rogljički v enem dnevu | 2.5 Listnato kvašeno testo | croissant; laminiranje; istodnevno | uredniški recept po splošni strokovni praksi | delovno — ni preizkušeno | R0077 |
 | [R0080](R0080-zemljice-za-burgerje.md) | Žemljice za burgerje v eni uri | 2.6 Kruh in žemljice | žemljice; burger buns; kvašeno testo; med | Backyahd BBQ, Burger Buns: Simple 1 Hour Recipe | delovno — ni preizkušeno | R0060, R0081 |
-| [R0081](R0081-testo-za-brios.md) | Testo za brioš s hladnim vzhajanjem čez noč | 2.6 Kruh in žemljice | brioš; kvašeno testo; maslo; hladno vzhajanje | uredniški recept po klasični formuli | delovno — ni preizkušeno | R0080, R0077 |
+| [R0081](R0081-testo-za-brios.md) | Testo za brioš s hladnim vzhajanjem čez noč | 2.6 Kruh in žemljice | brioš; kvašeno testo; maslo; hladno vzhajanje | uredniški recept po klasični formuli | delovno — ni preizkušeno | R0080, R0077, R0082 |
+| [R0082](R0082-hitre-briosne-zemljice.md) | Hitre briošne žemljice v 60 minutah | 2.6 Kruh in žemljice | brioš; žemljice; hitro; tekmovanje | uredniški tekmovalni recept | delovno — ni preizkušeno | R0081, R0080 |
 | [R0031](R0031-biskvit-genoise.md) | Masleni biskvit génoise | 3.1 Klasični biskviti | biskvit; jajčna pena | King Arthur Test Kitchen | delovno | R0032 |
 | [R0050](R0050-pistacijev-biskvit-albouze.md) | Pistacijev biskvit s pistacijevo pasto | 3.2 Pistacijevi biskviti | biskvit; pistacija; pistacijeva pasta; meringa | Bruno Albouze, Pistachio Biscuit | delovno — ni preizkušeno | R0051; R0031 |
 | [R0051](R0051-pistacijev-biskvit-mlete-pistacije.md) | Pistacijev biskvit z mletimi pistacijami | 3.2 Pistacijevi biskviti | biskvit; pistacija; mlete pistacije | Wypieki Beaty, Pistachio sponge cake for a layer cake | delovno — ni preizkušeno | R0050; R0031 |
@@ -128,6 +129,7 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 
 ## Odprto
 
+- R0082: uredniški tekmovalni recept; časovnica, vzhajanje v 20 minutah in peka za preizkus pred tekmovanjem. [Evidenca](../reference/hitre-briosne-zemljice-2026-11-16.md).
 - R0081: uredniški recept po klasični formuli brez v celoti prebranega vira; temperature, časi vzhajanja in peke ter mase kroglic za preverjanje ob vaji. [Evidenca](../reference/briosevo-testo-2026-11-16.md).
 - R0080: vir prebran prek povzetka iskalnika (YouTube blokiran); vrsta moke in čas gnetenja po dodanem maslu odprta. Ni preizkušeno. [Evidenca](../reference/zemljice-za-burgerje-2026-11-16.md).
 - R0079: vir prebran samo prek povzetka iskalnika (stran v okolju ni bila dosegljiva); izplen, čas gnetenja in ovoj za kuhanje odprti. Ni preizkušeno. [Evidenca](../reference/vleceno-testo-in-struklji-2026-11-16.md).
@@ -184,6 +186,7 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 
 ## Dnevnik
 
+- 16. 11. 2026: dodan R0082 hitre briošne žemljice v 60 minutah (uredniški tekmovalni recept, brez prvega vzhajanja) v 2.6 Kruh in žemljice. Aktivnih vnosov je 81, naslednji ID R0083. Knjiga DOCX/PDF še ni ponovno sestavljena.
 - 16. 11. 2026: dodan R0081 testo za brioš s hladnim vzhajanjem čez noč (uredniški, 50 % masla) v 2.6 Kruh in žemljice, povezan z R0080. Aktivnih vnosov je 80, naslednji ID R0082. Knjiga DOCX/PDF še ni ponovno sestavljena.
 - 16. 11. 2026: dodan R0080 žemljice za burgerje v eni uri (Backyahd BBQ) v novo podpoglavje 2.6 Kruh in žemljice; na uporabnikovo željo se zmehčano maslo vgnete na koncu. Aktivnih vnosov je 79, naslednji ID R0081. Knjiga DOCX/PDF še ni ponovno sestavljena. [Evidenca](../reference/zemljice-za-burgerje-2026-11-16.md).
 - 16. 11. 2026: dodan R0079 testo za štruklje (Slovenian Kitchen) v 2.3 Vlečeno testo, povezan z R0059; R0059 dopolnjen z nasvetom o moki. Ločen recept za vlečeno testo z žličko kisa je bil na uporabnikovo željo opuščen, ker vlečeno testo že obstaja. Aktivnih vnosov je 78, naslednji ID R0080. Knjiga DOCX/PDF še ni ponovno sestavljena. [Evidenca](../reference/vleceno-testo-in-struklji-2026-11-16.md).
