@@ -4,6 +4,8 @@ Osebna kuharska knjiga za pripravo na MasterChef. Namen je hiter pregled med vaj
 
 ## Stanje
 
+16. 11. 2026 — štruklji: dodan R0079 Testo za štruklje po Slovenian Kitchen v 2.3 Vlečeno testo, s sklicem na vlečenje v R0059; R0059 dopolnjen z nasvetom o moki (tip 500 ali 400, gladka). Vlečeno testo z žličko kisa (Delo, Polet) je bilo na uporabnikovo željo opuščeno kot ponovitev R0059. Vir je prebran samo prek povzetka iskalnika; evidenca v `reference/vleceno-testo-in-struklji-2026-11-16.md`. Aktivnih vnosov je 78, naslednji ID R0080. Word in PDF še nista ponovno sestavljena (kazalo in izvoz zahtevata Word v Windows).
+
 14. 11. 2026 — Sole Bonne Femme: na uporabnikovo željo je Byattov R0014 prestavljen v 13.5 Ribje jedi. Poglavje 11 Glavne jedi povezuje glavne jedi iz drugih poglavij. Ribji fumet (R0011), gobova osnova (R0012) in gobov pire (R0013) so povezani v sestavinah. Word in PDF sta ponovno sestavljena s 77 recepti, 13 poglavji in 128 fizičnimi stranmi. R0014 je na oštevilčenih straneh 123–124. Naslednji ID je R0079.
 
 14. 11. 2026 — raca à l’orange: na uporabnikovo željo je Byattov R0025 prestavljen iz Perutnine v novo podpoglavje 13.4 Račje jedi. Priloga je pire iz pečene maslene buče in pomaranče. Iz Glavnih jedi vodi sklic. Vir in prilagoditve so v `reference/raca-a-lorange-2026-11-14.md`. Word in PDF sta ponovno sestavljena: 77 receptov, 13 poglavij in 128 fizičnih strani. R0025 je na oštevilčenih straneh 123–124. Naslednji ID je R0079.
@@ -83,7 +85,7 @@ Zgradba je poenotena 11. 11. 2026 na uporabnikovo željo, da bo hitro jasno, kje
 | Poglavje | Podpoglavja (zapolnjena) | Kaj sodi sem |
 | --- | --- | --- |
 | 1 Kreme in polnila | 1.1 Osnovne kreme · 1.2 Maslene kreme · 1.3 Ganaši | kuhane jajčne kreme, maslene kreme, čokoladna polnila |
-| 2 Testa | 2.1 Osnovna testa · 2.2 Testo za testenine · 2.3 Vlečeno testo · 2.4 Ploščati kruh · 2.5 Listnato kvašeno testo | vsa osnovna testa, sladka in slana: choux, krhko, testenine, vlečeno, ploščati kruh, listnato |
+| 2 Testa | 2.1 Osnovna testa · 2.2 Testo za testenine · 2.3 Vlečeno testo · 2.4 Ploščati kruh · 2.5 Listnato kvašeno testo | vsa osnovna testa, sladka in slana: choux, krhko, testenine, vlečeno in testo za štruklje, ploščati kruh, listnato |
 | 3 Biskviti | 3.1 Klasični biskviti · 3.2 Pistacijevi biskviti | biskviti in podlage za torte |
 | 4 Meringe in hrustljavi dodatki | 4.1 Meringe · 4.2 Hrustljave ploščice in krokant | meringe, tuiles, krokant, karamela |
 | 5 Moussi | 5.1 Čokoladni moussi · 5.2 Sadni moussi | vse sladke pene; pregled `recepti/01-09-moussi.md` je na začetku 5.1 |

@@ -43,11 +43,17 @@ Tanko, skoraj prozorno testo za zavitke in štruklje. Kis in olje naredita testo
 
 - **Dovolj dolgo gneti,** da se gluten razvije; sicer se testo pri vlečenju trga.
 - **Vleci s hrbtno stranjo dlani,** ne s prsti, ki testo predrejo.
+- **Moka.** Gladka bela moka tip 500 ali 400, ne ostra. Tip 500 se pri vlečenju manj trga, tip 400 je mehkejši. Najboljša je namenska moka za vlečeno testo, če jo dobiš.
 - **Prt brez mehčalca,** da se testo ne prime in da ga lahko s prtom zviješ.
+
+## Povezani recepti
+
+- [Testo za štruklje](R0079-testo-za-struklje.md).
 
 ## Uredniška evidenca
 
 - Vir: Vesna Meško, »Jabolčni zavitek z vlečenim testom«, revija Jana, št. 9, marec 2025, objava Svet24/Njena 11. 3. 2025, prebrano 11. 11. 2026 prek samodejnega povzetka strani. Zapis: `reference/testa-in-bao-2026-11-11.md`.
 - Uporabnik je želel vlečeno testo z žlico kisa; ta recept jo ima. Primerjalno: Delo, Polet (500 g moke, 3,5 dl vode, ščep soli, 1 čajna žlička kisa).
 - Ureditev: samo testo, brez nadeva in peke. Nasvet o vlečenju s hrbtno stranjo dlani je uredniški.
+- 16. 11. 2026: dodan nasvet o moki (uredniška presoja po splošni praksi, na uporabnikovo vprašanje »katera moka«). Uporabnik je potrdil, da ločen recept z žličko kisa ni potreben.
 - Odprto: temperatura počivanja (»na hladnem«), končna debelina. Receptura ni praktično preizkušena.

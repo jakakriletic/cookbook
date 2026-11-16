@@ -1,8 +1,8 @@
 # Register receptov
 
-Posodobljeno: 14. 11. 2026.
+Posodobljeno: 16. 11. 2026.
 
-Za vključitev izbranih vnosov: **77** (R0001–R0045 in R0047–R0078). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0079**.
+Za vključitev izbranih vnosov: **78** (R0001–R0045 in R0047–R0079). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0080**.
 
 **Aktualna izdaja, 14. 11. 2026:** [Wordova knjiga](../outputs/moj-kuharski-zvezek.docx) in [PDF](../outputs/moj-kuharski-zvezek.pdf) imata 77 receptov, 13 poglavij in 128 fizičnih strani. R0025 je v 13.4 Račje jedi, R0014 pa v 13.5 Ribje jedi.
 
@@ -28,7 +28,8 @@ Zgradba je poenotena 11. 11. 2026: številke v stolpcu »Glavno poglavje« so en
 | [R0015](R0015-kuhano-testo-choux.md) | Kuhano testo (pâte à choux) | 2.1 Osnovna testa | choux; eklerji; Francija | Byatt, Mastering Choux Pastry | delovno; sladkor je uredniška varianta | — |
 | [R0030](R0030-sladko-krhko-testo.md) | Sladko krhko testo (pâte sucrée) | 2.1 Osnovna testa | krhko testo; tart | Koch-Wiki; CC BY-SA 3.0 | delovno — peka za dopolnitev | — |
 | [R0058](R0058-testo-za-testenine.md) | Testo za testenine — s celim jajcem in z rumenjaki | 2.2 Testo za testenine | testenine; jajčno testo; rumenjaki | uporabnikovi razmerji | delovno — postopek uredniški; ni preizkušeno | — |
-| [R0059](R0059-vleceno-testo.md) | Vlečeno testo | 2.3 Vlečeno testo | vlečeno testo; zavitek; štruklji; kis | Vesna Meško, Jana 2025 | delovno — ni preizkušeno | — |
+| [R0059](R0059-vleceno-testo.md) | Vlečeno testo | 2.3 Vlečeno testo | vlečeno testo; zavitek; štruklji; kis | Vesna Meško, Jana 2025 | delovno — ni preizkušeno | R0079 |
+| [R0079](R0079-testo-za-struklje.md) | Testo za štruklje | 2.3 Vlečeno testo | štruklji; vlečeno testo; kis | Slovenian Kitchen, Sirovi štruklji | delovno — ni preizkušeno | R0059 |
 | [R0060](R0060-ploscati-kruh.md) | Mehki ploščati kruh brez kvasa (flatbread) | 2.4 Ploščati kruh | flatbread; brez kvasa; ponev | RecipeTin Eats, Easy Soft Flatbread | delovno — ni preizkušeno | — |
 | [R0077](R0077-francosko-listnato-kvaseno-testo.md) | Francosko listnato kvašeno testo za rogljičke (croissant) | 2.5 Listnato kvašeno testo | croissant; laminiranje; viennoiserie | uredniški recept po splošni strokovni praksi | delovno — ni preizkušeno | R0078 |
 | [R0078](R0078-hitri-rogljicki-v-enem-dnevu.md) | Hitri rogljički v enem dnevu | 2.5 Listnato kvašeno testo | croissant; laminiranje; istodnevno | uredniški recept po splošni strokovni praksi | delovno — ni preizkušeno | R0077 |
@@ -125,6 +126,7 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 
 ## Odprto
 
+- R0079: vir prebran samo prek povzetka iskalnika (stran v okolju ni bila dosegljiva); izplen, čas gnetenja in ovoj za kuhanje odprti. Ni preizkušeno. [Evidenca](../reference/vleceno-testo-in-struklji-2026-11-16.md).
 - R0077–R0078: uredniška recepta brez enotnega objavljenega vira; časi vzhajanja in peke ter moka za preverjanje ob vaji. [Evidenca](../reference/listnato-kvaseno-testo-2026-11-14.md).
 
 - R0065–R0076: [viri in odprti podatki](../reference/chef-italiano-testenine-2026-11-12.md). Pri R0067, R0072 in R0074–R0076 so avtorjeve gramature za dopolnitev. Pri R0074 sta drobtine z bottargo in drobnjakovo olje navedena kot pripravljeni sestavini. Noben od vnosov ni praktično preizkušen.
@@ -178,6 +180,7 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 
 ## Dnevnik
 
+- 16. 11. 2026: dodan R0079 testo za štruklje (Slovenian Kitchen) v 2.3 Vlečeno testo, povezan z R0059; R0059 dopolnjen z nasvetom o moki. Ločen recept za vlečeno testo z žličko kisa je bil na uporabnikovo željo opuščen, ker vlečeno testo že obstaja. Aktivnih vnosov je 78, naslednji ID R0080. Knjiga DOCX/PDF še ni ponovno sestavljena. [Evidenca](../reference/vleceno-testo-in-struklji-2026-11-16.md).
 - 15. 11. 2026: R0064 bučni njoki iz kaboče dopolnjeni z uredniškimi orientacijskimi časi peke buče in krompirja ter kuhanja njokov (vir jih ne navaja). [Evidenca](../reference/bucni-njoki-chef-italiano-2026-11-12.md). Knjiga DOCX/PDF je ponovno sestavljena (77 receptov, 128 strani).
 - 14. 11. 2026: Byattov R0014 prestavljen iz 11.1 Ribe v 13.5 Ribje jedi s sklicem iz 11 Glavne jedi.
 - 14. 11. 2026: Byattov R0025 prestavljen iz Perutnine v 13.4 Račje jedi in dopolnjen z bučno-pomarančnim pirejem. [Evidenca](../reference/raca-a-lorange-2026-11-14.md).
