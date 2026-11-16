@@ -54,6 +54,7 @@ Mehke, puhaste žemljice z medom, ki so pripravljene v približno eni uri. Maslo
 ## Povezani recepti
 
 - [Mehki ploščati kruh brez kvasa](R0060-ploscati-kruh.md).
+- [Testo za brioš](R0081-testo-za-brios.md), za bogatejše briošne žemljice.
 
 ## Uredniška evidenca
 

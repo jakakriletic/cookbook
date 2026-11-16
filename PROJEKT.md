@@ -4,6 +4,8 @@ Osebna kuharska knjiga za pripravo na MasterChef. Namen je hiter pregled med vaj
 
 ## Stanje
 
+16. 11. 2026 — brioš: dodan R0081 testo za brioš s hladnim vzhajanjem čez noč v 2.6 Kruh in žemljice. Uredniški recept po klasični formuli (moka 100 : jajca 60 : maslo 50), ker spletni viri niso bili berljivi; evidenca v `reference/briosevo-testo-2026-11-16.md`. Aktivnih vnosov je 80, naslednji ID R0082. Word in PDF še nista ponovno sestavljena.
+
 16. 11. 2026 — žemljice za burgerje: dodan R0080 po Backyahd BBQ (YouTube Short ydQx5pOdMwE, besedilo iz avtorjevega opisa) v novo podpoglavje 2.6 Kruh in žemljice. Na uporabnikovo željo se zmehčano maslo vgnete na koncu gnetenja. Evidenca: `reference/zemljice-za-burgerje-2026-11-16.md`. Aktivnih vnosov je 79, naslednji ID R0081. Word in PDF še nista ponovno sestavljena.
 
 16. 11. 2026 — štruklji: dodan R0079 Testo za štruklje po Slovenian Kitchen v 2.3 Vlečeno testo, s sklicem na vlečenje v R0059; R0059 dopolnjen z nasvetom o moki (tip 500 ali 400, gladka). Vlečeno testo z žličko kisa (Delo, Polet) je bilo na uporabnikovo željo opuščeno kot ponovitev R0059. Vir je prebran samo prek povzetka iskalnika; evidenca v `reference/vleceno-testo-in-struklji-2026-11-16.md`. Aktivnih vnosov je 78, naslednji ID R0080. Word in PDF še nista ponovno sestavljena (kazalo in izvoz zahtevata Word v Windows).
