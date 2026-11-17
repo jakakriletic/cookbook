@@ -67,6 +67,7 @@ Topel kolaček iz bele čokolade in pistacijeve paste s tekočo zeleno sredico. 
 ## Variante
 
 - **Namesto dveh velikih jajc** lahko uporabiš 2 srednji jajci in 1 rumenjak (navedba vira).
+- **Z zamrznjeno pistacijevo sredico (4 porcije, 200 °C).** 4 žličke pistacijeve kreme razdeli v kupčke na peki papir in jih zamrzni za približno **20 minut**. Masa: 100 g bele čokolade, 60 g masla, 80 g pistacijeve paste ali kreme, 2 veliki jajci in 1 rumenjak, 40 g sladkorja, 30 g moke, ščepec soli. Modelčke namaži z maslom in posuj z mletimi pistacijami. Napolni do polovice, na sredino položi zamrznjen kupček, prekrij z maso do treh četrtin. Peci pri **200 °C 9–11 minut**, pusti **1 minuto**, zvrni in posuj s sesekljanimi pistacijami. Pri sladki pistacijevi kremi zmanjšaj sladkor na 25 g. Zamrznjena sredica ostane tekoča tudi pri nekoliko predolgi peki.
 
 ## Serviranje in povezani recepti
 
@@ -77,4 +78,5 @@ Klasična čokoladna izvedba je [čokoladni fondant](R0061-cokoladni-fondant.md)
 - Vir: The Cooking Foodie, »Pistachio Lava Cake«, prebrano 17. 11. 2026 prek samodejnega povzetka strani. Zapis: `reference/pistacijev-fondant-2026-11-17.md`.
 - Uporabnik je prosil za recept za pistacijev lava cake.
 - Ureditev: prevod in razdelitev na korake; uporabljene so gramske količine iz vira (⅓ skodelice paste = 80 g, 5 žlic masla = 75 g, 3 žlice sladkorja = 36 g, 3 žlice moke = 22 g); 6 oz modelčki preračunani na približno 180 ml. Nasvet o pistacijevi kremi je uredniški.
+- 17. 11. 2026 dodana uredniška varianta z zamrznjeno pistacijevo sredico iz klepeta (Claude), brez objavljenega vira in ni preizkušena; ločena od recepture vira. Uporabnik je naročil dodajanje receptov iz klepeta v knjigo; ker pistacijev fondant že obstaja, je zapisana kot varianta, ne kot nov vnos. [Evidenca](../reference/bela-cokolada-mousse-in-pistacijev-fondant-2026-11-17.md).
 - Odprto: vrsta pistacijeve paste (100-odstotna ali sladkana), čas peke v domači pečici. Receptura ni praktično preizkušena.

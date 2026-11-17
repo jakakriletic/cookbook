@@ -4,6 +4,8 @@ Osebna kuharska knjiga za pripravo na MasterChef. Namen je hiter pregled med vaj
 
 ## Stanje
 
+17. 11. 2026 — recepta iz klepeta: dodan R0084 mousse iz bele čokolade (uredniški recept, ganaš in stepena smetana, brez jajc) v 5.1 Čokoladni moussi. Pistacijev lava cake iz istega klepeta je kot uredniška varianta z zamrznjeno sredico dodan v obstoječi R0083, ker pistacijev fondant že obstaja. Evidenca v `reference/bela-cokolada-mousse-in-pistacijev-fondant-2026-11-17.md`. Aktivnih vnosov je 83, naslednji ID R0085. Word in PDF še nista ponovno sestavljena.
+
 17. 11. 2026 — pistacijev lava cake: dodan R0083 pistacijev fondant po The Cooking Foodie v 6.2 Tople sladice, s sklicem na čokoladni fondant R0061. Evidenca v `reference/pistacijev-fondant-2026-11-17.md`. Aktivnih vnosov je 82, naslednji ID R0084. Word in PDF še nista ponovno sestavljena.
 
 16. 11. 2026 — hiter brioš: dodan R0082 hitre briošne žemljice v 60 minutah za tekmovanje, s časovnico po minutah, v 2.6 Kruh in žemljice. Uredniški recept (spletni viri neberljivi in neskladni); evidenca v `reference/hitre-briosne-zemljice-2026-11-16.md`. Aktivnih vnosov je 81, naslednji ID R0083. Word in PDF še nista ponovno sestavljena.
