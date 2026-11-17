@@ -24,7 +24,7 @@ DUMP = ROOT / 'work/knjiga-besedilo.txt'
 
 INK, MUTED, GREEN, COPPER, PAPER, BOX = '23261F', '676B62', '2F5B52', 'A26A35', 'FBF8F2', 'F1EBDF'
 
-# Poglavja: najprej sladko (1–6), nato slano (7–12), na koncu Julius fine dining (13).
+# Poglavja: najprej sladko (1–6), nato slano (7–12), na koncu Jules Cooking (13).
 # Številke so enake v registru in v knjigi. Vrstni red receptov znotraj
 # podpoglavja je vrstni red vrstic v registru.
 CHAPTERS = [
@@ -40,7 +40,7 @@ CHAPTERS = [
     (10, 'Priloge'),
     (11, 'Glavne jedi'),
     (12, 'Tuja kulinarika'),
-    (13, 'Julius fine dining'),
+    (13, 'Jules Cooking'),
 ]
 PARTS = {1: 'SLADKO', 7: 'SLANO', 13: 'FINE DINING'}
 
@@ -52,7 +52,7 @@ OVERVIEWS = {
 }
 
 # Recepti z glavnim mestom drugje, ki jih je smiselno najti tudi v tem poglavju.
-SEE_ALSO = {9: ['R0048'], 11: ['R0014', 'R0025', 'R0049', 'R0054', 'R0055', 'R0056', 'R0063']}
+SEE_ALSO = {9: ['R0048'], 11: ['R0049', 'R0054', 'R0055', 'R0056', 'R0063']}
 
 # Razdelki receptov: preimenovanje za tisk ali izpust (None).
 SECTION_MAP = {

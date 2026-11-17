@@ -1,7 +1,7 @@
 ---
 id: R0055
 naslov: "Ribji ceviche z ingverjem in limonsko travo"
-poglavje: "Julius fine dining"
+poglavje: "Jules Cooking"
 podpoglavje: "Ceviche"
 oznake: [ceviche, surova riba, brancin, limeta, ingver, limonska trava, fine dining]
 izvor: "Jules Cooking, Fish ceviche"

@@ -1,7 +1,7 @@
 ---
 id: R0049
 naslov: "Pečena brancinova farsa"
-poglavje: "Julius fine dining"
+poglavje: "Jules Cooking"
 podpoglavje: "Farse"
 oznake: [farsa, mousseline, brancin, riba, beljak, fine dining, Nizozemska]
 izvor: "Jules Cooking; uporabnikova prilagoditev s filejem namesto ostružkov"

@@ -1,8 +1,8 @@
 ---
 id: R0014
 naslov: "Morski list bonne femme"
-poglavje: "Julius fine dining"
-podpoglavje: "Ribje jedi"
+poglavje: "Glavne jedi"
+podpoglavje: "Fine dining"
 oznake: [morski list, dušenje, smetanova omaka, gobe, Francija, Escoffier, fine dining]
 izvor: "Klasična francoska jed; sodobna izvedba Adam Byatt, Trinity"
 vir: "https://www.youtube.com/watch?v=2sO4nVF6In8"

@@ -4,6 +4,8 @@ Osebna kuharska knjiga za pripravo na MasterChef. Namen je hiter pregled med vaj
 
 ## Stanje
 
+17. 11. 2026 — jagodna baba: poglavje 13 je po uporabnikovi želji preimenovano v Jules Cooking. Sedem komponent videa »Strawberry & Baba Dessert« je v podpoglavjih 13.4–13.7 (R0090–R0096), na oštevilčenih straneh 144–150. Sestavljanje sladice je v R0093. Byattov morski list bonne femme in raca à l’orange sta v 11.1 Fine dining. Evidenca je v `reference/jules-cooking-jagodna-baba-2026-11-17.md`. Word in PDF sta osvežena s 95 recepti, 13 poglavji in 155 fizičnimi stranmi. Naslednji ID je R0097.
+
 17. 11. 2026 — Fallowove omake: vseh pet receptov iz videa »5 Fish Sauces Every Chef Should Know« je v 9.3 Omake za ribe in morske sadeže (R0085–R0089). Izrazi so zapisani v izvirniku s slovensko razlago ob prvi uporabi. Časi videa, razmerja in odprte količine so v `reference/fallow-omake-za-ribe-2026-11-17.md`. Word in PDF sta ponovno sestavljena z 88 recepti, 13 poglavji in 149 fizičnimi stranmi. Omake so na oštevilčenih straneh 95–99. Naslednji ID je R0090.
 
 17. 11. 2026 — recepta iz klepeta: dodan R0084 mousse iz bele čokolade (uredniški recept, ganaš in stepena smetana, brez jajc) v 5.1 Čokoladni moussi. Pistacijev lava cake iz istega klepeta je kot uredniška varianta z zamrznjeno sredico dodan v obstoječi R0083, ker pistacijev fondant že obstaja. Evidenca v `reference/bela-cokolada-mousse-in-pistacijev-fondant-2026-11-17.md`. Aktivnih vnosov je 83, naslednji ID R0085. Word in PDF še nista ponovno sestavljena.
@@ -90,7 +92,7 @@ Tri ravni: `1 Kreme in polnila` → `1.1 Osnovne kreme` → recept. Interni nasl
 
 ## Poglavja in podpoglavja
 
-Zgradba je poenotena 11. 11. 2026 na uporabnikovo željo, da bo hitro jasno, kje je kaj. Poglavja so urejena **po vrsti jedi oziroma komponente**, najprej sladko, nato slano. Poglavje 13 Julius fine dining združuje recepte Jules Cooking in posamezne jedi drugih avtorjev, ki jih tja izrecno uvrsti uporabnik. Vrstni red receptov znotraj podpoglavja je vrstni red vrstic v registru.
+Zgradba je poenotena 11. 11. 2026 na uporabnikovo željo, da bo hitro jasno, kje je kaj. Poglavja so urejena **po vrsti jedi oziroma komponente**, najprej sladko, nato slano. Poglavje 13 **Jules Cooking** združuje recepte tega avtorja. Vrstni red receptov znotraj podpoglavja je vrstni red vrstic v registru.
 
 **Sladko**
 
@@ -111,16 +113,16 @@ Zgradba je poenotena 11. 11. 2026 na uporabnikovo željo, da bo hitro jasno, kje
 | 8 Okisovanje | 8.1 Hitro okisanje | okisanje in vlaganje zelenjave in sadja (fermentacija naj dobi svoje podpoglavje) |
 | 9 Omake | 9.1 Matične in izpeljane omake · 9.2 Maslene omake · 9.3 Omake za ribe in morske sadeže | tople in hladne omake, emulzije, prelivi; pregled `recepti/04-04-maticne-in-izpeljane-omake.md` na začetku 9.1 |
 | 10 Priloge | 10.1 Krompir · 10.2 Pireji | zelenjavne priloge, krompir, pireji; pregled `recepti/05-04-pireji-in-kreme.md` na začetku 10.2 |
-| 11 Glavne jedi | — | končne jedi z ribami, mesom in perutnino; trenutno sklici na recepte v drugih poglavjih |
+| 11 Glavne jedi | 11.1 Fine dining | končne jedi z ribami, mesom in perutnino |
 | 12 Tuja kulinarika | 12.1 Peru · 12.2 Kitajska (sladkokisli piščanec, bao bun) · 12.3 Italijanske jedi (testenine in njoki) | celovite jedi neevropskih kuhinj in podpoglavja po uporabnikovi izbiri, med njimi italijanske jedi |
-| 13 Julius fine dining | 13.1 Emulzije in olja · 13.2 Farse · 13.3 Ceviche · 13.4 Račje jedi · 13.5 Ribje jedi | vsi recepti Jules Cooking in jedi, ki jih uporabnik izrecno uvrsti sem |
+| 13 Jules Cooking | 13.1 Emulzije in olja · 13.2 Farse · 13.3 Ceviche · 13.4 Kvašene sladice · 13.5 Sirupi in sadni geli · 13.6 Kreme in moussi · 13.7 Okraski in vložki | vsi recepti Jules Cooking |
 
 Novo podpoglavje dodaj v ustrezno poglavje z naslednjo prosto številko (npr. 2.2 Listnato testo, 9.3 Hladne omake, 11.3 Govedina). Novo poglavje dodaj samo, če vsebina ne sodi v nobeno obstoječe, in ga uvrsti v sladki ali slani del; številke za njim se tedaj premaknejo v registru, v `CHAPTERS` skripte `scripts/sestavi_knjigo.py` in tukaj. Predvidena poznejša poglavja, ko bo vsebina: Testenine, riž in žita · Jajca in sirne jedi · Kruh in slana peka · Sestavljeni krožniki in meniji. Praznih poglavij ne dodajaj v knjigo.
 
 ## Pravila razvrščanja
 
 1. **Kaj je to?** Komponenta (krema, testo, omaka, fond, pire) gre v poglavje svoje vrste; končna jed v Sladice/Drobno pecivo ali Glavne jedi. Vsak recept ima eno glavno mesto; drugje je samo sklic.
-2. **Julius fine dining** je glavno mesto receptov Jules Cooking. Na uporabnikovo izrecno željo sta tu tudi Byattova raca à l’orange in morski list bonne femme. V vsebinskem poglavju, kamor bi sicer sodili, skripta izpiše sklice (`SEE_ALSO`). Če poglavje vsebuje samo sklice, jih v knjigi prikaže kot seznam povezav.
+2. **Jules Cooking** je glavno mesto receptov tega avtorja. Byattova raca à l’orange in morski list bonne femme sta v 11.1 Fine dining. V vsebinskem poglavju lahko skripta izpiše sklice na recepte drugje (`SEE_ALSO`).
 3. **Omake** so v 9.1 urejene po družinah: matična omaka, takoj za njo njene izpeljanke.
 4. **Celovite jedi neevropskih kuhinj** imajo glavno mesto v 12 Tuja kulinarika, podpoglavje po državi; univerzalna tehnika ostane v vsebinskem poglavju s sklicem. Tu je tudi podpoglavje Italijanske jedi z R0063–R0076.
 5. Razvrstitev slogovnih primerov, če jih uporabnik vključi: mesni mousse → 7 Kuharske osnove (farse); beurre blanc → 9.2 Maslene omake; riba s krompirjevimi luskami → 11.1 Ribe; barbajuan → Kruh in slana peka.

@@ -2,9 +2,9 @@
 
 Posodobljeno: 17. 11. 2026.
 
-Za vključitev izbranih vnosov: **88** (R0001–R0045 in R0047–R0089). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0090**.
+Za vključitev izbranih vnosov: **95** (R0001–R0045 in R0047–R0096). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0097**.
 
-**Aktualna izdaja, 17. 11. 2026:** [Wordova knjiga](../outputs/moj-kuharski-zvezek.docx) in [PDF](../outputs/moj-kuharski-zvezek.pdf) imata 88 receptov, 13 poglavij in 149 fizičnih strani. Omake R0085–R0089 so v podpoglavju 9.3 na oštevilčenih straneh 95–99.
+**Aktualna izdaja, 17. 11. 2026:** [Wordova knjiga](../outputs/moj-kuharski-zvezek.docx) in [PDF](../outputs/moj-kuharski-zvezek.pdf) imata 95 receptov, 13 poglavij in 155 fizičnih strani. Sedem receptov jagodne babe je pod Jules Cooking na oštevilčenih straneh 144–150.
 
 **11. 11. 2026:** dodana poglavja 14 Julius fine dining (R0048, R0049), 15 Biskviti (R0050, R0051) in 16 Okisovanje (R0052, R0053). Vsi so vključeni v berljivo izdajo z dne 11. 11. 2026. Pri 12 receptih je dodana vrstica »Razmerje po masi«; pregled v `reference/razmerja-2026-11-11.md`.
 
@@ -86,6 +86,8 @@ Zgradba je poenotena 11. 11. 2026: številke v stolpcu »Glavno poglavje« so en
 | [R0018](R0018-korenckov-pire.md) | Korenčkov pire s kumino in koriandrom | 10.2 Pireji | pire; korenček | Fallow, 4 Purees, 06:44 | delovno — za dopolnitev | — |
 | [R0019](R0019-pire-buck-z-zelisci.md) | Zelen pire bučk z baziliko | 10.2 Pireji | pire; bučke; veganski | Fallow, 4 Purees, 11:49 | delovno | — |
 | [R0013](R0013-gobov-pire.md) | Gobov pire | 10.2 Pireji | pire; gobe; madeira | Byatt, Sole Bonne Femme, opis | delovno | R0012; R0014 |
+| [R0025](R0025-raca-a-lorange.md) | Račje prsi à l’orange z bučno-pomarančnim pirejem | 11.1 Fine dining | raca, pomaranča, maslena buča | Adam Byatt, Trinity, prilagojen pire | delovno — ni preizkušeno | R0006 |
+| [R0014](R0014-morski-list-bonne-femme.md) | Morski list bonne femme | 11.1 Fine dining | morski list, dušenje, Francija | Byatt, Sole Bonne Femme | delovno — za dopolnitev | R0011, R0012, R0013 |
 | [R0054](R0054-klasicni-perujski-ceviche.md) | Klasični perujski ceviche | 12.1 Peru | ceviche; surova riba; limeta; Peru | Generalni konzulat Peruja, PICAchef | delovno — ni preizkušeno | R0055 |
 | [R0056](R0056-sladkokisli-piscanec.md) | Sladkokisli piščanec | 12.2 Kitajska | piščanec; cvrtje; sladkokisla omaka; Kitajska | Two Plaid Aprons, Sweet and Sour Chicken | delovno — uporabnikova prilagoditev; ni preizkušeno | — |
 | [R0057](R0057-bao-bun.md) | Bao bun — parjene zložene žemljice | 12.2 Kitajska | bao; kvašeno testo; kuhanje na pari; Kitajska | Omnivore's Cookbook, Steamed Bao Buns | delovno — ni preizkušeno | R0056 |
@@ -106,10 +108,17 @@ Zgradba je poenotena 11. 11. 2026: številke v stolpcu »Glavno poglavje« so en
 | [R0048](R0048-ostrigina-emulzija.md) | Ostrigina emulzija z zeliščnim oljem | 13.1 Emulzije in olja | emulzija; ostrige; zeliščno olje; fine dining | Jules Cooking, Sea Buckthorn & Sea Bass Dish, 25:59 | delovno — uporabnikova prilagoditev; ni preizkušeno | R0023; R0049 |
 | [R0049](R0049-brancinova-farsa.md) | Pečena brancinova farsa | 13.2 Farse | farsa; brancin; beljak; fine dining | Jules Cooking, Sea Buckthorn & Sea Bass Dish, 23:43 | delovno — uporabnikova prilagoditev; ni preizkušeno | R0048; sklic iz 3.3 |
 | [R0055](R0055-ribji-ceviche-jules.md) | Ribji ceviche z ingverjem in limonsko travo | 13.3 Ceviche | ceviche; brancin; fine dining | Jules Cooking, Fish ceviche | delovno — količina ribe je ocena; ni preizkušeno | R0054 |
-| [R0025](R0025-raca-a-lorange.md) | Račje prsi à l’orange z bučno-pomarančnim pirejem | 13.4 Račje jedi | raca; pomaranča; maslena buča; fine dining | Adam Byatt, Trinity; prilagojen pire | delovno — ni preizkušeno | R0006; sklic iz 11 |
-| [R0014](R0014-morski-list-bonne-femme.md) | Morski list bonne femme | 13.5 Ribje jedi | morski list; dušenje; Francija; fine dining | Byatt, Sole Bonne Femme | delovno — za dopolnitev | R0011; R0012; R0013; sklic iz 11 |
+| [R0093](R0093-baba-au-rhum.md) | Baba au rhum (kvašeno pecivo v rumovem sirupu) | 13.4 Kvašene sladice | baba, rum, jagode | Jules Cooking, Strawberry & Baba Dessert, 02:50 in 08:19 | delovno | R0090–R0092, R0094–R0096 |
+| [R0090](R0090-sirup-iz-spanskega-bezga.md) | Sirup iz španskega bezga | 13.5 Sirupi in sadni geli | jorgovan, sirup | Jules Cooking, Strawberry & Baba Dessert, 00:57 | delovno | R0091, R0093, R0094 |
+| [R0094](R0094-jagodni-gel-in-kompot.md) | Jagodni gel in kompot | 13.5 Sirupi in sadni geli | jagode, agar, limeta | Jules Cooking, Strawberry & Baba Dessert, 04:29 | delovno | R0090, R0093 |
+| [R0095](R0095-vaniljeva-krema-jules.md) | Vaniljeva slaščičarska krema s smetano | 13.6 Kreme in moussi | vanilja, smetana, škrob | Jules Cooking, Strawberry & Baba Dessert, 05:55 | delovno | R0028, R0093 |
+| [R0096](R0096-jogurtov-mousse-jules.md) | Jogurtov mousse s svežimi jagodami | 13.6 Kreme in moussi | jogurt, želatina, jagode | Jules Cooking, Strawberry & Baba Dessert, 06:50 | delovno | R0093 |
+| [R0091](R0091-hrustljavi-cvetovi.md) | Hrustljavi cvetovi španskega bezga | 13.7 Okraski in vložki | jorgovan, jagodni prah | Jules Cooking, Strawberry & Baba Dessert, 01:58 | delovno | R0090, R0093 |
+| [R0092](R0092-vlozena-borova-socvetja.md) | Vložena borova socvetja | 13.7 Okraski in vložki | bor, okisovanje | Jules Cooking, Strawberry & Baba Dessert, 02:15 | delovno — vrsta in količina socvetij za dopolnitev | R0093 |
 
-R0025: [vir in prilagoditve](../reference/raca-a-lorange-2026-11-14.md). Glavno mesto je 13.4 Račje jedi.
+R0025: [vir in prilagoditve](../reference/raca-a-lorange-2026-11-14.md). Glavno mesto je 11.1 Fine dining.
+
+R0090–R0096: [viri in uredniške odločitve za jagodno babo](../reference/jules-cooking-jagodna-baba-2026-11-17.md).
 
 
 R0052: [viri in iskanje Mojmirjevega postopka](../reference/okisovanje-2026-11-11.md). Poglavje 16 Okisovanje je odprto 11. 11. 2026 na uporabnikovo željo; razmerje naliva ostaja v R0023.
@@ -135,6 +144,8 @@ Viri R0011–R0025 in dopolnitev R0001 ter R0007: [evidenca videov z dne 31. 10.
 Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](https://www.youtube.com/watch?v=xniS7kMpW4I). [Evidenca vira in uredniških odločitev](../reference/fallow-maticne-omake-2024.md). [Pregled podpoglavja 4.4](04-04-maticne-in-izpeljane-omake.md).
 
 ## Odprto
+
+- R0090–R0096: masa končnega sirupa in jagodnega gela, izplen hrustljavih cvetov, vrsta in količina borovih socvetij ter rok po vlaganju, premer modelčkov za babo in jakost želatine za jogurtov mousse. [Evidenca](../reference/jules-cooking-jagodna-baba-2026-11-17.md)
 
 - R0085–R0089: absolutne količine in izpleni omak, pri bisque tudi izbor aromatične zelenjave poleg šalotke. [Evidenca](../reference/fallow-omake-za-ribe-2026-11-17.md)
 
@@ -196,6 +207,8 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 - Končni naslov knjige lahko uporabnik določi pozneje; trenutni je »Moj kuharski zvezek«.
 
 ## Dnevnik
+
+- 17. 11. 2026: poglavje 13 preimenovano v Jules Cooking. Dodanih vseh sedem komponent jagodne babe (R0090–R0096), sestavljanje pa je v R0093. Byattovi jedi R0014 in R0025 sta prestavljeni v 11.1 Fine dining.
 
 - 17. 11. 2026: na uporabnikovo željo dodana recepta iz klepeta: R0084 mousse iz bele čokolade (uredniški, ganaš in smetana) v 5.1 Čokoladni moussi; pistacijev lava cake iz klepeta je kot uredniška varianta z zamrznjeno sredico dodan v obstoječi R0083, ne kot nov vnos. Aktivnih vnosov je 83, naslednji ID R0085. Knjiga DOCX/PDF še ni ponovno sestavljena.
 - 17. 11. 2026: dodan R0083 pistacijev fondant (The Cooking Foodie) v 6.2 Tople sladice, povezan z R0061. Aktivnih vnosov je 82, naslednji ID R0084. Knjiga DOCX/PDF še ni ponovno sestavljena.

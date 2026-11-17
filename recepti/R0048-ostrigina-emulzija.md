@@ -1,7 +1,7 @@
 ---
 id: R0048
 naslov: "Ostrigina emulzija z zeliščnim oljem"
-poglavje: "Julius fine dining"
+poglavje: "Jules Cooking"
 podpoglavje: "Emulzije in olja"
 oznake: [emulzija, ostrige, zeliščno olje, hladna omaka, fine dining, Nizozemska]
 izvor: "Jules Cooking; uporabnikova prilagoditev s celimi ostrigami in oljem, segretim na štedilniku"

@@ -1,8 +1,8 @@
 ---
 id: R0025
 naslov: "Račje prsi à l’orange z bučno-pomarančnim pirejem"
-poglavje: "Julius fine dining"
-podpoglavje: "Račje jedi"
+poglavje: "Glavne jedi"
+podpoglavje: "Fine dining"
 oznake: [raca, račje prsi, pomaranča, maslena buča, Cointreau, fine dining, Francija]
 izvor: "Adam Byatt, Trinity · bučno-pomarančni pire po prilagoditvi"
 vir: "https://www.youtube.com/watch?v=cCaRoEi1TL4"
