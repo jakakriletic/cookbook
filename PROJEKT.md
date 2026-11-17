@@ -4,6 +4,8 @@ Osebna kuharska knjiga za pripravo na MasterChef. Namen je hiter pregled med vaj
 
 ## Stanje
 
+17. 11. 2026 — Fallowove omake: vseh pet receptov iz videa »5 Fish Sauces Every Chef Should Know« je v 9.3 Omake za ribe in morske sadeže (R0085–R0089). Izrazi so zapisani v izvirniku s slovensko razlago ob prvi uporabi. Časi videa, razmerja in odprte količine so v `reference/fallow-omake-za-ribe-2026-11-17.md`. Word in PDF sta ponovno sestavljena z 88 recepti, 13 poglavji in 149 fizičnimi stranmi. Omake so na oštevilčenih straneh 95–99. Naslednji ID je R0090.
+
 17. 11. 2026 — recepta iz klepeta: dodan R0084 mousse iz bele čokolade (uredniški recept, ganaš in stepena smetana, brez jajc) v 5.1 Čokoladni moussi. Pistacijev lava cake iz istega klepeta je kot uredniška varianta z zamrznjeno sredico dodan v obstoječi R0083, ker pistacijev fondant že obstaja. Evidenca v `reference/bela-cokolada-mousse-in-pistacijev-fondant-2026-11-17.md`. Aktivnih vnosov je 83, naslednji ID R0085. Word in PDF še nista ponovno sestavljena.
 
 17. 11. 2026 — pistacijev lava cake: dodan R0083 pistacijev fondant po The Cooking Foodie v 6.2 Tople sladice, s sklicem na čokoladni fondant R0061. Evidenca v `reference/pistacijev-fondant-2026-11-17.md`. Aktivnih vnosov je 82, naslednji ID R0084. Word in PDF še nista ponovno sestavljena.
@@ -107,7 +109,7 @@ Zgradba je poenotena 11. 11. 2026 na uporabnikovo željo, da bo hitro jasno, kje
 | --- | --- | --- |
 | 7 Kuharske osnove | 7.1 Osnovna razmerja · 7.2 Fondi | razmerja, fondi, osnove, farse in tehnike, ki niso samostojna jed |
 | 8 Okisovanje | 8.1 Hitro okisanje | okisanje in vlaganje zelenjave in sadja (fermentacija naj dobi svoje podpoglavje) |
-| 9 Omake | 9.1 Matične in izpeljane omake · 9.2 Maslene omake | tople in hladne omake, emulzije, prelivi; pregled `recepti/04-04-maticne-in-izpeljane-omake.md` na začetku 9.1 |
+| 9 Omake | 9.1 Matične in izpeljane omake · 9.2 Maslene omake · 9.3 Omake za ribe in morske sadeže | tople in hladne omake, emulzije, prelivi; pregled `recepti/04-04-maticne-in-izpeljane-omake.md` na začetku 9.1 |
 | 10 Priloge | 10.1 Krompir · 10.2 Pireji | zelenjavne priloge, krompir, pireji; pregled `recepti/05-04-pireji-in-kreme.md` na začetku 10.2 |
 | 11 Glavne jedi | — | končne jedi z ribami, mesom in perutnino; trenutno sklici na recepte v drugih poglavjih |
 | 12 Tuja kulinarika | 12.1 Peru · 12.2 Kitajska (sladkokisli piščanec, bao bun) · 12.3 Italijanske jedi (testenine in njoki) | celovite jedi neevropskih kuhinj in podpoglavja po uporabnikovi izbiri, med njimi italijanske jedi |

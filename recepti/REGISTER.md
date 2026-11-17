@@ -2,9 +2,9 @@
 
 Posodobljeno: 17. 11. 2026.
 
-Za vključitev izbranih vnosov: **83** (R0001–R0045 in R0047–R0084). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0085**.
+Za vključitev izbranih vnosov: **88** (R0001–R0045 in R0047–R0089). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0090**.
 
-**Aktualna izdaja, 14. 11. 2026:** [Wordova knjiga](../outputs/moj-kuharski-zvezek.docx) in [PDF](../outputs/moj-kuharski-zvezek.pdf) imata 77 receptov, 13 poglavij in 128 fizičnih strani. R0025 je v 13.4 Račje jedi, R0014 pa v 13.5 Ribje jedi.
+**Aktualna izdaja, 17. 11. 2026:** [Wordova knjiga](../outputs/moj-kuharski-zvezek.docx) in [PDF](../outputs/moj-kuharski-zvezek.pdf) imata 88 receptov, 13 poglavij in 149 fizičnih strani. Omake R0085–R0089 so v podpoglavju 9.3 na oštevilčenih straneh 95–99.
 
 **11. 11. 2026:** dodana poglavja 14 Julius fine dining (R0048, R0049), 15 Biskviti (R0050, R0051) in 16 Okisovanje (R0052, R0053). Vsi so vključeni v berljivo izdajo z dne 11. 11. 2026. Pri 12 receptih je dodana vrstica »Razmerje po masi«; pregled v `reference/razmerja-2026-11-11.md`.
 
@@ -74,6 +74,11 @@ Zgradba je poenotena 11. 11. 2026: številke v stolpcu »Glavno poglavje« so en
 | [R0009](R0009-paradiznikova-omaka.md) | Paradižnikova omaka | 9.1 Matične in izpeljane omake | matična; paradižnik; Francija | Fallow, 15:31 | delovno — za dopolnitev | R0010 |
 | [R0010](R0010-romesco.md) | Romesco po Fallowu | 9.1 Matične in izpeljane omake | izpeljana; paprika; mandlji; Španija; Katalonija | Fallow, 17:49 | delovno — za dopolnitev | R0009 |
 | [R0024](R0024-beurre-rouge.md) | Beurre rouge | 9.2 Maslene omake | emulzija; rdeče vino; Francija | Fallow, kratki video | delovno — za dopolnitev | R0007 |
+| [R0085](R0085-chicken-butter-sauce.md) | Chicken Butter Sauce (maslena omaka iz piščančjega fonda) | 9.3 Omake za ribe in morske sadeže | fond; maslena emulzija; morska spaka | Fallow, 00:11 | delovno — količine za dopolnitev | — |
+| [R0086](R0086-sauce-vin-blanc.md) | Sauce vin blanc (omaka z belim vinom) | 9.3 Omake za ribe in morske sadeže | velouté; roux; belo vino | Fallow, 02:42 | delovno — količine za dopolnitev | R0003; R0011 |
+| [R0087](R0087-sauce-pil-pil.md) | Sauce pil-pil (baskovska emulzija iz ribjih sokov in olja) | 9.3 Omake za ribe in morske sadeže | Baskija; romb; emulzija | Fallow, 05:46 | delovno — količine za dopolnitev | — |
+| [R0088](R0088-bisque-de-homard.md) | Bisque de homard (žametna omaka iz jastoga) | 9.3 Omake za ribe in morske sadeže | jastog; ribji fumet; kovač | Fallow, 09:01 | delovno — količine za dopolnitev | R0011 |
+| [R0089](R0089-tartare-beurre-blanc.md) | Tartare beurre blanc (topla maslena tatarska omaka) | 9.3 Omake za ribe in morske sadeže | beurre blanc; kapre; losos | Fallow, 12:43 | delovno — količine za dopolnitev | R0024 |
 | [R0021](R0021-pecen-krompir.md) | Pečen krompir na račji masti | 10.1 Krompir | krompir; račja mast; Anglija | Byatt, Roast Potatoes | delovno | — |
 | [R0016](R0016-cvetacni-pire-byatt.md) | Bel cvetačni pire | 10.2 Pireji | pire; cvetača | Byatt, Cauliflower Puree | delovno | R0020 |
 | [R0020](R0020-prazen-cvetacni-pire.md) | Pražen cvetačni pire s parmezanom | 10.2 Pireji | pire; cvetača; parmezan | Fallow, 4 Purees, 16:42 | delovno | R0016 |
@@ -130,6 +135,8 @@ Viri R0011–R0025 in dopolnitev R0001 ter R0007: [evidenca videov z dne 31. 10.
 Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](https://www.youtube.com/watch?v=xniS7kMpW4I). [Evidenca vira in uredniških odločitev](../reference/fallow-maticne-omake-2024.md). [Pregled podpoglavja 4.4](04-04-maticne-in-izpeljane-omake.md).
 
 ## Odprto
+
+- R0085–R0089: absolutne količine in izpleni omak, pri bisque tudi izbor aromatične zelenjave poleg šalotke. [Evidenca](../reference/fallow-omake-za-ribe-2026-11-17.md)
 
 - R0084: uredniški recept brez vira; masa in Bloom lista želatine, čvrstost brez želatine in izplen v gramih. R0083: uredniška varianta z zamrznjeno sredico ni preizkušena. [Evidenca](../reference/bela-cokolada-mousse-in-pistacijev-fondant-2026-11-17.md).
 - R0083: vrsta pistacijeve paste in čas peke v domači pečici. Ni preizkušeno. [Evidenca](../reference/pistacijev-fondant-2026-11-17.md).
