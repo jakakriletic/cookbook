@@ -63,7 +63,7 @@ Topel čokoladni kolaček s skorjico zunaj in tekočo sredico. Maso lahko pripra
 
 ## Serviranje in povezani recepti
 
-Drugačna topla čokoladna sladica je [čokoladni sufle](R0062-cokoladni-sufle.md).
+Drugačna topla čokoladna sladica je [čokoladni sufle](R0062-cokoladni-sufle.md). Pistacijeva izvedba je [pistacijev fondant](R0083-pistacijev-fondant.md).
 
 ## Uredniška evidenca
 

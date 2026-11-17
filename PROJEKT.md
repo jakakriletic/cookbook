@@ -4,6 +4,8 @@ Osebna kuharska knjiga za pripravo na MasterChef. Namen je hiter pregled med vaj
 
 ## Stanje
 
+17. 11. 2026 — pistacijev lava cake: dodan R0083 pistacijev fondant po The Cooking Foodie v 6.2 Tople sladice, s sklicem na čokoladni fondant R0061. Evidenca v `reference/pistacijev-fondant-2026-11-17.md`. Aktivnih vnosov je 82, naslednji ID R0084. Word in PDF še nista ponovno sestavljena.
+
 16. 11. 2026 — hiter brioš: dodan R0082 hitre briošne žemljice v 60 minutah za tekmovanje, s časovnico po minutah, v 2.6 Kruh in žemljice. Uredniški recept (spletni viri neberljivi in neskladni); evidenca v `reference/hitre-briosne-zemljice-2026-11-16.md`. Aktivnih vnosov je 81, naslednji ID R0083. Word in PDF še nista ponovno sestavljena.
 
 16. 11. 2026 — brioš: dodan R0081 testo za brioš s hladnim vzhajanjem čez noč v 2.6 Kruh in žemljice. Uredniški recept po klasični formuli (moka 100 : jajca 60 : maslo 50), ker spletni viri niso bili berljivi; evidenca v `reference/briosevo-testo-2026-11-16.md`. Aktivnih vnosov je 80, naslednji ID R0082. Word in PDF še nista ponovno sestavljena.

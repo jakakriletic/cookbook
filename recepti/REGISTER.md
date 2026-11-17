@@ -2,7 +2,7 @@
 
 Posodobljeno: 16. 11. 2026.
 
-Za vključitev izbranih vnosov: **81** (R0001–R0045 in R0047–R0082). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0083**.
+Za vključitev izbranih vnosov: **82** (R0001–R0045 in R0047–R0083). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0084**.
 
 **Aktualna izdaja, 14. 11. 2026:** [Wordova knjiga](../outputs/moj-kuharski-zvezek.docx) in [PDF](../outputs/moj-kuharski-zvezek.pdf) imata 77 receptov, 13 poglavij in 128 fizičnih strani. R0025 je v 13.4 Račje jedi, R0014 pa v 13.5 Ribje jedi.
 
@@ -53,7 +53,8 @@ Zgradba je poenotena 11. 11. 2026: številke v stolpcu »Glavno poglavje« so en
 | [R0040](R0040-pasijonkin-mousse-pate-a-bombe.md) | Pasijonkin mousse s pâte à bombe | 5.2 Sadni moussi | mousse; sadje | Sally Elias, objava z dovoljenjem iz The Pastry Chef’s Little Black Book | delovno; količine preverjene z virom | [pregled 1.9](01-09-moussi.md) |
 | [R0042](R0042-sadni-bavarois-banana-pasijonka.md) | Sadni bavarois — banana in pasijonka | 5.2 Sadni moussi | mousse; sadje | Benoit Blin za Ponthier, Exotic fruits bavarois, komponenta 3 | delovno; količine preverjene z virom | [pregled 1.9](01-09-moussi.md) |
 | [R0026](R0026-makroni-po-karimu.md) | Makroni po Karimu Merdjadiju | 6.1 Makroni | makroni; mandlji; italijanska meringa; Francija | Okusno.je, 5. 5. 2021 | delovno — razširjen tehnični postopek; varnostna prilagoditev | R0027; R0047 |
-| [R0061](R0061-cokoladni-fondant.md) | Čokoladni fondant (lava cake) | 6.2 Tople sladice | fondant; lava cake; čokolada; topla sladica | Gordon Ramsay, BBC Good Food | delovno — ni preizkušeno | R0062 |
+| [R0061](R0061-cokoladni-fondant.md) | Čokoladni fondant (lava cake) | 6.2 Tople sladice | fondant; lava cake; čokolada; topla sladica | Gordon Ramsay, BBC Good Food | delovno — ni preizkušeno | R0062; R0083 |
+| [R0083](R0083-pistacijev-fondant.md) | Pistacijev fondant (pistacijev lava cake) | 6.2 Tople sladice | fondant; lava cake; pistacija; bela čokolada | The Cooking Foodie, Pistachio Lava Cake | delovno — ni preizkušeno | R0061; R0050 |
 | [R0062](R0062-cokoladni-sufle.md) | Čokoladni sufle | 6.2 Tople sladice | sufle; čokolada; beljaki; topla sladica | King Arthur Baking, Triple Chocolate Soufflé | delovno — ni preizkušeno | R0061 |
 | [R0023](R0023-osnovna-razmerja.md) | Osnovna kuharska razmerja | 7.1 Osnovna razmerja | majoneza; vinaigrette; vlaganje; marinada; mleto meso | Fallow, 9 Ratios | delovno | R0001; R0007; R0022; sklici iz 3.5, 3.6, 4.7 |
 | [R0011](R0011-ribji-fumet.md) | Ribji fumet | 7.2 Fondi | fond; ribe; Francija | Byatt, Sole Bonne Femme, opis | delovno — voda za dopolnitev | R0014 |
@@ -129,6 +130,7 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 
 ## Odprto
 
+- R0083: vrsta pistacijeve paste in čas peke v domači pečici. Ni preizkušeno. [Evidenca](../reference/pistacijev-fondant-2026-11-17.md).
 - R0082: uredniški tekmovalni recept; časovnica, vzhajanje v 20 minutah in peka za preizkus pred tekmovanjem. [Evidenca](../reference/hitre-briosne-zemljice-2026-11-16.md).
 - R0081: uredniški recept po klasični formuli brez v celoti prebranega vira; temperature, časi vzhajanja in peke ter mase kroglic za preverjanje ob vaji. [Evidenca](../reference/briosevo-testo-2026-11-16.md).
 - R0080: vir prebran prek povzetka iskalnika (YouTube blokiran); vrsta moke in čas gnetenja po dodanem maslu odprta. Ni preizkušeno. [Evidenca](../reference/zemljice-za-burgerje-2026-11-16.md).
@@ -186,6 +188,7 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 
 ## Dnevnik
 
+- 17. 11. 2026: dodan R0083 pistacijev fondant (The Cooking Foodie) v 6.2 Tople sladice, povezan z R0061. Aktivnih vnosov je 82, naslednji ID R0084. Knjiga DOCX/PDF še ni ponovno sestavljena.
 - 16. 11. 2026: dodan R0082 hitre briošne žemljice v 60 minutah (uredniški tekmovalni recept, brez prvega vzhajanja) v 2.6 Kruh in žemljice. Aktivnih vnosov je 81, naslednji ID R0083. Knjiga DOCX/PDF še ni ponovno sestavljena.
 - 16. 11. 2026: dodan R0081 testo za brioš s hladnim vzhajanjem čez noč (uredniški, 50 % masla) v 2.6 Kruh in žemljice, povezan z R0080. Aktivnih vnosov je 80, naslednji ID R0082. Knjiga DOCX/PDF še ni ponovno sestavljena.
 - 16. 11. 2026: dodan R0080 žemljice za burgerje v eni uri (Backyahd BBQ) v novo podpoglavje 2.6 Kruh in žemljice; na uporabnikovo željo se zmehčano maslo vgnete na koncu. Aktivnih vnosov je 79, naslednji ID R0081. Knjiga DOCX/PDF še ni ponovno sestavljena. [Evidenca](../reference/zemljice-za-burgerje-2026-11-16.md).
