@@ -18,7 +18,7 @@ Priporočila za uporabo so uredniška izbira, razen kadar je uporaba neposredno 
 | [R0043 Čokoladni mousse iz ganaša in stepene smetane](R0043-cokoladni-mousse-ganas-smetana.md) | Čokoladna emulzija in smetana; brez jajc | Polena, torte in sadni vložki |
 | [R0044 Sadni mousse z italijansko meringo](R0044-sadni-mousse-italijanska-meringa.md) | Sadje, meringa in smetana; bolj penasto | Kozarčki, lahke tortne plasti |
 | [R0045 Čokoladni mousse na osnovi Chiboust](R0045-cokoladni-mousse-chiboust.md) | Škrobna krema in sneg; mehko in zračno | Kozarčki |
-| [R0084 Mousse iz bele čokolade](R0084-mousse-iz-bele-cokolade.md) | Ganaš iz bele čokolade in smetana; brez jajc, uredniški recept | Kozarčki, ob toplih sladicah |
+| [R0084 Mousse iz bele čokolade](R0084-mousse-iz-bele-cokolade.md) | Mlečni ganaš iz bele čokolade in stepena smetana, brez jajc | Kozarčki, ob toplih sladicah |
 
 ## Kako razumeti različne postopke
 

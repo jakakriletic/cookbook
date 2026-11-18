@@ -4,17 +4,19 @@ naslov: "Mousse iz bele čokolade"
 poglavje: "Moussi"
 podpoglavje: "Čokoladni moussi"
 oznake: [mousse, bela čokolada, ganaš, stepena smetana, brez jajc, vanilja]
-izvor: "uredniški recept (Claude, klepet 17. 11. 2026)"
-vir: ""
+izvor: "Uredniška prilagoditev, tehnika po L’École Valrhona"
+vir: "https://essentials.valrhona.com/essential/54"
 stanje: delovno
 datum_prejema: "2026-11-17"
 ---
 
 # Mousse iz bele čokolade
 
-Svilnat in zračen mousse brez surovih jajc: topel ganaš iz bele čokolade, smetane in vanilje, nato rahlo stepena smetana. Ščepec soli in kislo sadje uravnotežita sladkost.
+Mousse brez jajc iz bele čokolade, mleka in mehko stepene smetane. Ščepec soli in kislo sadje uravnotežita sladkost.
 
-**Izplen:** 4 porcije v kozarčkih.
+**Izplen:** 4 manjše porcije v kozarčkih.
+
+**Razmerje po masi:** 2 : 1 : 2 (bela čokolada : mleko : smetana, za ta recept).
 
 **Hlajenje:** najmanj 4 ure, najbolje čez noč.
 
@@ -24,17 +26,18 @@ Svilnat in zračen mousse brez surovih jajc: topel ganaš iz bele čokolade, sme
 
 | Sestavina | Količina |
 | --- | ---: |
-| Bela čokolada, kakovostna (vsaj 30 % kakavovega masla), sesekljana | 150 g |
-| Sladka smetana, 35 % | 80 ml |
+| Bela čokolada (vsaj 30 % kakavovega masla), sesekljana | 150 g |
+| Polnomastno mleko | 75 g |
+| Sladkor | 5 g |
 | Vaniljev strok (ali 1 žlička ekstrakta) | ½ |
-| Želatina v lističu (neobvezno) | 1 list, približno 2 g |
+| Suha želatina v lističih (po želji, za čvrstejši mousse) | 2 g |
 | Sol | ščepec |
 
 ### Stepena smetana
 
 | Sestavina | Količina |
 | --- | ---: |
-| Sladka smetana, 35 %, hladna | 250 ml |
+| Sladka smetana, 35 %, hladna | 150 g |
 
 ### Za serviranje
 
@@ -44,14 +47,11 @@ Svilnat in zračen mousse brez surovih jajc: topel ganaš iz bele čokolade, sme
 
 ## Postopek
 
-1. **Namoči želatino.** List želatine namoči v hladni vodi za **5 minut**. Želatina ni nujna, a mousse naredi stabilnejši.
-2. **Segrej smetano.** 80 ml smetane segrej z izpraskanimi semeni vanilje tik do vretja. Odstavi, dodaj ožeto želatino in premešaj, da se raztopi.
-3. **Naredi ganaš.** Vročo smetano v treh delih prelij čez sesekljano čokolado in vsakič mešaj iz sredine navzven do gladke, sijoče emulzije. Dodaj sol.
-4. **Ohladi ganaš.** Pusti, da se ohladi na približno **30 °C** (na dotik mlačno), okvirno **15 minut**.
-5. **Stepi smetano.** Hladno smetano stepi samo do **mehkih vrhov**, ko še rahlo teče z metlice.
-6. **Združi.** V ganaš najprej vmešaj tretjino smetane, da ga razredčiš, nato preostanek v dveh delih nežno vmešaj z lopatico.
-7. **Ohladi.** Razdeli v kozarčke in hladi najmanj **4 ure**, najbolje čez noč.
-8. **Postrezi.** Obloži z malinami tik pred serviranjem.
+1. **Pripravi čokolado in želatino.** Čokolado delno stopi nad toplo vodno kopeljo. Če uporabiš želatino, jo namoči v hladni vodi po navodilih na embalaži.
+2. **Segrej mleko.** Mleko s sladkorjem in izpraskanimi semeni vanilje segrej tik do vretja. Odstavi in po želji vmešaj ožeto želatino, da se raztopi.
+3. **Naredi ganaš.** Vroče mleko v treh delih prilij k čokoladi in vsakič mešaj od sredine navzven, da nastane gladka emulzija. Dodaj sol in vaniljev ekstrakt, če ga uporabljaš.
+4. **Stepi smetano.** Hladno smetano stepi do **mehkih vrhov**. Ko je ganaš pri približno **30 °C** in je še tekoč, vanj vmešaj tretjino smetane. Preostanek nežno vmešaj z lopatico v dveh delih.
+5. **Ohladi in postrezi.** Mousse razdeli v kozarčke in hladi najmanj **4 ure**, najbolje čez noč. Tik pred serviranjem dodaj maline.
 
 ## Kritične točke
 
@@ -71,6 +71,5 @@ Bela izvedba z beljakovo peno je v [R0036](R0036-cokoladni-mousse-z-beljaki.md),
 ## Uredniška evidenca
 
 - Uporabnik je 17. 11. 2026 v klepetu prosil za »dober white chocolate mousse« in nato naročil, naj se recept doda v knjigo.
-- Receptura je uredniška, po splošni slaščičarski praksi (ganaš in stepena smetana), brez objavljenega vira. Količine, temperature in časi niso preverjeni z virom in niso praktično preizkušeni.
-- Klasičnega razmerja po masi ni navedenega, ker ga za to vrsto moussa ne poznamo zanesljivo.
-- Odprto: masa lista želatine in jakost (Bloom), končna čvrstost brez želatine, izplen v gramih. [Evidenca](../reference/bela-cokolada-mousse-in-pistacijev-fondant-2026-11-17.md).
+- 18. 11. 2026 je uporabnik želel izrazitejši okus bele čokolade, manj smetane in malo sladkorja. Tehnika mlečnega ganaša je povzeta po L’École Valrhona. Količine so uredniška prilagoditev za kozarčke. Navedeno razmerje velja za to recepturo.
+- Odprto: jakost želatine (Bloom), čvrstost brez želatine in dejanski izplen v gramih. Prilagoditev še ni praktično preizkušena. [Evidenca spremembe in primerjava virov](../reference/mousse-bela-cokolada-2026-11-18.md).

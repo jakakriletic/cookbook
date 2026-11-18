@@ -4,6 +4,8 @@ Osebna kuharska knjiga za pripravo na MasterChef. Namen je hiter pregled med vaj
 
 ## Stanje
 
+18. 11. 2026 — R0084 mousse iz bele čokolade je po uporabnikovi pripombi prilagojen za manj smetanast okus. Osnova je mlečni ganaš s 5 g sladkorja, ki mu primešamo 150 g stepene smetane. Različica je še za praktični preizkus. Word in PDF sta osvežena. Recept se začne na oštevilčeni strani 55 (56. stran PDF-ja). Knjiga ima 95 receptov in 155 fizičnih strani. Preverjeni so kazalo, besedilo in izris spremenjenih strani. [Primerjava receptov in evidenca sprememb](reference/mousse-bela-cokolada-2026-11-18.md).
+
 17. 11. 2026 — jagodna baba: poglavje 13 je po uporabnikovi želji preimenovano v Jules Cooking. Sedem komponent videa »Strawberry & Baba Dessert« je v podpoglavjih 13.4–13.7 (R0090–R0096), na oštevilčenih straneh 144–150. Sestavljanje sladice je v R0093. Byattov morski list bonne femme in raca à l’orange sta v 11.1 Fine dining. Evidenca je v `reference/jules-cooking-jagodna-baba-2026-11-17.md`. Word in PDF sta osvežena s 95 recepti, 13 poglavji in 155 fizičnimi stranmi. Naslednji ID je R0097.
 
 17. 11. 2026 — Fallowove omake: vseh pet receptov iz videa »5 Fish Sauces Every Chef Should Know« je v 9.3 Omake za ribe in morske sadeže (R0085–R0089). Izrazi so zapisani v izvirniku s slovensko razlago ob prvi uporabi. Časi videa, razmerja in odprte količine so v `reference/fallow-omake-za-ribe-2026-11-17.md`. Word in PDF sta ponovno sestavljena z 88 recepti, 13 poglavji in 149 fizičnimi stranmi. Omake so na oštevilčenih straneh 95–99. Naslednji ID je R0090.

@@ -48,7 +48,7 @@ Zgradba je poenotena 11. 11. 2026: številke v stolpcu »Glavno poglavje« so en
 | [R0041](R0041-cokoladni-mousse-creme-anglaise.md) | Čokoladni mousse na osnovi crème anglaise | 5.1 Čokoladni moussi | mousse; čokolada | L’École Valrhona, Chocolate Mousse with Crème Anglaise | delovno; količine preverjene z virom | [pregled 1.9](01-09-moussi.md) |
 | [R0043](R0043-cokoladni-mousse-ganas-smetana.md) | Čokoladni mousse iz ganaša in stepene smetane | 5.1 Čokoladni moussi | mousse; čokolada | L’École Gourmet Valrhona, Guanaja, pear and cookie, komponenta 4 | delovno; količine preverjene z virom | [pregled 1.9](01-09-moussi.md) |
 | [R0045](R0045-cokoladni-mousse-chiboust.md) | Čokoladni mousse na osnovi Chiboust | 5.1 Čokoladni moussi | mousse; čokolada | Matt Adlard, Chocolate Mousse Guide, Chiboust Base | delovno; količine preverjene z virom | [pregled 1.9](01-09-moussi.md) |
-| [R0084](R0084-mousse-iz-bele-cokolade.md) | Mousse iz bele čokolade | 5.1 Čokoladni moussi | mousse; bela čokolada; ganaš; brez jajc | uredniški recept (Claude, klepet 17. 11. 2026) | delovno — ni preizkušeno | R0036; R0043; [pregled 1.9](01-09-moussi.md) |
+| [R0084](R0084-mousse-iz-bele-cokolade.md) | Mousse iz bele čokolade | 5.1 Čokoladni moussi | mousse; bela čokolada; mlečni ganaš; brez jajc | uredniška prilagoditev, tehnika po L’École Valrhona | delovno — ni preizkušeno | R0036; R0043; [pregled 1.9](01-09-moussi.md) |
 | [R0038](R0038-sadni-mousse-pire-smetana.md) | Sadni mousse iz pireja, želatine in smetane | 5.2 Sadni moussi | mousse; sadje | Ravifruit, Recettes – Recipes, 11/2014, stran 2 | delovno; količine preverjene z virom | [pregled 1.9](01-09-moussi.md) |
 | [R0044](R0044-sadni-mousse-italijanska-meringa.md) | Sadni mousse z italijansko meringo | 5.2 Sadni moussi | mousse; sadje | Ravifruit, Recettes – Recipes, 11/2014, stran 2 | delovno; količine preverjene z virom | [pregled 1.9](01-09-moussi.md) |
 | [R0040](R0040-pasijonkin-mousse-pate-a-bombe.md) | Pasijonkin mousse s pâte à bombe | 5.2 Sadni moussi | mousse; sadje | Sally Elias, objava z dovoljenjem iz The Pastry Chef’s Little Black Book | delovno; količine preverjene z virom | [pregled 1.9](01-09-moussi.md) |
@@ -149,7 +149,7 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 
 - R0085–R0089: absolutne količine in izpleni omak, pri bisque tudi izbor aromatične zelenjave poleg šalotke. [Evidenca](../reference/fallow-omake-za-ribe-2026-11-17.md)
 
-- R0084: uredniški recept brez vira; masa in Bloom lista želatine, čvrstost brez želatine in izplen v gramih. R0083: uredniška varianta z zamrznjeno sredico ni preizkušena. [Evidenca](../reference/bela-cokolada-mousse-in-pistacijev-fondant-2026-11-17.md).
+- R0084: jakost želatine (Bloom), čvrstost brez želatine in izplen v gramih. [Evidenca prilagoditve](../reference/mousse-bela-cokolada-2026-11-18.md). R0083: uredniška varianta z zamrznjeno sredico ni preizkušena. [Evidenca](../reference/bela-cokolada-mousse-in-pistacijev-fondant-2026-11-17.md).
 - R0083: vrsta pistacijeve paste in čas peke v domači pečici. Ni preizkušeno. [Evidenca](../reference/pistacijev-fondant-2026-11-17.md).
 - R0082: uredniški tekmovalni recept; časovnica, vzhajanje v 20 minutah in peka za preizkus pred tekmovanjem. [Evidenca](../reference/hitre-briosne-zemljice-2026-11-16.md).
 - R0081: uredniški recept po klasični formuli brez v celoti prebranega vira; temperature, časi vzhajanja in peke ter mase kroglic za preverjanje ob vaji. [Evidenca](../reference/briosevo-testo-2026-11-16.md).
@@ -210,6 +210,7 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 
 - 17. 11. 2026: poglavje 13 preimenovano v Jules Cooking. Dodanih vseh sedem komponent jagodne babe (R0090–R0096), sestavljanje pa je v R0093. Byattovi jedi R0014 in R0025 sta prestavljeni v 11.1 Fine dining.
 
+- 18. 11. 2026: R0084 ima mlečni ganaš, 150 g stepene smetane in 5 g sladkorja v mleku. [Evidenca prilagoditve](../reference/mousse-bela-cokolada-2026-11-18.md).
 - 17. 11. 2026: na uporabnikovo željo dodana recepta iz klepeta: R0084 mousse iz bele čokolade (uredniški, ganaš in smetana) v 5.1 Čokoladni moussi; pistacijev lava cake iz klepeta je kot uredniška varianta z zamrznjeno sredico dodan v obstoječi R0083, ne kot nov vnos. Aktivnih vnosov je 83, naslednji ID R0085. Knjiga DOCX/PDF še ni ponovno sestavljena.
 - 17. 11. 2026: dodan R0083 pistacijev fondant (The Cooking Foodie) v 6.2 Tople sladice, povezan z R0061. Aktivnih vnosov je 82, naslednji ID R0084. Knjiga DOCX/PDF še ni ponovno sestavljena.
 - 16. 11. 2026: dodan R0082 hitre briošne žemljice v 60 minutah (uredniški tekmovalni recept, brez prvega vzhajanja) v 2.6 Kruh in žemljice. Aktivnih vnosov je 81, naslednji ID R0083. Knjiga DOCX/PDF še ni ponovno sestavljena.
