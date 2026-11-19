@@ -4,6 +4,8 @@ Osebna kuharska knjiga za pripravo na MasterChef. Namen je hiter pregled med vaj
 
 ## Stanje
 
+19. 11. 2026 — dodano podpoglavje **7.3 Recepti iz osnovnega sortimenta** z 32 kratkimi recepti R0097–R0128, po štiri na stran (oštevilčene strani **78–85**). Uporabnik je izrecno dovolil ponovitve osnov; ta izjema velja samo za ta strnjeni priročnik. Nabor je omejen na 12 sestavin, ki jih POP TV/24ur izrecno navede za izziv 10. 3. 2023, in vodo; ne trdimo, da gre za stalni seznam sezone 2026. Količine in postopki so iz navedenih virov, prilagoditve ter neznani podatki v [evidenci](reference/osnovni-sortiment-2026-11-19.md). **127 aktivnih vnosov**, naslednji ID **R0129**. Word in PDF imata **165 fizičnih strani, 13 poglavij**; kazalo vključuje vseh 127 receptov. Vse stare recepture ostajajo nespremenjene.
+
 18. 11. 2026 — R0084 mousse iz bele čokolade je po uporabnikovi pripombi prilagojen za manj smetanast okus. Osnova je mlečni ganaš s 5 g sladkorja, ki mu primešamo 150 g stepene smetane. Različica je še za praktični preizkus. Word in PDF sta osvežena. Recept se začne na oštevilčeni strani 55 (56. stran PDF-ja). Knjiga ima 95 receptov in 155 fizičnih strani. Preverjeni so kazalo, besedilo in izris spremenjenih strani. [Primerjava receptov in evidenca sprememb](reference/mousse-bela-cokolada-2026-11-18.md).
 
 17. 11. 2026 — jagodna baba: poglavje 13 je po uporabnikovi želji preimenovano v Jules Cooking. Sedem komponent videa »Strawberry & Baba Dessert« je v podpoglavjih 13.4–13.7 (R0090–R0096), na oštevilčenih straneh 144–150. Sestavljanje sladice je v R0093. Byattov morski list bonne femme in raca à l’orange sta v 11.1 Fine dining. Evidenca je v `reference/jules-cooking-jagodna-baba-2026-11-17.md`. Word in PDF sta osvežena s 95 recepti, 13 poglavji in 155 fizičnimi stranmi. Naslednji ID je R0097.
@@ -111,7 +113,7 @@ Zgradba je poenotena 11. 11. 2026 na uporabnikovo željo, da bo hitro jasno, kje
 
 | Poglavje | Podpoglavja (zapolnjena) | Kaj sodi sem |
 | --- | --- | --- |
-| 7 Kuharske osnove | 7.1 Osnovna razmerja · 7.2 Fondi | razmerja, fondi, osnove, farse in tehnike, ki niso samostojna jed |
+| 7 Kuharske osnove | 7.1 Osnovna razmerja · 7.2 Fondi · 7.3 Recepti iz osnovnega sortimenta | razmerja, fondi, osnove, farse in tehnike, ki niso samostojna jed |
 | 8 Okisovanje | 8.1 Hitro okisanje | okisanje in vlaganje zelenjave in sadja (fermentacija naj dobi svoje podpoglavje) |
 | 9 Omake | 9.1 Matične in izpeljane omake · 9.2 Maslene omake · 9.3 Omake za ribe in morske sadeže | tople in hladne omake, emulzije, prelivi; pregled `recepti/04-04-maticne-in-izpeljane-omake.md` na začetku 9.1 |
 | 10 Priloge | 10.1 Krompir · 10.2 Pireji | zelenjavne priloge, krompir, pireji; pregled `recepti/05-04-pireji-in-kreme.md` na začetku 10.2 |
@@ -123,7 +125,7 @@ Novo podpoglavje dodaj v ustrezno poglavje z naslednjo prosto številko (npr. 2.
 
 ## Pravila razvrščanja
 
-1. **Kaj je to?** Komponenta (krema, testo, omaka, fond, pire) gre v poglavje svoje vrste; končna jed v Sladice/Drobno pecivo ali Glavne jedi. Vsak recept ima eno glavno mesto; drugje je samo sklic.
+1. **Kaj je to?** Komponenta (krema, testo, omaka, fond, pire) gre v poglavje svoje vrste; končna jed v Sladice/Drobno pecivo ali Glavne jedi. Vsak recept ima eno glavno mesto; drugje je samo sklic. Uporabnikova izjema od 19. 11. 2026 je 7.3 Recepti iz osnovnega sortimenta: tu so dovoljene samostojne strnjene ponovitve osnov z lastnim ID in sledljivim virom.
 2. **Jules Cooking** je glavno mesto receptov tega avtorja. Byattova raca à l’orange in morski list bonne femme sta v 11.1 Fine dining. V vsebinskem poglavju lahko skripta izpiše sklice na recepte drugje (`SEE_ALSO`).
 3. **Omake** so v 9.1 urejene po družinah: matična omaka, takoj za njo njene izpeljanke.
 4. **Celovite jedi neevropskih kuhinj** imajo glavno mesto v 12 Tuja kulinarika, podpoglavje po državi; univerzalna tehnika ostane v vsebinskem poglavju s sklicem. Tu je tudi podpoglavje Italijanske jedi z R0063–R0076.
@@ -144,6 +146,8 @@ Ime sloga: **Topla kuharska beležnica**. Slogovne slike so navdih za hierarhijo
 - Poglavja se začnejo na novi strani. Ni potrebe po praznih ločilnih straneh za kratka poglavja. Recept ima prednostno svojo stran; naslovi ne smejo ostati sami na dnu.
 - Na dnu drobna številka strani in kratko ime knjige. Brez fotografij jedi, dokler jih uporabnik ne prispeva ali izrecno zahteva.
 - Končna knjiga bo imela prave sloge, besedilo in kazalo. Cele strani kot slike otežijo urejanje, iskanje in kazalo; slikovni PDF lahko obstaja kot dodaten prikaz, ne kot edini izvirnik.
+
+**Izjema za postavitev 7.3 (19. 11. 2026):** štiri kratke kartice na stran, 16 pt naslovi, 12 pt sestavine in postopek, 10,5 pt kratki metapodatki, razmik 1,05. Sestavine so v strnjenem odstavku s poudarjenimi količinami, postopek v kratkem odstavku. Vsaka kartica ostane skupaj na strani in v kazalu. Nujnih počitkov se ne krajša, da bi bila priprava navidez hitrejša. Druge recepture ohranijo običajni slog.
 
 ## Standardna vsebina recepta
 

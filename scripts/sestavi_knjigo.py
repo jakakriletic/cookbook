@@ -294,6 +294,19 @@ set_style('Bullet', 'Aptos', 12, INK, None, None, 0, 5)
 set_style('Small', 'Aptos', 10, MUTED, None, None, 0, 3)
 set_style('Overview Item', 'Aptos', 12, INK, None, None, 0, 7)
 
+# Uporabnikova izjema: 7.3 je kratek priročnik, štiri kartice na stran.
+# Sestavine ostanejo urejevalno besedilo v strnjenem odstavku.
+set_style('Compact Title', 'Georgia', 16, '000000', False, False, 7, 3, True)
+styles['Compact Title'].base_style = styles['Heading 3']
+compact_outline = OxmlElement('w:outlineLvl'); compact_outline.set(qn('w:val'), '2')
+styles['Compact Title'].element.get_or_add_pPr().append(compact_outline)
+set_style('Compact Facts', 'Aptos', 10.5, COPPER, False, False, 0, 3, True)
+set_style('Compact Body', 'Aptos', 12, INK, False, False, 0, 3, True)
+set_style('Compact Method', 'Aptos', 12, INK, False, False, 0, 6, False)
+for name in ('Compact Body', 'Compact Method', 'Compact Facts', 'Compact Title'):
+    styles[name].paragraph_format.line_spacing = 1.05
+    styles[name].paragraph_format.keep_together = True
+
 ING_QTY, ING_NAME = 30, 35  # mm: desni rob količine in začetek imena
 for s in ('Ingredient',):
     pf = styles[s].paragraph_format
@@ -672,6 +685,29 @@ for subnum in sorted(group, key=lambda number: (order[int(number.split('.')[0])]
                 render(bl, 'Step')
     for idx, r in enumerate(items, 1):
         dump.append(f'\n---- {r["title"]}  [{r["id"]}]')
+        if subnum == '7.3' and r['meta'].get('postavitev') == 'strnjeno':
+            if idx == 1:
+                p = para('Moka, jajca, mleko, maslo, smetana, olje, kis, sladkor, sol, poper, kvas, pecilni prašek in voda.', 'Small')
+                p.paragraph_format.space_after = Pt(7)
+            elif (idx - 1) % 4 == 0:
+                p = para(f'{disp_sub}  RECEPTI IZ OSNOVNEGA SORTIMENTA', 'Eyebrow')
+                p.paragraph_format.page_break_before = True
+            p = doc.add_paragraph(r['title'], 'Compact Title'); bookmark(p, r['id'])
+            # Izrecni slog v TOC ohrani vsako kratko kartico v kazalu.
+            for name, bl in sections(blocks(r['body'])):
+                if name == 'Vir in licenca':
+                    continue  # Pripis se ohrani v skupnem razdelku Viri.
+                for kind, val in bl:
+                    if kind != 'p':
+                        raise ValueError(f'Strnjena kartica zahteva odstavke: {r["id"]}')
+                    text = clean_text(strip_ids(val))
+                    if not text:
+                        continue
+                    style = 'Compact Facts' if name is None and not val.startswith('**Razmerje') else ('Compact Method' if name == 'Postopek' else 'Compact Body')
+                    p = doc.add_paragraph(style=style); inline(p, text)
+                    dump.append(text.replace('**', ''))
+            manifest.append({'id': r['id'], 'title': r['title'], 'number': disp_sub, 'source': r['file']})
+            continue
         if idx > 1 or overview:
             eyebrow = para(f'{disp_sub}  ·  {r["sub"].upper()}', 'Eyebrow')
             eyebrow.paragraph_format.page_break_before = True

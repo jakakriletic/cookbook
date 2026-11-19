@@ -1,10 +1,10 @@
 # Register receptov
 
-Posodobljeno: 17. 11. 2026.
+Posodobljeno: 19. 11. 2026.
 
-Za vključitev izbranih vnosov: **95** (R0001–R0045 in R0047–R0096). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0097**.
+Za vključitev izbranih vnosov: **127** (R0001–R0045 in R0047–R0128). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0129**.
 
-**Aktualna izdaja, 17. 11. 2026:** [Wordova knjiga](../outputs/moj-kuharski-zvezek.docx) in [PDF](../outputs/moj-kuharski-zvezek.pdf) imata 95 receptov, 13 poglavij in 155 fizičnih strani. Sedem receptov jagodne babe je pod Jules Cooking na oštevilčenih straneh 144–150.
+**Aktualna izdaja, 19. 11. 2026:** [Wordova knjiga](../outputs/moj-kuharski-zvezek.docx) in [PDF](../outputs/moj-kuharski-zvezek.pdf) imata 127 receptov, 13 poglavij in 165 fizičnih strani. Podpoglavje 7.3 je na oštevilčenih straneh 78–85; po štirje recepti na stran.
 
 **11. 11. 2026:** dodana poglavja 14 Julius fine dining (R0048, R0049), 15 Biskviti (R0050, R0051) in 16 Okisovanje (R0052, R0053). Vsi so vključeni v berljivo izdajo z dne 11. 11. 2026. Pri 12 receptih je dodana vrstica »Razmerje po masi«; pregled v `reference/razmerja-2026-11-11.md`.
 
@@ -13,6 +13,8 @@ Za vključitev izbranih vnosov: **95** (R0001–R0045 in R0047–R0096). R0046 j
 **Pregledna izdaja z izboljšano berljivostjo, 9. 11. 2026:** 46 receptov na 93 straneh z naslovnico, kazalom in viri. Vključeni so razširjen tehnični postopek makronov, krema za tri rumenjake in praktično zaokrožene količine. Seznami imajo količino ob sestavini in glavno pisavo 12 pt. Izdaja je shranjena v zgodovini Gita.
 
 Štiri slike v `reference/` so trenutno slogovni primeri. Vzorčna stran Beurre blanc v HTML je prikaz oblikovanja; ne šteje kot potrjen recept in nima trajnega ID. Slike niso bile vsebinsko preverjene.
+
+**Novo, 19. 11. 2026:** podpoglavje 7.3 Recepti iz osnovnega sortimenta ima 32 kratkih vnosov R0097–R0128, po štiri na stran. Ponovitve osnov so izrecna uporabnikova izjema. [Viri in prilagoditve](../reference/osnovni-sortiment-2026-11-19.md).
 
 ## Evidenca
 
@@ -60,6 +62,38 @@ Zgradba je poenotena 11. 11. 2026: številke v stolpcu »Glavno poglavje« so en
 | [R0023](R0023-osnovna-razmerja.md) | Osnovna kuharska razmerja | 7.1 Osnovna razmerja | majoneza; vinaigrette; vlaganje; marinada; mleto meso | Fallow, 9 Ratios | delovno | R0001; R0007; R0022; sklici iz 3.5, 3.6, 4.7 |
 | [R0011](R0011-ribji-fumet.md) | Ribji fumet | 7.2 Fondi | fond; ribe; Francija | Byatt, Sole Bonne Femme, opis | delovno — voda za dopolnitev | R0014 |
 | [R0012](R0012-gobova-osnova.md) | Gobova osnova | 7.2 Fondi | fond; gobe | Byatt, Sole Bonne Femme, opis | delovno | R0013; R0014 |
+| [R0097](R0097-sortiment-sladko-krhko-testo.md) | Sladko krhko testo | 7.3 Recepti iz osnovnega sortimenta | MasterChef; osnovni sortiment; strnjeno | Good Food team | delovno — ni preizkušeno; uredniške prilagoditve v evidenci | R0030 |
+| [R0098](R0098-sortiment-slano-krhko-testo.md) | Slano krhko testo | 7.3 Recepti iz osnovnega sortimenta | MasterChef; osnovni sortiment; strnjeno | Good Food team | delovno — ni preizkušeno; uredniške prilagoditve v evidenci | — |
+| [R0099](R0099-sortiment-masleni-piskoti-shortbread.md) | Masleni piškoti shortbread | 7.3 Recepti iz osnovnega sortimenta | MasterChef; osnovni sortiment; strnjeno | Good Food team | delovno — ni preizkušeno; uredniške prilagoditve v evidenci | — |
+| [R0100](R0100-sortiment-osnovni-drobljenec.md) | Osnovni drobljenec | 7.3 Recepti iz osnovnega sortimenta | MasterChef; osnovni sortiment; strnjeno | Barney Desmazery, Good Food | delovno — ni preizkušeno; uredniške prilagoditve v evidenci | — |
+| [R0101](R0101-sortiment-osnovne-hrustljave-ploscice.md) | Osnovne hrustljave ploščice | 7.3 Recepti iz osnovnega sortimenta | MasterChef; osnovni sortiment; strnjeno | The BC Cook Articulation Committee, BCcampus | delovno — ni preizkušeno; uredniške prilagoditve v evidenci | R0033 |
+| [R0102](R0102-sortiment-tanek-biskvit-za-podlago.md) | Tanek biskvit za podlago | 7.3 Recepti iz osnovnega sortimenta | MasterChef; osnovni sortiment; strnjeno | Good Food team | delovno — ni preizkušeno; uredniške prilagoditve v evidenci | R0031 |
+| [R0103](R0103-sortiment-majhni-profiteroli-brez-nadeva.md) | Majhni profiteroli brez nadeva | 7.3 Recepti iz osnovnega sortimenta | MasterChef; osnovni sortiment; strnjeno | Adam Byatt | delovno — ni preizkušeno; uredniške prilagoditve v evidenci | R0015 |
+| [R0104](R0104-sortiment-tanke-palacinke.md) | Tanke palačinke | 7.3 Recepti iz osnovnega sortimenta | MasterChef; osnovni sortiment; strnjeno | Cassie Best, Good Food | delovno — ni preizkušeno; uredniške prilagoditve v evidenci | — |
+| [R0105](R0105-sortiment-ameriske-palacinke.md) | Ameriške palačinke | 7.3 Recepti iz osnovnega sortimenta | MasterChef; osnovni sortiment; strnjeno | Loui, BBC Food | delovno — ni preizkušeno; uredniške prilagoditve v evidenci | — |
+| [R0106](R0106-sortiment-cesarski-prazenec-brez-dodatkov.md) | Cesarski praženec brez dodatkov | 7.3 Recepti iz osnovnega sortimenta | MasterChef; osnovni sortiment; strnjeno | Renate Wagner, Austria Tourism | delovno — ni preizkušeno; uredniške prilagoditve v evidenci | — |
+| [R0107](R0107-sortiment-sveze-jajcne-testenine.md) | Sveže jajčne testenine | 7.3 Recepti iz osnovnega sortimenta | MasterChef; osnovni sortiment; strnjeno | Uporabnik; uredniško strnjeno | delovno — ni preizkušeno; uredniške prilagoditve v evidenci | R0058 |
+| [R0108](R0108-sortiment-vlivanci-spatzle.md) | Vlivanci spätzle | 7.3 Recepti iz osnovnega sortimenta | MasterChef; osnovni sortiment; strnjeno | Kimberly Killebrew, The Daring Gourmet | delovno — ni preizkušeno; uredniške prilagoditve v evidenci | — |
+| [R0109](R0109-sortiment-ploscati-kruh-iz-ponve.md) | Ploščati kruh iz ponve | 7.3 Recepti iz osnovnega sortimenta | MasterChef; osnovni sortiment; strnjeno | Nagi Maehashi, RecipeTin Eats | delovno — ni preizkušeno; uredniške prilagoditve v evidenci | R0060 |
+| [R0110](R0110-sortiment-smetanovi-kruhki-brez-kvasa.md) | Smetanovi kruhki brez kvasa | 7.3 Recepti iz osnovnega sortimenta | MasterChef; osnovni sortiment; strnjeno | King Arthur Test Kitchen | delovno — ni preizkušeno; uredniške prilagoditve v evidenci | — |
+| [R0111](R0111-sortiment-yorkshirski-pudingi.md) | Yorkshirski pudingi | 7.3 Recepti iz osnovnega sortimenta | MasterChef; osnovni sortiment; strnjeno | Emma Lewis, Good Food | delovno — ni preizkušeno; uredniške prilagoditve v evidenci | — |
+| [R0112](R0112-sortiment-besamel-brez-disav.md) | Bešamel brez dišav | 7.3 Recepti iz osnovnega sortimenta | MasterChef; osnovni sortiment; strnjeno | Good Food team | delovno — ni preizkušeno; uredniške prilagoditve v evidenci | R0001 |
+| [R0113](R0113-sortiment-maslena-emulzija-beurre-monte.md) | Maslena emulzija beurre monté | 7.3 Recepti iz osnovnega sortimenta | MasterChef; osnovni sortiment; strnjeno | Thomas Keller in Michael Ruhlman, The French Laundry Cookbook | delovno — ni preizkušeno; uredniške prilagoditve v evidenci | — |
+| [R0114](R0114-sortiment-rjavo-maslo-beurre-noisette.md) | Rjavo maslo beurre noisette | 7.3 Recepti iz osnovnega sortimenta | MasterChef; osnovni sortiment; strnjeno | Sally McKenney | delovno — ni preizkušeno; uredniške prilagoditve v evidenci | — |
+| [R0115](R0115-sortiment-majoneza-brez-gorcice.md) | Majoneza brez gorčice | 7.3 Recepti iz osnovnega sortimenta | MasterChef; osnovni sortiment; strnjeno | Good Food team; uredniška različica brez gorčice | delovno — ni preizkušeno; uredniške prilagoditve v evidenci | R0023 |
+| [R0116](R0116-sortiment-holandska-omaka-s-kisom.md) | Holandska omaka s kisom | 7.3 Recepti iz osnovnega sortimenta | MasterChef; osnovni sortiment; strnjeno | Lulu Grimes, Good Food; uredniška različica | delovno — ni preizkušeno; uredniške prilagoditve v evidenci | R0007 |
+| [R0117](R0117-sortiment-osnovni-oljno-kisov-preliv.md) | Osnovni oljno-kisov preliv | 7.3 Recepti iz osnovnega sortimenta | MasterChef; osnovni sortiment; strnjeno | Good Food team | delovno — ni preizkušeno; uredniške prilagoditve v evidenci | R0023 |
+| [R0118](R0118-sortiment-smetanova-karamela.md) | Smetanova karamela | 7.3 Recepti iz osnovnega sortimenta | MasterChef; osnovni sortiment; strnjeno | Sally McKenney | delovno — ni preizkušeno; uredniške prilagoditve v evidenci | — |
+| [R0119](R0119-sortiment-karamelne-ploscice.md) | Karamelne ploščice | 7.3 Recepti iz osnovnega sortimenta | MasterChef; osnovni sortiment; strnjeno | Sally McKenney; uredniška uporaba suhe karamele | delovno — ni preizkušeno; uredniške prilagoditve v evidenci | — |
+| [R0120](R0120-sortiment-jajcna-omaka-brez-vanilje.md) | Jajčna omaka brez vanilje | 7.3 Recepti iz osnovnega sortimenta | MasterChef; osnovni sortiment; strnjeno | Eddie Benghanem; strnitev R0029 brez vanilje | delovno — ni preizkušeno; uredniške prilagoditve v evidenci | R0029 |
+| [R0121](R0121-sortiment-slascicarska-krema-z-moko.md) | Slaščičarska krema z moko | 7.3 Recepti iz osnovnega sortimenta | MasterChef; osnovni sortiment; strnjeno | William in Suzue Curley, loveFOOD | delovno — ni preizkušeno; uredniške prilagoditve v evidenci | R0028 |
+| [R0122](R0122-sortiment-svezi-mlecni-sir-s-kisom.md) | Sveži mlečni sir s kisom | 7.3 Recepti iz osnovnega sortimenta | MasterChef; osnovni sortiment; strnjeno | Maine Department of Education; Nutrition.gov | delovno — ni preizkušeno; uredniške prilagoditve v evidenci | — |
+| [R0123](R0123-sortiment-kremasta-umesana-jajca.md) | Kremasta umešana jajca | 7.3 Recepti iz osnovnega sortimenta | MasterChef; osnovni sortiment; strnjeno | Good Food team | delovno — ni preizkušeno; uredniške prilagoditve v evidenci | — |
+| [R0124](R0124-sortiment-navadna-zlozena-omleta.md) | Navadna zložena omleta | 7.3 Recepti iz osnovnega sortimenta | MasterChef; osnovni sortiment; strnjeno | Good Food team | delovno — ni preizkušeno; uredniške prilagoditve v evidenci | — |
+| [R0125](R0125-sortiment-posirano-jajce.md) | Poširano jajce | 7.3 Recepti iz osnovnega sortimenta | MasterChef; osnovni sortiment; strnjeno | Good Food team | delovno — ni preizkušeno; uredniške prilagoditve v evidenci | — |
+| [R0126](R0126-sortiment-sladka-jajcna-pena-sabayon.md) | Sladka jajčna pena sabayon | 7.3 Recepti iz osnovnega sortimenta | MasterChef; osnovni sortiment; strnjeno | Great British Chefs | delovno — ni preizkušeno; uredniške prilagoditve v evidenci | — |
+| [R0127](R0127-sortiment-nesladkana-stepena-smetana.md) | Nesladkana stepena smetana | 7.3 Recepti iz osnovnega sortimenta | MasterChef; osnovni sortiment; strnjeno | Good Food team | delovno — ni preizkušeno; uredniške prilagoditve v evidenci | — |
+| [R0128](R0128-sortiment-mehka-svicarska-meringa.md) | Mehka švicarska meringa | 7.3 Recepti iz osnovnega sortimenta | MasterChef; osnovni sortiment; strnjeno | Lasheeda Perry, King Arthur Baking; uredniško brez arom in stabilizatorja | delovno — ni preizkušeno; uredniške prilagoditve v evidenci | R0034 |
 | [R0052](R0052-okisana-zelenjava-v-vakuumu.md) | Osnovna okisana zelenjava v vakuumu | 8.1 Hitro okisanje | okisanje; vakuum; zelenjava; kis | Fallow, 9 Ratios (razmerje); vakuumska tehnika uredniško | delovno — Mojmirjeva izvedba za dopolnitev; ni preizkušeno | R0023; R0053; sklic iz 3.6 |
 | [R0053](R0053-okisano-sadje-v-vakuumu.md) | Okisano sadje v vakuumu | 8.1 Hitro okisanje | okisanje; vakuum; sadje; kis | uredniška prilagoditev R0052 | delovno — uredniško; ni preizkušeno | R0052; R0023 |
 | [R0001](R0001-besamel.md) | Bešamel | 9.1 Matične in izpeljane omake | matična; mleko; Francija | Fallow, 00:49 | delovno — za dopolnitev | R0002 |
