@@ -12,7 +12,7 @@ datum_prejema: "2026-11-19"
 
 # Hrustljavi taco iz čebule in brancinove kože
 
-Tanka hrustljava lupina iz pirejeve mase počasi dušene čebule, beljaka in prahu iz pečene brancinove kože. Še topla se oblikuje v taco. Polni se z [brancinovim cevichejem v soku rakitovca](R0129-ceviche-iz-rakitovca.md).
+Tanka hrustljava lupina iz pirejeve mase počasi dušene čebule, beljaka in prahu iz pečene brancinove kože. Še topla se oblikuje v taco. Polni se z [brancinovim cevichejem v soku rakitovca](R0133-ceviche-iz-rakitovca.md).
 
 **Izplen:** za dopolnitev.
 
@@ -68,7 +68,7 @@ Tanka hrustljava lupina iz pirejeve mase počasi dušene čebule, beljaka in pra
 ## Sestavljanje krožnika
 
 1. **Gel.** Taco položi na krožnik in na sredino nabrizgaj piko [gela iz redukcije ribjih kosti](R0131-gel-iz-ribjih-kosti.md).
-2. **Ceviche.** Nanj položi žlico odcejenega [cevicheja](R0129-ceviche-iz-rakitovca.md).
+2. **Ceviche.** Nanj položi žlico odcejenega [cevicheja](R0133-ceviche-iz-rakitovca.md).
 3. **Majoneza.** Na vrh nabrizgaj tri pike [sezamove majoneze](R0132-sezamova-majoneza.md).
 4. **Okras.** Okrasi s kodri mlade čebule in listki zvezdice (navadne zvezdice, *Stellaria media*).
 5. **Postrezi takoj,** dokler je lupina hrustljava.

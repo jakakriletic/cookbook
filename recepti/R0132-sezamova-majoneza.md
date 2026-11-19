@@ -39,7 +39,7 @@ Gosta majoneza na rumenjakih, v kateri del olja nadomesti praženo sezamovo olje
 
 ## Serviranje in povezani recepti
 
-Del [hrustljavega tacoja iz čebule](R0130-taco-iz-cebule-in-brancinove-koze.md) z [brancinovim cevichejem](R0129-ceviche-iz-rakitovca.md).
+Del [hrustljavega tacoja iz čebule](R0130-taco-iz-cebule-in-brancinove-koze.md) z [brancinovim cevichejem](R0133-ceviche-iz-rakitovca.md).
 
 ## Uredniška evidenca
 
