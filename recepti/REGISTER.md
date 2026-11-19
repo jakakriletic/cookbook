@@ -2,7 +2,7 @@
 
 Posodobljeno: 19. 11. 2026.
 
-Za vključitev izbranih vnosov: **127** (R0001–R0045 in R0047–R0128). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0129**.
+Za vključitev izbranih vnosov: **131** (R0001–R0045 in R0047–R0132). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0133**.
 
 **Aktualna izdaja, 19. 11. 2026:** [Wordova knjiga](../outputs/moj-kuharski-zvezek.docx) in [PDF](../outputs/moj-kuharski-zvezek.pdf) imata 127 receptov, 13 poglavij in 165 fizičnih strani. Podpoglavje 7.3 je na oštevilčenih straneh 78–85; po štirje recepti na stran.
 
@@ -140,8 +140,10 @@ Zgradba je poenotena 11. 11. 2026: številke v stolpcu »Glavno poglavje« so en
 | [R0064](R0064-bucni-njoki-iz-kaboce.md) | Bučni njoki iz kaboče | 12.3 Italijanske jedi | njoki; kaboča; krompir; Italija | Chef Italiano, Pumpkin Gnocchi | delovno — ni preizkušeno | R0063 |
 | [R0063](R0063-bucni-njoki-svinjska-ribica-fige.md) | Bučni njoki s svinjsko ribico, figami in pecorino omako | 12.3 Italijanske jedi | njoki; buča; svinjina; fige; pecorino | uporabnikov recept po spominu | delovno — konceptualni zapis brez količin | R0064 |
 | [R0048](R0048-ostrigina-emulzija.md) | Ostrigina emulzija z zeliščnim oljem | 13.1 Emulzije in olja | emulzija; ostrige; zeliščno olje; fine dining | Jules Cooking, Sea Buckthorn & Sea Bass Dish, 25:59 | delovno — uporabnikova prilagoditev; ni preizkušeno | R0023; R0049 |
+| [R0132](R0132-sezamova-majoneza.md) | Sezamova majoneza | 13.1 Emulzije in olja | majoneza; emulzija; sezam | Jules Cooking, The Ultimate Fish Taco, 08:50 | delovno — ni preizkušeno | R0130 |
 | [R0049](R0049-brancinova-farsa.md) | Pečena brancinova farsa | 13.2 Farse | farsa; brancin; beljak; fine dining | Jules Cooking, Sea Buckthorn & Sea Bass Dish, 23:43 | delovno — uporabnikova prilagoditev; ni preizkušeno | R0048; sklic iz 3.3 |
 | [R0055](R0055-ribji-ceviche-jules.md) | Ribji ceviche z ingverjem in limonsko travo | 13.3 Ceviche | ceviche; brancin; fine dining | Jules Cooking, Fish ceviche | delovno — količina ribe je ocena; ni preizkušeno | R0054 |
+| [R0129](R0129-ceviche-iz-rakitovca.md) | Brancinov ceviche v soku rakitovca | 13.3 Ceviche | ceviche; brancin; rakitovec | Jules Cooking, The Ultimate Fish Taco, 08:03 | delovno — količina ribe za dopolnitev | R0130; R0055 |
 | [R0093](R0093-baba-au-rhum.md) | Baba au rhum (kvašeno pecivo v rumovem sirupu) | 13.4 Kvašene sladice | baba, rum, jagode | Jules Cooking, Strawberry & Baba Dessert, 02:50 in 08:19 | delovno | R0090–R0092, R0094–R0096 |
 | [R0090](R0090-sirup-iz-spanskega-bezga.md) | Sirup iz španskega bezga | 13.5 Sirupi in sadni geli | jorgovan, sirup | Jules Cooking, Strawberry & Baba Dessert, 00:57 | delovno | R0091, R0093, R0094 |
 | [R0094](R0094-jagodni-gel-in-kompot.md) | Jagodni gel in kompot | 13.5 Sirupi in sadni geli | jagode, agar, limeta | Jules Cooking, Strawberry & Baba Dessert, 04:29 | delovno | R0090, R0093 |
@@ -149,6 +151,8 @@ Zgradba je poenotena 11. 11. 2026: številke v stolpcu »Glavno poglavje« so en
 | [R0096](R0096-jogurtov-mousse-jules.md) | Jogurtov mousse s svežimi jagodami | 13.6 Kreme in moussi | jogurt, želatina, jagode | Jules Cooking, Strawberry & Baba Dessert, 06:50 | delovno | R0093 |
 | [R0091](R0091-hrustljavi-cvetovi.md) | Hrustljavi cvetovi španskega bezga | 13.7 Okraski in vložki | jorgovan, jagodni prah | Jules Cooking, Strawberry & Baba Dessert, 01:58 | delovno | R0090, R0093 |
 | [R0092](R0092-vlozena-borova-socvetja.md) | Vložena borova socvetja | 13.7 Okraski in vložki | bor, okisovanje | Jules Cooking, Strawberry & Baba Dessert, 02:15 | delovno — vrsta in količina socvetij za dopolnitev | R0093 |
+| [R0131](R0131-gel-iz-ribjih-kosti.md) | Gel iz redukcije ribjih kosti | 13.8 Geli in redukcije | gel; agar; ribja osnova | Jules Cooking, The Ultimate Fish Taco, 03:51 | delovno — ni preizkušeno | R0130; R0011 |
+| [R0130](R0130-taco-iz-cebule-in-brancinove-koze.md) | Hrustljavi taco iz čebule in brancinove kože | 13.9 Hrustljave lupine | taco; tuile; čebula; brancinova koža | Jules Cooking, The Ultimate Fish Taco, 00:56 in 11:03 | delovno — čas peke kože za dopolnitev | R0129; R0131; R0132 |
 
 R0025: [vir in prilagoditve](../reference/raca-a-lorange-2026-11-14.md). Glavno mesto je 11.1 Fine dining.
 
@@ -242,6 +246,7 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 
 ## Dnevnik
 
+- 19. 11. 2026: iz videa Jules Cooking »The Ultimate Fish Taco« dodani R0129 ceviche v soku rakitovca (13.3), R0130 hrustljavi taco iz čebule in brancinove kože s sestavljanjem (novo 13.9 Hrustljave lupine), R0131 gel iz ribjih kosti (novo 13.8 Geli in redukcije) in R0132 sezamova majoneza (13.1). Evidenca: `reference/jules-cooking-fish-taco-2026-11-19.md`. Aktivnih vnosov je 131, naslednji ID R0133. Word in PDF sta osvežena: 131 receptov, 13 poglavij, 173 fizičnih strani.
 - 17. 11. 2026: poglavje 13 preimenovano v Jules Cooking. Dodanih vseh sedem komponent jagodne babe (R0090–R0096), sestavljanje pa je v R0093. Byattovi jedi R0014 in R0025 sta prestavljeni v 11.1 Fine dining.
 
 - 18. 11. 2026: R0084 ima mlečni ganaš, 150 g stepene smetane in 5 g sladkorja v mleku. [Evidenca prilagoditve](../reference/mousse-bela-cokolada-2026-11-18.md).
