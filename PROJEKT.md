@@ -4,6 +4,8 @@ Osebna kuharska knjiga za pripravo na MasterChef. Namen je hiter pregled med vaj
 
 ## Stanje
 
+21. 11. 2026 — Julesove banoffee tartelete: iz videa »The Perfect Banoffee Pie Tartelettes« (YouTube F6f6sDP3UOU) in pisnega recepta na julescooking.com dodani R0134 banoffee tartelete s sablé lupinicami in sestavljanjem (novo 13.11 Tartelete), R0135 slana karamela z belo čokolado in R0136 mandljev praline z belo čokolado (novo 13.12 Karamele in pralineji) ter R0137 stepeni vaniljev ganaš z mascarponejem in R0138 bananina krema (13.6 Kreme in moussi). Evidenca v `reference/jules-cooking-banoffee-2026-11-21.md`. Aktivnih vnosov je 137, naslednji ID R0139. Word in PDF sta osvežena: 137 receptov, 13 poglavij, 182 fizičnih strani.
+
 19. 11. 2026 — croquembouche: dodan R0129 croquembouche z makadamijevim pralinéjem po Jules Cooking (video »How To Make a Croquembouche!« in pisni recept) v novo podpoglavje 13.8 Sladice iz kuhanega testa. Glavna izvedba craquelina sledi pisnemu receptu, izvedba iz videa (100 g moke, 80 g masla) je varianta. Delo je prevzeto iz vzporedne seje, ki je bila prekinjena. Evidenca v `reference/jules-cooking-croquembouche-2026-11-19.md`. Aktivnih vnosov je 132, naslednji ID R0134. Word in PDF sta osvežena: 132 receptov, 13 poglavij, 176 fizičnih strani.
 
 19. 11. 2026 — Julesov fish taco: iz videa »The Ultimate Fish Taco | Sea Bass Ceviche Amuse« dodani R0133 brancinov ceviche v soku rakitovca (13.3 Ceviche), R0130 hrustljavi taco iz čebule in brancinove kože z navodilom za sestavljanje (novo 13.10 Hrustljave lupine), R0131 gel iz redukcije ribjih kosti (novo 13.9 Geli in redukcije) in R0132 sezamova majoneza (13.1 Emulzije in olja). Evidenca v `reference/jules-cooking-fish-taco-2026-11-19.md`. Aktivnih vnosov je 131, naslednji ID R0134. Word in PDF sta osvežena: 131 receptov, 13 poglavij, 173 fizičnih strani.
@@ -123,7 +125,7 @@ Zgradba je poenotena 11. 11. 2026 na uporabnikovo željo, da bo hitro jasno, kje
 | 10 Priloge | 10.1 Krompir · 10.2 Pireji | zelenjavne priloge, krompir, pireji; pregled `recepti/05-04-pireji-in-kreme.md` na začetku 10.2 |
 | 11 Glavne jedi | 11.1 Fine dining | končne jedi z ribami, mesom in perutnino |
 | 12 Tuja kulinarika | 12.1 Peru · 12.2 Kitajska (sladkokisli piščanec, bao bun) · 12.3 Italijanske jedi (testenine in njoki) | celovite jedi neevropskih kuhinj in podpoglavja po uporabnikovi izbiri, med njimi italijanske jedi |
-| 13 Jules Cooking | 13.1 Emulzije in olja · 13.2 Farse · 13.3 Ceviche · 13.4 Kvašene sladice · 13.5 Sirupi in sadni geli · 13.6 Kreme in moussi · 13.7 Okraski in vložki · 13.8 Sladice iz kuhanega testa · 13.9 Geli in redukcije · 13.10 Hrustljave lupine | vsi recepti Jules Cooking |
+| 13 Jules Cooking | 13.1 Emulzije in olja · 13.2 Farse · 13.3 Ceviche · 13.4 Kvašene sladice · 13.5 Sirupi in sadni geli · 13.6 Kreme in moussi · 13.7 Okraski in vložki · 13.8 Sladice iz kuhanega testa · 13.9 Geli in redukcije · 13.10 Hrustljave lupine · 13.11 Tartelete · 13.12 Karamele in pralineji | vsi recepti Jules Cooking |
 
 Novo podpoglavje dodaj v ustrezno poglavje z naslednjo prosto številko (npr. 2.2 Listnato testo, 9.3 Hladne omake, 11.3 Govedina). Novo poglavje dodaj samo, če vsebina ne sodi v nobeno obstoječe, in ga uvrsti v sladki ali slani del; številke za njim se tedaj premaknejo v registru, v `CHAPTERS` skripte `scripts/sestavi_knjigo.py` in tukaj. Predvidena poznejša poglavja, ko bo vsebina: Testenine, riž in žita · Jajca in sirne jedi · Kruh in slana peka · Sestavljeni krožniki in meniji. Praznih poglavij ne dodajaj v knjigo.
 

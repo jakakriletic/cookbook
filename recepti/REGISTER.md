@@ -1,8 +1,8 @@
 # Register receptov
 
-Posodobljeno: 19. 11. 2026.
+Posodobljeno: 21. 11. 2026.
 
-Za vključitev izbranih vnosov: **132** (R0001–R0045 in R0047–R0133). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0134**.
+Za vključitev izbranih vnosov: **137** (R0001–R0045 in R0047–R0138). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0139**.
 
 **Aktualna izdaja, 19. 11. 2026:** [Wordova knjiga](../outputs/moj-kuharski-zvezek.docx) in [PDF](../outputs/moj-kuharski-zvezek.pdf) imata 127 receptov, 13 poglavij in 165 fizičnih strani. Podpoglavje 7.3 je na oštevilčenih straneh 78–85; po štirje recepti na stran.
 
@@ -149,11 +149,16 @@ Zgradba je poenotena 11. 11. 2026: številke v stolpcu »Glavno poglavje« so en
 | [R0094](R0094-jagodni-gel-in-kompot.md) | Jagodni gel in kompot | 13.5 Sirupi in sadni geli | jagode, agar, limeta | Jules Cooking, Strawberry & Baba Dessert, 04:29 | delovno | R0090, R0093 |
 | [R0095](R0095-vaniljeva-krema-jules.md) | Vaniljeva slaščičarska krema s smetano | 13.6 Kreme in moussi | vanilja, smetana, škrob | Jules Cooking, Strawberry & Baba Dessert, 05:55 | delovno | R0028, R0093 |
 | [R0096](R0096-jogurtov-mousse-jules.md) | Jogurtov mousse s svežimi jagodami | 13.6 Kreme in moussi | jogurt, želatina, jagode | Jules Cooking, Strawberry & Baba Dessert, 06:50 | delovno | R0093 |
+| [R0137](R0137-stepeni-vaniljev-ganas.md) | Stepeni vaniljev ganaš z mascarponejem | 13.6 Kreme in moussi | ganaš; bela čokolada; mascarpone; želatina | Jules Cooking, The Perfect Banoffee Pie Tartelettes, 01:11 | delovno — ni preizkušeno | R0134 |
+| [R0138](R0138-bananina-krema.md) | Bananina krema s koščki banane | 13.6 Kreme in moussi | banana; krema; škrob | Jules Cooking, The Perfect Banoffee Pie Tartelettes, 01:47 | delovno — ni preizkušeno | R0134; R0028 |
 | [R0091](R0091-hrustljavi-cvetovi.md) | Hrustljavi cvetovi španskega bezga | 13.7 Okraski in vložki | jorgovan, jagodni prah | Jules Cooking, Strawberry & Baba Dessert, 01:58 | delovno | R0090, R0093 |
 | [R0092](R0092-vlozena-borova-socvetja.md) | Vložena borova socvetja | 13.7 Okraski in vložki | bor, okisovanje | Jules Cooking, Strawberry & Baba Dessert, 02:15 | delovno — vrsta in količina socvetij za dopolnitev | R0093 |
 | [R0129](R0129-croquembouche-jules.md) | Croquembouche z makadamijevim pralinéjem | 13.8 Sladice iz kuhanega testa | croquembouche; kuhano testo; craquelin; krema diplomat; karamela | Jules Cooking, How To Make a Croquembouche, 00:16–06:15 | delovno — izplen kroglic za dopolnitev; ni preizkušeno | R0015; R0095 |
 | [R0131](R0131-gel-iz-ribjih-kosti.md) | Gel iz redukcije ribjih kosti | 13.9 Geli in redukcije | gel; agar; ribja osnova | Jules Cooking, The Ultimate Fish Taco, 03:51 | delovno — ni preizkušeno | R0130; R0011 |
 | [R0130](R0130-taco-iz-cebule-in-brancinove-koze.md) | Hrustljavi taco iz čebule in brancinove kože | 13.10 Hrustljave lupine | taco; tuile; čebula; brancinova koža | Jules Cooking, The Ultimate Fish Taco, 00:56 in 11:03 | delovno — čas peke kože za dopolnitev | R0133; R0131; R0132 |
+| [R0134](R0134-banoffee-tartelete.md) | Banoffee tartelete s sablé lupinicami | 13.11 Tartelete | tartelete; sablé; banoffee; sestavljanje | Jules Cooking, The Perfect Banoffee Pie Tartelettes, 02:35 in 04:47 | delovno — premer obročkov za dopolnitev; ni preizkušeno | R0135–R0138 |
+| [R0135](R0135-slana-karamela-bela-cokolada.md) | Slana karamela z belo čokolado | 13.12 Karamele in pralineji | karamela; glukoza; bela čokolada | Jules Cooking, The Perfect Banoffee Pie Tartelettes, 00:20 | delovno — ni preizkušeno | R0134 |
+| [R0136](R0136-mandljev-praline-bela-cokolada.md) | Mandljev praline z belo čokolado | 13.12 Karamele in pralineji | praline; mandlji; mokra karamela | Jules Cooking, The Perfect Banoffee Pie Tartelettes, 03:58 | delovno — ni preizkušeno | R0134; R0035 |
 
 R0025: [vir in prilagoditve](../reference/raca-a-lorange-2026-11-14.md). Glavno mesto je 11.1 Fine dining.
 
@@ -247,6 +252,7 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 
 ## Dnevnik
 
+- 21. 11. 2026: iz videa Jules Cooking »The Perfect Banoffee Pie Tartelettes« (in pisnega recepta) dodani R0134 banoffee tartelete s sablé lupinicami in sestavljanjem (novo 13.11 Tartelete), R0135 slana karamela in R0136 mandljev praline (novo 13.12 Karamele in pralineji) ter R0137 stepeni vaniljev ganaš in R0138 bananina krema (13.6). Evidenca: `reference/jules-cooking-banoffee-2026-11-21.md`. Aktivnih vnosov je 137, naslednji ID R0139.
 - 19. 11. 2026: dodan R0129 croquembouche z makadamijevim pralinéjem (Jules Cooking, video 4kBoEOQU9-4 in pisni recept) v novo 13.8 Sladice iz kuhanega testa; craquelin po videu je varianta. Delo prevzeto iz prekinjene vzporedne seje. Evidenca: `reference/jules-cooking-croquembouche-2026-11-19.md`. Aktivnih vnosov je 132, naslednji ID R0134. Word in PDF sta osvežena: 132 receptov, 13 poglavij, 176 fizičnih strani.
 - 19. 11. 2026: iz videa Jules Cooking »The Ultimate Fish Taco« dodani R0133 ceviche v soku rakitovca (13.3), R0130 hrustljavi taco iz čebule in brancinove kože s sestavljanjem (novo 13.10 Hrustljave lupine), R0131 gel iz ribjih kosti (novo 13.9 Geli in redukcije) in R0132 sezamova majoneza (13.1). Evidenca: `reference/jules-cooking-fish-taco-2026-11-19.md`. Aktivnih vnosov je 131, naslednji ID R0134. Word in PDF sta osvežena: 131 receptov, 13 poglavij, 173 fizičnih strani.
 - 17. 11. 2026: poglavje 13 preimenovano v Jules Cooking. Dodanih vseh sedem komponent jagodne babe (R0090–R0096), sestavljanje pa je v R0093. Byattovi jedi R0014 in R0025 sta prestavljeni v 11.1 Fine dining.
