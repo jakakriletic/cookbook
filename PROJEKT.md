@@ -4,6 +4,8 @@ Osebna kuharska knjiga za pripravo na MasterChef. Namen je hiter pregled med vaj
 
 ## Stanje
 
+21. 11. 2026 — manjkajoče osnove: po pregledu knjige je uporabnik naročil dodati vse naštete manjkajoče osnove razen fondov. Dodanih je 25 receptov R0139–R0163 iz odprto licenciranih virov (Wikibooks, Wikilivres, Koch-Wiki, Wikipedija) in kratko ubesedenih receptov (King Arthur Baking, Chef Simon, Callebaut). Nova podpoglavja: 1.4 Čokolada, 2.7 Listnato testo, 3.3 Mandljevi biskviti, 4.3 Sladkor in karamela, 6.3 Hladne sladice, 6.4 Sladoledi in sorbeti, 7.4 Meso in ribe: temperature in pečenje, 10.3 Riž in rižota; dopolnjeni 1.1, 1.2, 1.3, 4.1 in 9.2. Evidenca in odprta vprašanja v `reference/manjkajoce-osnove-2026-11-21.md`. Aktivnih vnosov je 162, naslednji ID R0164.
+
 21. 11. 2026 — Julesove banoffee tartelete: iz videa »The Perfect Banoffee Pie Tartelettes« (YouTube F6f6sDP3UOU) in pisnega recepta na julescooking.com dodani R0134 banoffee tartelete s sablé lupinicami in sestavljanjem (novo 13.11 Tartelete), R0135 slana karamela z belo čokolado in R0136 mandljev praline z belo čokolado (novo 13.12 Karamele in pralineji) ter R0137 stepeni vaniljev ganaš z mascarponejem in R0138 bananina krema (13.6 Kreme in moussi). Evidenca v `reference/jules-cooking-banoffee-2026-11-21.md`. Aktivnih vnosov je 137, naslednji ID R0139. Word in PDF sta osvežena: 137 receptov, 13 poglavij, 182 fizičnih strani.
 
 19. 11. 2026 — croquembouche: dodan R0129 croquembouche z makadamijevim pralinéjem po Jules Cooking (video »How To Make a Croquembouche!« in pisni recept) v novo podpoglavje 13.8 Sladice iz kuhanega testa. Glavna izvedba craquelina sledi pisnemu receptu, izvedba iz videa (100 g moke, 80 g masla) je varianta. Delo je prevzeto iz vzporedne seje, ki je bila prekinjena. Evidenca v `reference/jules-cooking-croquembouche-2026-11-19.md`. Aktivnih vnosov je 132, naslednji ID R0134. Word in PDF sta osvežena: 132 receptov, 13 poglavij, 176 fizičnih strani.
@@ -108,21 +110,21 @@ Zgradba je poenotena 11. 11. 2026 na uporabnikovo željo, da bo hitro jasno, kje
 
 | Poglavje | Podpoglavja (zapolnjena) | Kaj sodi sem |
 | --- | --- | --- |
-| 1 Kreme in polnila | 1.1 Osnovne kreme · 1.2 Maslene kreme · 1.3 Ganaši | kuhane jajčne kreme, maslene kreme, čokoladna polnila |
-| 2 Testa | 2.1 Osnovna testa · 2.2 Testo za testenine · 2.3 Vlečeno testo · 2.4 Ploščati kruh · 2.5 Listnato kvašeno testo · 2.6 Kruh in žemljice | vsa osnovna testa, sladka in slana: choux, krhko, testenine, vlečeno in testo za štruklje, ploščati kruh, listnato, kvašene žemljice |
-| 3 Biskviti | 3.1 Klasični biskviti · 3.2 Pistacijevi biskviti | biskviti in podlage za torte |
-| 4 Meringe in hrustljavi dodatki | 4.1 Meringe · 4.2 Hrustljave ploščice in krokant | meringe, tuiles, krokant, karamela |
+| 1 Kreme in polnila | 1.1 Osnovne kreme · 1.2 Maslene kreme · 1.3 Ganaši · 1.4 Čokolada | kuhane jajčne kreme, maslene kreme, čokoladna polnila |
+| 2 Testa | 2.1 Osnovna testa · 2.2 Testo za testenine · 2.3 Vlečeno testo · 2.4 Ploščati kruh · 2.5 Listnato kvašeno testo · 2.6 Kruh in žemljice · 2.7 Listnato testo | vsa osnovna testa, sladka in slana: choux, krhko, testenine, vlečeno in testo za štruklje, ploščati kruh, listnato, kvašene žemljice |
+| 3 Biskviti | 3.1 Klasični biskviti · 3.2 Pistacijevi biskviti · 3.3 Mandljevi biskviti | biskviti in podlage za torte |
+| 4 Meringe in hrustljavi dodatki | 4.1 Meringe · 4.2 Hrustljave ploščice in krokant · 4.3 Sladkor in karamela | meringe, tuiles, krokant, karamela |
 | 5 Moussi | 5.1 Čokoladni moussi · 5.2 Sadni moussi | vse sladke pene; pregled `recepti/01-09-moussi.md` je na začetku 5.1 |
-| 6 Sladice in pecivo | 6.1 Makroni · 6.2 Tople sladice | končne sladice in drobno pecivo: makroni, piškoti, fondant, sufle, torte, tarte |
+| 6 Sladice in pecivo | 6.1 Makroni · 6.2 Tople sladice · 6.3 Hladne sladice · 6.4 Sladoledi in sorbeti | končne sladice in drobno pecivo: makroni, piškoti, fondant, sufle, torte, tarte |
 
 **Slano**
 
 | Poglavje | Podpoglavja (zapolnjena) | Kaj sodi sem |
 | --- | --- | --- |
-| 7 Kuharske osnove | 7.1 Osnovna razmerja · 7.2 Fondi · 7.3 Recepti iz osnovnega sortimenta | razmerja, fondi, osnove, farse in tehnike, ki niso samostojna jed |
+| 7 Kuharske osnove | 7.1 Osnovna razmerja · 7.2 Fondi · 7.3 Recepti iz osnovnega sortimenta · 7.4 Meso in ribe: temperature in pečenje | razmerja, fondi, osnove, farse in tehnike, ki niso samostojna jed |
 | 8 Okisovanje | 8.1 Hitro okisanje | okisanje in vlaganje zelenjave in sadja (fermentacija naj dobi svoje podpoglavje) |
 | 9 Omake | 9.1 Matične in izpeljane omake · 9.2 Maslene omake · 9.3 Omake za ribe in morske sadeže | tople in hladne omake, emulzije, prelivi; pregled `recepti/04-04-maticne-in-izpeljane-omake.md` na začetku 9.1 |
-| 10 Priloge | 10.1 Krompir · 10.2 Pireji | zelenjavne priloge, krompir, pireji; pregled `recepti/05-04-pireji-in-kreme.md` na začetku 10.2 |
+| 10 Priloge | 10.1 Krompir · 10.2 Pireji · 10.3 Riž in rižota | zelenjavne priloge, krompir, pireji; pregled `recepti/05-04-pireji-in-kreme.md` na začetku 10.2 |
 | 11 Glavne jedi | 11.1 Fine dining | končne jedi z ribami, mesom in perutnino |
 | 12 Tuja kulinarika | 12.1 Peru · 12.2 Kitajska (sladkokisli piščanec, bao bun) · 12.3 Italijanske jedi (testenine in njoki) | celovite jedi neevropskih kuhinj in podpoglavja po uporabnikovi izbiri, med njimi italijanske jedi |
 | 13 Jules Cooking | 13.1 Emulzije in olja · 13.2 Farse · 13.3 Ceviche · 13.4 Kvašene sladice · 13.5 Sirupi in sadni geli · 13.6 Kreme in moussi · 13.7 Okraski in vložki · 13.8 Sladice iz kuhanega testa · 13.9 Geli in redukcije · 13.10 Hrustljave lupine · 13.11 Tartelete · 13.12 Karamele in pralineji | vsi recepti Jules Cooking |

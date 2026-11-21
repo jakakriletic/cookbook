@@ -2,7 +2,7 @@
 
 Posodobljeno: 21. 11. 2026.
 
-Za vključitev izbranih vnosov: **137** (R0001–R0045 in R0047–R0138). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0139**.
+Za vključitev izbranih vnosov: **162** (R0001–R0045 in R0047–R0163). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0164**.
 
 **Aktualna izdaja, 19. 11. 2026:** [Wordova knjiga](../outputs/moj-kuharski-zvezek.docx) in [PDF](../outputs/moj-kuharski-zvezek.pdf) imata 127 receptov, 13 poglavij in 165 fizičnih strani. Podpoglavje 7.3 je na oštevilčenih straneh 78–85; po štirje recepti na stran.
 
@@ -159,6 +159,31 @@ Zgradba je poenotena 11. 11. 2026: številke v stolpcu »Glavno poglavje« so en
 | [R0134](R0134-banoffee-tartelete.md) | Banoffee tartelete s sablé lupinicami | 13.11 Tartelete | tartelete; sablé; banoffee; sestavljanje | Jules Cooking, The Perfect Banoffee Pie Tartelettes, 02:35 in 04:47 | delovno — premer obročkov za dopolnitev; ni preizkušeno | R0135–R0138 |
 | [R0135](R0135-slana-karamela-bela-cokolada.md) | Slana karamela z belo čokolado | 13.12 Karamele in pralineji | karamela; glukoza; bela čokolada | Jules Cooking, The Perfect Banoffee Pie Tartelettes, 00:20 | delovno — ni preizkušeno | R0134 |
 | [R0136](R0136-mandljev-praline-bela-cokolada.md) | Mandljev praline z belo čokolado | 13.12 Karamele in pralineji | praline; mandlji; mokra karamela | Jules Cooking, The Perfect Banoffee Pie Tartelettes, 03:58 | delovno — ni preizkušeno | R0134; R0035 |
+| [R0139](R0139-krema-diplomat.md) | Krema diplomat (crème diplomate) | 1.1 Osnovne kreme | krema diplomat; želatina; stepena smetana | Wikipédia (fr), Crème diplomate; CC BY-SA 4.0 | delovno — masa želatine za dopolnitev | R0028; R0141 |
+| [R0140](R0140-mandljeva-krema.md) | Mandljeva krema (crème d'amande) | 1.1 Osnovne kreme | mandljeva krema; frangipane; tarte | Wikilivres, Crème d’amande; CC BY-SA 4.0 | delovno — ni preizkušeno | R0030 |
+| [R0141](R0141-krema-mousseline.md) | Krema mousseline s kiršem | 1.2 Maslene kreme | krema mousseline; maslo; fraisier | Wikilivres, Fraisier; CC BY-SA 4.0 | delovno — masa rumenjakov in želatine za dopolnitev | R0028; R0139 |
+| [R0142](R0142-ganas-po-razmerjih.md) | Ganaš po razmerjih | 1.3 Ganaši | ganaš; razmerje; trufle | Wikilivres, Ganache; Koch-Wiki, Ganache; CC BY-SA | delovno — razmerja za mlečno in belo za dopolnitev | R0027; R0137; R0043 |
+| [R0143](R0143-temperiranje-cokolade.md) | Temperiranje čokolade | 1.4 Čokolada | temperiranje; čokolada; kristalizacija | Wikibooks, Tempering Chocolate; Callebaut | delovno — ni preizkušeno | — |
+| [R0144](R0144-listnato-testo.md) | Listnato testo (pâte feuilletée) | 2.7 Listnato testo | listnato testo; laminiranje | Wikilivres, Pâte feuilletée; Wikibooks, Puff Pastry; CC BY-SA 4.0 | delovno — ni preizkušeno | R0077 |
+| [R0145](R0145-biskvit-joconde.md) | Biskvit joconde | 3.3 Mandljevi biskviti | joconde; mandlji; entremet | Chef Simon, Biscuit Joconde | delovno — velikost pekača za dopolnitev | R0031; R0146 |
+| [R0146](R0146-dakvaz.md) | Dakvaz (dacquoise) | 3.3 Mandljevi biskviti | dakvaz; dacquoise; mandljeva meringa | Chef Simon, Dacquoise | delovno — masa beljakov za dopolnitev | R0145; R0034 |
+| [R0147](R0147-italijanska-meringa.md) | Italijanska meringa | 4.1 Meringe | italijanska meringa; sladkorni sirup | Wikibooks, Italian Meringue; CC BY-SA 4.0 | delovno — ni preizkušeno | R0034; R0044; R0148 |
+| [R0148](R0148-stopnje-kuhanja-sladkorja.md) | Stopnje kuhanja sladkorja | 4.3 Sladkor in karamela | sladkor; stopnje; temperature | Wikibooks, Cooking Sugar in Caramel; CC BY-SA 4.0 | delovno — pregledna tabela | R0047; R0147; R0149 |
+| [R0149](R0149-suha-in-mokra-karamela.md) | Suha in mokra karamela | 4.3 Sladkor in karamela | suha karamela; mokra karamela; kristalizacija | Koch-Wiki, Trockener Karamell; Wikibooks, Caramel; BCcampus | delovno — ni preizkušeno | R0148; R0136 |
+| [R0150](R0150-karamelna-omaka.md) | Karamelna omaka | 4.3 Sladkor in karamela | karamelna omaka; slana karamela | PJ Hamel, King Arthur Baking, Caramel Sauce | delovno — zaokrožene količine | R0135; R0118 |
+| [R0151](R0151-karamelni-in-izomaltni-okraski.md) | Karamelni in izomaltni okraski | 4.3 Sladkor in karamela | karamelni drobci; izomalt; okraski | Wikibooks, Isomalt in Caramel; CC BY-SA 4.0 | delovno — vlečene niti za dopolnitev | R0148; R0149 |
+| [R0152](R0152-creme-brulee.md) | Crème brûlée | 6.3 Hladne sladice | crème brûlée; vodna kopel | Wikibooks, Crème Brûlée I in II; CC BY-SA 4.0 | delovno — masa sladkorja za dopolnitev | — |
+| [R0153](R0153-creme-caramel.md) | Crème caramel | 6.3 Hladne sladice | crème caramel; flan; karamela | Koch-Wiki, Crème caramel; CC BY-SA 3.0 | delovno — ni preizkušeno | R0149 |
+| [R0154](R0154-panna-cotta.md) | Panna cotta | 6.3 Hladne sladice | panna cotta; želatina | Wikibooks, Panna Cotta (Basic); CC BY-SA 4.0 | delovno — masa sladkorja za preverbo | R0150 |
+| [R0155](R0155-vaniljev-sladoled.md) | Vaniljev sladoled | 6.4 Sladoledi in sorbeti | sladoled; crème anglaise; vanilija | Koch-Wiki, Vanilleeis; CC BY-SA 3.0 | delovno — ni preizkušeno | R0029 |
+| [R0156](R0156-limonin-sorbet.md) | Limonin sorbet | 6.4 Sladoledi in sorbeti | sorbet; limona; sladkorni sirup | Koch-Wiki, Zitronensorbet in Läuterzucker; CC BY-SA 3.0 | delovno — ni preizkušeno | — |
+| [R0157](R0157-temperature-v-sredici.md) | Temperature v sredici mesa | 7.4 Meso in ribe: temperature in pečenje | temperatura v sredici; pečenost | Chef Simon; Wikipedia, Doneness | delovno — USDA in ribe za preverbo | R0158; R0159; R0160 |
+| [R0158](R0158-zrezek-v-ponvi.md) | Zrezek v ponvi in pečici | 7.4 Meso in ribe: temperature in pečenje | zrezek; govedina; ponev | Wikibooks, Pan-fried Beef Steak; CC BY-SA 4.0 | delovno — debelina za dopolnitev | R0157 |
+| [R0159](R0159-ribji-file-na-kozi.md) | Ribji file na koži (pečen enostransko) | 7.4 Meso in ribe: temperature in pečenje | riba; koža; cuisson à l’unilatérale | Chef Simon, Filets de rougets à l’unilatérale | delovno — časi in temperatura za dopolnitev | R0157 |
+| [R0160](R0160-piscancje-prsi-v-ponvi.md) | Piščančje prsi v ponvi in pečici | 7.4 Meso in ribe: temperature in pečenje | piščanec; prsi; sonda | Wikibooks, Pan-Seared Chicken Breast; CC BY-SA 4.0 | delovno — ni preizkušeno | R0157 |
+| [R0161](R0161-beurre-blanc.md) | Beurre blanc | 9.2 Maslene omake | beurre blanc; emulzija; ribe | Wikibooks, Beurre Blanc; CC BY-SA 4.0 | delovno — ni preizkušeno | R0024; R0089 |
+| [R0162](R0162-kuhan-riz.md) | Kuhan riž (po absorpcijski metodi) | 10.3 Riž in rižota | riž; absorpcijska metoda | Wikibooks, Steamed Rice in Boiling Rice; CC BY-SA 4.0 | delovno — ni preizkušeno | R0163 |
+| [R0163](R0163-osnovna-rizota.md) | Osnovna rižota | 10.3 Riž in rižota | rižota; mantecatura | Wikibooks, Risotto (Basic); CC BY-SA 4.0 | delovno — vino in parmezan za dopolnitev | R0162 |
 
 R0025: [vir in prilagoditve](../reference/raca-a-lorange-2026-11-14.md). Glavno mesto je 11.1 Fine dining.
 
@@ -252,6 +277,7 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 
 ## Dnevnik
 
+- 21. 11. 2026: dopolnjene manjkajoče osnove (brez fondov, po uporabnikovi odločitvi): R0139–R0163. Nova podpoglavja 1.4 Čokolada, 2.7 Listnato testo, 3.3 Mandljevi biskviti, 4.3 Sladkor in karamela, 6.3 Hladne sladice, 6.4 Sladoledi in sorbeti, 7.4 Meso in ribe: temperature in pečenje, 10.3 Riž in rižota; dodatki v 1.1, 1.2, 1.3, 4.1 in 9.2. Viri in odprta vprašanja: `reference/manjkajoce-osnove-2026-11-21.md`. Aktivnih vnosov je 162, naslednji ID R0164.
 - 21. 11. 2026: iz videa Jules Cooking »The Perfect Banoffee Pie Tartelettes« (in pisnega recepta) dodani R0134 banoffee tartelete s sablé lupinicami in sestavljanjem (novo 13.11 Tartelete), R0135 slana karamela in R0136 mandljev praline (novo 13.12 Karamele in pralineji) ter R0137 stepeni vaniljev ganaš in R0138 bananina krema (13.6). Evidenca: `reference/jules-cooking-banoffee-2026-11-21.md`. Aktivnih vnosov je 137, naslednji ID R0139.
 - 19. 11. 2026: dodan R0129 croquembouche z makadamijevim pralinéjem (Jules Cooking, video 4kBoEOQU9-4 in pisni recept) v novo 13.8 Sladice iz kuhanega testa; craquelin po videu je varianta. Delo prevzeto iz prekinjene vzporedne seje. Evidenca: `reference/jules-cooking-croquembouche-2026-11-19.md`. Aktivnih vnosov je 132, naslednji ID R0134. Word in PDF sta osvežena: 132 receptov, 13 poglavij, 176 fizičnih strani.
 - 19. 11. 2026: iz videa Jules Cooking »The Ultimate Fish Taco« dodani R0133 ceviche v soku rakitovca (13.3), R0130 hrustljavi taco iz čebule in brancinove kože s sestavljanjem (novo 13.10 Hrustljave lupine), R0131 gel iz ribjih kosti (novo 13.9 Geli in redukcije) in R0132 sezamova majoneza (13.1). Evidenca: `reference/jules-cooking-fish-taco-2026-11-19.md`. Aktivnih vnosov je 131, naslednji ID R0134. Word in PDF sta osvežena: 131 receptov, 13 poglavij, 173 fizičnih strani.
