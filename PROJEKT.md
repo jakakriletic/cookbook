@@ -4,7 +4,7 @@ Osebna kuharska knjiga za pripravo na MasterChef. Namen je hiter pregled med vaj
 
 ## Stanje
 
-24. 11. 2026 — prva tekmovalna jed: uporabnik je za prvo jed na MasterChefu izbral morsko rižoto. Dodan R0164 morska rižota z vongolami, lignji in škampi v 12.3 Italijanske jedi, s sklicem iz 11 Glavne jedi (`SEE_ALSO`). Sestavine so uporabnikove, količine, časovnica in tehnike uredniške. Aktivnih vnosov je 163, naslednji ID R0165. Word in PDF še nista ponovno sestavljena.
+24. 11. 2026 — prva tekmovalna jed: uporabnik je za prvo jed na MasterChefu izbral morsko rižoto. Dodan R0164 morska rižota z vongolami, lignji in škampi v 12.3 Italijanske jedi, s sklicem iz 11 Glavne jedi (`SEE_ALSO`). Sestavine so uporabnikove, količine, časovnica in tehnike uredniške. Na uporabnikovo željo je jed omejena na največ 45 minut. Aktivnih vnosov je 163, naslednji ID R0165. Word in PDF še nista ponovno sestavljena.
 
 21. 11. 2026 — manjkajoče osnove: po pregledu knjige je uporabnik naročil dodati vse naštete manjkajoče osnove razen fondov. Dodanih je 25 receptov R0139–R0163 iz odprto licenciranih virov (Wikibooks, Wikilivres, Koch-Wiki, Wikipedija) in kratko ubesedenih receptov (King Arthur Baking, Chef Simon, Callebaut). Nova podpoglavja: 1.4 Čokolada, 2.7 Listnato testo, 3.3 Mandljevi biskviti, 4.3 Sladkor in karamela, 6.3 Hladne sladice, 6.4 Sladoledi in sorbeti, 7.4 Meso in ribe: temperature in pečenje, 10.3 Riž in rižota; dopolnjeni 1.1, 1.2, 1.3, 4.1 in 9.2. Evidenca in odprta vprašanja v `reference/manjkajoce-osnove-2026-11-21.md`. Aktivnih vnosov je 162, naslednji ID R0164. Word in PDF sta osvežena: 162 receptov, 13 poglavij, 216 fizičnih strani.
 

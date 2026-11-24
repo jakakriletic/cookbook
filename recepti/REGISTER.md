@@ -215,7 +215,7 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 
 ## Odprto
 
-- R0164: uredniški recept iz uporabnikovega izbora sestavin; količine, časovnica in čas na tekmovalnem mestu za preizkus.
+- R0164: uredniški recept iz uporabnikovega izbora sestavin, skrajšan na 45 minut; količine, časovnica in čas na tekmovalnem mestu za preizkus.
 - R0090–R0096: masa končnega sirupa in jagodnega gela, izplen hrustljavih cvetov, vrsta in količina borovih socvetij ter rok po vlaganju, premer modelčkov za babo in jakost želatine za jogurtov mousse. [Evidenca](../reference/jules-cooking-jagodna-baba-2026-11-17.md)
 
 - R0085–R0089: absolutne količine in izpleni omak, pri bisque tudi izbor aromatične zelenjave poleg šalotke. [Evidenca](../reference/fallow-omake-za-ribe-2026-11-17.md)
@@ -279,6 +279,7 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 
 ## Dnevnik
 
+- 24. 11. 2026: R0164 na uporabnikovo željo skrajšan na največ 45 minut (osnova iz škampovih glav se odišavlja vzporedno z rižoto, rižota se začne v 14. minuti).
 - 24. 11. 2026: dodan R0164 morska rižota z vongolami, lignji in škampi (uporabnikova prva jed za MasterChef; sestavine uporabnikove, recept uredniški) v 12.3 Italijanske jedi, s sklicem iz 11 Glavne jedi. Aktivnih vnosov je 163, naslednji ID R0165. Knjiga DOCX/PDF še ni ponovno sestavljena.
 - 21. 11. 2026: dopolnjene manjkajoče osnove (brez fondov, po uporabnikovi odločitvi): R0139–R0163. Nova podpoglavja 1.4 Čokolada, 2.7 Listnato testo, 3.3 Mandljevi biskviti, 4.3 Sladkor in karamela, 6.3 Hladne sladice, 6.4 Sladoledi in sorbeti, 7.4 Meso in ribe: temperature in pečenje, 10.3 Riž in rižota; dodatki v 1.1, 1.2, 1.3, 4.1 in 9.2. Viri in odprta vprašanja: `reference/manjkajoce-osnove-2026-11-21.md`. Aktivnih vnosov je 162, naslednji ID R0164.
 - 21. 11. 2026: iz videa Jules Cooking »The Perfect Banoffee Pie Tartelettes« (in pisnega recepta) dodani R0134 banoffee tartelete s sablé lupinicami in sestavljanjem (novo 13.11 Tartelete), R0135 slana karamela in R0136 mandljev praline (novo 13.12 Karamele in pralineji) ter R0137 stepeni vaniljev ganaš in R0138 bananina krema (13.6). Evidenca: `reference/jules-cooking-banoffee-2026-11-21.md`. Aktivnih vnosov je 137, naslednji ID R0139.
