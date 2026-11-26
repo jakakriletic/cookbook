@@ -1,5 +1,9 @@
 # Moj kuharski zvezek
 
+26. 11. 2026 — v 12 Tuja kulinarika dodanih 20 receptov R0232–R0251. Dopolnjena je Kitajska, nova podpoglavja so 12.4 Japonska, 12.5 Koreja, 12.6 Tajska, 12.7 Vietnam, 12.8 Indija in 12.9 Mehika. V zbirki je 250 receptov. Naslednji ID je R0252. [Pregled receptov, tehnik in časov](reference/tuja-kulinarika-2026-11-26.md).
+
+[Celotna knjiga v Wordu](outputs/moj-kuharski-zvezek.docx) · [Knjiga v PDF](outputs/moj-kuharski-zvezek.pdf)
+
 Osebna kuharska knjiga za pripravo na MasterChef. Recepti se sproti zbirajo, urejajo in razvrščajo v poglavja; cilj je enotno oblikovana knjiga v Wordu z začetnim kazalom in številkami strani.
 
 ## Pregledna izdaja z izboljšano berljivostjo — 9. 11. 2026

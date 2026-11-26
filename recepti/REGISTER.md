@@ -2,7 +2,7 @@
 
 Posodobljeno: 26. 11. 2026.
 
-Za vključitev izbranih vnosov: **230** (R0001–R0045 in R0047–R0231). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0232**.
+Za vključitev izbranih vnosov: **250** (R0001–R0045 in R0047–R0251). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0252**.
 
 **Aktualna izdaja, 26. 11. 2026:** [Wordova knjiga](../outputs/moj-kuharski-zvezek.docx) in [PDF](../outputs/moj-kuharski-zvezek.pdf) imata 224 receptov, 13 poglavij in 170 strani, v novem strnjenem slogu (recepti v dveh stolpcih). Evidenca izdaje: `reference/izdaja-2026-11-26.md`.
 
@@ -125,6 +125,27 @@ Zgradba je poenotena 11. 11. 2026: številke v stolpcu »Glavno poglavje« so en
 | [R0054](R0054-klasicni-perujski-ceviche.md) | Klasični perujski ceviche | 12.1 Peru | ceviche; surova riba; limeta; Peru | Generalni konzulat Peruja, PICAchef | delovno — ni preizkušeno | R0055 |
 | [R0056](R0056-sladkokisli-piscanec.md) | Sladkokisli piščanec | 12.2 Kitajska | piščanec; cvrtje; sladkokisla omaka; Kitajska | Two Plaid Aprons, Sweet and Sour Chicken | delovno — uporabnikova prilagoditev; ni preizkušeno | — |
 | [R0057](R0057-bao-bun.md) | Bao bun — parjene zložene žemljice | 12.2 Kitajska | bao; kvašeno testo; kuhanje na pari; Kitajska | Omnivore's Cookbook, Steamed Bao Buns | delovno — ni preizkušeno | R0056 |
+| [R0232](R0232-chawanmushi-s-sitakami.md) | Chawanmushi s šitakami | 12.4 Japonska | nežno parjenje | Uredniška receptura za vajo, tehnična podlaga: Namiko Hirasawa Chen | delovno — ni preizkušeno | — |
+| [R0233](R0233-jajcevec-z-misom-nasu-dengaku.md) | Jajčevec z misom (nasu dengaku) | 12.4 Japonska | glaziranje pod žarom | Uredniška receptura za vajo | delovno — ni preizkušeno | — |
+| [R0234](R0234-kakiage-iz-pora-in-korenja.md) | Kakiage iz pora in korenja | 12.4 Japonska | cvrtje zelenjavnega testa | Uredniška receptura za vajo | delovno — ni preizkušeno | — |
+| [R0235](R0235-brancin-na-pari-z-ingverjem-in-mlado-cebulo.md) | Brancin na pari z ingverjem in mlado čebulo | 12.2 Kitajska | parjenje ribjega fileja | Uredniška receptura za vajo | delovno — ni preizkušeno | — |
+| [R0236](R0236-pogacice-z-mlado-cebulo-cong-you-bing.md) | Pogačice z mlado čebulo (cong you bing) | 12.2 Kitajska | plastenje testa z oljem | Uredniška receptura za vajo | delovno — ni preizkušeno | — |
+| [R0237](R0237-palacinka-s-kimcijem-kimchijeon.md) | Palačinka s kimčijem (kimchijeon) | 12.5 Koreja | hrustljava skorja | Uredniška receptura za vajo | delovno — ni preizkušeno | — |
+| [R0238](R0238-stekleni-rezanci-z-gobami-in-spinaco-japchae.md) | Stekleni rezanci z gobami in špinačo (japchae) | 12.5 Koreja | ločeno praženje zelenjave | Uredniška receptura za vajo | delovno — ni preizkušeno | — |
+| [R0239](R0239-kozice-v-juhi-tom-yum.md) | Kozice v juhi tom yum | 12.6 Tajska | hitra osnova iz lupin | Uredniška receptura za vajo | delovno — ni preizkušeno | — |
+| [R0240](R0240-rizeva-palacinka-s-kozicami-banh-xeo.md) | Riževa palačinka s kozicami (bánh xèo) | 12.7 Vietnam | peka riževega testa | Uredniška receptura za vajo | delovno — ni preizkušeno | — |
+| [R0241](R0241-poletni-zvitki-z-arasidovo-pomako-goi-cuon.md) | Poletni zvitki z arašidovo pomako (gỏi cuốn) | 12.7 Vietnam | zvijanje riževega papirja | Uredniška receptura za vajo | delovno — ni preizkušeno | — |
+| [R0242](R0242-svezi-sir-paneer-za-opekanje.md) | Sveži sir paneer za opekanje | 12.8 Indija | kislo sirjenje mleka | Uredniška receptura za vajo, tehnična podlaga: Swasthi Shreekanth | delovno — ni preizkušeno | — |
+| [R0243](R0243-rdeca-leca-z-zacimbnim-prelivom-masoor-dal-tadka.md) | Rdeča leča z začimbnim prelivom (masoor dal tadka) | 12.8 Indija | praženje začimb v ghiju | Uredniška receptura za vajo | delovno — ni preizkušeno | — |
+| [R0244](R0244-cebulni-pakori-s-koriandrovim-jogurtom.md) | Čebulni pakori s koriandrovim jogurtom | 12.8 Indija | vezava s čičerikino moko | Uredniška receptura za vajo | delovno — ni preizkušeno | — |
+| [R0245](R0245-plastena-paratha-z-ghijem.md) | Plastena paratha z ghijem | 12.8 Indija | plastenje z gubanjem | Uredniška receptura za vajo | delovno — ni preizkušeno | — |
+| [R0246](R0246-korenckova-halva-s-kardamomom-gajar-ka-halwa.md) | Korenčkova halva s kardamomom (gajar ka halwa) | 12.8 Indija | redukcija mleka | Uredniška receptura za vajo | delovno — ni preizkušeno | — |
+| [R0247](R0247-koruzne-tortilje-iz-mase-harine.md) | Koruzne tortilje iz mase harine | 12.9 Mehika | stiskanje in peka tortilj | Uredniška receptura za vajo, tehnična podlaga: Rick Bayless | delovno — ni preizkušeno | — |
+| [R0248](R0248-zeleni-pipian-iz-bucnih-semen.md) | Zeleni pipián iz bučnih semen | 12.9 Mehika | zgoščevanje s semeni | Uredniška receptura za vajo, tehnična podlaga: Rick Bayless | delovno — ni preizkušeno | — |
+| [R0249](R0249-salsa-iz-ozganega-paradiznika-salsa-tatemada.md) | Salsa iz ožganega paradižnika (salsa tatemada) | 12.9 Mehika | suho opekanje in trenje | Uredniška receptura za vajo | delovno — ni preizkušeno | — |
+| [R0250](R0250-kozice-v-cilijevi-omaki-camarones-a-la-diabla.md) | Kozice v čilijevi omaki (camarones a la diabla) | 12.9 Mehika | rehidracija sušenega čilija | Uredniška receptura za vajo | delovno — ni preizkušeno | — |
+| [R0251](R0251-zepki-iz-koruznega-testa-s-crnim-fizolom-tetelas.md) | Žepki iz koruznega testa s črnim fižolom (tetelas) | 12.9 Mehika | polnjenje koruznega testa | Uredniška receptura za vajo | delovno — ni preizkušeno | — |
+
 | [R0065](R0065-bucatini-all-amatriciana.md) | Bucatini all’amatriciana | 12.3 Italijanske jedi | testenine; guanciale; paradižnik; pecorino | Chef Italiano, Bucatini all’Amatriciana | delovno — ni preizkušeno | — |
 | [R0066](R0066-spaghetti-cacio-e-pepe.md) | Spaghetti cacio e pepe | 12.3 Italijanske jedi | testenine; pecorino; črni poper; emulzija | Chef Italiano, Spaghetti Cacio e Pepe | delovno — ni preizkušeno | — |
 | [R0067](R0067-fettuccine-alfredo.md) | Fettuccine Alfredo | 12.3 Italijanske jedi | testenine; maslo; parmigiano; emulzija | Chef Italiano, Fettuccine Alfredo | delovno — količine za dopolnitev | — |

@@ -1,5 +1,7 @@
 # Moj kuharski zvezek
 
+26. 11. 2026 — v 12 Tuja kulinarika dodanih 20 receptov R0232–R0251. Dopolnjena je Kitajska, nova podpoglavja so 12.4 Japonska, 12.5 Koreja, 12.6 Tajska, 12.7 Vietnam, 12.8 Indija in 12.9 Mehika. V zbirki je 250 receptov. Naslednji ID je R0252. [Pregled receptov, tehnik in časov](reference/tuja-kulinarika-2026-11-26.md).
+
 Osebna kuharska knjiga za pripravo na MasterChef. Namen je hiter pregled med vajo, zanesljivo ponavljanje tehnik in zbiranje lastnih ugotovitev. Delovni naslov lahko uporabnik pozneje spremeni.
 
 ## Stanje
@@ -136,7 +138,7 @@ Zgradba je poenotena 11. 11. 2026 na uporabnikovo željo, da bo hitro jasno, kje
 | 9 Omake | 9.1 Matične in izpeljane omake · 9.2 Maslene omake · 9.3 Omake za ribe in morske sadeže | tople in hladne omake, emulzije, prelivi; pregled `recepti/04-04-maticne-in-izpeljane-omake.md` na začetku 9.1 |
 | 10 Priloge | 10.1 Krompir · 10.2 Pireji · 10.3 Riž in rižota · 10.4 Zelenjavne priloge · 10.5 Solate | krompir, pireji, riž, zelenjavne priloge, solate in solatni prelivi; pregled `recepti/05-04-pireji-in-kreme.md` na začetku 10.2 |
 | 11 Glavne jedi | 11.1 Fine dining | končne jedi z ribami, mesom in perutnino |
-| 12 Tuja kulinarika | 12.1 Peru · 12.2 Kitajska (sladkokisli piščanec, bao bun) · 12.3 Italijanske jedi (testenine in njoki) | celovite jedi neevropskih kuhinj in podpoglavja po uporabnikovi izbiri, med njimi italijanske jedi |
+| 12 Tuja kulinarika | 12.1 Peru · 12.2 Kitajska · 12.3 Italijanske jedi · 12.4 Japonska · 12.5 Koreja · 12.6 Tajska · 12.7 Vietnam · 12.8 Indija · 12.9 Mehika | jedi in samostojne komponente po kuhinjah |
 | 13 Jules Cooking | 13.1 Emulzije in olja · 13.2 Farse · 13.3 Ceviche · 13.4 Kvašene sladice · 13.5 Sirupi in sadni geli · 13.6 Kreme in moussi · 13.7 Okraski in vložki · 13.8 Sladice iz kuhanega testa · 13.9 Geli in redukcije · 13.10 Hrustljave lupine · 13.11 Tartelete · 13.12 Karamele in pralineji | vsi recepti Jules Cooking |
 
 Novo podpoglavje dodaj v ustrezno poglavje z naslednjo prosto številko (npr. 2.2 Listnato testo, 9.3 Hladne omake, 11.3 Govedina). Novo poglavje dodaj samo, če vsebina ne sodi v nobeno obstoječe, in ga uvrsti v sladki ali slani del; številke za njim se tedaj premaknejo v registru, v `CHAPTERS` skripte `scripts/sestavi_knjigo.py` in tukaj. Predvidena poznejša poglavja, ko bo vsebina: Testenine, riž in žita · Jajca in sirne jedi · Kruh in slana peka · Sestavljeni krožniki in meniji. Praznih poglavij ne dodajaj v knjigo.
