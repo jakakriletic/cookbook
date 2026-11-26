@@ -1,8 +1,8 @@
 # Register receptov
 
-Posodobljeno: 24. 11. 2026.
+Posodobljeno: 26. 11. 2026.
 
-Za vključitev izbranih vnosov: **163** (R0001–R0045 in R0047–R0164). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0165**.
+Za vključitev izbranih vnosov: **193** (R0001–R0045 in R0047–R0194). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0195**.
 
 **Aktualna izdaja, 21. 11. 2026:** [Wordova knjiga](../outputs/moj-kuharski-zvezek.docx) in [PDF](../outputs/moj-kuharski-zvezek.pdf) imata 162 receptov, 13 poglavij in 216 fizičnih strani. R0164 morska rižota (24. 11. 2026) še ni v izdaji; potrebna je ponovna sestava z Wordom. Pregled stanja: `reference/pregled-2026-11-26.md`.
 
@@ -140,6 +140,36 @@ Zgradba je poenotena 11. 11. 2026: številke v stolpcu »Glavno poglavje« so en
 | [R0064](R0064-bucni-njoki-iz-kaboce.md) | Bučni njoki iz kaboče | 12.3 Italijanske jedi | njoki; kaboča; krompir; Italija | Chef Italiano, Pumpkin Gnocchi | delovno — ni preizkušeno | R0063 |
 | [R0063](R0063-bucni-njoki-svinjska-ribica-fige.md) | Bučni njoki s svinjsko ribico, figami in pecorino omako | 12.3 Italijanske jedi | njoki; buča; svinjina; fige; pecorino | uporabnikov recept po spominu | delovno — konceptualni zapis brez količin | R0064 |
 | [R0164](R0164-morska-rizota.md) | Morska rižota z vongolami, lignji in škampi | 12.3 Italijanske jedi | rižota; vongole; lignji; škampi; MasterChef | uporabnikove sestavine, uredniški recept | delovno — ni preizkušeno | R0163, R0011 |
+| [R0165](R0165-pire-krompir.md) | Pire krompir (pommes purée) | 10.1 Krompir | krompir; pire; maslo; smetana | Chef Simon, Purée de pommes de terre | delovno — ni preizkušeno | R0021 |
+| [R0166](R0166-fondant-krompir.md) | Fondant krompir (pommes fondantes) | 10.1 Krompir | krompir; fondant; maslo; osnova | delicious. magazine, Fondant potatoes | delovno — ni preizkušeno | R0158, R0165 |
+| [R0167](R0167-pomfrit.md) | Pomfrit z dvojnim cvrtjem (pommes pont-neuf) | 10.1 Krompir | krompir; pomfrit; cvrtje; Francija | Chef Simon, Pommes frites ou Pont-neuf | delovno — ni preizkušeno | R0021 |
+| [R0168](R0168-gratin-dauphinois.md) | Gratin dauphinois | 10.1 Krompir | krompir; gratin; mleko; smetana | Chef Simon, Gratin dauphinois | delovno — ni preizkušeno | R0165 |
+| [R0169](R0169-pommes-dauphines.md) | Krompirjevi kroketi iz kuhanega testa (pommes dauphines) | 10.1 Krompir | krompir; kuhano testo; choux; cvrtje | Wikilivres, Livre de cuisine/Pommes dauphines; CC BY-SA 4.0 | delovno — ni preizkušeno | R0015, R0165 |
+| [R0170](R0170-glazirana-zelenjava.md) | Glazirano korenje, repa in čebulice (légumes glacés) | 10.4 Zelenjavne priloge | korenje; repa; čebulice; glaziranje | Chef Simon, Légumes glacés | delovno — ni preizkušeno | — |
+| [R0171](R0171-strocji-fizol-po-anglesko.md) | Stročji fižol po angleško (haricots verts à l'anglaise) | 10.4 Zelenjavne priloge | stročji fižol; blanširanje; zelena zelenjava; Francija | Chef Simon, Haricots verts à l'anglaise | delovno — ni preizkušeno | — |
+| [R0172](R0172-ratatouille.md) | Ratatouille | 10.4 Zelenjavne priloge | ratatouille; bučke; jajčevci; paprika | Chef Simon, Ratatouille | delovno — ni preizkušeno | — |
+| [R0173](R0173-spinaca-s-smetano.md) | Špinača s smetano | 10.4 Zelenjavne priloge | špinača; smetana; zelena zelenjava; Švedska | Wikibooks Cookbook, Creamed Spinach; CC BY-SA 4.0 | delovno — ni preizkušeno | — |
+| [R0174](R0174-vinaigrette.md) | Vinaigrette (francoski solatni preliv) | 10.5 Solate | vinaigrette; preliv; emulzija; gorčica | Wikilivres, Livre de cuisine/Vinaigrette; CC BY-SA 4.0 | delovno — ni preizkušeno | R0176 |
+| [R0175](R0175-solata-cezar.md) | Solata Cezar | 10.5 Solate | solata; cezar; rimska solata; krutoni | Wikibooks Cookbook, Caesar Salad; CC BY-SA 4.0 | delovno — ni preizkušeno | — |
+| [R0176](R0176-nicejska-solata.md) | Nicejska solata (salade niçoise) | 10.5 Solate | solata; niçoise; paradižnik; sardele | Wikilivres, Livre de cuisine/Salade niçoise; CC BY-SA 4.0 | delovno — ni preizkušeno | R0174 |
+| [R0177](R0177-topla-krompirjeva-solata.md) | Topla krompirjeva solata s slanino | 10.5 Solate | krompir; solata; slanina; kis | Wikibooks Cookbook, Potato Salad; CC BY-SA 4.0 | delovno — ni preizkušeno | — |
+| [R0178](R0178-coleslaw.md) | Zeljna solata coleslaw | 10.5 Solate | zelje; solata; majoneza; coleslaw | Wikibooks Cookbook, Coleslaw I; CC BY-SA 4.0 | delovno — ni preizkušeno | — |
+| [R0179](R0179-krhko-testo-brisee.md) | Krhko testo brisée (pâte brisée) | 2.1 Osnovna testa | krhko testo; pâte brisée; tarte; quiche | Chef Simon, Pâte brisée | delovno — ni preizkušeno | R0030, R0180, R0183, R0184 |
+| [R0180](R0180-krhko-testo-sable.md) | Krhko testo sablé (pâte sablée) | 2.1 Osnovna testa | krhko testo; pâte sablée; tarte; Francija | Chef Simon, Pâte sablée | delovno — ni preizkušeno | R0030, R0179, R0181, R0182 |
+| [R0181](R0181-limonina-tarta.md) | Limonina tarta (tarte au citron) | 6.5 Tarte | tarta; limona; limonina krema; meringa | Chef Simon, Tarte au citron | delovno — ni preizkušeno | R0147, R0180 |
+| [R0182](R0182-jagodna-tarta.md) | Jagodna tarta s kremo diplomat | 6.5 Tarte | tarta; jagode; maline; krema diplomat | Chef Simon, Tarte aux fraises | delovno — ni preizkušeno | R0028, R0139, R0180 |
+| [R0183](R0183-tarte-tatin.md) | Tarte Tatin | 6.5 Tarte | tarta; tarte Tatin; jabolka; karamela | Chef Simon, Tarte Tatin | delovno — ni preizkušeno | R0144, R0149, R0179 |
+| [R0184](R0184-jabolcna-tarta.md) | Jabolčna tarta s kompotom (tarte aux pommes) | 6.5 Tarte | tarta; jabolka; kompot; sadna tarta | Wikilivres, Livre de cuisine/Tarte aux pommes; CC BY-SA 4.0 | delovno — ni preizkušeno | R0028, R0144, R0179, R0180 |
+| [R0185](R0185-piskoti-s-cokolado.md) | Piškoti s koščki čokolade (chocolate chip cookies) | 6.6 Piškoti in drobno pecivo | piškoti; čokolada; cookies; ZDA | Wikibooks Cookbook, Chocolate Chip Cookies I; CC BY-SA 4.0 | delovno — ni preizkušeno | — |
+| [R0186](R0186-shortbread.md) | Škotski masleni piškoti (shortbread) | 6.6 Piškoti in drobno pecivo | piškoti; shortbread; maslo; Škotska | Wikibooks Cookbook, Shortbread; CC BY-SA 4.0 | delovno — ni preizkušeno | — |
+| [R0187](R0187-sable-diamant.md) | Sablé diamant z limeto | 6.6 Piškoti in drobno pecivo | piškoti; sablé; limeta; Francija | Chef Simon, Sablés diamant au citron vert | delovno — ni preizkušeno | — |
+| [R0188](R0188-madlene.md) | Madlene (madeleines) | 6.6 Piškoti in drobno pecivo | madlene; madeleines; limona; drobno pecivo | Wikibooks Cookbook, Madeleines; CC BY-SA 4.0 | delovno — ni preizkušeno | — |
+| [R0189](R0189-financierji.md) | Financierji (financiers) | 6.6 Piškoti in drobno pecivo | financier; mandlji; rjavo maslo; beljaki | Chef Simon, Financiers | delovno — ni preizkušeno | — |
+| [R0190](R0190-osnovni-crumble.md) | Osnovni crumble – hitra izvedba | 6.2 Tople sladice | crumble; drobljenec; maslo; sladkor | Chef Simon, Crumble pommes myrtilles – appareil à crumble | delovno — ni preizkušeno | R0029, R0155, R0191, R0192 |
+| [R0191](R0191-jabolcni-crumble.md) | Jabolčni crumble z borovnicami | 6.2 Tople sladice | crumble; jabolka; borovnice; Francija | Chef Simon, Crumble pommes myrtilles | delovno — ni preizkušeno | R0190 |
+| [R0192](R0192-jabolcni-crisp.md) | Jabolčni crisp z ovsenimi kosmiči | 6.2 Tople sladice | crisp; crumble; jabolka; ovseni kosmiči | Wikibooks Cookbook, Apple Crisp I; CC BY-SA 4.0 | delovno — ni preizkušeno | R0190 |
+| [R0193](R0193-sabayon.md) | Sabayon z marsalo (zabaione) | 1.1 Osnovne kreme | sabayon; zabaione; rumenjaki; marsala | Wikilivres, Livre de cuisine/Sabayon; CC BY-SA 4.0 | delovno — ni preizkušeno | R0194 |
+| [R0194](R0194-sabayon-brez-alkohola.md) | Sabayon brez alkohola | 1.1 Osnovne kreme | sabayon; rumenjaki; pomarančni sok; krema | Chef Simon, Sabayon sans alcool | delovno — ni preizkušeno | R0193 |
 | [R0048](R0048-ostrigina-emulzija.md) | Ostrigina emulzija z zeliščnim oljem | 13.1 Emulzije in olja | emulzija; ostrige; zeliščno olje; fine dining | Jules Cooking, Sea Buckthorn & Sea Bass Dish, 25:59 | delovno — uporabnikova prilagoditev; ni preizkušeno | R0023; R0049 |
 | [R0132](R0132-sezamova-majoneza.md) | Sezamova majoneza | 13.1 Emulzije in olja | majoneza; emulzija; sezam | Jules Cooking, The Ultimate Fish Taco, 08:50 | delovno — ni preizkušeno | R0130 |
 | [R0049](R0049-brancinova-farsa.md) | Pečena brancinova farsa | 13.2 Farse | farsa; brancin; beljak; fine dining | Jules Cooking, Sea Buckthorn & Sea Bass Dish, 23:43 | delovno — uporabnikova prilagoditev; ni preizkušeno | R0048; sklic iz 3.3 |
@@ -215,6 +245,7 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 
 ## Odprto
 
+- R0165–R0194: pri receptih Chef Simon in Wikibooks manjkajo predvsem izpleni, časi cvrtja in nekatere mase; R0166 fondant krompir ima količine samo iz povzetka iskalnika (delicious. magazine). Nič ni preizkušeno. [Evidenca](../reference/priloge-in-sladice-2026-11-26.md).
 - R0164: uredniški recept iz uporabnikovega izbora sestavin, skrajšan na 45 minut; količine, časovnica in čas na tekmovalnem mestu za preizkus.
 - R0090–R0096: masa končnega sirupa in jagodnega gela, izplen hrustljavih cvetov, vrsta in količina borovih socvetij ter rok po vlaganju, premer modelčkov za babo in jakost želatine za jogurtov mousse. [Evidenca](../reference/jules-cooking-jagodna-baba-2026-11-17.md)
 
@@ -279,6 +310,7 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 
 ## Dnevnik
 
+- 26. 11. 2026: po pregledu knjige dodanih 30 receptov R0165–R0194: krompir (pire, fondant, pomfrit, gratin dauphinois, pommes dauphines), novi 10.4 Zelenjavne priloge in 10.5 Solate, testi brisée in sablé v 2.1, novi 6.5 Tarte in 6.6 Piškoti in drobno pecivo, crumble (osnovna hitra izvedba R0190 in dve različici) v 6.2 ter sabayon v 1.1. Aktivnih vnosov je 193, naslednji ID R0195. [Evidenca](../reference/priloge-in-sladice-2026-11-26.md).
 - 24. 11. 2026: R0164 na uporabnikovo željo skrajšan na največ 45 minut (osnova iz škampovih glav se odišavlja vzporedno z rižoto, rižota se začne v 14. minuti).
 - 24. 11. 2026: dodan R0164 morska rižota z vongolami, lignji in škampi (uporabnikova prva jed za MasterChef; sestavine uporabnikove, recept uredniški) v 12.3 Italijanske jedi, s sklicem iz 11 Glavne jedi. Aktivnih vnosov je 163, naslednji ID R0165. Knjiga DOCX/PDF še ni ponovno sestavljena.
 - 21. 11. 2026: dopolnjene manjkajoče osnove (brez fondov, po uporabnikovi odločitvi): R0139–R0163. Nova podpoglavja 1.4 Čokolada, 2.7 Listnato testo, 3.3 Mandljevi biskviti, 4.3 Sladkor in karamela, 6.3 Hladne sladice, 6.4 Sladoledi in sorbeti, 7.4 Meso in ribe: temperature in pečenje, 10.3 Riž in rižota; dodatki v 1.1, 1.2, 1.3, 4.1 in 9.2. Viri in odprta vprašanja: `reference/manjkajoce-osnove-2026-11-21.md`. Aktivnih vnosov je 162, naslednji ID R0164.
