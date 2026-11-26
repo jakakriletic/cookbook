@@ -2,7 +2,7 @@
 
 Posodobljeno: 26. 11. 2026.
 
-Za vključitev izbranih vnosov: **224** (R0001–R0045 in R0047–R0225). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0226**.
+Za vključitev izbranih vnosov: **227** (R0001–R0045 in R0047–R0228). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0229**.
 
 **Aktualna izdaja, 26. 11. 2026:** [Wordova knjiga](../outputs/moj-kuharski-zvezek.docx) in [PDF](../outputs/moj-kuharski-zvezek.pdf) imata 224 receptov, 13 poglavij in 170 strani, v novem strnjenem slogu (recepti v dveh stolpcih). Evidenca izdaje: `reference/izdaja-2026-11-26.md`.
 
@@ -201,6 +201,9 @@ Zgradba je poenotena 11. 11. 2026: številke v stolpcu »Glavno poglavje« so en
 | [R0223](R0223-orehova-potica.md) | Orehova potica | 6.10 Slovenske sladice | potica; orehi; kvašeno testo; potičnica | Slovenian Kitchen (Sara Kališnik), Walnut Potica | delovno — ni preizkušeno | R0081, R0224 |
 | [R0224](R0224-prekmurska-gibanica.md) | Prekmurska gibanica | 6.10 Slovenske sladice | gibanica; Prekmurje; vlečeno testo; mak | Wikibooks Cookbook, Prekmurska Gibanica (Slovenian Layered Strudel; CC BY-SA 4.0 | delovno — ni preizkušeno | R0059, R0223 |
 | [R0225](R0225-sirovi-struklji.md) | Kuhani skutni štruklji z drobtinami in kompotom | 6.10 Slovenske sladice | štruklji; skuta; kisla smetana; drobtine | Slovenian Kitchen (Sara Kališnik), Sirovi štruklji | delovno — ni preizkušeno | R0059, R0079 |
+| [R0226](R0226-losos-s-ribjo-farso.md) | Losos z ribjo farso iz obrezkov, kuhan v sopari | 11.2 Ribe in morski sadeži | losos; farsa; sopara; Instagram | Monika Cubela, Instagram Reel | delovno — ni preizkušeno | R0049, R0159, R0222 |
+| [R0227](R0227-buckin-rouleau-z-jastogom.md) | Bučkin rouleau z jastogovim tartarjem | 11.2 Ribe in morski sadeži | bučke; jastog; garnitura; Instagram | Chef Rohit, Instagram Reel | delovno — ni preizkušeno | R0171, R0226 |
+| [R0228](R0228-hrustljav-ocvrt-por.md) | Hrustljav ocvrt por z blanširanjem | 10.6 Hrustljavi okraski | por; cvrtje; blanširanje; Instagram | Shane Spencer, Instagram Reel | delovno — ni preizkušeno | R0167, R0171 |
 | [R0048](R0048-ostrigina-emulzija.md) | Ostrigina emulzija z zeliščnim oljem | 13.1 Emulzije in olja | emulzija; ostrige; zeliščno olje; fine dining | Jules Cooking, Sea Buckthorn & Sea Bass Dish, 25:59 | delovno — uporabnikova prilagoditev; ni preizkušeno | R0023; R0049 |
 | [R0132](R0132-sezamova-majoneza.md) | Sezamova majoneza | 13.1 Emulzije in olja | majoneza; emulzija; sezam | Jules Cooking, The Ultimate Fish Taco, 08:50 | delovno — ni preizkušeno | R0130 |
 | [R0049](R0049-brancinova-farsa.md) | Pečena brancinova farsa | 13.2 Farse | farsa; brancin; beljak; fine dining | Jules Cooking, Sea Buckthorn & Sea Bass Dish, 23:43 | delovno — uporabnikova prilagoditev; ni preizkušeno | R0048; sklic iz 3.3 |
@@ -342,6 +345,7 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 
 ## Dnevnik
 
+- 26. 11. 2026: iz treh Instagram Reelsov, ki jih je poslal uporabnik (prvi preizkus `scripts/video-v-besedilo.sh`), dodani R0226 losos z ribjo farso (Monika Cubela) in R0227 bučkin rouleau z jastogom (Chef Rohit) v novo 11.2 Ribe in morski sadeži ter R0228 hrustljav ocvrt por (Shane Spencer) v novo 10.6 Hrustljavi okraski. Noben ni Jules Cooking. Aktivnih vnosov 227, naslednji ID R0229.
 - 26. 11. 2026: na uporabnikovo naročilo (»vse dodaj«) dodanih 31 slaščičarskih receptov R0195–R0225: glazure in omake (novi 1.5), kreme v 1.1, čokoladni ostružki v 1.4, savoiardi in rolada v 3.1, sladkorne niti in karamelizirani mandlji v 4.3, sladoledi v 6.4, brownie v 6.6, novi 6.7 Sladice iz kuhanega testa, 6.8 Sladice iz listnatega testa, 6.9 Torte in entremeti, 6.10 Slovenske sladice ter 7.5 Tehnike (želatina, kvenele). R0079 dopolnjen z ovojem za kuhanje, R0151 s sklicem na R0218. Aktivnih vnosov je 224, naslednji ID R0226. [Evidenca](../reference/slascicarske-vrzeli-2026-11-26.md).
 - 26. 11. 2026: po pregledu knjige dodanih 30 receptov R0165–R0194: krompir (pire, fondant, pomfrit, gratin dauphinois, pommes dauphines), novi 10.4 Zelenjavne priloge in 10.5 Solate, testi brisée in sablé v 2.1, novi 6.5 Tarte in 6.6 Piškoti in drobno pecivo, crumble (osnovna hitra izvedba R0190 in dve različici) v 6.2 ter sabayon v 1.1. Aktivnih vnosov je 193, naslednji ID R0195. [Evidenca](../reference/priloge-in-sladice-2026-11-26.md).
 - 24. 11. 2026: R0164 na uporabnikovo željo skrajšan na največ 45 minut (osnova iz škampovih glav se odišavlja vzporedno z rižoto, rižota se začne v 14. minuti).

@@ -15,7 +15,7 @@ Uporabnik bo pošiljal povezave na Reels in YouTube videe s tehnikami, ki jih je
 ## Preizkusi 26. 11. 2026
 - Lokalna veriga: testni 9-sekundni video s sintetiziranim slovenskim govorom in napisi — OCR brezhiben (»300 g moke«, »Pečica 180 °C«), prepis govora razumljiv kljub umetnemu glasu; skupaj 10 s.
 - YouTube (Short ydQx5pOdMwE): »Sign in to confirm you're not a bot« že pri opisu in podnapisih (IP podatkovnega centra). Zaobhajanja z menjavanjem odjemalcev nisem poskušal.
-- Instagram: ni preizkušen z resnično povezavo.
+- Instagram (3 Reelsi uporabnika): opis in metapodatki prek www.instagram.com brez prijave; mediji s scontent-ord5-1/-2.cdninstagram.com (dodana kot točna gostitelja). Prenos, prepis in OCR delujejo; obdelava 40–75 s na Reel. Če nov Reel uporabi drug CDN gostitelj, ga pokaže `yt-dlp -J` (polje url formatov) in ga je treba dodati.
 
 ## Odprte možnosti (odločitev uporabnika)
 1. Uporabnik pošlje video datoteko (najzanesljivejše).
