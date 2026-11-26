@@ -2,7 +2,7 @@
 
 Posodobljeno: 26. 11. 2026.
 
-Za vključitev izbranih vnosov: **227** (R0001–R0045 in R0047–R0228). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0229**.
+Za vključitev izbranih vnosov: **230** (R0001–R0045 in R0047–R0231). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0232**.
 
 **Aktualna izdaja, 26. 11. 2026:** [Wordova knjiga](../outputs/moj-kuharski-zvezek.docx) in [PDF](../outputs/moj-kuharski-zvezek.pdf) imata 224 receptov, 13 poglavij in 170 strani, v novem strnjenem slogu (recepti v dveh stolpcih). Evidenca izdaje: `reference/izdaja-2026-11-26.md`.
 
@@ -204,6 +204,9 @@ Zgradba je poenotena 11. 11. 2026: številke v stolpcu »Glavno poglavje« so en
 | [R0226](R0226-losos-s-ribjo-farso.md) | Losos z ribjo farso iz obrezkov, kuhan v sopari | 11.2 Ribe in morski sadeži | losos; farsa; sopara; Instagram | Monika Cubela, Instagram Reel | delovno — ni preizkušeno | R0049, R0159, R0222 |
 | [R0227](R0227-buckin-rouleau-z-jastogom.md) | Bučkin rouleau z jastogovim tartarjem | 11.2 Ribe in morski sadeži | bučke; jastog; garnitura; Instagram | Chef Rohit, Instagram Reel | delovno — ni preizkušeno | R0171, R0226 |
 | [R0228](R0228-hrustljav-ocvrt-por.md) | Hrustljav ocvrt por z blanširanjem | 10.6 Hrustljavi okraski | por; cvrtje; blanširanje; Instagram | Shane Spencer, Instagram Reel | delovno — ni preizkušeno | R0167, R0171 |
+| [R0229](R0229-suhi-paradiznikov-biskvit.md) | Suhi paradižnikov biskvit iz mikrovalovke (sifon) | 10.6 Hrustljavi okraski | sifon; mikrovalovni biskvit; paradižnik; Instagram | Martin Lippo (Vakuum), Instagram Reel | delovno — količine za dopolnitev | R0230, R0228 |
+| [R0230](R0230-vroca-bucna-pena.md) | Vroča bučna pena iz sifona | 9.4 Pene | pena; sifon; buča; Instagram | Martin Lippo (Vakuum), Instagram Reel | delovno — količine za dopolnitev | R0221, R0229 |
+| [R0231](R0231-trska-v-pesini-glazuri.md) | Trska v glazuri iz rdeče pese | 11.2 Ribe in morski sadeži | trska; pesa; agar; Instagram | Gronda (chef Vincent Angebault), Instagram Reel | delovno — količine za dopolnitev | R0226, R0159, R0157 |
 | [R0048](R0048-ostrigina-emulzija.md) | Ostrigina emulzija z zeliščnim oljem | 13.1 Emulzije in olja | emulzija; ostrige; zeliščno olje; fine dining | Jules Cooking, Sea Buckthorn & Sea Bass Dish, 25:59 | delovno — uporabnikova prilagoditev; ni preizkušeno | R0023; R0049 |
 | [R0132](R0132-sezamova-majoneza.md) | Sezamova majoneza | 13.1 Emulzije in olja | majoneza; emulzija; sezam | Jules Cooking, The Ultimate Fish Taco, 08:50 | delovno — ni preizkušeno | R0130 |
 | [R0049](R0049-brancinova-farsa.md) | Pečena brancinova farsa | 13.2 Farse | farsa; brancin; beljak; fine dining | Jules Cooking, Sea Buckthorn & Sea Bass Dish, 23:43 | delovno — uporabnikova prilagoditev; ni preizkušeno | R0048; sklic iz 3.3 |
@@ -279,6 +282,7 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 
 ## Odprto
 
+- R0229–R0231: avtorja (Martin Lippo, Gronda) objavljata količine samo v aplikaciji Gronda; vse količine za dopolnitev.
 - R0195–R0225: pri več virih Chef Simon (Les Gourmets) so bili koraki skriti za oglasom; postopki so tam uredniški in označeni (R0195 temperature zrcalne glazure, R0197 craquelin, R0215 semifreddo, R0216 granita, R0220 karamelizirani mandlji). R0196 sestavljanje entremeta je v celoti uredniško. Sladkorno satovje (honeycomb) in sadni premaz (nappage) nista dodana, ker ni bilo najdenega vira s količinami. Nič ni preizkušeno. [Evidenca](../reference/slascicarske-vrzeli-2026-11-26.md).
 - R0165–R0194: pri receptih Chef Simon in Wikibooks manjkajo predvsem izpleni, časi cvrtja in nekatere mase; R0166 fondant krompir ima količine samo iz povzetka iskalnika (delicious. magazine). Nič ni preizkušeno. [Evidenca](../reference/priloge-in-sladice-2026-11-26.md).
 - R0164: uredniški recept iz uporabnikovega izbora sestavin, skrajšan na 45 minut; količine, časovnica in čas na tekmovalnem mestu za preizkus.
@@ -345,6 +349,7 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 
 ## Dnevnik
 
+- 26. 11. 2026: iz treh Instagram Reelsov dodani R0229 suhi paradižnikov biskvit (10.6), R0230 vroča bučna pena (novo 9.4 Pene) in R0231 trska v glazuri iz rdeče pese (11.2). Aktivnih vnosov 230, naslednji ID R0232.
 - 26. 11. 2026: iz treh Instagram Reelsov, ki jih je poslal uporabnik (prvi preizkus `scripts/video-v-besedilo.sh`), dodani R0226 losos z ribjo farso (Monika Cubela) in R0227 bučkin rouleau z jastogom (Chef Rohit) v novo 11.2 Ribe in morski sadeži ter R0228 hrustljav ocvrt por (Shane Spencer) v novo 10.6 Hrustljavi okraski. Noben ni Jules Cooking. Aktivnih vnosov 227, naslednji ID R0229.
 - 26. 11. 2026: na uporabnikovo naročilo (»vse dodaj«) dodanih 31 slaščičarskih receptov R0195–R0225: glazure in omake (novi 1.5), kreme v 1.1, čokoladni ostružki v 1.4, savoiardi in rolada v 3.1, sladkorne niti in karamelizirani mandlji v 4.3, sladoledi v 6.4, brownie v 6.6, novi 6.7 Sladice iz kuhanega testa, 6.8 Sladice iz listnatega testa, 6.9 Torte in entremeti, 6.10 Slovenske sladice ter 7.5 Tehnike (želatina, kvenele). R0079 dopolnjen z ovojem za kuhanje, R0151 s sklicem na R0218. Aktivnih vnosov je 224, naslednji ID R0226. [Evidenca](../reference/slascicarske-vrzeli-2026-11-26.md).
 - 26. 11. 2026: po pregledu knjige dodanih 30 receptov R0165–R0194: krompir (pire, fondant, pomfrit, gratin dauphinois, pommes dauphines), novi 10.4 Zelenjavne priloge in 10.5 Solate, testi brisée in sablé v 2.1, novi 6.5 Tarte in 6.6 Piškoti in drobno pecivo, crumble (osnovna hitra izvedba R0190 in dve različici) v 6.2 ter sabayon v 1.1. Aktivnih vnosov je 193, naslednji ID R0195. [Evidenca](../reference/priloge-in-sladice-2026-11-26.md).
