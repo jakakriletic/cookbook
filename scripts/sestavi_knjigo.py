@@ -22,7 +22,11 @@ ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / 'outputs/moj-kuharski-zvezek.docx'
 DUMP = ROOT / 'work/knjiga-besedilo.txt'
 
-INK, MUTED, GREEN, COPPER, PAPER, BOX = '23261F', '676B62', '2F5B52', 'A26A35', 'FBF8F2', 'F1EBDF'
+INK, MUTED, GREEN, COPPER, PAPER, BOX = '1F211C', '5E625A', '2F5B52', 'A26A35', 'FFFFFF', 'F3EEE4'
+RULE = 'D6CFC2'
+# Pisavi z metrično enakovrednima nadomestkoma (Carlito, Caladea), da sta prelom v Wordu in v PDF enaka.
+BODY, HEAD = 'Calibri', 'Cambria'
+LEFT_W = 64  # mm: stolpec s sestavinami
 
 # Poglavja: najprej sladko (1–6), nato slano (7–12), na koncu Jules Cooking (13).
 # Številke so enake v registru in v knjigi. Vrstni red receptov znotraj
@@ -250,18 +254,18 @@ def strip_ids(text):
 doc = Document()
 sec = doc.sections[0]
 sec.page_width, sec.page_height = Mm(210), Mm(297)
-sec.top_margin, sec.bottom_margin = Mm(20), Mm(20)
-sec.left_margin, sec.right_margin = Mm(22), Mm(20)
-sec.header_distance, sec.footer_distance = Mm(8), Mm(10)
-TEXT_W = 210 - 22 - 20
+sec.top_margin, sec.bottom_margin = Mm(17), Mm(17)
+sec.left_margin, sec.right_margin = Mm(18), Mm(18)
+sec.header_distance, sec.footer_distance = Mm(8), Mm(8)
+TEXT_W = 210 - 18 - 18
 
 styles = doc.styles
 normal = styles['Normal']
-normal.font.name = 'Aptos'
-normal.font.size = Pt(12)
+normal.font.name = BODY
+normal.font.size = Pt(11)
 normal.font.color.rgb = RGBColor.from_string(INK)
-normal.paragraph_format.line_spacing = 1.25
-normal.paragraph_format.space_after = Pt(6)
+normal.paragraph_format.line_spacing = 1.2
+normal.paragraph_format.space_after = Pt(4)
 
 def set_style(name, font=None, size=None, color=None, bold=None, italic=None, before=None, after=None, keep=None, base=True):
     if name not in styles:
@@ -279,35 +283,35 @@ def set_style(name, font=None, size=None, color=None, bold=None, italic=None, be
     if keep is not None: s.paragraph_format.keep_with_next = keep
     return s
 
-set_style('Title', 'Georgia', 46, '000000', False, False, 0, 14, True)
-set_style('Heading 1', 'Georgia', 34, '000000', False, False, 0, 6, True)
-set_style('Heading 2', 'Georgia', 17, GREEN, False, False, 6, 18, True)
-set_style('Heading 3', 'Georgia', 26, '000000', False, False, 0, 6, True)
-set_style('Eyebrow', 'Aptos', 9.5, COPPER, True, None, 0, 3, True)
-set_style('Lead', 'Aptos', 12, MUTED, None, True, 0, 10)
-set_style('Facts', 'Aptos', 11.5, INK, None, None, 2, 14)
-set_style('Section', 'Aptos', 10.5, GREEN, True, None, 14, 6, True)
-set_style('Component', 'Aptos', 12, INK, True, None, 8, 3, True)
-set_style('Ingredient', 'Aptos', 12, INK, None, None, 0, 3)
-set_style('Step', 'Aptos', 12, INK, None, None, 0, 7)
-set_style('Bullet', 'Aptos', 12, INK, None, None, 0, 5)
-set_style('Small', 'Aptos', 10, MUTED, None, None, 0, 3)
-set_style('Overview Item', 'Aptos', 12, INK, None, None, 0, 7)
+set_style('Title', HEAD, 40, '000000', False, False, 0, 12, True)
+set_style('Heading 1', HEAD, 26, '000000', False, False, 0, 4, False)
+set_style('Heading 2', HEAD, 14, GREEN, True, False, 16, 6, True)
+set_style('Heading 3', HEAD, 16, '000000', True, False, 14, 2, True)
+set_style('Eyebrow', BODY, 8.5, COPPER, True, None, 0, 2, True)
+set_style('Lead', BODY, 10.5, MUTED, None, True, 0, 4, True)
+set_style('Facts', BODY, 10, INK, None, None, 2, 6, True)
+set_style('Section', BODY, 8.5, GREEN, True, None, 6, 2, False)
+set_style('Component', BODY, 10.5, INK, True, None, 4, 1, False)
+set_style('Ingredient', BODY, 10.5, INK, None, None, 0, 1.5)
+set_style('Step', BODY, 11, INK, None, None, 0, 3.5)
+set_style('Bullet', BODY, 10.5, INK, None, None, 0, 2)
+set_style('Small', BODY, 9, MUTED, None, None, 0, 2)
+set_style('Overview Item', BODY, 10.5, INK, None, None, 0, 3)
 
 # Uporabnikova izjema: 7.3 je kratek priročnik, štiri kartice na stran.
 # Sestavine ostanejo urejevalno besedilo v strnjenem odstavku.
-set_style('Compact Title', 'Georgia', 16, '000000', False, False, 7, 3, True)
+set_style('Compact Title', HEAD, 16, '000000', False, False, 7, 3, True)
 styles['Compact Title'].base_style = styles['Heading 3']
 compact_outline = OxmlElement('w:outlineLvl'); compact_outline.set(qn('w:val'), '2')
 styles['Compact Title'].element.get_or_add_pPr().append(compact_outline)
-set_style('Compact Facts', 'Aptos', 10.5, COPPER, False, False, 0, 3, True)
-set_style('Compact Body', 'Aptos', 12, INK, False, False, 0, 3, True)
-set_style('Compact Method', 'Aptos', 12, INK, False, False, 0, 6, False)
+set_style('Compact Facts', BODY, 10.5, COPPER, False, False, 0, 3, True)
+set_style('Compact Body', BODY, 12, INK, False, False, 0, 3, True)
+set_style('Compact Method', BODY, 12, INK, False, False, 0, 6, False)
 for name in ('Compact Body', 'Compact Method', 'Compact Facts', 'Compact Title'):
     styles[name].paragraph_format.line_spacing = 1.05
     styles[name].paragraph_format.keep_together = True
 
-ING_QTY, ING_NAME = 30, 35  # mm: desni rob količine in začetek imena
+ING_QTY, ING_NAME = 18, 20  # mm: desni rob količine in začetek imena
 for s in ('Ingredient',):
     pf = styles[s].paragraph_format
     pf.left_indent, pf.first_line_indent = Mm(ING_NAME), Mm(-ING_NAME)
@@ -318,15 +322,18 @@ for s, ind in (('Step', 8), ('Bullet', 5)):
     pf = styles[s].paragraph_format
     pf.left_indent, pf.first_line_indent = Mm(ind), Mm(-ind)
     pf.tab_stops.add_tab_stop(Mm(ind))
-styles['Small'].paragraph_format.line_spacing = 1.15
-styles['Facts'].paragraph_format.line_spacing = 1.3
+styles['Small'].paragraph_format.line_spacing = 1.1
+styles['Facts'].paragraph_format.line_spacing = 1.2
+styles['Ingredient'].paragraph_format.line_spacing = 1.1
+styles['Bullet'].paragraph_format.line_spacing = 1.15
+styles['Lead'].paragraph_format.line_spacing = 1.15
 
-for name, size, indent, bold in (('TOC 1', 12.5, 0, True), ('TOC 2', 11, 5, False), ('TOC 3', 11, 10, False)):
-    s = set_style(name, 'Aptos', size, GREEN if name == 'TOC 2' else INK, bold)
+for name, size, indent, bold in (('TOC 1', 10.5, 0, True), ('TOC 2', 9.5, 3, True), ('TOC 3', 9.5, 6, False)):
+    s = set_style(name, BODY, size, GREEN if name == 'TOC 2' else INK, bold)
     s.paragraph_format.left_indent = Mm(indent)
-    s.paragraph_format.space_before = Pt(9 if name == 'TOC 1' else 0)
-    s.paragraph_format.space_after = Pt(2)
-    s.paragraph_format.line_spacing = 1.1
+    s.paragraph_format.space_before = Pt(7 if name == 'TOC 1' else (3 if name == 'TOC 2' else 0))
+    s.paragraph_format.space_after = Pt(0.5)
+    s.paragraph_format.line_spacing = 1.05
 
 # Brez tematskih pisav in okrasnih obrob iz privzete predloge.
 for s in styles:
@@ -352,8 +359,8 @@ for name in ('Section', 'Eyebrow'):
     sp = OxmlElement('w:spacing'); sp.set(qn('w:val'), '14')
     styles[name].element.get_or_add_rPr().append(sp)
 
-bg = OxmlElement('w:background'); bg.set(qn('w:color'), PAPER); doc._element.insert(0, bg)
-doc.settings.element.append(OxmlElement('w:displayBackgroundShape'))
+# Bela podlaga za največji kontrast; samodejno deljenje besed v ozkih stolpcih.
+hyph = OxmlElement('w:autoHyphenation'); hyph.set(qn('w:val'), 'true'); doc.settings.element.append(hyph)
 upd = OxmlElement('w:updateFields'); upd.set(qn('w:val'), 'true'); doc.settings.element.append(upd)
 lang = OxmlElement('w:lang'); lang.set(qn('w:val'), 'sl-SI'); normal.element.get_or_add_rPr().append(lang)
 doc.core_properties.title = 'Moj kuharski zvezek'
@@ -380,6 +387,62 @@ def bookmark(p, name):
     start = OxmlElement('w:bookmarkStart'); start.set(qn('w:id'), str(bid)); start.set(qn('w:name'), name)
     end = OxmlElement('w:bookmarkEnd'); end.set(qn('w:id'), str(bid))
     p._p.insert(0, start); p._p.append(end)
+
+CUR = None        # celica tabele, v katero se trenutno piše; None = telo dokumenta
+CUR_FRESH = False
+def use(cell):
+    global CUR, CUR_FRESH
+    CUR, CUR_FRESH = cell, cell is not None
+
+def add_p(style=None):
+    global CUR_FRESH
+    if CUR is None:
+        return doc.add_paragraph(style=style)
+    if CUR_FRESH:
+        CUR_FRESH = False
+        p = CUR.paragraphs[0]
+        if style:
+            p.style = style
+        return p
+    return CUR.add_paragraph(style=style)
+
+def rule(p):
+    ppr = p._p.get_or_add_pPr()
+    bdr = OxmlElement('w:pBdr'); top = OxmlElement('w:top')
+    top.set(qn('w:val'), 'single'); top.set(qn('w:sz'), '6'); top.set(qn('w:color'), RULE); top.set(qn('w:space'), '8')
+    bdr.append(top); ppr.append(bdr)
+
+def cell_props(cell, width_mm, fill=None, left=0, right=0, top=60, bottom=60):
+    cell.width = Mm(width_mm)
+    tcPr = cell._tc.get_or_add_tcPr()
+    if fill:  # vrstni red po shemi: tcW, shd, tcMar
+        shd = OxmlElement('w:shd'); shd.set(qn('w:val'), 'clear'); shd.set(qn('w:color'), 'auto'); shd.set(qn('w:fill'), fill)
+        tcPr.append(shd)
+    mar = OxmlElement('w:tcMar')
+    for side, val in (('top', top), ('left', left), ('bottom', bottom), ('right', right)):
+        e = OxmlElement(f'w:{side}'); e.set(qn('w:w'), str(val)); e.set(qn('w:type'), 'dxa'); mar.append(e)
+    tcPr.append(mar)
+
+def two_columns():
+    """Nevidna postavitvena tabela. Zgornja vrstica (čez oba stolpca) nosi naslov, opis in
+    podatke, spodnja ima levo sestavine in desno postopek. Naslov je v isti tabeli, ker
+    LibreOffice odstavek »ohrani z naslednjim« pred tabelo drži skupaj s celo tabelo."""
+    t = doc.add_table(rows=2, cols=2)
+    t.autofit = False
+    tw = t._tbl.tblPr.find(qn('w:tblW'))
+    tw.set(qn('w:w'), str(int(TEXT_W * 56.7))); tw.set(qn('w:type'), 'dxa')
+    for col, wmm in zip(t.columns, (LEFT_W, TEXT_W - LEFT_W)):
+        col.width = Mm(wmm)
+    head = t.cell(0, 0).merge(t.cell(0, 1))
+    trPr = t.rows[0]._tr.get_or_add_trPr(); trPr.append(OxmlElement('w:cantSplit'))
+    hm = OxmlElement('w:tcMar')
+    for side, val in (('top', 0), ('left', 0), ('bottom', 60), ('right', 0)):
+        e = OxmlElement(f'w:{side}'); e.set(qn('w:w'), str(val)); e.set(qn('w:type'), 'dxa'); hm.append(e)
+    head._tc.get_or_add_tcPr().append(hm)
+    left, right = t.rows[1].cells
+    cell_props(left, LEFT_W, BOX, left=120, right=140, top=90, bottom=90)
+    cell_props(right, TEXT_W - LEFT_W, None, left=260, right=0, top=40, bottom=40)
+    return head, left, right
 
 dump = []
 def link(p, label, target, color=GREEN):
@@ -410,7 +473,7 @@ def inline(p, text, bold=False, color=None, size=None):
         if size: r.font.size = Pt(size)
 
 def para(text, style=None, **kw):
-    p = doc.add_paragraph(style=style)
+    p = add_p(style)
     inline(p, text, **kw)
     dump.append(re.sub(r'\[([^\]]+)\]\([^)]+\)', r'\1', text).replace('**', ''))
     return p
@@ -500,15 +563,15 @@ def ingredient(name, qty):
         return
     name = trim_label(strip_ids(name))
     name = clean_text(name).rstrip('.') or name
-    p = doc.add_paragraph(style='Ingredient')
-    long_amount = len(re.sub(r'\*', '', amount)) > 16
+    p = add_p('Ingredient')
+    long_amount = len(re.sub(r'\*', '', amount)) > 10
     if amount and not long_amount:
         p.add_run('\t'); r = p.add_run(amount); r.bold = True; p.add_run('\t')
         inline(p, name)
     else:
         p.add_run('\t\t'); inline(p, name)
         if amount:
-            inline(p, '  ' + amount, color=MUTED)
+            inline(p, ' ' + amount, bold=True)
     if note:
         raw_note = qty.partition(';')[2].strip()
         if raw_note[:1].islower():
@@ -535,7 +598,7 @@ def table(rows):
                     ingredient(label, value)
             else:
                 # Pregledna vrstica: ime krepko, opis v isti alineji.
-                p = doc.add_paragraph(style='Overview Item')
+                p = add_p('Overview Item')
                 inline(p, strip_ids(row[0]), bold=True)
                 rest = ' · '.join(clean_text(strip_ids(v)) for v in row[1:] if clean_text(strip_ids(v)))
                 if rest:
@@ -551,14 +614,14 @@ def render(bl, step_style='Step'):
         if kind == 'h3':
             h = clean_heading(clean_text(val) or val)
             if h:
-                para(h, 'Component')
+                para(h, 'Component').paragraph_format.keep_with_next = CUR is None
             n = 0; continue
         text = clean_text(strip_ids(val))
         if not text:
             continue
         if kind == 'step':
             n += 1
-            p = doc.add_paragraph(style=step_style)
+            p = add_p(step_style)
             r = p.add_run(f'{n}.'); r.bold = True; r.font.color.rgb = RGBColor.from_string(GREEN)
             p.add_run('\t'); inline(p, text)
             dump.append(f'{n}. {text}')
@@ -566,7 +629,7 @@ def render(bl, step_style='Step'):
             lead_in = re.match(r'^\*\*([^*]+)\*\*', val)
             if lead_in and not text.startswith('**'):
                 continue  # uvodna oznaka je bila opomba, ostanek nima smisla
-            p = doc.add_paragraph(style='Bullet')
+            p = add_p('Bullet')
             r = p.add_run('•'); r.font.color.rgb = RGBColor.from_string(GREEN)
             p.add_run('\t'); inline(p, text)
             dump.append('• ' + text)
@@ -588,6 +651,8 @@ def has_content(bl):
 
 def section_title(name):
     p = para(name.upper(), 'Section')
+    # V celicah tabele LibreOffice ob »ohrani z naslednjim« ne razdeli vrstice; zunaj tabel naslov drži z vsebino.
+    p.paragraph_format.keep_with_next = CUR is None
     return p
 
 # --- Naslovnica ------------------------------------------------------------
@@ -613,9 +678,33 @@ fld = OxmlElement('w:fldSimple'); fld.set(qn('w:instr'), 'PAGE')
 fr = OxmlElement('w:r'); frp = OxmlElement('w:rPr'); fsz = OxmlElement('w:sz'); fsz.set(qn('w:val'), '19'); frp.append(fsz); fr.append(frp)
 ft = OxmlElement('w:t'); ft.text = '1'; fr.append(ft); fld.append(fr); foot._p.append(fld)
 p = doc.add_paragraph('Kazalo', 'Heading 1')
-p.style = styles['Title']; p.runs[0].font.size = Pt(34)
+p.style = styles['Title']; p.runs[0].font.size = Pt(30)
+
+def set_columns(section, num, space_mm=8):
+    sp = section._sectPr
+    for old in sp.findall(qn('w:cols')):
+        sp.remove(old)
+    cols = OxmlElement('w:cols'); cols.set(qn('w:num'), str(num)); cols.set(qn('w:space'), str(int(space_mm * 56.7)))
+    sp.append(cols)
+
+def drop_restart(section):
+    for e in section._sectPr.findall(qn('w:pgNumType')):
+        section._sectPr.remove(e)
+
+toc_sec = doc.add_section(WD_SECTION_START.CONTINUOUS); drop_restart(toc_sec); set_columns(toc_sec, 2)
 p = doc.add_paragraph()
-field = OxmlElement('w:fldSimple'); field.set(qn('w:instr'), 'TOC \\o "1-3" \\h \\z \\u'); p._p.append(field)
+# Razširjeno polje TOC: Word in LibreOffice ga prepoznata kot kazalo in ga lahko osvežita.
+for kind, val in (('begin', None), ('instr', ' TOC \\o "1-3" \\h \\z \\u '), ('separate', None),
+                  ('text', 'Kazalo se izpolni ob osvežitvi polj.'), ('end', None)):
+    r = OxmlElement('w:r')
+    if kind == 'instr':
+        it = OxmlElement('w:instrText'); it.set(qn('xml:space'), 'preserve'); it.text = val; r.append(it)
+    elif kind == 'text':
+        tx = OxmlElement('w:t'); tx.text = val; r.append(tx)
+    else:
+        fc = OxmlElement('w:fldChar'); fc.set(qn('w:fldCharType'), kind); r.append(fc)
+    p._p.append(r)
+body_sec = doc.add_section(WD_SECTION_START.NEW_PAGE); drop_restart(body_sec); set_columns(body_sec, 1)
 
 # --- Recepti ---------------------------------------------------------------
 group = defaultdict(list)
@@ -668,12 +757,12 @@ for subnum in sorted(group, key=lambda number: (order[int(number.split('.')[0])]
         if ch in SEE_ALSO:
             cross_references(ch)
         last_ch = ch
-        p = doc.add_paragraph(f'{disp_sub}  {items[0]["sub"]}', 'Heading 2')
-    else:
-        p = doc.add_paragraph(f'{disp_sub}  {items[0]["sub"]}', 'Heading 2')
-        p.paragraph_format.page_break_before = True
+    h2_text = f'{disp_sub}  {items[0]["sub"]}'
     dump.append(f'\n==== {disp_sub} {items[0]["sub"]}')
     overview = subnum in OVERVIEWS
+    h2_done = False
+    if overview or subnum == '7.3':
+        add_p('Heading 2').add_run(h2_text); h2_done = True
     if overview:
         fname, keep = OVERVIEWS[subnum]
         src = (ROOT / 'recepti' / fname).read_text(encoding='utf-8')
@@ -708,10 +797,6 @@ for subnum in sorted(group, key=lambda number: (order[int(number.split('.')[0])]
                     dump.append(text.replace('**', ''))
             manifest.append({'id': r['id'], 'title': r['title'], 'number': disp_sub, 'source': r['file']})
             continue
-        if idx > 1 or overview:
-            eyebrow = para(f'{disp_sub}  ·  {r["sub"].upper()}', 'Eyebrow')
-            eyebrow.paragraph_format.page_break_before = True
-        p = doc.add_paragraph(r['title'], 'Heading 3'); bookmark(p, r['id'])
         secs = sections(blocks(r['body']))
         # Uvod: opis in ključni podatki.
         intro = secs[0][1]
@@ -729,17 +814,7 @@ for subnum in sorted(group, key=lambda number: (order[int(number.split('.')[0])]
                 if t: lead.append(t)
             else:
                 extra.append((kind, val))
-        if lead:
-            para(lead[0], 'Lead')
-        if facts or ratio:
-            p = doc.add_paragraph(style='Facts'); shade(p)
-            first = True
-            for t in facts + [x for x in ratio if x]:
-                if not first:
-                    p.add_run().add_break()
-                inline(p, t); first = False
-                dump.append('[' + t.replace('**', '') + ']')
-        render(extra)
+        printable = []
         for name, bl in secs[1:]:
             name = clean_heading(name)
             target = SECTION_MAP.get(name, name)
@@ -749,16 +824,59 @@ for subnum in sorted(group, key=lambda number: (order[int(number.split('.')[0])]
                 target = 'Variante'
             if target is None or not has_content(bl):
                 continue
-            section_title(target)
-            render(bl)
+            printable.append((name, target, bl))
+        ingr = [x for x in printable if x[0].startswith('Sestavine')]
+        rest = [x for x in printable if not x[0].startswith('Sestavine')]
+        as_table = bool(ingr and rest)
+        if as_table:
+            head, left, right = two_columns()
+            use(head)
+        if not h2_done:
+            add_p('Heading 2').add_run(h2_text); h2_done = True
+        p = add_p('Heading 3'); p.add_run(r['title']); bookmark(p, r['id'])
+        if idx > 1 or overview:
+            rule(p)
+        else:
+            p.paragraph_format.space_before = Pt(4)
+        last = p
+        if lead:
+            last = para(lead[0], 'Lead')
+        if facts or ratio:
+            p = add_p('Facts'); shade(p); last = p
+            first = True
+            for t in facts + [x for x in ratio if x]:
+                if not first:
+                    p.add_run().add_break()
+                inline(p, t); first = False
+                dump.append('[' + t.replace('**', '') + ']')
+        if as_table:
+            last.paragraph_format.keep_with_next = False
+        render(extra)
+        if as_table:
+            use(left)
+            for name, target, bl in ingr:
+                section_title(target); render(bl)
+            use(right)
+            for name, target, bl in rest:
+                section_title(target); render(bl)
+            use(None)
+            # Ločilni odstavek: brez njega se zaporedni tabeli zlijeta v eno.
+            sep = doc.add_paragraph(); pf = sep.paragraph_format
+            pf.space_before = pf.space_after = Pt(0); pf.line_spacing = Pt(2)
+            sep.add_run().font.size = Pt(2)
+        else:
+            for name, target, bl in printable:
+                section_title(target); render(bl)
         manifest.append({'id': r['id'], 'title': r['title'], 'number': disp_sub, 'source': r['file']})
 
 # --- Viri ------------------------------------------------------------------
-p = doc.add_paragraph('Viri', 'Heading 1'); p.paragraph_format.page_break_before = True; bookmark(p, 'VIRI')
+src_sec = doc.add_section(WD_SECTION_START.NEW_PAGE); drop_restart(src_sec); set_columns(src_sec, 1)
+p = doc.add_paragraph('Viri', 'Heading 1'); bookmark(p, 'VIRI')
+cols_sec = doc.add_section(WD_SECTION_START.CONTINUOUS); drop_restart(cols_sec); set_columns(cols_sec, 2, 7)
 dump.append('\n\n######## Viri')
 for subnum, items in group.items():
     for r in items:
-        p = doc.add_paragraph(style='Small'); p.paragraph_format.space_after = Pt(5)
+        p = doc.add_paragraph(style='Small'); p.paragraph_format.space_after = Pt(3)
         p.paragraph_format.keep_together = True
         inline(p, r['title'], bold=True, color=INK)
         izvor = strip_ids(r['meta'].get('izvor', '').strip())
@@ -772,7 +890,7 @@ for subnum, items in group.items():
             lic = re.sub(r'\s+', ' ', strip_ids(r['license']))
             lic = re.sub(r'\s*(?:Licenčni )?[Pp]ripis ohrani tudi v končni knjigi\.', '', lic).strip()
             p.add_run().add_break()
-            inline(p, lic, size=9.5)
+            inline(p, lic, size=8.5)
         dump.append(f"{r['title']} · {izvor} · {vir}" + (' · ' + r['license'] if r['license'] else ''))
 
 OUT.parent.mkdir(exist_ok=True)

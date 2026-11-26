@@ -4,6 +4,8 @@ Osebna kuharska knjiga za pripravo na MasterChef. Namen je hiter pregled med vaj
 
 ## Stanje
 
+26. 11. 2026 — nova izdaja: na uporabnikovo željo je knjiga sestavljena v novem strnjenem in berljivem slogu (recepti v dveh stolpcih, brez praznih strani, kazalo in viri v dveh stolpcih, Calibri/Cambria, bela podlaga). Word in PDF: **224 receptov, 13 poglavij, 170 strani** (prej 216 strani za 162 receptov). Sestava `scripts/sestavi_knjigo.py`, osvežitev kazala in izvoz brez Worda `scripts/osvezi-knjigo-lo.py` (LibreOffice), z Wordom še vedno `scripts/osvezi-knjigo.ps1`. Evidenca: `reference/izdaja-2026-11-26.md`.
+
 26. 11. 2026 — slaščičarske vrzeli: na uporabnikovo naročilo »vse dodaj« je dodanih 31 receptov R0195–R0225 (glazure in sladke omake, lemon curd, chantilly, frangipane, čokoladni ostružki, savoiardi, rolada, sladkorne niti, karamelizirani mandlji, čokoladni sladoled in sorbet, semifreddo, granita, brownie, craquelin, ekleri in profiteroli, Paris-Brest, mille-feuille, sestavljanje entremeta, tiramisu, pavlova, dva cheesecaka, blejska kremšnita, orehova potica, prekmurska gibanica, skutni štruklji, želatina, kvenele). Nova podpoglavja 1.5, 6.7–6.10 in 7.5. Okolje `cookbook` zdaj dovoli tudi www.slovenian-kitchen.com, www.gov.si in www.visitljubljana.com. Aktivnih vnosov je 224, naslednji ID R0226. Word in PDF še nista ponovno sestavljena. Evidenca: `reference/slascicarske-vrzeli-2026-11-26.md`.
 
 26. 11. 2026 — priloge in sladice: po pregledu knjige (`reference/pregled-2026-11-26.md`) je uporabnik naročil obsežno iskanje in dodajanje prilog in sladic. Dodanih je 30 receptov R0165–R0194 iz Chef Simon, Wikibooks/Wikilivres (CC BY-SA 4.0) in delicious. magazine (R0166, samo povzetek iskalnika). Nova podpoglavja 6.5 Tarte, 6.6 Piškoti in drobno pecivo, 10.4 Zelenjavne priloge, 10.5 Solate. Uporabnikova želja: crumble najprej v osnovni hitri različici samo iz moke, masla in sladkorja (R0190), ostale različice (R0191, R0192) se sklicujejo nanjo. Za vire je ustvarjeno okolje `cookbook` z dovoljenimi gostitelji. Aktivnih vnosov je 193, naslednji ID R0195. Word in PDF še nista ponovno sestavljena. Evidenca: `reference/priloge-in-sladice-2026-11-26.md`.
@@ -147,19 +149,17 @@ Novo podpoglavje dodaj v ustrezno poglavje z naslednjo prosto številko (npr. 2.
 
 ## Vizualni slog
 
-Ime sloga: **Topla kuharska beležnica**. Slogovne slike so navdih za hierarhijo in barve; dolgi telefonski format prilagodi tiskani strani.
+Ime sloga: **Strnjena berljiva beležnica** (od 26. 11. 2026, na uporabnikovo željo »res strnjeno, lepa berljiva knjiga, poudarek na maksimalni berljivosti«). Prejšnji slog »Topla kuharska beležnica« je v zgodovini Git. Utemeljitev in meritve: `reference/izdaja-2026-11-26.md`.
 
-- Format A4, pokončno; robovi 18–20 mm, vezni rob 22 mm pri tiskani knjigi.
-- Krem podlaga `#F7F3EB`, skoraj črno besedilo `#252822`, temno zelena `#2F5B52`, topel bakren poudarek `#A26A35`. Sestavine na isti podlagi, brez mreže in izmeničnega senčenja.
-- Naslovnica in glavni naslovi: Georgia, črna; naslov recepta 25–28 pt, naslovi poglavij 30–34 pt. Glavno besedilo, sestavine in koraki: Aptos, 12 pt, levo poravnani, razmik vrstic 1,2. Sekundarne opombe virov 10,5 pt. Rezervni pisavi Cambria in Calibri. V HTML Georgia in sistemska sans-serif.
-- Majhna nadnaslovna oznaka vsebuje številko, kategorijo in po potrebi izvor. Pod naslovom kratek opis; metapodatki samo, če so znani.
-- Sestavine v seznamu: **170 ml** — Mleko. Količina je odebeljena tik pred imenom, vsaka sestavina je svoj urejevalni odstavek. Skupine po komponentah; opombe ostanejo neposredno pod sestavino v enaki velikosti. Različice imajo ločene sezname, primerjalni pregledi kratke označene sklope. Brez širokih tabel v knjigi; Markdown tabele lahko ostanejo izvorni podatkovni zapis.
-- Postopek v kratkih oštevilčenih korakih z odebeljenim začetnim dejanjem, kadar izboljša preglednost. Ključni časi in temperature so jasno poudarjeni.
-- Temno zelen poudarek za trike in kritične točke, bakren za variante. Škatle so smiselne samo za kratke poudarke in po uporabnikovem slikovnem vzoru; ne uokvirjaj vsakega odstavka.
-- En običajen recept na eni strani, če ostaja berljiv. Dolgega razdeli na dve ali več strani. Nikoli ne zmanjšuj pisave samo zato, da bi vse stlačil na stran.
-- Poglavja se začnejo na novi strani. Ni potrebe po praznih ločilnih straneh za kratka poglavja. Recept ima prednostno svojo stran; naslovi ne smejo ostati sami na dnu.
-- Na dnu drobna številka strani in kratko ime knjige. Brez fotografij jedi, dokler jih uporabnik ne prispeva ali izrecno zahteva.
-- Končna knjiga bo imela prave sloge, besedilo in kazalo. Cele strani kot slike otežijo urejanje, iskanje in kazalo; slikovni PDF lahko obstaja kot dodaten prikaz, ne kot edini izvirnik.
+- Format A4, pokončno; robovi 17 mm zgoraj in spodaj, 18 mm levo in desno. Bela podlaga za največji kontrast, skoraj črno besedilo `#1F211C`, temno zelena `#2F5B52` za oznake razdelkov in številke korakov, bakren `#A26A35` za nadnaslove, topla svetla `#F3EEE4` za stolpec sestavin in okvirček s podatki.
+- Pisavi: naslovi **Cambria**, besedilo **Calibri**. V Linuxu ju nadomestita metrično enaki Caladea in Carlito, zato sta prelom in obseg v Wordu in v PDF enaka. Aptos in Georgia nista več v uporabi, ker ju okolje za izvoz nima.
+- Velikosti: poglavje 26 pt, podpoglavje 14 pt, naslov recepta 16 pt, koraki postopka 11 pt (razmik 1,2), sestavine 10,5 pt (1,1), nasveti 10,5 pt, opis recepta 10,5 pt ležeče, oznake razdelkov 8,5 pt v velikih črkah.
+- **Recept v dveh stolpcih:** zgoraj čez celo širino naslov, kratek opis in okvirček s podatki (izplen, čas, razmerje); spodaj levo stolpec sestavin (64 mm, svetla podlaga), desno postopek, nasveti, variante in povezave. Desni stolpec ima približno 60 znakov na vrstico, kar je najprimernejša dolžina za branje. Postavitev je nevidna tabela; recepti brez sestavin (tehnike, razmerja) so v enem stolpcu.
+- Sestavine: odebeljena količina desno poravnana pred imenom, vsaka sestavina v svoji vrstici; dolge količine (več kot 10 znakov) so odebeljene za imenom.
+- Postopek v kratkih oštevilčenih korakih z odebeljenim začetnim dejanjem; ključni časi in temperature odebeljeni.
+- Recepti si sledijo brez praznih strani, ločeni s tanko črto nad naslovom. Na novi strani se začne samo poglavje. Naslov, opis in podatki so v isti nedeljivi vrstici tabele, zato naslov ne ostane sam na dnu strani.
+- Kazalo in viri sta v dveh stolpcih. Na dnu strani ime knjige in številka strani.
+- Tehnične omejitve LibreOffica (glej evidenco izdaje): odstavki v celicah ne smejo imeti »ohrani z naslednjim«, naslov recepta mora biti v tabeli, med zaporednima tabelama je ločilni odstavek, kazalo je razširjeno polje TOC.
 
 **Izjema za postavitev 7.3 (19. 11. 2026):** štiri kratke kartice na stran, 16 pt naslovi, 12 pt sestavine in postopek, 10,5 pt kratki metapodatki, razmik 1,05. Sestavine so v strnjenem odstavku s poudarjenimi količinami, postopek v kratkem odstavku. Vsaka kartica ostane skupaj na strani in v kazalu. Nujnih počitkov se ne krajša, da bi bila priprava navidez hitrejša. Druge recepture ohranijo običajni slog.
 
