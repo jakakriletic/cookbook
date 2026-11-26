@@ -45,12 +45,17 @@ Tanko narezan krompir, najprej kuhan v mleku s česnom in nato zapečen s smetan
 - **Mešaj med kuhanjem v loncu,** ker se zgoščeno mleko rado prime.
 - **Počitek** gratin utrdi, da ga lahko lepo razrežeš.
 
+## Hitra izvedba za tekmovanje
+
+- **Manjši pekač ali porcije.** Gratin speci v manjšem, plitvem pekaču ali v posameznih obročih; tanjša plast se speče in strdi hitreje. Rezine nareži na mandolini.
+
 ## Povezani recepti
 
 - [Pire krompir](R0165-pire-krompir.md).
 
 ## Uredniška evidenca
 
+- 26. 11. 2026: dodan razdelek »Hitra izvedba za tekmovanje« na uporabnikovo željo (časovna optimizacija za MasterChef). Nasveti so uredniški, po splošni strokovni praksi, in niso preizkušeni; količine in razmerja recepta so nespremenjeni.
 - Vir prebran 26. 11. 2026; kratko samostojno ubesedeno. Količine, časi in temperature nespremenjeni.
 - Primerjalno: Wikilivres, Livre de cuisine/Gratin dauphinois, rev. 709052 (1 kg krompirja, 250 ml smetane, ¼ l mleka; plasti surovega krompirja; peka vsaj 1 uro; varianta s predhodnim kuhanjem v mleku 12–15 minut). Opozorilo o siru in gratinu savoyard je iz tega vira.
 - Odprto: debelina rezin (primerjalni vir: 2 mm). Ni preizkušeno.

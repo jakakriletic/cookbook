@@ -46,7 +46,12 @@ Gost, vlažen čokoladni kolač z mletimi mandlji in nasekljanimi oreščki ter 
 - **Nizka temperatura** ohrani brownie vlažen in gost.
 - **Režeš ohlajenega,** ker topel razpade.
 
+## Hitra izvedba za tekmovanje
+
+- **Manjši modelčki.** Maso peci v modelčkih za mafine ali v plitvem pekaču; tanjša plast se speče in ohladi hitreje. Pečenost preveri z zobotrebcem, v sredini naj ostane vlažen.
+
 ## Uredniška evidenca
 
+- 26. 11. 2026: dodan razdelek »Hitra izvedba za tekmovanje« na uporabnikovo željo (časovna optimizacija za MasterChef). Nasveti so uredniški, po splošni strokovni praksi, in niso preizkušeni; količine in razmerja recepta so nespremenjeni.
 - Vir prebran 26. 11. 2026; kratko samostojno ubesedeno. Količine, temperatura in čas nespremenjeni. Vergeoise brune je zapisan kot rjavi sladkor.
 - Odprto: velikost pekača, izplen. Ni preizkušeno.

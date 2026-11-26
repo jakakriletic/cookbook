@@ -42,12 +42,17 @@ To je recept za surovo osnovo; čas in temperatura peke sta **za dopolnitev**.
 
 Primerno za sadne tarte in tartlete. Vir ne poda slepe peke ali peke z nadevom; **režim peke je za dopolnitev glede na izbrano sladico**. Podlage ne obravnavaj kot že pripravljene za hladno polnjenje.
 
+## Hitra izvedba za tekmovanje
+
+- **Sekljalnik in zamrzovalnik.** Moko, sladkor in hladno maslo v kockah zmelji v kratkih sunkih do drobtin, dodaj tekoče sestavine in sunkoma mešaj, dokler se testo ne začne povezovati. Testo takoj razvaljaj med dvema listoma papirja za peko in ploščo za kratek čas postavi v zamrzovalnik namesto dolgega počitka v hladilniku.
+
 ## Vir in licenca
 
 Prevedeno in prilagojeno iz [»Pâte sucrée«, sodelavci Koch-Wiki, različica 391137](https://www.kochwiki.org/index.php?title=P%C3%A2te_sucr%C3%A9e&oldid=391137), [zgodovina avtorstva](https://www.kochwiki.org/index.php?title=P%C3%A2te_sucr%C3%A9e&action=history). Izvirnik in ta predelava: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/). Spremembe: prevod, preureditev v korake, označena dopolnitev postopka in odprta vprašanja. Licenčni pripis ohrani tudi v končni knjigi.
 
 ## Uredniška evidenca
 
+- 26. 11. 2026: dodan razdelek »Hitra izvedba za tekmovanje« na uporabnikovo željo (časovna optimizacija za MasterChef). Nasveti so uredniški, po splošni strokovni praksi, in niso preizkušeni; količine in razmerja recepta so nespremenjeni.
 - Pregledano 1. 11. 2026. Količine niso spremenjene; razmerja z veliko rumenjaki nismo nadomestili s klasičnim razmerjem iz drugega vira.
 - Nemški tip 405 ni samodejno preimenovan v slovenski tip 400; domača izbira moke in masa rumenjakov sta za preverbo.
 - Postopek vira nima peke. Recept ni praktično preizkušen.

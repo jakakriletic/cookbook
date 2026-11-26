@@ -41,12 +41,17 @@ Klasična tekoča karamela iz mokre karamele, masla in smetane. Za sladice, slad
 
 - **Slana karamela:** podvoji sol.
 
+## Hitra izvedba za tekmovanje
+
+- **Topla smetana.** Smetano segrej v mikrovalovni pečici, medtem ko se kuha karamela; zmes manj brbota in se hitreje poveže.
+
 ## Povezani recepti
 
 Za Julesovo gostejšo karamelo za brizganje glej [slano karamelo z belo čokolado](R0135-slana-karamela-bela-cokolada.md); strnjena kartica je [smetanova karamela](R0118-sortiment-smetanova-karamela.md).
 
 ## Uredniška evidenca
 
+- 26. 11. 2026: dodan razdelek »Hitra izvedba za tekmovanje« na uporabnikovo željo (časovna optimizacija za MasterChef). Nasveti so uredniški, po splošni strokovni praksi, in niso preizkušeni; količine in razmerja recepta so nespremenjeni.
 - Vir prebran 21. 11. 2026; kratko samostojno ubesedeno, besedilo ni prepisano.
 - Zaokrožitve po praktičnem pravilu: 198 g → 200 g sladkorja, 28 g → 30 g vode, 113 g → 115 g smetane. Izplen »about 1½ cups« → približno 350 ml.
 - Vrsta smetane v viru: »heavy cream or whipping cream«.

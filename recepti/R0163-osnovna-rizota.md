@@ -40,12 +40,17 @@ Bela rižota, osnova za vse različice. Riž se kuha v jušni osnovi, ki jo doda
 6. **Počitek.** Pusti počivati približno **1 minuto**.
 7. **Mantecatura.** Vmešaj maslo v majhnih koščkih, popravi okus in takoj postrezi, po želji s parmezanom.
 
+## Hitra izvedba za tekmovanje
+
+- **Delitev dela (restavracijski trik).** Rižoto skuhaj do polovice, jo razgrni po pladnju in ohladi. Tik pred serviranjem jo dokončaj z vročo osnovo in mantecaturo v nekaj minutah.
+
 ## Vir in licenca
 
 Prevod in priredba recepta [Cookbook:Risotto (Basic)](https://en.wikibooks.org/w/index.php?title=Cookbook:Risotto_(Basic)&oldid=4525537), sodelavci Wikibooks, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Spremembe: prevod, oštevilčen postopek.
 
 ## Uredniška evidenca
 
+- 26. 11. 2026: dodan razdelek »Hitra izvedba za tekmovanje« na uporabnikovo željo (časovna optimizacija za MasterChef). Nasveti so uredniški, po splošni strokovni praksi, in niso preizkušeni; količine in razmerja recepta so nespremenjeni.
 - Prebrano 21. 11. 2026. Količine nespremenjene.
 - **Za dopolnitev:** prostornina »kozarca« vina in količina parmezana (vir ju ne navaja).
 - Jušna osnova: po uporabnikovi odločitvi 21. 11. 2026 fondi niso del tega dopolnila; uporabi svojo osnovo.

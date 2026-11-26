@@ -45,6 +45,10 @@ Sladko, peskasto krhko testo za sadne in limonine tarte. Maslo se najprej zdrobi
 
 - **Mandljevo testo sablé.** Del moke zamenjaj z mletimi mandlji.
 
+## Hitra izvedba za tekmovanje
+
+- **Sekljalnik in zamrzovalnik.** Moko, sladkor in hladno maslo v kockah zmelji v kratkih sunkih do drobtin, dodaj tekoče sestavine in sunkoma mešaj, dokler se testo ne začne povezovati. Testo takoj razvaljaj med dvema listoma papirja za peko in ploščo za kratek čas postavi v zamrzovalnik namesto dolgega počitka v hladilniku.
+
 ## Povezani recepti
 
 - [Limonina tarta](R0181-limonina-tarta.md), [jagodna tarta](R0182-jagodna-tarta.md).
@@ -52,6 +56,7 @@ Sladko, peskasto krhko testo za sadne in limonine tarte. Maslo se najprej zdrobi
 
 ## Uredniška evidenca
 
+- 26. 11. 2026: dodan razdelek »Hitra izvedba za tekmovanje« na uporabnikovo željo (časovna optimizacija za MasterChef). Nasveti so uredniški, po splošni strokovni praksi, in niso preizkušeni; količine in razmerja recepta so nespremenjeni.
 - Vir prebran 26. 11. 2026; kratko samostojno ubesedeno. Količine nespremenjene (5 cl → 50 ml). Pri jagodni tarti isti avtor uporabi 2 rumenjaka.
 - Mandljeva varianta je omenjena v viru brez količin (»pâte sablée amande«); razmerje mandljev za dopolnitev.
 - Uredniško: počitek v hladilniku, opis peke na slepo.

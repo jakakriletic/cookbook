@@ -38,6 +38,10 @@ datum_prejema: "2026-10-29"
 
 Okus te omake določa predvsem fond. Svetli piščančji fond iz prikaza ni enak fondu iz praženih kosti.
 
+## Hitra izvedba za tekmovanje
+
+- **Vroč fond in metlica.** Fond segrej vnaprej in ga v treh delih prilij k roux ob močnem mešanju z metlico; omaka se poveže brez grudic in se zgosti hitreje.
+
 ## Serviranje in povezani recepti
 
 Osnova za [R0004 Zeliščni velouté](R0004-zeliscni-veloute.md).
@@ -48,6 +52,7 @@ Avtor omeni tudi dodatek gorčice za omako k piščančjim prsim. Količina za t
 
 ## Uredniška evidenca
 
+- 26. 11. 2026: dodan razdelek »Hitra izvedba za tekmovanje« na uporabnikovo željo (časovna optimizacija za MasterChef). Nasveti so uredniški, po splošni strokovni praksi, in niso preizkušeni; količine in razmerja recepta so nespremenjeni.
 - Vir: Fallow, 04:10–05:36; izvorni zapis v `reference/fallow-maticne-omake-2024.md`.
 - Ureditev: ohranjena konkretna izbira fonda; primerjava z bešamelom je zgoščena v opis postopka.
 - Odprto: absolutne količine, izplen in čas kuhanja. Razmerje masla in moke se v govoru navezuje na približno razmerje pri bešamelu.

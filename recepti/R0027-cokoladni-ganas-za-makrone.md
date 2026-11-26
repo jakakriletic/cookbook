@@ -36,8 +36,14 @@ Lopatica, palični mešalnik, slaščičarska vrečka.
 3. **Pripravi za brizganje.** Uredniški dodatek: ohladi do konsistence, ki obdrži obliko; časa ne ocenjuj po tem zapisu, temveč preveri gostoto.
 4. **Napolni.** Na ravno stran lupinice nabrizgaj ganaš in pokrij z drugo.
 
+## Hitra izvedba za tekmovanje
+
+- **Emulzija s paličnim mešalnikom.** Vročo smetano prelij čez sesekljano čokolado v visoki posodi, počakaj **1 minuto** in zmešaj s paličnim mešalnikom, ki naj bo pod gladino.
+- **Hitro do gostote za brizganje.** Ganaš razlij v tanki plasti po pladnju, folijo položi na površino in ga ohladi v hladilniku ali za kratek čas v zamrzovalniku; vsakih nekaj minut preveri gostoto.
+
 ## Uredniška evidenca
 
+- 26. 11. 2026: dodan razdelek »Hitra izvedba za tekmovanje« na uporabnikovo željo (časovna optimizacija za MasterChef). Nasveti so uredniški, po splošni strokovni praksi, in niso preizkušeni; količine in razmerja recepta so nespremenjeni.
 - Vir: [Valrhona — Dark Chocolate Macarons](https://www.valrhona.us/our-recipes/recipes/all-our-recipes/dark-chocolate-macarons), razdelek »ganache«, pregledano 31. 10. 2026. Njihove lupinice niso vključene.
 - Količini sta ohranjeni brez preračuna. Za R0026 po potrebi pripravi dodatno serijo; ujemanje izplenov ni potrjeno. Izplen, naveden za Valrhonino celotno sladico, ni prenesen na Karimove lupinice.
 - Korak o konsistenci je jasno označen uredniški dodatek. Odprto: čas in temperatura ohlajanja, količina na makron, rok ter pogoji shranjevanja. Zamenjava čokolade z drugačnim deležem kakava ni preverjena. Recept še ni praktično preizkušen.

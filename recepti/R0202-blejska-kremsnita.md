@@ -72,12 +72,17 @@ Visoka plast vanilijeve kreme, zrahljane z meringo, med dvema ploščama listnat
 - **Vroča krema v sneg,** hitro, da se meringa ne sesede.
 - **Pokrov tik pred serviranjem.** Tako ostane testo hrustljavo.
 
+## Hitra izvedba za tekmovanje
+
+- **Manjši obroči ali kozarci.** Za tekmovanje sestavi kremšnito v posameznih obročih ali kozarcih; tanjša plast kreme se ohladi in strdi hitreje, še posebej v zamrzovalniku.
+
 ## Povezani recepti
 
 - [Mille-feuille](R0201-mille-feuille.md), [listnato testo](R0144-listnato-testo.md).
 
 ## Uredniška evidenca
 
+- 26. 11. 2026: dodan razdelek »Hitra izvedba za tekmovanje« na uporabnikovo željo (časovna optimizacija za MasterChef). Nasveti so uredniški, po splošni strokovni praksi, in niso preizkušeni; količine in razmerja recepta so nespremenjeni.
 - Vir prebran 26. 11. 2026; kratko samostojno ubesedeno. Količine, temperature in časi nespremenjeni (0,2 l → 200 ml, 0,1 l → 100 ml). Vinski kamen lahko po viru nadomestiš z 1 žličko kisa ali limoninega soka. Vanilijev sladkor lahko nadomestiš z 2 žličkama vanilijeve paste.
 - Primerjalno: veleposlaništvo RS v Tokiu, »Blejska kremšnita« (PDF na gov.si, 2023): kremna plast z zdrobom, pudingom v prahu in maslom, 12 kosov v modelu 21 × 21 cm. Povzetki N1 in Svet24 navajajo, da je izvirni blejski recept skrivnost.
 - Odprto: vrsta in debelina listnatega testa (vir uporabi kupljeno). Ni preizkušeno.

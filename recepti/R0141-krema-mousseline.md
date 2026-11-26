@@ -36,6 +36,11 @@ Slaščičarska krema, v katero vmešaš maslo in jo stepeš, da postane lahka i
 5. **Stepi** do penaste, voluminozne kreme in odišavi s kiršem.
 6. **Ohladi.** Hrani na hladnem; krema se mora začeti strjevati, da jo lahko pravilno uporabiš.
 
+## Hitra izvedba za tekmovanje
+
+- **Hitra osnova.** Slaščičarsko kremo skuhaj po hitri izvedbi pri [slaščičarski kremi](R0028-slascicarska-krema.md).
+- **Hitro hlajenje.** Kremo razmaži v tanki plasti po pladnju, folijo položi neposredno na površino in pladenj postavi v zamrzovalnik; vmes jo enkrat premešaj. Tanka plast se ohladi v nekaj minutah namesto v nekaj urah. Drugo polovico masla vmešaj, ko imata krema in maslo približno enako temperaturo.
+
 ## Povezani recepti
 
 [Krema diplomat](R0139-krema-diplomat.md) je lažja različica s stepeno smetano.
@@ -46,5 +51,6 @@ Prevod dela recepta [Livre de cuisine/Fraisier](https://fr.wikibooks.org/w/index
 
 ## Uredniška evidenca
 
+- 26. 11. 2026: dodan razdelek »Hitra izvedba za tekmovanje« na uporabnikovo željo (časovna optimizacija za MasterChef). Nasveti so uredniški, po splošni strokovni praksi, in niso preizkušeni; količine in razmerja recepta so nespremenjeni.
 - Prebrano 21. 11. 2026. Količine nespremenjene. Masa rumenjakov in lističev želatine ni navedena — **za dopolnitev**.
 - Vir v seznamu postavi želatino, maslo in kirš pod naslov »Gélatine«; tukaj so uvrščeni med sestavine kreme, kot sledi iz postopka.

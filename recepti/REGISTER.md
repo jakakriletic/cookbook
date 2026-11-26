@@ -370,6 +370,7 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 
 ## Dnevnik
 
+- 26. 11. 2026: 50 receptov dopolnjenih z razdelkom »Hitra izvedba za tekmovanje« (uredniški nasveti za časovno optimizacijo, nepreizkušeni).
 - 26. 11. 2026: dodani R0232–R0251 in osvežena Word ter PDF. [Pregled novih receptov](../reference/tuja-kulinarika-2026-11-26.md).
 
 - 26. 11. 2026: iz treh Instagram Reelsov dodani R0229 suhi paradižnikov biskvit (10.6), R0230 vroča bučna pena (novo 9.4 Pene) in R0231 trska v glazuri iz rdeče pese (11.2). Aktivnih vnosov 230, naslednji ID R0232.

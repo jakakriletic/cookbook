@@ -40,6 +40,11 @@ Mlečna matična omaka, zgoščena s prežganjem iz masla in moke (roux). V prik
 
 Mleka ne prilij vsega naenkrat. Postopno dodajanje in temeljito mešanje sta v prikazu ključna za gladkost.
 
+## Hitra izvedba za tekmovanje
+
+- **Vroče mleko in metlica.** Mleko segrej v mikrovalovni pečici, medtem pripravi roux. Vroče mleko prilij v treh delih in vsakič močno mešaj z metlico; grudic ni in omaka se zgosti takoj.
+- **Aroma brez čakanja.** Čebulo s klinčki kuhaj kar v omaki in jo na koncu odstrani.
+
 ## Serviranje in povezani recepti
 
 Osnova za [R0002 Čebulno omako soubise](R0002-soubise.md) in [R0022 Omako Mornay](R0022-mornay.md). Razmerje je zbrano tudi v [R0023 Osnovna kuharska razmerja](R0023-osnovna-razmerja.md).
@@ -48,6 +53,7 @@ Osnova za [R0002 Čebulno omako soubise](R0002-soubise.md) in [R0022 Omako Morna
 
 ## Uredniška evidenca
 
+- 26. 11. 2026: dodan razdelek »Hitra izvedba za tekmovanje« na uporabnikovo željo (časovna optimizacija za MasterChef). Nasveti so uredniški, po splošni strokovni praksi, in niso preizkušeni; količine in razmerja recepta so nespremenjeni.
 - Vir: Fallow, 00:49–03:06; izvorni zapis in podnapisi v `reference/fallow-maticne-omake-2024.md`.
 - Ureditev: slovenski povzetek tehnike, poenotena imena in razdelitev na korake. Ohranjen je prikaz z rahlo porjavelim maslom.
 - Odprto: izplen in celoten čas priprave. Razmerje masla in moke je v prvem videu le približno.

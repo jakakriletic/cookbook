@@ -52,12 +52,17 @@ Po viru več sladkorja da tršo meringo. Razmerje sladkor : beljaki je **1,5–2
 - Drugo poglavje iste knjige omenja 12–36 ur. V receptu je izbran natančno navedeni dodatek z recepturami; razhajanje ostaja evidentirano.
 - To je recept za **sušen izdelek**, ne potrditev varnosti uživanja surove pene. Za masleno kremo uporabi ločen [R0032](R0032-svicarska-maslena-krema.md); italijanska meringa za makrone je v [R0026](R0026-makroni-po-karimu.md).
 
+## Hitra izvedba za tekmovanje
+
+- **Za tekmovanje uporabi italijansko meringo.** Sušenje traja več ur, zato meringe raje pripravi kot [italijansko meringo](R0147-italijanska-meringa.md), ki je takoj stabilna, in jo obarvaj s plamenom.
+
 ## Vir in licenca
 
 Prevod in prilagoditev razdelka »Meringues« iz [Modern Pastry and Plated Dessert Techniques](https://opentextbc.ca/modernpastryandplateddesserts/back-matter/appendix-standard-recipes-for-dessert-garnishes/), The BC Cook Articulation Committee, © 2015, BCcampus, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Spremembe: prevod, razdelitev dveh načinov priprave, izpis razmerja in uredniške opombe. Pripis ohrani tudi v končni knjigi.
 
 ## Uredniška evidenca
 
+- 26. 11. 2026: dodan razdelek »Hitra izvedba za tekmovanje« na uporabnikovo željo (časovna optimizacija za MasterChef). Nasveti so uredniški, po splošni strokovni praksi, in niso preizkušeni; količine in razmerja recepta so nespremenjeni.
 - Pregledano 1. 11. 2026. Razmerje in razhajanje v času preverjena še v [poglavju Garnishes](https://opentextbc.ca/modernpastryandplateddesserts/chapter/garnishes/).
 - Odprto: izplen, oblika, velikost, način pečice, čas sušenja pri domači izvedbi ter temperatura in čas švicarskega segrevanja. Brez praktičnega preizkusa.
 - 11. 11. 2026: na uporabnikovo željo dodana vrstica »Razmerje po masi« pod izplenom. Razmerje je iz vira in je bilo že zapisano pod sestavinami. Pregled: `reference/razmerja-2026-11-11.md`.

@@ -37,12 +37,18 @@ Uporabi tri rumenjake. Navedba 42 g je orientacijska pretvorba po avtorjevi tabe
 5. **Precedi**, vmešaj vaniljo in postopoma maslo.
 6. **Ohladi.** Pokrij po površini in postavi v hladilnik za najmanj **4 ure**. Pred uporabo zgladi s stepanjem **30–60 sekund**.
 
+## Hitra izvedba za tekmovanje
+
+- **Vse naenkrat, brez temperiranja.** V hladni kozici z metlico ali paličnim mešalnikom zmešaj mleko, sladkor, škrob, sol in rumenjake. Ob stalnem mešanju zavri in kuhaj še **1 minuto**. Ker se zmes segreva postopoma, se rumenjaki ne zakrknejo, temperiranje pa odpade.
+- **Hitro hlajenje.** Kremo razmaži v tanki plasti po pladnju, folijo položi neposredno na površino in pladenj postavi v zamrzovalnik; vmes jo enkrat premešaj. Tanka plast se ohladi v nekaj minutah namesto v nekaj urah.
+
 ## Povezani recepti
 
 Polnilo za [R0015 Choux](R0015-kuhano-testo-choux.md). Zamenjava za tekočo [R0029 Crème anglaise](R0029-creme-anglaise.md) ni samodejna.
 
 ## Uredniška evidenca
 
+- 26. 11. 2026: dodan razdelek »Hitra izvedba za tekmovanje« na uporabnikovo željo (časovna optimizacija za MasterChef). Nasveti so uredniški, po splošni strokovni praksi, in niso preizkušeni; količine in razmerja recepta so nespremenjeni.
 - [Vir: David Turner, King Arthur Baking](https://www.kingarthurbaking.com/recipes/pastry-cream-creme-patissiere-recipe), pregledano 1. 11. in 9. 11. 2026; samostojno ubeseden strnjen zapis. Na uporabnikovo željo 9. 11. recept zmanjšan s šestih na tri rumenjake. Polovice 284 g mleka, 66 g sladkorja in 56,5 g masla so zaokrožene na 285 g, 65 g in 55 g. Škrob 14 g, sol in vanilja so točne polovice. Časi in temperature niso razpolovljeni.
 - [Pretvorbena tabela King Arthur Baking](https://www.kingarthurbaking.com/learn/ingredient-weight-chart), pregledano 9. 11. 2026: en velik svež rumenjak 14 g, torej trije približno 42 g. Recept sam gramature rumenjakov ne poda; dejanska masa je odvisna od jajc. [Izvirne količine in preračun](../reference/prakticne-kolicine-2026-11-09.md).
 - Različica iz spletnega vira, ne prepis učbenika. Ne podvajati v R0015.

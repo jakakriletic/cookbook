@@ -35,12 +35,17 @@ datum_prejema: "2026-11-05"
 
 Ne zamenjaj s stepenim ganašem: pri njem ohladiš celotno emulzijo in jo pozneje stepeš. Tu stepaš samo smetano pred združevanjem.
 
+## Hitra izvedba za tekmovanje
+
+- **Hitro strjevanje.** Napolni majhne kozarce ali plitve posodice in jih postavi v zamrzovalnik namesto v hladilnik. Strjevanje se skrajša z ur na manj kot uro; preveri na dotik in ne pusti, da zmrzne. Postrezi v kozarcu, ne zvračaj.
+
 ## Povezani recepti
 
 [Pregled: 1.9 Moussi — sladke pene](01-09-moussi.md).
 
 ## Uredniška evidenca
 
+- 26. 11. 2026: dodan razdelek »Hitra izvedba za tekmovanje« na uporabnikovo željo (časovna optimizacija za MasterChef). Nasveti so uredniški, po splošni strokovni praksi, in niso preizkušeni; količine in razmerja recepta so nespremenjeni.
 - Vir: [L’École Gourmet Valrhona, Guanaja, pear and cookie, komponenta 4](https://www.valrhona.com/en/inspiring-you/recipes/all-our-recipes/guanaja-pear-and-cookie); pregledano 5. 11. 2026. Količine so iz objavljene recepture, postopek je samostojno strnjen.
 - Količine in 30–35 °C so iz te konkretne recepture, ne z druge strani Valrhona Light Mousse z drugačnim razmerjem. Bloom ni naveden. Za tujo čokolado isti delež kakava še ne zagotavlja iste teksture.
 - Praktični preizkus še ni opravljen. Manjkajoči podatki niso ocenjeni; glej skupno [evidenco](../reference/moussi-2026-11-05.md).

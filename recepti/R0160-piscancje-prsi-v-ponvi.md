@@ -36,6 +36,10 @@ Prsi se zapečejo v litoželezni ponvi in dopečejo v pečici do natančne tempe
 5. **Dopeci.** V eno prso zapiči sondo in ponev postavi na sredino pečice, segrete na **190 °C**. Peci do **74 °C** v sredici.
 6. **Počitek.** Prestavi na krožnik, pokrij z aluminijasto folijo in pusti **7 minut**.
 
+## Hitra izvedba za tekmovanje
+
+- **Metuljček.** Prsi vodoravno prereži ali splošči na enakomerno debelino; pečejo se samo v ponvi in hitreje, brez pečice. Temperaturo v sredici vseeno preveri s termometrom.
+
 ## Povezani recepti
 
 [Temperature v sredici mesa](R0157-temperature-v-sredici.md).
@@ -46,5 +50,6 @@ Prevod recepta [Cookbook:Pan-Seared Chicken Breast](https://en.wikibooks.org/w/i
 
 ## Uredniška evidenca
 
+- 26. 11. 2026: dodan razdelek »Hitra izvedba za tekmovanje« na uporabnikovo željo (časovna optimizacija za MasterChef). Nasveti so uredniški, po splošni strokovni praksi, in niso preizkušeni; količine in razmerja recepta so nespremenjeni.
 - Prebrano 21. 11. 2026. Vir: ¼ cup (≈ 60 ml) oljčnega olja, 10-inch (25 cm) ponev, 375 °F (190 °C), 165 °F (74 °C). Pretvorbe so uredniške.
 - Vir za česnovo olje navaja »large saucepan« (kozica).

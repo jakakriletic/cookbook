@@ -52,11 +52,17 @@ Sladek flan: jajčno mlečna masa, strjena v vodni kopeli na plasti karamele. Po
 
 - **Pomarančni flan:** v mleku z vanilijo odišavi naribano lupinico neškropljene pomaranče in precedi. Postrezi s filetiranimi, posladkanimi pomarančnimi krhlji, mariniranimi v 4 žlicah pomarančnega likerja.
 
+## Hitra izvedba za tekmovanje
+
+- **Majhni, plitvi modelčki** se spečejo in ohladijo hitreje kot globoki.
+- **Hitro hlajenje.** Pečene modelčke najprej postavi v ledeno vodo, nato v zamrzovalnik; preveri, da so hladni, a ne zmrznjeni. Karamelo skuhaj, medtem ko se mleko odišavlja.
+
 ## Vir in licenca
 
 Prevod in priredba recepta [Crème caramel](https://www.kochwiki.org/index.php?title=Cr%C3%A8me_caramel&oldid=408427), sodelavci Koch-Wiki, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/). Spremembe: prevod, oštevilčen postopek.
 
 ## Uredniška evidenca
 
+- 26. 11. 2026: dodan razdelek »Hitra izvedba za tekmovanje« na uporabnikovo željo (časovna optimizacija za MasterChef). Nasveti so uredniški, po splošni strokovni praksi, in niso preizkušeni; količine in razmerja recepta so nespremenjeni.
 - Prebrano 21. 11. 2026. Količine nespremenjene. Masa jajc in rumenjakov ni navedena; velikost modelčkov ni navedena.
 - Vir v seznamu nima vode za karamelo; navedena je v postopku (2 EL).

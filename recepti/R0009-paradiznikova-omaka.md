@@ -36,6 +36,10 @@ Preprosta paradižnikova osnova iz videa, imenovana sauce tomat. Gostoto dobi s 
 
 Čebula naj se počasi zmehča brez porjavitve. Avtor poudari, da nekaj vidnega olja v omaki samo po sebi ni napaka.
 
+## Hitra izvedba za tekmovanje
+
+- **Široka ponev namesto lonca.** Na veliki površini tekočina izhlapi hitreje in omaka se zgosti v krajšem času.
+
 ## Serviranje in povezani recepti
 
 Osnova za [R0010 Romesco po Fallowu](R0010-romesco.md). Za to izpeljanko je paradižnikova omaka pred miksanjem ohlajena.
@@ -46,6 +50,7 @@ Avtor dopušča svež paradižnik, predhodno blanširan in brez semen. Količina
 
 ## Uredniška evidenca
 
+- 26. 11. 2026: dodan razdelek »Hitra izvedba za tekmovanje« na uporabnikovo željo (časovna optimizacija za MasterChef). Nasveti so uredniški, po splošni strokovni praksi, in niso preizkušeni; količine in razmerja recepta so nespremenjeni.
 - Vir: Fallow, 15:31–17:49; izvorni zapis v `reference/fallow-maticne-omake-2024.md`.
 - Količina paradižnika je povzeta po izjavi okoli 16:55–16:59: uporabi polovico pripravljene količine, kar opiše kot približno 1 l. Ni preračunana v grame ali število konzerv.
 - Ureditev: ohranjena preprosta izvedba brez dopolnjevanja s fondom, slanino, moko ali zelišči iz drugih različic sauce tomat.

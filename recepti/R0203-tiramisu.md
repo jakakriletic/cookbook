@@ -50,7 +50,12 @@ Piškoti savoiardi, namočeni v močni kavi z amarettom, krema iz rumenjakov, sl
 - **Surovi rumenjaki.** Uporabi zelo sveža jajca in tiramisu hrani na hladnem.
 - **Izdatno namoči,** a piškoti naj ne razpadejo.
 
+## Hitra izvedba za tekmovanje
+
+- **Hitro hlajenje.** Kozarce postavi v zamrzovalnik namesto za nekaj ur v hladilnik; preveri, da so hladni, a ne zmrznjeni. Kakav potresi tik pred serviranjem.
+
 ## Uredniška evidenca
 
+- 26. 11. 2026: dodan razdelek »Hitra izvedba za tekmovanje« na uporabnikovo željo (časovna optimizacija za MasterChef). Nasveti so uredniški, po splošni strokovni praksi, in niso preizkušeni; količine in razmerja recepta so nespremenjeni.
 - Vir prebran 26. 11. 2026; kratko samostojno ubesedeno. Količine nespremenjene (50 cl → 500 ml, 1 dl → 100 ml, 4 dl → 400 ml).
 - Odprto: masa piškotov, čas hlajenja (vir: »nekaj ur«). Ni preizkušeno.

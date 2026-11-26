@@ -37,12 +37,17 @@ Za vsako vrstico uporabi **500 g izbranega pireja**. Izberi eno različico.
 
 Mase smetane veljajo pred stepanjem. Bloom in delež maščobe v tabeli nista navedena; ne predpostavi, da vsak kupljeni pire vsebuje enako sladkorja.
 
+## Hitra izvedba za tekmovanje
+
+- **Hitro strjevanje.** Napolni majhne kozarce ali plitve posodice in jih postavi v zamrzovalnik namesto v hladilnik. Strjevanje se skrajša z ur na manj kot uro; preveri na dotik in ne pusti, da zmrzne. Postrezi v kozarcu, ne zvračaj.
+
 ## Povezani recepti
 
 [Pregled: 1.9 Moussi — sladke pene](01-09-moussi.md).
 
 ## Uredniška evidenca
 
+- 26. 11. 2026: dodan razdelek »Hitra izvedba za tekmovanje« na uporabnikovo željo (časovna optimizacija za MasterChef). Nasveti so uredniški, po splošni strokovni praksi, in niso preizkušeni; količine in razmerja recepta so nespremenjeni.
 - Vir: [Ravifruit, Recettes – Recipes, 11/2014, stran 2](https://files.meilleurduchef.com/mdc/pdf/produit/rav/puree-fruit-framboise-ravifruit/recettes_sorbets_pates_de_fruits_mousses.pdf); pregledano 5. 11. 2026. Količine so iz objavljene recepture, postopek je samostojno strnjen.
 - Vse količine so iz ustreznih vrstic Ravifruitove tabele in deljene z 2. Nesladkani jagodni in malinov pire sta v viru ločeni vrstici. Ostali okusi niso samodejno označeni kot nesladkani. Temperature in delitev pireja iz tradicionalnega postopka. Moč želatine ostaja za potrditev.
 - Praktični preizkus še ni opravljen. Manjkajoči podatki niso ocenjeni; glej skupno [evidenco](../reference/moussi-2026-11-05.md).

@@ -31,12 +31,17 @@ Fallowova hitra izpeljanka holandske omake s pehtranom, surovo drobno narezano �
 2. **Dodaj aromi.** Pehtran sesekljaj, šalotko pa nareži na zelo drobne kocke (brunoise). Oboje vmešaj v holandsko omako.
 3. **Postrezi.** Omako postrezi ob zrezku. Avtor tik pred serviranjem omeni še malo limoninega soka za zaključek krožnika.
 
+## Hitra izvedba za tekmovanje
+
+- **Hitra osnova.** Holandsko omako pripravi s paličnim mešalnikom, kot je opisano pri [holandski omaki](R0007-holandska-omaka.md).
+
 ## Serviranje in povezani recepti
 
 V videu postreženo ob govejem zrezku ribeye in ocvrtem krompirčku. Matična omaka: [R0007 Holandska omaka](R0007-holandska-omaka.md).
 
 ## Uredniška evidenca
 
+- 26. 11. 2026: dodan razdelek »Hitra izvedba za tekmovanje« na uporabnikovo željo (časovna optimizacija za MasterChef). Nasveti so uredniški, po splošni strokovni praksi, in niso preizkušeni; količine in razmerja recepta so nespremenjeni.
 - Vir: Fallow, poglavje 14:35–15:31; opis izpeljanke se začne okoli 14:33. Izvorni zapis v `reference/fallow-maticne-omake-2024.md`.
 - Ureditev: poenostavitev je označena že v naslovu. Redukcija kisa, vina in šalotke ter druga zelišča iz drugih receptur niso dodani.
 - Odprto: vse količine, izplen ter podatki o pripravi in držanju osnove iz R0007. Limonin sok je v govoru omenjen ob serviranju krožnika; natančno mesto dodatka ni povsem jasno, zato ni samodejno vključen v mešanje omake.

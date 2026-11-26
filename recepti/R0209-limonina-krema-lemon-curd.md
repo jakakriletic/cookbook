@@ -46,6 +46,10 @@ Gosta, kisla krema iz limoninega soka in lupinice, jajc, sladkorja in masla. Za 
 - **Ne sme zavreti,** ker se jajca zakrknejo.
 - **Rok uporabe:** v hladilniku do enega tedna.
 
+## Hitra izvedba za tekmovanje
+
+- **Hitro hlajenje.** Limonino kremo razmaži v tanki plasti po pladnju, folijo položi neposredno na površino in pladenj postavi v zamrzovalnik; vmes jo enkrat premešaj. Tanka plast se ohladi v nekaj minutah namesto v nekaj urah.
+
 ## Povezani recepti
 
 - [Limonina tarta](R0181-limonina-tarta.md), [shortbread](R0186-shortbread.md).
@@ -56,6 +60,7 @@ Prevod in priredba recepta [Cookbook:Lemon Curd](https://en.wikibooks.org/w/inde
 
 ## Uredniška evidenca
 
+- 26. 11. 2026: dodan razdelek »Hitra izvedba za tekmovanje« na uporabnikovo željo (časovna optimizacija za MasterChef). Nasveti so uredniški, po splošni strokovni praksi, in niso preizkušeni; količine in razmerja recepta so nespremenjeni.
 - Prebrano 26. 11. 2026. Količine po viru (½ cup = 120 ml, ⅓ cup = 80 g, ¼ cup masla navedeno kot 60 ml, zapisano kot 60 g).
 - Primerjalno: Chef Simon, Lemon curd (1 dl soka, 150 g sladkorja, 4 jajca, 80 g masla; tudi s sokom krvave pomaranče).
 - Ni preizkušeno.

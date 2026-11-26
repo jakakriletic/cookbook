@@ -47,12 +47,18 @@ Osnovni sladoled iz angleške kreme (crème anglaise), zamrznjen v sladoledarju 
 2. Zamrzuj **2–4 ure** in maso premešaj vsakih **40 minut**.
 3. Pred serviranjem pusti **15–20 minut** na sobni temperaturi.
 
+## Hitra izvedba za tekmovanje
+
+- **Hitra osnova.** Kremo skuhaj po hitri izvedbi pri [vaniljevi omaki](R0029-creme-anglaise.md).
+- **Hlajenje v vrečki.** Kremo nalij v plastično vrečko z zadrgo in jo potopi v ledeno vodo; ohladi se v nekaj minutah in jo lahko takoj daš v sladoledar.
+
 ## Vir in licenca
 
 Prevod in priredba recepta [Vanilleeis](https://www.kochwiki.org/index.php?title=Vanilleeis&oldid=414634), sodelavci Koch-Wiki, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/). Spremembe: prevod, skrajšanje, sklic.
 
 ## Uredniška evidenca
 
+- 26. 11. 2026: dodan razdelek »Hitra izvedba za tekmovanje« na uporabnikovo željo (časovna optimizacija za MasterChef). Nasveti so uredniški, po splošni strokovni praksi, in niso preizkušeni; količine in razmerja recepta so nespremenjeni.
 - Prebrano 21. 11. 2026. Količine nespremenjene. Vir priporoča taitijsko vanilijo, v sili vrečko vaniljevega sladkorja.
 - Sklic na R0029 in temperaturo kreme je uredniški; Koch-Wiki temperature ne navaja.
 - Vir opozarja na surove rumenjake in smetano; sladoled je treba hitro porabiti.

@@ -6,6 +6,8 @@ Osebna kuharska knjiga za pripravo na MasterChef. Namen je hiter pregled med vaj
 
 ## Stanje
 
+26. 11. 2026 — časovna optimizacija: na uporabnikovo željo je 50 receptov dobilo razdelek »Hitra izvedba za tekmovanje« (npr. jajčne kreme vse naenkrat brez temperiranja, hlajenje v tanki plasti v zamrzovalniku, testa v sekljalniku, holandska s paličnim mešalnikom, strjevanje moussov in panna cotte v zamrzovalniku). Nasveti so uredniški, nepreizkušeni; količine in razmerja nespremenjeni. Razdelek se v knjigi izpiše v desnem stolpcu. Knjiga: 250 receptov, 190 strani.
+
 26. 11. 2026 — orodja za video: uporabnik bo pošiljal tehnike iz Instagram Reels in YouTube videov. Po poglobljeni raziskavi (`reports/Instagram in YouTube za recepte.md`) je nastavljeno okolje (gostitelji, namestitveni skript) in dodana `scripts/video-v-besedilo.sh` ter `scripts/video2text.sh`. Lokalna obdelava datoteke deluje; YouTube iz oblaka blokira preverjanje botov, Instagram še ni preizkušen. Navodila: `reference/video-orodja-2026-11-26.md`.
 
 26. 11. 2026 — nova izdaja: na uporabnikovo željo je knjiga sestavljena v novem strnjenem in berljivem slogu (recepti v dveh stolpcih, brez praznih strani, kazalo in viri v dveh stolpcih, Calibri/Cambria, bela podlaga). Word in PDF: **224 receptov, 13 poglavij, 170 strani** (prej 216 strani za 162 receptov). Sestava `scripts/sestavi_knjigo.py`, osvežitev kazala in izvoz brez Worda `scripts/osvezi-knjigo-lo.py` (LibreOffice), z Wordom še vedno `scripts/osvezi-knjigo.ps1`. Evidenca: `reference/izdaja-2026-11-26.md`.

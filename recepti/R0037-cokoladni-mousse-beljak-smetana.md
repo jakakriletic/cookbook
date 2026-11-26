@@ -37,12 +37,17 @@ datum_prejema: "2026-11-05"
 
 Vir smetano in sladkor podaja prostorninsko. Njune mase v gramih niso potrjene; za ponovljivo tehtano vajo najprej izberi R0036. Merilnih žlic ne nadomeščaj s poljubnim jedilnim priborom.
 
+## Hitra izvedba za tekmovanje
+
+- **Hitro strjevanje.** Napolni majhne kozarce ali plitve posodice in jih postavi v zamrzovalnik namesto v hladilnik. Strjevanje se skrajša z ur na manj kot uro; preveri na dotik in ne pusti, da zmrzne. Postrezi v kozarcu, ne zvračaj.
+
 ## Povezani recepti
 
 [Pregled: 1.9 Moussi — sladke pene](01-09-moussi.md).
 
 ## Uredniška evidenca
 
+- 26. 11. 2026: dodan razdelek »Hitra izvedba za tekmovanje« na uporabnikovo željo (časovna optimizacija za MasterChef). Nasveti so uredniški, po splošni strokovni praksi, in niso preizkušeni; količine in razmerja recepta so nespremenjeni.
 - Vir: [Nagi Maehashi, RecipeTin Eats, Chocolate Mousse](https://www.recipetineats.com/chocolate-mousse/); pregledano 5. 11. 2026. Količine so iz objavljene recepture, postopek je samostojno strnjen.
 - Ohranjene izvirne prostorninske mere; ni izmišljene pretvorbe v grame ali mase posameznih rumenjakov. Ta izjema je posebej evidentirana, ker je uporabniku natančnost pomembna. Pasterizirana jajca so uredniška prilagoditev. Avtorjevih splošnih sodb o drugih mousseih in roka hranjenja ne prenašamo.
 - Praktični preizkus še ni opravljen. Manjkajoči podatki niso ocenjeni; glej skupno [evidenco](../reference/moussi-2026-11-05.md).

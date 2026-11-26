@@ -40,6 +40,11 @@ Slaščičarska krema, utrjena z želatino in olajšana s stepeno smetano. Je pr
 - **Krema princesa (crème madame):** enako, a brez želatine.
 - **Na italijanski način:** z maraskinom ali marsalo, za cannolije.
 
+## Hitra izvedba za tekmovanje
+
+- **Hitra osnova.** Slaščičarsko kremo skuhaj po hitri izvedbi pri [slaščičarski kremi](R0028-slascicarska-krema.md) in vanjo vmešaj želatino.
+- **Hitro hlajenje.** Kremo razmaži v tanki plasti po pladnju, folijo položi neposredno na površino in pladenj postavi v zamrzovalnik; vmes jo enkrat premešaj. Tanka plast se ohladi v nekaj minutah namesto v nekaj urah. Smetano vmešaj, ko je krema mlačna, a se še ni strdila.
+
 ## Povezani recepti
 
 [Krema mousseline](R0141-krema-mousseline.md) je težja različica z maslom.
@@ -50,5 +55,6 @@ Prevod in priredba članka [Crème diplomate](https://fr.wikipedia.org/w/index.p
 
 ## Uredniška evidenca
 
+- 26. 11. 2026: dodan razdelek »Hitra izvedba za tekmovanje« na uporabnikovo željo (časovna optimizacija za MasterChef). Nasveti so uredniški, po splošni strokovni praksi, in niso preizkušeni; količine in razmerja recepta so nespremenjeni.
 - Prebrano 21. 11. 2026. Količine nespremenjene. Masa lističev želatine v viru ni navedena — **za dopolnitev** (glej opombe o želatini v poglavju Moussi).
 - Vir opiše samo zaporedje (kuhana slaščičarska krema, želatina, ohladitev, stepena smetana). Podrobnosti kuhanja so sklic na R0028; pokrivanje po površini in mehki vrhovi so uredniški dodatek.

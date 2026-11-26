@@ -47,6 +47,11 @@ Ganaš je emulzija smetane (ali mleka oziroma masla) in čokolade. Več ko je č
 - **Daljša obstojnost:** smetano zamenjaj s kondenziranim mlekom.
 - **Navaden ganaš za trufle:** 1 kg čokolade, 500 g crème fraîche in 1 vaniljev strok.
 
+## Hitra izvedba za tekmovanje
+
+- **Emulzija s paličnim mešalnikom.** Vročo smetano prelij čez čokolado v visoki posodi, počakaj **1 minuto** in zmešaj s paličnim mešalnikom pod gladino; emulzija je gladka v nekaj sekundah.
+- **Hitro hlajenje.** Ganaš razlij v tanki plasti in ga ohladi v hladilniku ali za kratek čas v zamrzovalniku; sproti preveri gostoto.
+
 ## Povezani recepti
 
 [Ganaš za makrone po Valrhoni](R0027-cokoladni-ganas-za-makrone.md), [stepeni vaniljev ganaš](R0137-stepeni-vaniljev-ganas.md), [mousse iz ganaša](R0043-cokoladni-mousse-ganas-smetana.md).
@@ -57,6 +62,7 @@ Prevod in priredba strani [Livre de cuisine/Ganache](https://fr.wikibooks.org/w/
 
 ## Uredniška evidenca
 
+- 26. 11. 2026: dodan razdelek »Hitra izvedba za tekmovanje« na uporabnikovo željo (časovna optimizacija za MasterChef). Nasveti so uredniški, po splošni strokovni praksi, in niso preizkušeni; količine in razmerja recepta so nespremenjeni.
 - Prebrano 21. 11. 2026. Mehki ganaš 1 : 1 je iz Koch-Wiki (tam čokolado stopiš v vodni kopeli in jo vmešaš v vročo smetano); čvrsti in navadni ganaš sta iz Wikilivres, ki navaja splošno razmerje 1 del smetane na 2 dela čokolade.
 - Vrstica »Razmerje po masi« je uredniški povzetek obeh virov. Pri 2 dl smetane je prostornina iz vira, ne masa.
 - Natančnejša razmerja za mlečno in belo čokolado v dosegljivih virih niso bila najdena — **za dopolnitev**.

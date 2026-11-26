@@ -55,12 +55,17 @@ Težka kozica, zmogljiv mešalnik (v videu Vitaprep) in fino cedilo (chinois).
 
 Za juho pire razredči s toplim mlekom ali osnovo do želene gostote.
 
+## Hitra izvedba za tekmovanje
+
+- **Tanke rezine.** Cvetačo nareži na mandolini na tanke rezine; enako tanki kosi se zmehčajo hitreje in enakomerneje.
+
 ## Serviranje in povezani recepti
 
 Byatt ga ponudi k preprosti ribi, kot je trska. Za pražen cvetačni pire z drugačnim okusom glej [R0020 Pražen cvetačni pire s parmezanom](R0020-prazen-cvetacni-pire.md). Splošni nasveti so v [pregledu 5.4](05-04-pireji-in-kreme.md).
 
 ## Uredniška evidenca
 
+- 26. 11. 2026: dodan razdelek »Hitra izvedba za tekmovanje« na uporabnikovo željo (časovna optimizacija za MasterChef). Nasveti so uredniški, po splošni strokovni praksi, in niso preizkušeni; količine in razmerja recepta so nespremenjeni.
 - Vir: Adam Byatt, »How to make: Cauliflower Puree«, 5. 3. 2026, opis videa in prikaz 0:10–12:13. Izvorni zapis v `reference/videi-2026-10-31.md`.
 - Ureditev: postopek iz opisa, dopolnjen z nasveti iz govora (sveže maslo v mešalniku, sol za preprečevanje prismojenja, čas 25 minut).
 - Odprto: izplen, količina olja in svežega masla.

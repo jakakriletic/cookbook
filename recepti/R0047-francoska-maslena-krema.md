@@ -60,8 +60,13 @@ Avtorjeva spletna stran dopušča zamrzovanje kreme v nepredušni posodi do **3 
 
 Za primerjavo beljakove osnove glej [R0032 Švicarska maslena krema](R0032-svicarska-maslena-krema.md).
 
+## Hitra izvedba za tekmovanje
+
+- **Hlajenje sklede.** Med stepanjem rumenjakov s sirupom skledo mešalnika od zunaj hladi s krpo, namočeno v ledeni vodi. Pena se ohladi hitreje in maslo lahko dodaš prej.
+
 ## Uredniška evidenca
 
+- 26. 11. 2026: dodan razdelek »Hitra izvedba za tekmovanje« na uporabnikovo željo (časovna optimizacija za MasterChef). Nasveti so uredniški, po splošni strokovni praksi, in niso preizkušeni; količine in razmerja recepta so nespremenjeni.
 - 9. 11. 2026: na uporabnikovo željo maslo zaokroženo z izvornih 227 g na 225 g. [Evidenca praktičnih količin](../reference/prakticne-kolicine-2026-11-09.md); zaokrožena različica še ni preizkušena.
 - Vir: John Kanell, Preppy Kitchen, [Easy French Buttercream Recipe](https://www.youtube.com/watch?v=rBheeACVC9w), 16. 4. 2024; [povezana spletna receptura](https://preppykitchen.com/how-to-make-french-buttercream/), pregledano 9. 11. 2026. Maslo 227 g in vanilja 5 ml sta metrična podatka spletne kartice; video poda skodelico masla in žličko vanilje.
 - 240 °F je 115,6 °C, prikazano kot približno 116 °C. Pri prilivanju je izbran spletni nasvet za nizko hitrost; video med prikazom omenja tudi srednje visoko hitrost.

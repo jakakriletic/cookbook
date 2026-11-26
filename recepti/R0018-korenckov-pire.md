@@ -54,12 +54,17 @@ Kozica s pokrovko, mešalnik, fino cedilo.
 
 **Iz opisa videa.** Korenček, narezan na 0,5 cm, kuhaj pokrit v vodi z maslom in soljo približno 20 minut. Z žlico z luknjami ga prestavi v mešalnik, dodaj ½ skodelice tekočine od kuhanja in 1 žlico limoninega soka ter zmešaj. Po potrebi dolij tekočino in začini.
 
+## Hitra izvedba za tekmovanje
+
+- **Tanke rezine.** Korenček nareži na mandolini na tanke rezine; skuha se precej hitreje kot debelejši kosi.
+
 ## Serviranje in povezani recepti
 
 V videu: quenelle pireja ob pečeni svinjini, sneti s kosti, z oljčnim oljem. Quenelle dlje ohrani toploto kot poteg z žlico. Splošni nasveti so v [pregledu 5.4](05-04-pireji-in-kreme.md).
 
 ## Uredniška evidenca
 
+- 26. 11. 2026: dodan razdelek »Hitra izvedba za tekmovanje« na uporabnikovo željo (časovna optimizacija za MasterChef). Nasveti so uredniški, po splošni strokovni praksi, in niso preizkušeni; količine in razmerja recepta so nespremenjeni.
 - Vir: Fallow, »The 4 Purees Every Chef Should Know«, prikaz 6:44–11:49. Recept iz opisa se od prikaza razlikuje, zato je ohranjen kot varianta.
 - Ureditev: glavni postopek je iz govora; količine razen kisa niso podane.
 - Odprto: vse količine in izplen.

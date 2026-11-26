@@ -41,12 +41,17 @@ Primer razmerja iz knjige: [mandljev praline](R0136-mandljev-praline-bela-cokola
 - **Suha karamela:** nizek do srednje nizek ogenj ter široka, plitva posoda. Sladkor rjavi od roba proti sredini; rjavi rob sproti zlagaj proti sredini.
 - Vroče karamele se ne dotikaj; tekočino vanjo dodajaj previdno, ker močno zavre.
 
+## Hitra izvedba za tekmovanje
+
+- **Suha karamela je hitrejša** od mokre, ker ni treba izpariti vode; zahteva pa več pozornosti, da se ne zažge.
+
 ## Vir in licenca
 
 Suha karamela: prevod recepta [Trockener Karamell](https://www.kochwiki.org/index.php?title=Trockener_Karamell&oldid=414623), sodelavci Koch-Wiki, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/). Opis metod: priredba strani [Cookbook:Caramel](https://en.wikibooks.org/w/index.php?title=Cookbook:Caramel&oldid=4673545), sodelavci Wikibooks, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Kristalizacija po [Modern Pastry and Plated Dessert Techniques](https://opentextbc.ca/modernpastryandplateddesserts/chapter/crystallization/), The BC Cook Articulation Committee, BCcampus, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Spremembe: prevod, združitev in skrajšanje.
 
 ## Uredniška evidenca
 
+- 26. 11. 2026: dodan razdelek »Hitra izvedba za tekmovanje« na uporabnikovo željo (časovna optimizacija za MasterChef). Nasveti so uredniški, po splošni strokovni praksi, in niso preizkušeni; količine in razmerja recepta so nespremenjeni.
 - Prebrano 21. 11. 2026. Količine suhe karamele nespremenjene.
 - »Ne mešaj, ko zavre«, nizek ogenj za suho karamelo, plitva posoda in »odtenek svetlejše« so povzeti po King Arthur Baking (R. Anastopoulo, »How to make caramel«, 12. 12. 2022), kratko ubesedeno.
 - Mokra karamela nima lastnih količin; primer razmerja je sklic na R0136.

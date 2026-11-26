@@ -41,12 +41,17 @@ Za izbrano vrstico uporabi **500 g pireja**.
 2. **Pripravi sadni del** z želatino po [R0038](R0038-sadni-mousse-pire-smetana.md), brez dodatnega sladkorja iz njegove tabele.
 3. **Nežno poveži** sadni del, odtehtano meringo in stepeno smetano. Takoj napolni model in ohladi.
 
+## Hitra izvedba za tekmovanje
+
+- **Hitro strjevanje.** Napolni majhne kozarce ali plitve posodice in jih postavi v zamrzovalnik namesto v hladilnik. Strjevanje se skrajša z ur na manj kot uro; preveri na dotik in ne pusti, da zmrzne. Postrezi v kozarcu, ne zvračaj.
+
 ## Povezani recepti
 
 [Pregled: 1.9 Moussi — sladke pene](01-09-moussi.md).
 
 ## Uredniška evidenca
 
+- 26. 11. 2026: dodan razdelek »Hitra izvedba za tekmovanje« na uporabnikovo željo (časovna optimizacija za MasterChef). Nasveti so uredniški, po splošni strokovni praksi, in niso preizkušeni; količine in razmerja recepta so nespremenjeni.
 - Vir: [Ravifruit, Recettes – Recipes, 11/2014, stran 2](https://files.meilleurduchef.com/mdc/pdf/produit/rav/puree-fruit-framboise-ravifruit/recettes_sorbets_pates_de_fruits_mousses.pdf); pregledano 5. 11. 2026. Količine so iz objavljene recepture, postopek je samostojno strnjen.
 - Mousse: polovične količine Ravifruitove tabele. Meringa: četrtina objavljene osnove 500/800/160. Pripravljena masa ni vsota surovih sestavin zaradi izparevanja; ostanek ni dodatek k moussu. Vir koraka združevanja v meringini različici ne razčleni: koraka 2–3 sta označena uredniška dopolnitev po osnovni tehniki. Pasterizirani beljaki so uredniški; 121 °C je temperatura sirupa, ne dokaz pasterizacije pene.
 - Praktični preizkus še ni opravljen. Manjkajoči podatki niso ocenjeni; glej skupno [evidenco](../reference/moussi-2026-11-05.md).

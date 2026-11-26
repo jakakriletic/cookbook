@@ -74,6 +74,10 @@ Bogato, mehko testo z veliko jajci in masla. Gluten se najprej razvije brez maš
 - **Briošice à tête.** Kroglice po 50 g v nagubanih modelčkih, z manjšo glavico na vrhu, peka pri 180 °C približno 12–15 minut.
 - **Bogatejši brioš.** Maslo lahko povečaš do 70 % mase moke (350 g). Testo je tedaj še bolj občutljivo na temperaturo.
 
+## Hitra izvedba za tekmovanje
+
+- **Za tekmovanje** uporabi [hitre briošne žemljice v 60 minutah](R0082-hitre-briosne-zemljice.md); ta recept potrebuje hladno vzhajanje čez noč.
+
 ## Povezani recepti
 
 - [Žemljice za burgerje v eni uri](R0080-zemljice-za-burgerje.md).
@@ -81,6 +85,7 @@ Bogato, mehko testo z veliko jajci in masla. Gluten se najprej razvije brez maš
 
 ## Uredniška evidenca
 
+- 26. 11. 2026: dodan razdelek »Hitra izvedba za tekmovanje« na uporabnikovo željo (časovna optimizacija za MasterChef). Nasveti so uredniški, po splošni strokovni praksi, in niso preizkušeni; količine in razmerja recepta so nespremenjeni.
 - Naročilo 16. 11. 2026: uporabnik je želel »malo bolj kompleksen in dober brioche dough recept«.
 - Recept je uredniški, po klasični strokovni formuli brioche courante (moka 100, jajca 60, maslo 50, sladkor 12, sol 2, svež kvas 3 %), z razvojem glutena pred dodajanjem masla in hladnim vzhajanjem čez noč. Celotnih spletnih virov v okolju ni bilo mogoče odpreti. Primerjalno je bil prek iskalnika prebran King Arthur Baking, Classic Brioche (330 g moke, 4 jajca, 57 g vode, 25 g sladkorja, 227 g masla, predtesto 45 minut, vzhajanje 1 uro, peka do 190 °F v sredici). Zapis: `reference/briosevo-testo-2026-11-16.md`.
 - Uredniške vrednosti: temperature testa, masla in vzhajanja, čas hladnega vzhajanja, mase kroglic, temperature in časi peke, sredica 92–95 °C, variante. Vse je treba preveriti ob vaji.

@@ -41,6 +41,10 @@ Klasična francoska maslena omaka: redukcija belega vina, kisline in šalotke, v
 - Zaradi kisline uporabi nereaktivno posodo (nerjavno jeklo ali emajl).
 - Smetana pomaga stabilizirati emulzijo, a ni del klasičnega recepta.
 
+## Hitra izvedba za tekmovanje
+
+- **Široka ponev za redukcijo.** Na večji površini tekočina izhlapi hitreje; maslo nato vgrajuj na nizkem ognju ali z ognja.
+
 ## Povezani recepti
 
 [Beurre rouge](R0024-beurre-rouge.md) je različica z rdečim vinom; [tartare beurre blanc](R0089-tartare-beurre-blanc.md) je Fallowova topla različica.
@@ -51,5 +55,6 @@ Prevod recepta [Cookbook:Beurre Blanc](https://en.wikibooks.org/w/index.php?titl
 
 ## Uredniška evidenca
 
+- 26. 11. 2026: dodan razdelek »Hitra izvedba za tekmovanje« na uporabnikovo željo (časovna optimizacija za MasterChef). Nasveti so uredniški, po splošni strokovni praksi, in niso preizkušeni; količine in razmerja recepta so nespremenjeni.
 - Prebrano 21. 11. 2026. Vir: 1 cup vina (≈ 240 ml), 10–12 Tbsp masla (≈ 140–170 g pri 14 g na žlico), 200 °F (95 °C). Pretvorbe so uredniške.
 - Klasični beurre blanc pogosto uporablja kis namesto limone; tukaj je ohranjena receptura vira.

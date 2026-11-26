@@ -46,6 +46,11 @@ Kozica za vodno kopel, kovinska skleda in metlica.
 
 Osnovo ves čas premikaj z metlico in maslo prilivaj postopoma. Voda je v prikazu namenjena tudi uravnavanju gostote.
 
+## Hitra izvedba za tekmovanje
+
+- **Metoda s paličnim mešalnikom.** Rumenjake, kis in vodo daj v visoko ozko posodo. Med mešanjem s paličnim mešalnikom v tankem curku dolivaj zelo vroče stopljeno maslo; emulzija nastane v približno minuti, vodna kopel odpade.
+- **Držanje na toplem.** Omako hrani v predhodno segretem termosu, da se ne loči.
+
 ## Serviranje in povezani recepti
 
 Osnova za [R0008 Hitro omako béarnaise](R0008-hitra-bearnaise.md). Iz podpoglavja 4.5 Maslene omake in emulzije se uporabi sklic na ta recept.
@@ -67,6 +72,7 @@ To razmerje je iz drugega videa in s prečiščenim maslom; zgornji postopek iz 
 
 ## Uredniška evidenca
 
+- 26. 11. 2026: dodan razdelek »Hitra izvedba za tekmovanje« na uporabnikovo željo (časovna optimizacija za MasterChef). Nasveti so uredniški, po splošni strokovni praksi, in niso preizkušeni; količine in razmerja recepta so nespremenjeni.
 - 31. 10. 2026: dodano razmerje iz videa Fallow »9 Ratios Every Chef Needs to Know« (9:12–10:25). Delno odgovarja na odprto vprašanje o razmerju, ne pa na količine v izvedbi iz prvega videa.
 - Vir: Fallow, 12:21–14:35; del uvoda se začne okoli 12:15. Izvorni zapis v `reference/fallow-maticne-omake-2024.md`.
 - Ureditev: avtorjeva ocena približno 74 °C ni privzeta kot univerzalni cilj ali varnostno potrjen postopek. Razlaga o vplivu soli na beljakovine ni prenesena kot preverjeno dejstvo. Avtor pove, da na začetku ni dodal soli, končna količina pa ni podana.

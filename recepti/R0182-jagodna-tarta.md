@@ -63,12 +63,17 @@ Na slepo pečena krhka podlaga, krema diplomat (slaščičarska krema z želatin
 - **Želatina** določa gostoto: 2 lističa za mehkejšo, 3 za čvrstejšo kremo.
 - **Varnost.** Krema je bakteriološko občutljiva; v hladilniku pri 4 °C jo hrani največ 48 ur.
 
+## Hitra izvedba za tekmovanje
+
+- **Tartelete namesto tarte.** Majhne podlage se spečejo hitreje, kremo pa ohladi po hitri izvedbi pri [kremi diplomat](R0139-krema-diplomat.md).
+
 ## Povezani recepti
 
 - [Krhko testo sablé](R0180-krhko-testo-sable.md), [krema diplomat](R0139-krema-diplomat.md), [slaščičarska krema](R0028-slascicarska-krema.md).
 
 ## Uredniška evidenca
 
+- 26. 11. 2026: dodan razdelek »Hitra izvedba za tekmovanje« na uporabnikovo željo (časovna optimizacija za MasterChef). Nasveti so uredniški, po splošni strokovni praksi, in niso preizkušeni; količine in razmerja recepta so nespremenjeni.
 - Vir prebran 26. 11. 2026 (strukturirani podatki, koraki in sklepni razdelek »Quelques mots«); kratko samostojno ubesedeno. Količine nespremenjene (5 cl → 50 ml, ½ l → 500 ml, 20 cl → 200 ml).
 - Vir kremo diplomat pripravi »po receptu« na ločeni strani; povzetek tehnike v koraku 2 je sklic na R0139. Količine kreme so iz tega vira in se razlikujejo od R0139.
 - Odprto: premer obroča, recept za sadni premaz, masa želatinskih lističev. Ni preizkušeno.

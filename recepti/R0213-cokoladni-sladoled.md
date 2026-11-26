@@ -48,11 +48,16 @@ Gost, temen čokoladni sladoled iz kakava, čokolade in mleka, zgoščen s škro
 - **Liker deluje kot sredstvo proti zmrzovanju.** Brez likerja sladoled po približno 5 urah postane trd kot kamen; pred serviranjem ga pusti 30 minut na sobni temperaturi.
 - **Kožica.** Folija na površini med hlajenjem prepreči kožico.
 
+## Hitra izvedba za tekmovanje
+
+- **Namesto hlajenja čez noč.** Osnovo nalij v plastično vrečko z zadrgo in jo potopi v ledeno vodo s soljo; ko je povsem hladna, jo daj v sladoledar.
+
 ## Povezani recepti
 
 - [Vaniljev sladoled](R0155-vaniljev-sladoled.md), [čokoladni sorbet](R0214-cokoladni-sorbet.md).
 
 ## Uredniška evidenca
 
+- 26. 11. 2026: dodan razdelek »Hitra izvedba za tekmovanje« na uporabnikovo željo (časovna optimizacija za MasterChef). Nasveti so uredniški, po splošni strokovni praksi, in niso preizkušeni; količine in razmerja recepta so nespremenjeni.
 - Vir prebran 26. 11. 2026 (strukturirani podatki); kratko samostojno ubesedeno. Grame navaja vir; zaokroženo: sladkor 198 → 200 g, voda 227 → 230 g, mleko 454 → 450 g. Vir namesto škroba priporoča tudi Instant ClearJel.
 - Izplen po viru: 3¾ skodelice, približno 900 ml. Ni preizkušeno.

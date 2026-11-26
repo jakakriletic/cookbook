@@ -69,12 +69,17 @@ Krhka podlaga, kisla limonina krema, zgoščena s koruznim škrobom, in po želj
 - **Italijanska meringa** je stabilnejša od francoske; uporabiš lahko [italijansko meringo](R0147-italijanska-meringa.md).
 - **Brez meringe.** Tartelete potresi z nastrganim limetinim zestom.
 
+## Hitra izvedba za tekmovanje
+
+- **Tartelete in hitro hlajenje.** Majhne podlage se spečejo hitreje. Limonino kremo razmaži v tanki plasti po pladnju in jo ohladi v zamrzovalniku, preden jo nabrizgaš.
+
 ## Povezani recepti
 
 - [Krhko testo sablé](R0180-krhko-testo-sable.md), [italijanska meringa](R0147-italijanska-meringa.md).
 
 ## Uredniška evidenca
 
+- 26. 11. 2026: dodan razdelek »Hitra izvedba za tekmovanje« na uporabnikovo željo (časovna optimizacija za MasterChef). Nasveti so uredniški, po splošni strokovni praksi, in niso preizkušeni; količine in razmerja recepta so nespremenjeni.
 - Vir prebran 26. 11. 2026 (strukturirani podatki, koraki in sklepni razdelek o kremi in meringi); kratko samostojno ubesedeno. Količine nespremenjene (25 cl → 250 ml). Vir opozarja, da se količine lahko spreminjajo glede na kakovost in maso jajc.
 - Vir za podlago uporabi »pâte sablée amande« po svoji tehnični kartici; tu je sklic na R0180 (osnovno testo sablé istega avtorja). Razlika: brez mandljev.
 - Odprto: temperatura peke na slepo (vir je ne navaja; isti avtor pri jagodni tarti 170 °C približno 20 minut), premer modela. Ni preizkušeno.

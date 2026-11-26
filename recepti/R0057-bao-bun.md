@@ -46,12 +46,17 @@ Mehke, bele, na pari kuhane žemljice iz kvašenega mlečnega testa, zložene na
 - **Več serij.** Oblikovane žemljice, ki čakajo, pokrite shrani v hladilniku; pred kuhanjem naj stojijo približno 2 minuti pri sobni temperaturi.
 - **Shranjevanje.** V hladilniku do 4 dni, zamrznjene do 3 mesece. Zamrznjene kuhaj na pari kar iz zamrzovalnika.
 
+## Hitra izvedba za tekmovanje
+
+- **Toplo vzhajanje.** Testo vzhajaj v ugasnjeni pečici s posodo vrele vode; toplo in vlažno okolje skrajša vzhajanje. Preveri po prostornini, ne po uri.
+
 ## Serviranje in povezani recepti
 
 Klasični gua bao: dušen svinjski trebuh, kisla kumarica, arašidi in koriander. Lahko tudi s [sladkokislim piščancem](R0056-sladkokisli-piscanec.md).
 
 ## Uredniška evidenca
 
+- 26. 11. 2026: dodan razdelek »Hitra izvedba za tekmovanje« na uporabnikovo željo (časovna optimizacija za MasterChef). Nasveti so uredniški, po splošni strokovni praksi, in niso preizkušeni; količine in razmerja recepta so nespremenjeni.
 - Vir: Maggie Zhu, Omnivore's Cookbook, »Steamed Bao Buns«, prebrano 11. 11. 2026 prek samodejnega povzetka strani. Zapis: `reference/testa-in-bao-2026-11-11.md`.
 - Uporabnik je potrdil recept, izpisan v pogovoru, in naročil dodajanje.
 - Uredniški preračuni: 2 skodelici moke ≈ 285 g (iz skupne mase 10 × 48 g in primerjave z metričnim receptom Hungry Huy, 290 g za 2 skodelici); ¾ skodelice mleka ≈ 180 ml; mase kvasa, pecilnega praška in sladkorja so približne pretvorbe žličk. Palci so preračunani v cm. Vir v korakih navaja 5 minut počitka po kuhanju, v odpravljanju težav pa vsaj 10.

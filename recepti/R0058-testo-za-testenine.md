@@ -42,8 +42,13 @@ Količina je za približno eno porcijo; za več porcij pomnoži.
 - **Rumenjakovo testo** je trše za gnetenje, a se po počitku lepo razvalja zelo tanko.
 - **Ne izsuši.** Testo, ki ga ne valjaš, imej pokrito.
 
+## Hitra izvedba za tekmovanje
+
+- **Sekljalnik.** Moko in jajca zmelji v sunkih, da nastanejo drobtine, ki se ob stisku povežejo. Nato testo le še na kratko pregneti; počitek skrajšaj, a ga ne izpusti.
+
 ## Uredniška evidenca
 
+- 26. 11. 2026: dodan razdelek »Hitra izvedba za tekmovanje« na uporabnikovo željo (časovna optimizacija za MasterChef). Nasveti so uredniški, po splošni strokovni praksi, in niso preizkušeni; količine in razmerja recepta so nespremenjeni.
 - Vir razmerij: uporabnik, 11. 11. 2026: »100 g moke, 1 jajce« in »100 g moke, 90 g rumenjaka«.
 - Uredniško: postopek, časi gnetenja in počivanja, nasvet o moki tip 00 in vsi triki so povzetek splošne tehnike, ne iz enega vira. Sol ni dodana, ker je uporabnik ne navaja.
 - Odprto: vrsta moke, ocena porcije, praktični preizkus.

@@ -40,12 +40,17 @@ Izberi **eno** vrstico; ne seštevaj različic.
 3. **Stepi sneg** iz beljakov in sladkorja do mehkih vršičkov.
 4. **Poveži pri 40–45 °C.** V čokoladno osnovo vmešaj četrtino snega, nato nežno preostanek. Razdeli v posodice in ohladi.
 
+## Hitra izvedba za tekmovanje
+
+- **Hitro strjevanje.** Napolni majhne kozarce ali plitve posodice in jih postavi v zamrzovalnik namesto v hladilnik. Strjevanje se skrajša z ur na manj kot uro; preveri na dotik in ne pusti, da zmrzne. Postrezi v kozarcu, ne zvračaj.
+
 ## Povezani recepti
 
 [Pregled: 1.9 Moussi — sladke pene](01-09-moussi.md).
 
 ## Uredniška evidenca
 
+- 26. 11. 2026: dodan razdelek »Hitra izvedba za tekmovanje« na uporabnikovo željo (časovna optimizacija za MasterChef). Nasveti so uredniški, po splošni strokovni praksi, in niso preizkušeni; količine in razmerja recepta so nespremenjeni.
 - Vir: [Valrhona, 5 shades of mousse](https://www.valrhona.com/en/inspiring-you/recipes/all-our-recipes/5-shades-of-mousse); pregledano 5. 11. 2026. Količine so iz objavljene recepture, postopek je samostojno strnjen.
 - Ohranjene tri natančne različice. Smetana 36 % je potrjena tudi v avtorjevem PDF 5-SHADES-OF-MOUSSE. Dodatek pasteriziranih jajc je uredniški; količine so nespremenjene. Čas strjevanja za te tri različice v tej objavi ni podan.
 - Praktični preizkus še ni opravljen. Manjkajoči podatki niso ocenjeni; glej skupno [evidenco](../reference/moussi-2026-11-05.md).

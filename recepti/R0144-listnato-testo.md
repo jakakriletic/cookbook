@@ -55,6 +55,10 @@ Klasično listnato testo brez kvasa: osnovno testo (détrempe) ovije maslo, nato
 - Testa ne oblikuj v kepo, sicer izgubi plasti.
 - Testo se dobro zamrzne; odmrzuj ga čez noč v hladilniku. V hladilniku zdrži teden dni, zamrznjeno tri mesece, a se dvigne manj kot sveže.
 
+## Hitra izvedba za tekmovanje
+
+- **Hitro listnato testo.** Za tekmovanje hladno maslo v kockah le grobo vmešaj v moko z vodo in soljo ter naredi obrate s kratkimi počitki v zamrzovalniku. Plasti so manj pravilne, okus in hrustljavost pa ostaneta.
+
 ## Povezani recepti
 
 Kvašeno listnato testo je v [francoskem listnatem testu za rogljičke](R0077-francosko-listnato-kvaseno-testo.md).
@@ -65,6 +69,7 @@ Prevod recepta [Livre de cuisine/Pâte feuilletée](https://fr.wikibooks.org/w/i
 
 ## Uredniška evidenca
 
+- 26. 11. 2026: dodan razdelek »Hitra izvedba za tekmovanje« na uporabnikovo željo (časovna optimizacija za MasterChef). Nasveti so uredniški, po splošni strokovni praksi, in niso preizkušeni; količine in razmerja recepta so nespremenjeni.
 - Prebrano 21. 11. 2026. Količine nespremenjene. Vir dopušča margarino; tu zapisano maslo.
 - Temperatura in čas peke sta iz angleškega Wikibooks, ne iz francoskega recepta.
 - Izplen in mere pravokotnika niso navedeni.

@@ -43,6 +43,10 @@ Osnovno nesladkano krhko testo za tarte, quiche in tarte Tatin. Maslo se najprej
 - **Fraziranje** poveže testo in enakomerno razporedi maslo, ne da bi ga gnetel.
 - **Hladne roke in hladno maslo,** da se maslo ne stopi.
 
+## Hitra izvedba za tekmovanje
+
+- **Sekljalnik in zamrzovalnik.** Moko, sladkor in hladno maslo v kockah zmelji v kratkih sunkih do drobtin, dodaj tekoče sestavine in sunkoma mešaj, dokler se testo ne začne povezovati. Testo takoj razvaljaj med dvema listoma papirja za peko in ploščo za kratek čas postavi v zamrzovalnik namesto dolgega počitka v hladilniku.
+
 ## Povezani recepti
 
 - [Tarte Tatin](R0183-tarte-tatin.md), [jabolčna tarta](R0184-jabolcna-tarta.md).
@@ -50,6 +54,7 @@ Osnovno nesladkano krhko testo za tarte, quiche in tarte Tatin. Maslo se najprej
 
 ## Uredniška evidenca
 
+- 26. 11. 2026: dodan razdelek »Hitra izvedba za tekmovanje« na uporabnikovo željo (časovna optimizacija za MasterChef). Nasveti so uredniški, po splošni strokovni praksi, in niso preizkušeni; količine in razmerja recepta so nespremenjeni.
 - Vir prebran 26. 11. 2026; kratko samostojno ubesedeno. Količine nespremenjene.
 - Razmerje 2 : 1 je razvidno iz recepture (250 g moke : 125 g masla) in je splošno znano izhodišče za krhko testo.
 - Odprto: masa vode, počitek v hladilniku pred valjanjem (vir pravi, da ni nujen). Ni preizkušeno.

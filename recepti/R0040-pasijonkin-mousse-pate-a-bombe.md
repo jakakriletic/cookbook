@@ -35,12 +35,17 @@ datum_prejema: "2026-11-05"
 3. **Skuhaj sirup** iz 175 g sladkorja in 44 g vode do **120 °C**. Pri približno **113 °C** začni stepati rumenjake. Sirup dodajaj v kratkih odmerkih ob ustavljanju mešalnika, nato vsakokrat takoj ponovno stepaj. Nadaljuj do sobne temperature.
 4. **Poveži.** Polovico sadne osnove vmešaj v jajčno peno, drugo v smetano; nato zmesi nežno združi. Napolni posode in ohladi.
 
+## Hitra izvedba za tekmovanje
+
+- **Hitro strjevanje.** Napolni majhne kozarce ali plitve posodice in jih postavi v zamrzovalnik namesto v hladilnik. Strjevanje se skrajša z ur na manj kot uro; preveri na dotik in ne pusti, da zmrzne. Postrezi v kozarcu, ne zvračaj.
+
 ## Povezani recepti
 
 [Pregled: 1.9 Moussi — sladke pene](01-09-moussi.md).
 
 ## Uredniška evidenca
 
+- 26. 11. 2026: dodan razdelek »Hitra izvedba za tekmovanje« na uporabnikovo željo (časovna optimizacija za MasterChef). Nasveti so uredniški, po splošni strokovni praksi, in niso preizkušeni; količine in razmerja recepta so nespremenjeni.
 - Vir: [Sally Elias, objava z dovoljenjem iz The Pastry Chef’s Little Black Book](https://thecakemd.wordpress.com/2021/02/08/passion-fruit-mousse/); pregledano 5. 11. 2026. Količine so iz objavljene recepture, postopek je samostojno strnjen.
 - Ohranjena spletna objava z navedbo dovoljenja avtorjev knjige, ne nepooblaščena kopija knjige. 248 °F = 120 °C; 235 °F ≈ 113 °C; 65 °F ≈ 18 °C. Silver ni samodejno pretvorjen v poljubno želatino. Privzeta različica je 10 % sladkani pire; alternativa sladkorja iz vira ni pretvorjena v novo recepturo. Sirup ni predstavljen kot dokaz pasterizacije jajc.
 - Praktični preizkus še ni opravljen. Manjkajoči podatki niso ocenjeni; glej skupno [evidenco](../reference/moussi-2026-11-05.md).

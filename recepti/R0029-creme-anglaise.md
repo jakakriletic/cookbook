@@ -42,12 +42,18 @@ Termometer s sondo, fino cedilo.
 
 Uredniško: po dodatku rumenjakov omake ne kuhaj kot škrobno slaščičarsko kremo. Razlika v postopku je ključna.
 
+## Hitra izvedba za tekmovanje
+
+- **Vse naenkrat, s paličnim mešalnikom.** Rumenjake, sladkor, hladno mleko in smetano z vanilijo zmešaj s paličnim mešalnikom kar v kozici. Segrevaj na srednjem ognju ob stalnem mešanju z lopatico do **82 °C** in takoj odstavi. Temperiranje odpade; termometer je obvezen.
+- **Hlajenje na ledu.** Omako precedi v posodo, ki stoji v ledeni vodi, in mešaj, dokler se ne ohladi.
+
 ## Povezani recepti
 
 [R0028 Slaščičarska krema](R0028-slascicarska-krema.md); sklic iz 1.8 Sadni pripravki in sladke omake.
 
 ## Uredniška evidenca
 
+- 26. 11. 2026: dodan razdelek »Hitra izvedba za tekmovanje« na uporabnikovo željo (časovna optimizacija za MasterChef). Nasveti so uredniški, po splošni strokovni praksi, in niso preizkušeni; količine in razmerja recepta so nespremenjeni.
 - [L'Hôtellerie Restauration, 12. 12. 2016](https://www.lhotellerie-restauration.fr/actualite/la-creme-anglaise), javno objavljena receptura iz knjige Eddieja Benghanema; pregledano 1. 11. 2026. Besedilo je samostojno strnjeno, fotografije niso prevzete.
 - 17 in 20 cl sta pretvorjena v ml, polovici sladkorja izračunani. Izplen je navedba vira, ne domača meritev.
 - Odprto: masa rumenjakov, čas hlajenja in praktični preizkus. Rok uporabnosti ni določen.

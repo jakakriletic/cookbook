@@ -46,12 +46,18 @@ Gladek, masleni pire. Mora biti mehak, a ne tekoč, in čvrst, a brez grudic.
 - **Z več masla.** Za zelo bogat pire lahko maslo povečaš; kremavost uravnavaj s smetano ali mlekom.
 - **S česnovim konfitom.** Vmešaj nekaj strokov česna, počasi kuhanih v olju, in sesekljan peteršilj.
 
+## Hitra izvedba za tekmovanje
+
+- **Manjše kocke v vreli vodi.** Krompir nareži na enake kocke **2–3 cm** in ga daj v že vrelo slano vodo; skuha se v približno **15–20 minutah**.
+- **Smetana in maslo hkrati.** Smetano z maslom segrej v mikrovalovni pečici, medtem ko se krompir odceja.
+
 ## Povezani recepti
 
 - [Pečen krompir na račji masti](R0021-pecen-krompir.md).
 
 ## Uredniška evidenca
 
+- 26. 11. 2026: dodan razdelek »Hitra izvedba za tekmovanje« na uporabnikovo željo (časovna optimizacija za MasterChef). Nasveti so uredniški, po splošni strokovni praksi, in niso preizkušeni; količine in razmerja recepta so nespremenjeni.
 - Vir prebran 26. 11. 2026 (strukturirani podatki in besedilo strani); kratko samostojno ubesedeno. Količine nespremenjene: 1 kg krompirja, 100 g masla, 5 cl smetane.
 - Vir dovoljuje samo maslo, samo smetano ali oboje; po potrebi malo mleka.
 - Primerjalno: Wikibooks, Cookbook:Mashed Potatoes, rev. 4669243 (1 kg krompirja, 60 g masla, 60 ml mleka ali smetane; kuhanje 15–20 minut; opozorilo, da mešalnik naredi pire lepljiv).

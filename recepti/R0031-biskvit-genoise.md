@@ -36,8 +36,13 @@ datum_prejema: "2026-11-01"
 5. **Dodaj maslo.** Maslo poveži z ekstraktom in tretjino mase, nato previdno vmešaj nazaj.
 6. **Speci** v modelih **20–25 minut**, do prožne sredice. V modelih hladi **15 minut**, nato prestavi na mrežico.
 
+## Hitra izvedba za tekmovanje
+
+- **Tanka plošča namesto modelov.** Maso razmaži v tanki plasti po pekaču s papirjem za peko. Tanka plošča se speče in ohladi precej hitreje; izreži jo z obročem ali nožem. Pečenost preveri z zobotrebcem.
+
 ## Uredniška evidenca
 
+- 26. 11. 2026: dodan razdelek »Hitra izvedba za tekmovanje« na uporabnikovo željo (časovna optimizacija za MasterChef). Nasveti so uredniški, po splošni strokovni praksi, in niso preizkušeni; količine in razmerja recepta so nespremenjeni.
 - 9. 11. 2026: na uporabnikovo željo sladkor zaokrožen s 149 g (99 + 50 g) na 150 g (100 + 50 g), maslo s 57 g na 55 g. Izvirnik in odstopanja v [evidenci praktičnih količin](../reference/prakticne-kolicine-2026-11-09.md). Zaokrožena različica še ni preizkušena.
 - [King Arthur Baking — Genoise](https://www.kingarthurbaking.com/recipes/genoise-recipe), pregledano 1. 11. 2026; samostojen strnjen zapis. Izbrana samo izvedba z dvema modeloma.
 - Pretvorbi iz vira: 350 °F ≈ 177 °C, 110 °F ≈ 43 °C; 9 palcev = 22,86 cm. Način pečice in mase jajc so za dopolnitev. Povzetek na strani navaja drugačen čas; ohranjen je podrobni postopek. Ni preizkušeno.

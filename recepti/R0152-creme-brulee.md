@@ -41,12 +41,17 @@ Hladna vaniljeva krema iz smetane in rumenjakov, pečena v vodni kopeli, s hrust
 8. **Ohladi.** Ramekine vzemi iz vode, ohladi na rešetki, pokrij in hladi vsaj **4 ure**.
 9. **Skorjica.** Tik pred serviranjem enakomerno potresi tanko plast sladkorja in ga z gorilnikom stali v trdo karamelno skorjico. Ne uporabljaj pečice ali žara, ker pregreješ kremo.
 
+## Hitra izvedba za tekmovanje
+
+- **Kuhana krema namesto peke.** Smetano, sladkor in rumenjake med mešanjem segrej v kozici do **82 °C** kot vaniljevo omako, precedi v plitve modelčke in jih ohladi na ledu ali v zamrzovalniku. Vodna kopel in peka odpadeta; tekstura je malo mehkejša, a zelo kremasta. Skorjico naredi s plamenom, ko je krema hladna.
+
 ## Vir in licenca
 
 Prevod in priredba strani [Cookbook:Crème Brûlée I](https://en.wikibooks.org/w/index.php?title=Cookbook:Cr%C3%A8me_Br%C3%BBl%C3%A9e_I&oldid=4658446) (postopek po Dawn Yanagihara) in navodila za skorjico s strani Cookbook:Crème Brûlée II, sodelavci Wikibooks, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Spremembe: prevod, °F v °C, oštevilčen postopek.
 
 ## Uredniška evidenca
 
+- 26. 11. 2026: dodan razdelek »Hitra izvedba za tekmovanje« na uporabnikovo željo (časovna optimizacija za MasterChef). Nasveti so uredniški, po splošni strokovni praksi, in niso preizkušeni; količine in razmerja recepta so nespremenjeni.
 - Prebrano 21. 11. 2026. Količine nespremenjene.
 - **Za dopolnitev:** masa sladkorja. Vir navaja 240 ml (1 cup) in hkrati 9 oz (255 g); vrednosti nista skladni, zato je zapisana prostornina. Pred vajo stehtaj in zapiši.
 - Konec postopka v Crème Brûlée I je v viru odrezan; skorjica je po Crème Brûlée II. Količina 1 žlička sladkorja na ramekin je izpeljana iz 12 žličk za 12 ramekinov.
