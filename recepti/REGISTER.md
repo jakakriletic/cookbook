@@ -4,7 +4,7 @@ Posodobljeno: 26. 11. 2026.
 
 Za vključitev izbranih vnosov: **250** (R0001–R0045 in R0047–R0251). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0252**.
 
-**Aktualna izdaja, 26. 11. 2026:** [Wordova knjiga](../outputs/moj-kuharski-zvezek.docx) in [PDF](../outputs/moj-kuharski-zvezek.pdf) imata 224 receptov, 13 poglavij in 170 strani, v novem strnjenem slogu (recepti v dveh stolpcih). Evidenca izdaje: `reference/izdaja-2026-11-26.md`.
+**Aktualna izdaja, 26. 11. 2026:** [Wordova knjiga](../outputs/moj-kuharski-zvezek.docx) in [PDF](../outputs/moj-kuharski-zvezek.pdf) imata 250 receptov, 13 poglavij in 185 strani, v novem strnjenem slogu (recepti v dveh stolpcih). Evidenca izdaje: `reference/izdaja-2026-11-26.md`.
 
 **11. 11. 2026:** dodana poglavja 14 Julius fine dining (R0048, R0049), 15 Biskviti (R0050, R0051) in 16 Okisovanje (R0052, R0053). Vsi so vključeni v berljivo izdajo z dne 11. 11. 2026. Pri 12 receptih je dodana vrstica »Razmerje po masi«; pregled v `reference/razmerja-2026-11-11.md`.
 
@@ -369,6 +369,8 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 - Končni naslov knjige lahko uporabnik določi pozneje; trenutni je »Moj kuharski zvezek«.
 
 ## Dnevnik
+
+- 26. 11. 2026: dodani R0232–R0251 in osvežena Word ter PDF. [Pregled novih receptov](../reference/tuja-kulinarika-2026-11-26.md).
 
 - 26. 11. 2026: iz treh Instagram Reelsov dodani R0229 suhi paradižnikov biskvit (10.6), R0230 vroča bučna pena (novo 9.4 Pene) in R0231 trska v glazuri iz rdeče pese (11.2). Aktivnih vnosov 230, naslednji ID R0232.
 - 26. 11. 2026: iz treh Instagram Reelsov, ki jih je poslal uporabnik (prvi preizkus `scripts/video-v-besedilo.sh`), dodani R0226 losos z ribjo farso (Monika Cubela) in R0227 bučkin rouleau z jastogom (Chef Rohit) v novo 11.2 Ribe in morski sadeži ter R0228 hrustljav ocvrt por (Shane Spencer) v novo 10.6 Hrustljavi okraski. Noben ni Jules Cooking. Aktivnih vnosov 227, naslednji ID R0229.
