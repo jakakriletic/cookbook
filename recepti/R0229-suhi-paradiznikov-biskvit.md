@@ -24,7 +24,7 @@ Biskvit iz sifona, pečen v mikrovalovni pečici, nato nalomljen in posušen pri
 | Jajca | za dopolnitev |
 | Moka | za dopolnitev |
 | Olje | za dopolnitev |
-| Polnilo za sifon (N₂O) | 1–2 |
+| Polnilo za sifon (N₂O) | za dopolnitev |
 
 ## Postopek
 

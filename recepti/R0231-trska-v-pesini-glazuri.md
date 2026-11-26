@@ -56,7 +56,7 @@ Trska v 5-odstotni slanici, zavita v valj, kuhana v sopari do 52 °C v sredici i
 
 ## Povezani recepti
 
-- [Losos z ribjo farso](R0226-losos-s-ribjo-farso.md), [ribji file na koži](R0159-ribji-file-na-kozi.md), [temperature v sredici mesa](R0157-temperature-v-sredici-mesa.md).
+- [Losos z ribjo farso](R0226-losos-s-ribjo-farso.md), [ribji file na koži](R0159-ribji-file-na-kozi.md), [temperature v sredici mesa](R0157-temperature-v-sredici.md).
 
 ## Uredniška evidenca
 
