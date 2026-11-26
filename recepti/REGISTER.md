@@ -2,9 +2,9 @@
 
 Posodobljeno: 26. 11. 2026.
 
-Za vključitev izbranih vnosov: **250** (R0001–R0045 in R0047–R0251). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0252**.
+Za vključitev izbranih vnosov: **251** (R0001–R0045 in R0047–R0252). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0253**.
 
-**Aktualna izdaja, 26. 11. 2026:** [Wordova knjiga](../outputs/moj-kuharski-zvezek.docx) in [PDF](../outputs/moj-kuharski-zvezek.pdf) imata 250 receptov, 13 poglavij in 185 strani, v novem strnjenem slogu (recepti v dveh stolpcih). Evidenca izdaje: `reference/izdaja-2026-11-26.md`.
+**Aktualna izdaja, 26. 11. 2026:** [Wordova knjiga](../outputs/moj-kuharski-zvezek.docx) in [PDF](../outputs/moj-kuharski-zvezek.pdf) imata 251 receptov, 13 poglavij in 192 strani, v novem strnjenem slogu (recepti v dveh stolpcih). Evidenca izdaje: `reference/izdaja-2026-11-26.md`.
 
 **11. 11. 2026:** dodana poglavja 14 Julius fine dining (R0048, R0049), 15 Biskviti (R0050, R0051) in 16 Okisovanje (R0052, R0053). Vsi so vključeni v berljivo izdajo z dne 11. 11. 2026. Pri 12 receptih je dodana vrstica »Razmerje po masi«; pregled v `reference/razmerja-2026-11-11.md`.
 
@@ -256,6 +256,7 @@ Zgradba je poenotena 11. 11. 2026: številke v stolpcu »Glavno poglavje« so en
 | [R0144](R0144-listnato-testo.md) | Listnato testo (pâte feuilletée) | 2.7 Listnato testo | listnato testo; laminiranje | Wikilivres, Pâte feuilletée; Wikibooks, Puff Pastry; CC BY-SA 4.0 | delovno — ni preizkušeno | R0077 |
 | [R0145](R0145-biskvit-joconde.md) | Biskvit joconde | 3.3 Mandljevi biskviti | joconde; mandlji; entremet | Chef Simon, Biscuit Joconde | delovno — velikost pekača za dopolnitev | R0031; R0146 |
 | [R0146](R0146-dakvaz.md) | Dakvaz (dacquoise) | 3.3 Mandljevi biskviti | dakvaz; dacquoise; mandljeva meringa | Chef Simon, Dacquoise | delovno — masa beljakov za dopolnitev | R0145; R0034 |
+| [R0252](R0252-vlazen-cokoladni-biskvit.md) | Vlažen čokoladni biskvit z oljem in kavo | 3.4 Čokoladni biskviti | biskvit; čokolada; kakav; olje; pinjenec; kisla smetana; kava | Moje Wypieki, Chocolate layer cake (po Ini Garten) | delovno — grami pretvorjeni iz skodelic; ni preizkušeno | R0031; R0032 |
 | [R0147](R0147-italijanska-meringa.md) | Italijanska meringa | 4.1 Meringe | italijanska meringa; sladkorni sirup | Wikibooks, Italian Meringue; CC BY-SA 4.0 | delovno — ni preizkušeno | R0034; R0044; R0148 |
 | [R0148](R0148-stopnje-kuhanja-sladkorja.md) | Stopnje kuhanja sladkorja | 4.3 Sladkor in karamela | sladkor; stopnje; temperature | Wikibooks, Cooking Sugar in Caramel; CC BY-SA 4.0 | delovno — pregledna tabela | R0047; R0147; R0149 |
 | [R0149](R0149-suha-in-mokra-karamela.md) | Suha in mokra karamela | 4.3 Sladkor in karamela | suha karamela; mokra karamela; kristalizacija | Koch-Wiki, Trockener Karamell; Wikibooks, Caramel; BCcampus | delovno — ni preizkušeno | R0148; R0136 |
@@ -370,6 +371,7 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 
 ## Dnevnik
 
+- 26. 11. 2026: na uporabnikovo željo dodan R0252 vlažen čokoladni biskvit z oljem in kavo (Moje Wypieki po Ini Garten, izbran v klepetu 24. 11. 2026) v novo podpoglavje 3.4 Čokoladni biskviti, z zamenjavo pinjenca s kislo smetano in mlekom. Aktivnih vnosov 251, naslednji ID R0253.
 - 26. 11. 2026: 50 receptov dopolnjenih z razdelkom »Hitra izvedba za tekmovanje« (uredniški nasveti za časovno optimizacijo, nepreizkušeni).
 - 26. 11. 2026: dodani R0232–R0251 in osvežena Word ter PDF. [Pregled novih receptov](../reference/tuja-kulinarika-2026-11-26.md).
 

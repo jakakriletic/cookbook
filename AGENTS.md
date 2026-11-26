@@ -1,6 +1,8 @@
 # Osebna kuharska knjiga za pripravo na MasterChef
 
-26. 11. 2026 — v 12 Tuja kulinarika dodanih 20 receptov R0232–R0251. Dopolnjena je Kitajska, nova podpoglavja so 12.4 Japonska, 12.5 Koreja, 12.6 Tajska, 12.7 Vietnam, 12.8 Indija in 12.9 Mehika. V zbirki je 250 receptov. Naslednji ID je R0252. [Pregled receptov, tehnik in časov](reference/tuja-kulinarika-2026-11-26.md).
+26. 11. 2026 — v 12 Tuja kulinarika dodanih 20 receptov R0232–R0251. Dopolnjena je Kitajska, nova podpoglavja so 12.4 Japonska, 12.5 Koreja, 12.6 Tajska, 12.7 Vietnam, 12.8 Indija in 12.9 Mehika. V zbirki je 250 receptov. Naslednji ID je R0252.
+
+26. 11. 2026 — dodan R0252 vlažen čokoladni biskvit (Ina Garten / Moje Wypieki) v novo 3.4 Čokoladni biskviti. V zbirki je 251 receptov. Naslednji ID je R0253. [Pregled receptov, tehnik in časov](reference/tuja-kulinarika-2026-11-26.md).
 
 Delovna mapa v tej seji: `C:\Users\jakak\Desktop\cookbook` (uporabnik jo je izrecno določil 5. 11. 2026).
 Z uporabnikom komuniciraj v slovenščini, sproščeno; recepte piši v jasni knjižni slovenščini.

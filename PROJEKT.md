@@ -6,6 +6,8 @@ Osebna kuharska knjiga za pripravo na MasterChef. Namen je hiter pregled med vaj
 
 ## Stanje
 
+26. 11. 2026 — čokoladni biskvit: na uporabnikovo željo dodan R0252 vlažen čokoladni biskvit z oljem in kavo (Moje Wypieki po Ini Garten, izbran v klepetu 24. 11. 2026) v novo podpoglavje 3.4 Čokoladni biskviti. Vsebuje zamenjavo pinjenca s kislo smetano (160 g + 80 ml mleka) in druge zamenjave kot variante. V zbirki je 251 receptov, naslednji ID R0253. Word in PDF sta osvežena: 251 receptov, 13 poglavij, 192 strani; recept je na oštevilčeni strani 41.
+
 26. 11. 2026 — časovna optimizacija: na uporabnikovo željo je 50 receptov dobilo razdelek »Hitra izvedba za tekmovanje« (npr. jajčne kreme vse naenkrat brez temperiranja, hlajenje v tanki plasti v zamrzovalniku, testa v sekljalniku, holandska s paličnim mešalnikom, strjevanje moussov in panna cotte v zamrzovalniku). Nasveti so uredniški, nepreizkušeni; količine in razmerja nespremenjeni. Razdelek se v knjigi izpiše v desnem stolpcu. Knjiga: 250 receptov, 190 strani.
 
 26. 11. 2026 — orodja za video: uporabnik bo pošiljal tehnike iz Instagram Reels in YouTube videov. Po poglobljeni raziskavi (`reports/Instagram in YouTube za recepte.md`) je nastavljeno okolje (gostitelji, namestitveni skript) in dodana `scripts/video-v-besedilo.sh` ter `scripts/video2text.sh`. Lokalna obdelava datoteke deluje; YouTube iz oblaka blokira preverjanje botov, Instagram še ni preizkušen. Navodila: `reference/video-orodja-2026-11-26.md`.
@@ -126,7 +128,7 @@ Zgradba je poenotena 11. 11. 2026 na uporabnikovo željo, da bo hitro jasno, kje
 | --- | --- | --- |
 | 1 Kreme in polnila | 1.1 Osnovne kreme · 1.2 Maslene kreme · 1.3 Ganaši · 1.4 Čokolada · 1.5 Glazure in sladke omake | kuhane jajčne kreme, sabayon, lemon curd, chantilly, frangipane, maslene kreme, čokoladna polnila in okraski, glazure, coulis, čokoladna omaka |
 | 2 Testa | 2.1 Osnovna testa · 2.2 Testo za testenine · 2.3 Vlečeno testo · 2.4 Ploščati kruh · 2.5 Listnato kvašeno testo · 2.6 Kruh in žemljice · 2.7 Listnato testo | vsa osnovna testa, sladka in slana: choux, krhko (sucrée, brisée, sablé), testenine, vlečeno in testo za štruklje, ploščati kruh, listnato, kvašene žemljice |
-| 3 Biskviti | 3.1 Klasični biskviti · 3.2 Pistacijevi biskviti · 3.3 Mandljevi biskviti | biskviti in podlage za torte |
+| 3 Biskviti | 3.1 Klasični biskviti · 3.2 Pistacijevi biskviti · 3.3 Mandljevi biskviti · 3.4 Čokoladni biskviti | biskviti in podlage za torte |
 | 4 Meringe in hrustljavi dodatki | 4.1 Meringe · 4.2 Hrustljave ploščice in krokant · 4.3 Sladkor in karamela | meringe, tuiles, krokant, karamela |
 | 5 Moussi | 5.1 Čokoladni moussi · 5.2 Sadni moussi | vse sladke pene; pregled `recepti/01-09-moussi.md` je na začetku 5.1 |
 | 6 Sladice in pecivo | 6.1 Makroni · 6.2 Tople sladice · 6.3 Hladne sladice · 6.4 Sladoledi in sorbeti · 6.5 Tarte · 6.6 Piškoti in drobno pecivo · 6.7 Sladice iz kuhanega testa · 6.8 Sladice iz listnatega testa · 6.9 Torte in entremeti · 6.10 Slovenske sladice | končne sladice in drobno pecivo: makroni, fondant, sufle, crumble (najprej osnovni R0190, nato različice), torte, tarte, piškoti, madlene, financierji, ekleri, mille-feuille, entremeti, cheesecake, tiramisu, pavlova, kremšnita, potica, gibanica, štruklji |
