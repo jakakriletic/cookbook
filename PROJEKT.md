@@ -4,6 +4,8 @@ Osebna kuharska knjiga za pripravo na MasterChef. Namen je hiter pregled med vaj
 
 ## Stanje
 
+26. 11. 2026 — slaščičarske vrzeli: na uporabnikovo naročilo »vse dodaj« je dodanih 31 receptov R0195–R0225 (glazure in sladke omake, lemon curd, chantilly, frangipane, čokoladni ostružki, savoiardi, rolada, sladkorne niti, karamelizirani mandlji, čokoladni sladoled in sorbet, semifreddo, granita, brownie, craquelin, ekleri in profiteroli, Paris-Brest, mille-feuille, sestavljanje entremeta, tiramisu, pavlova, dva cheesecaka, blejska kremšnita, orehova potica, prekmurska gibanica, skutni štruklji, želatina, kvenele). Nova podpoglavja 1.5, 6.7–6.10 in 7.5. Okolje `cookbook` zdaj dovoli tudi www.slovenian-kitchen.com, www.gov.si in www.visitljubljana.com. Aktivnih vnosov je 224, naslednji ID R0226. Word in PDF še nista ponovno sestavljena. Evidenca: `reference/slascicarske-vrzeli-2026-11-26.md`.
+
 26. 11. 2026 — priloge in sladice: po pregledu knjige (`reference/pregled-2026-11-26.md`) je uporabnik naročil obsežno iskanje in dodajanje prilog in sladic. Dodanih je 30 receptov R0165–R0194 iz Chef Simon, Wikibooks/Wikilivres (CC BY-SA 4.0) in delicious. magazine (R0166, samo povzetek iskalnika). Nova podpoglavja 6.5 Tarte, 6.6 Piškoti in drobno pecivo, 10.4 Zelenjavne priloge, 10.5 Solate. Uporabnikova želja: crumble najprej v osnovni hitri različici samo iz moke, masla in sladkorja (R0190), ostale različice (R0191, R0192) se sklicujejo nanjo. Za vire je ustvarjeno okolje `cookbook` z dovoljenimi gostitelji. Aktivnih vnosov je 193, naslednji ID R0195. Word in PDF še nista ponovno sestavljena. Evidenca: `reference/priloge-in-sladice-2026-11-26.md`.
 
 24. 11. 2026 — prva tekmovalna jed: uporabnik je za prvo jed na MasterChefu izbral morsko rižoto. Dodan R0164 morska rižota z vongolami, lignji in škampi v 12.3 Italijanske jedi, s sklicem iz 11 Glavne jedi (`SEE_ALSO`). Sestavine so uporabnikove, količine, časovnica in tehnike uredniške. Na uporabnikovo željo je jed omejena na največ 45 minut. Aktivnih vnosov je 163, naslednji ID R0165. Word in PDF še nista ponovno sestavljena.
@@ -114,18 +116,18 @@ Zgradba je poenotena 11. 11. 2026 na uporabnikovo željo, da bo hitro jasno, kje
 
 | Poglavje | Podpoglavja (zapolnjena) | Kaj sodi sem |
 | --- | --- | --- |
-| 1 Kreme in polnila | 1.1 Osnovne kreme · 1.2 Maslene kreme · 1.3 Ganaši · 1.4 Čokolada | kuhane jajčne kreme in sabayon, maslene kreme, čokoladna polnila |
+| 1 Kreme in polnila | 1.1 Osnovne kreme · 1.2 Maslene kreme · 1.3 Ganaši · 1.4 Čokolada · 1.5 Glazure in sladke omake | kuhane jajčne kreme, sabayon, lemon curd, chantilly, frangipane, maslene kreme, čokoladna polnila in okraski, glazure, coulis, čokoladna omaka |
 | 2 Testa | 2.1 Osnovna testa · 2.2 Testo za testenine · 2.3 Vlečeno testo · 2.4 Ploščati kruh · 2.5 Listnato kvašeno testo · 2.6 Kruh in žemljice · 2.7 Listnato testo | vsa osnovna testa, sladka in slana: choux, krhko (sucrée, brisée, sablé), testenine, vlečeno in testo za štruklje, ploščati kruh, listnato, kvašene žemljice |
 | 3 Biskviti | 3.1 Klasični biskviti · 3.2 Pistacijevi biskviti · 3.3 Mandljevi biskviti | biskviti in podlage za torte |
 | 4 Meringe in hrustljavi dodatki | 4.1 Meringe · 4.2 Hrustljave ploščice in krokant · 4.3 Sladkor in karamela | meringe, tuiles, krokant, karamela |
 | 5 Moussi | 5.1 Čokoladni moussi · 5.2 Sadni moussi | vse sladke pene; pregled `recepti/01-09-moussi.md` je na začetku 5.1 |
-| 6 Sladice in pecivo | 6.1 Makroni · 6.2 Tople sladice · 6.3 Hladne sladice · 6.4 Sladoledi in sorbeti · 6.5 Tarte · 6.6 Piškoti in drobno pecivo | končne sladice in drobno pecivo: makroni, fondant, sufle, crumble (najprej osnovni R0190, nato različice), torte, tarte, piškoti, madlene, financierji |
+| 6 Sladice in pecivo | 6.1 Makroni · 6.2 Tople sladice · 6.3 Hladne sladice · 6.4 Sladoledi in sorbeti · 6.5 Tarte · 6.6 Piškoti in drobno pecivo · 6.7 Sladice iz kuhanega testa · 6.8 Sladice iz listnatega testa · 6.9 Torte in entremeti · 6.10 Slovenske sladice | končne sladice in drobno pecivo: makroni, fondant, sufle, crumble (najprej osnovni R0190, nato različice), torte, tarte, piškoti, madlene, financierji, ekleri, mille-feuille, entremeti, cheesecake, tiramisu, pavlova, kremšnita, potica, gibanica, štruklji |
 
 **Slano**
 
 | Poglavje | Podpoglavja (zapolnjena) | Kaj sodi sem |
 | --- | --- | --- |
-| 7 Kuharske osnove | 7.1 Osnovna razmerja · 7.2 Fondi · 7.3 Recepti iz osnovnega sortimenta · 7.4 Meso in ribe: temperature in pečenje | razmerja, fondi, osnove, farse in tehnike, ki niso samostojna jed |
+| 7 Kuharske osnove | 7.1 Osnovna razmerja · 7.2 Fondi · 7.3 Recepti iz osnovnega sortimenta · 7.4 Meso in ribe: temperature in pečenje · 7.5 Tehnike | razmerja, fondi, osnove, farse in tehnike, ki niso samostojna jed |
 | 8 Okisovanje | 8.1 Hitro okisanje | okisanje in vlaganje zelenjave in sadja (fermentacija naj dobi svoje podpoglavje) |
 | 9 Omake | 9.1 Matične in izpeljane omake · 9.2 Maslene omake · 9.3 Omake za ribe in morske sadeže | tople in hladne omake, emulzije, prelivi; pregled `recepti/04-04-maticne-in-izpeljane-omake.md` na začetku 9.1 |
 | 10 Priloge | 10.1 Krompir · 10.2 Pireji · 10.3 Riž in rižota · 10.4 Zelenjavne priloge · 10.5 Solate | krompir, pireji, riž, zelenjavne priloge, solate in solatni prelivi; pregled `recepti/05-04-pireji-in-kreme.md` na začetku 10.2 |

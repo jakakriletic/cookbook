@@ -88,6 +88,7 @@ Za Byattovo količino (280 g tekočine) to pomeni približno **5–10 g sladkorj
 
 ## Serviranje in povezani recepti
 
+- [Ekleri in profiteroli](R0198-ekleri-in-profiteroli.md), [Paris-Brest](R0200-paris-brest.md), [craquelin](R0197-craquelin.md).
 Uredniški sklic, dodan 1. 11. 2026: v zbirki je zdaj [R0028 Slaščičarska krema](R0028-slascicarska-krema.md) iz drugega vira. Lahko je osnova za ločeno vajo polnjenja; ni predstavljena kot Byattova receptura ali rekonstrukcija njegovega polnila.
 
 Polnila v videu:

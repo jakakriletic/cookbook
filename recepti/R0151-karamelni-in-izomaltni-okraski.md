@@ -42,6 +42,10 @@ datum_prejema: "2026-11-21"
 - Hrani ga v zaprti posodi pri sobni temperaturi, po želji z vrečko silikagela.
 - V večjih količinah lahko povzroči prebavne težave.
 
+## Povezani recepti
+
+- [Sladkorne niti in kupola iz karamele](R0218-sladkorne-niti.md).
+
 ## Vir in licenca
 
 Priredba strani [Cookbook:Isomalt](https://en.wikibooks.org/w/index.php?title=Cookbook:Isomalt&oldid=4520591) in [Cookbook:Caramel](https://en.wikibooks.org/w/index.php?title=Cookbook:Caramel&oldid=4673545), sodelavci Wikibooks, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Spremembe: prevod, °F v °C, oštevilčeni koraki.
@@ -50,4 +54,4 @@ Priredba strani [Cookbook:Isomalt](https://en.wikibooks.org/w/index.php?title=Co
 
 - Prebrano 21. 11. 2026. Vir navaja 2 oz / 125 g vode na 1 kg; 335 °F (168 °C), 310 °F (154 °C), 300 °F (149 °C).
 - Karamelni drobci: vir samo navaja, da se čista karamela vliva ali oblikuje; silikonska podloga in lomljenje sta uredniški opis, kot pri R0136.
-- **Za dopolnitev:** vlečene sladkorne niti (spun sugar) s preverjenim virom; v dosegljivih virih receptura ni bila najdena.
+- 26. 11. 2026: vlečene sladkorne niti (spun sugar) so dodane kot samostojen recept R0218 po Chef Simonu.
