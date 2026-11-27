@@ -6,6 +6,8 @@ Osebna kuharska knjiga za pripravo na MasterChef. Namen je hiter pregled med vaj
 
 ## Stanje
 
+27. 11. 2026 — razširjen R0157 v 7.4 s pečenostjo zrezkov, počasno peko, divjačino in morskimi sadeži.
+
 27. 11. 2026 — karpačo: R0280 karpačo iz kozic s stiskalnico za tortilje (Gronda, chef Danilo Cortellini; količine samo »na zahtevo«, za dopolnitev); 11.5 preimenovano v Tatarji in karpači. 279 receptov, naslednji ID R0281.
 
 27. 11. 2026 — 12.8 Indija: iz dveh videov HomeCookingShow, ki ju je poslal uporabnik, dodana R0278 laal maas in R0279 malai kofta. Recept je vzet iz opisa videa, prebranega v vgrajenem brskalniku na uporabnikovem računalniku (domači IP, brez bot-preverjanja). Na uporabnikovo željo so v postopku hacki za pospešitev v oklepajih (»*(Hack: …)*«, npr. ekonom lonec), s časi iz receptnih strani, označeni za preverbo. 278 receptov, naslednji ID R0280.
