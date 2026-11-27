@@ -4,6 +4,8 @@
 
 26. 11. 2026 — dodan R0252 vlažen čokoladni biskvit (Ina Garten / Moje Wypieki) v novo 3.4 Čokoladni biskviti. V zbirki je 251 receptov. Naslednji ID je R0253. [Pregled receptov, tehnik in časov](reference/tuja-kulinarika-2026-11-26.md).
 
+27. 11. 2026 — R0190 osnovni crumble ima razdelek »Hitra izvedba za tekmovanje«, izrecno označen kot MasterChef varianta (stopljeno maslo, enake količine). Word in PDF imata 251 receptov in 192 strani.
+
 Delovna mapa v tej seji: `C:\Users\jakak\Desktop\cookbook` (uporabnik jo je izrecno določil 5. 11. 2026).
 Z uporabnikom komuniciraj v slovenščini, sproščeno; recepte piši v jasni knjižni slovenščini.
 

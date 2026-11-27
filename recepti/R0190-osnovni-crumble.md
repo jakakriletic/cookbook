@@ -52,6 +52,19 @@ Vse različice uporabljajo ta osnovni crumble.
 - [Jabolčni crisp z ovsenimi kosmiči](R0192-jabolcni-crisp.md): del moke zamenjajo ovseni kosmiči.
 - **S cimetom:** v drobtine dodaj ščepec cimeta.
 
+## Hitra izvedba za tekmovanje
+
+**MasterChef varianta: hitri crumble s stopljenim maslom.** Količine so enake: 120 g moke, 60 g masla, 60 g sladkorja.
+
+1. **Stopi maslo** v mikrovalovni pečici ali v kozici.
+2. **Zmešaj.** Moko in sladkor zmešaj v skledi, prelij s stopljenim maslom in premešaj z vilicami, da nastanejo grudice.
+3. **Nadrobi.** Grudice s prsti nadrobi na različne velikosti in jih razsuj po pekaču s papirjem.
+4. **Speci** pri **180 °C** približno **10–15 minut**, da so zlate; na polovici premešaj in v zadnjih minutah pazi na barvo. Pečene drobtine stresi na papir, ker hrustljave postanejo med hlajenjem.
+
+- **Hitreje kot klasika:** ni čakanja na hladno maslo in ni drobljenja masla v moko. Mešanje traja približno minuto.
+- **Večje grude:** drobtine so bolj grudaste in hrustljave, podobne streuselu.
+- **Ščepec soli** in rjavi sladkor izboljšata okus.
+
 ## Povezani recepti
 
 - [Vaniljev sladoled](R0155-vaniljev-sladoled.md), [vaniljeva omaka](R0029-creme-anglaise.md).
@@ -62,3 +75,4 @@ Vse različice uporabljajo ta osnovni crumble.
 - Vir za sestavine in razmerje: Chef Simon, Crumble pommes myrtilles, prebrano 26. 11. 2026 (120 g moke, 60 g masla, 60 g vergeoise brune; maslo zdrobljeno z moko s prsti, brez segrevanja; peka na sadju pri 180 °C 20–30 minut). Vergeoise je zapisan kot rjavi sladkor.
 - Uredniško: peka drobtin posebej na pekaču 10–15 minut s premešanjem, sekljalnik v sunkih, beli sladkor kot možnost, izplen kot vsota mas, sestavljanje tik pred serviranjem.
 - Ni preizkušeno.
+- 27. 11. 2026: na uporabnikovo željo dodan razdelek »Hitra izvedba za tekmovanje« z izrecno oznako MasterChef varianta: metoda s stopljenim maslom. Uredniško, po splošni praksi (streusel s stopljenim maslom), ni preizkušeno. Količine in razmerje 2 : 1 : 1 nespremenjeni; čas peke 10–15 minut prevzet iz osnovnega postopka, pri večjih grudah morda nekaj minut več – preveri barvo.

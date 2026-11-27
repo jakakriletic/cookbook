@@ -6,6 +6,8 @@ Osebna kuharska knjiga za pripravo na MasterChef. Namen je hiter pregled med vaj
 
 ## Stanje
 
+27. 11. 2026 — hitri crumble: na uporabnikovo željo je v R0190 dodan razdelek »Hitra izvedba za tekmovanje«, izrecno naslovljen »MasterChef varianta: hitri crumble s stopljenim maslom« (enake količine 120 : 60 : 60; uredniško, ni preizkušeno). Word in PDF ponovno sestavljena: 251 receptov, 192 strani.
+
 26. 11. 2026 — čokoladni biskvit: na uporabnikovo željo dodan R0252 vlažen čokoladni biskvit z oljem in kavo (Moje Wypieki po Ini Garten, izbran v klepetu 24. 11. 2026) v novo podpoglavje 3.4 Čokoladni biskviti. Vsebuje zamenjavo pinjenca s kislo smetano (160 g + 80 ml mleka) in druge zamenjave kot variante. V zbirki je 251 receptov, naslednji ID R0253. Word in PDF sta osvežena: 251 receptov, 13 poglavij, 192 strani; recept je na oštevilčeni strani 41.
 
 26. 11. 2026 — časovna optimizacija: na uporabnikovo željo je 50 receptov dobilo razdelek »Hitra izvedba za tekmovanje« (npr. jajčne kreme vse naenkrat brez temperiranja, hlajenje v tanki plasti v zamrzovalniku, testa v sekljalniku, holandska s paličnim mešalnikom, strjevanje moussov in panna cotte v zamrzovalniku). Nasveti so uredniški, nepreizkušeni; količine in razmerja nespremenjeni. Razdelek se v knjigi izpiše v desnem stolpcu. Knjiga: 250 receptov, 190 strani.
