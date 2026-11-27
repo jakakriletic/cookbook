@@ -1,8 +1,8 @@
 # Register receptov
 
-Posodobljeno: 26. 11. 2026.
+Posodobljeno: 27. 11. 2026.
 
-Za vključitev izbranih vnosov: **251** (R0001–R0045 in R0047–R0252). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0253**.
+Za vključitev izbranih vnosov: **255** (R0001–R0045 in R0047–R0256). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0257**.
 
 **Aktualna izdaja, 26. 11. 2026:** [Wordova knjiga](../outputs/moj-kuharski-zvezek.docx) in [PDF](../outputs/moj-kuharski-zvezek.pdf) imata 251 receptov, 13 poglavij in 192 strani, v novem strnjenem slogu (recepti v dveh stolpcih). Evidenca izdaje: `reference/izdaja-2026-11-26.md`.
 
@@ -216,6 +216,7 @@ Zgradba je poenotena 11. 11. 2026: številke v stolpcu »Glavno poglavje« so en
 | [R0217](R0217-frangipane.md) | Frangipane | 1.1 Osnovne kreme | frangipane; mandljeva krema; slaščičarska krema; galette des rois | Chef Simon, Crème frangipane | delovno — ni preizkušeno | R0028, R0140, R0180 |
 | [R0218](R0218-sladkorne-niti.md) | Sladkorne niti in kupola iz karamele (sucre filé) | 4.3 Sladkor in karamela | sladkorne niti; sucre filé; karamela; okras | Chef Simon, Cheveux d'ange in Dôme en sucre filé | delovno — ni preizkušeno | R0149, R0151 |
 | [R0219](R0219-cokoladni-ostruzki.md) | Čokoladni ostružki | 1.4 Čokolada | čokolada; ostružki; okras; temperiranje | Chef Simon, Copeaux de chocolat | delovno — ni preizkušeno | R0143, R0211 |
+| [R0254](R0254-kristalizirana-cokolada.md) | Kristalizirana čokolada | 1.4 Čokolada | čokolada; kristalizacija; hrustljav dodatek; Instagram | the_geordie_chef, Instagram Reel | delovno — enota °C za preverbo; ni preizkušeno | R0148, R0149, R0155 |
 | [R0220](R0220-karamelizirani-mandlji.md) | Karamelizirani mandlji | 4.3 Sladkor in karamela | mandlji; karamelizirani oreščki; sladkor; hrustljav dodatek | Plaisir et Equilibre (Chef Simon, Les Gourmets), Amandes caramélisées | delovno — ni preizkušeno | R0035, R0136 |
 | [R0221](R0221-zelatina.md) | Želatina: namakanje, uporaba in pretvorbe | 7.5 Tehnike | želatina; Bloom; lističi; prah | Wikibooks Cookbook, Gelatin; CC BY-SA 4.0 | delovno — ni preizkušeno | R0038, R0154, R0195 |
 | [R0222](R0222-kvenele.md) | Kvenele z dvema žlicama | 7.5 Tehnike | kvenele; quenelle; oblikovanje; krožnik | Chef Simon, Former des quenelles à la cuiller | delovno — ni preizkušeno | R0049, R0155, R0165 |
@@ -228,6 +229,8 @@ Zgradba je poenotena 11. 11. 2026: številke v stolpcu »Glavno poglavje« so en
 | [R0229](R0229-suhi-paradiznikov-biskvit.md) | Suhi paradižnikov biskvit iz mikrovalovke (sifon) | 10.6 Hrustljavi okraski | sifon; mikrovalovni biskvit; paradižnik; Instagram | Martin Lippo (Vakuum), Instagram Reel | delovno — količine za dopolnitev | R0230, R0228 |
 | [R0230](R0230-vroca-bucna-pena.md) | Vroča bučna pena iz sifona | 9.4 Pene | pena; sifon; buča; Instagram | Martin Lippo (Vakuum), Instagram Reel | delovno — količine za dopolnitev | R0221, R0229 |
 | [R0231](R0231-trska-v-pesini-glazuri.md) | Trska v glazuri iz rdeče pese | 11.2 Ribe in morski sadeži | trska; pesa; agar; Instagram | Gronda (chef Vincent Angebault), Instagram Reel | delovno — količine za dopolnitev | R0226, R0159, R0157 |
+| [R0255](R0255-rolada-rdeci-okun-farsa-kozic.md) | Rolada iz rdečega okuna s farso iz kozic in omako choron | 11.2 Ribe in morski sadeži | rdeči okun; kozice; farsa; choron; Instagram | Mile Pupovac (Modern Plating), Instagram Reel | delovno — količine za dopolnitev | R0226, R0049, R0008 |
+| [R0256](R0256-piscancja-ballotine.md) | Piščančja ballotine s tartufovim moussom | 11.3 Perutnina | piščanec; ballotine; tartuf; sous-vide; Instagram | Chef Francis Pascal, Instagram Reel | delovno — količine za dopolnitev | R0160, R0157, R0049 |
 | [R0048](R0048-ostrigina-emulzija.md) | Ostrigina emulzija z zeliščnim oljem | 13.1 Emulzije in olja | emulzija; ostrige; zeliščno olje; fine dining | Jules Cooking, Sea Buckthorn & Sea Bass Dish, 25:59 | delovno — uporabnikova prilagoditev; ni preizkušeno | R0023; R0049 |
 | [R0132](R0132-sezamova-majoneza.md) | Sezamova majoneza | 13.1 Emulzije in olja | majoneza; emulzija; sezam | Jules Cooking, The Ultimate Fish Taco, 08:50 | delovno — ni preizkušeno | R0130 |
 | [R0049](R0049-brancinova-farsa.md) | Pečena brancinova farsa | 13.2 Farse | farsa; brancin; beljak; fine dining | Jules Cooking, Sea Buckthorn & Sea Bass Dish, 23:43 | delovno — uporabnikova prilagoditev; ni preizkušeno | R0048; sklic iz 3.3 |
@@ -262,6 +265,7 @@ Zgradba je poenotena 11. 11. 2026: številke v stolpcu »Glavno poglavje« so en
 | [R0149](R0149-suha-in-mokra-karamela.md) | Suha in mokra karamela | 4.3 Sladkor in karamela | suha karamela; mokra karamela; kristalizacija | Koch-Wiki, Trockener Karamell; Wikibooks, Caramel; BCcampus | delovno — ni preizkušeno | R0148; R0136 |
 | [R0150](R0150-karamelna-omaka.md) | Karamelna omaka | 4.3 Sladkor in karamela | karamelna omaka; slana karamela | PJ Hamel, King Arthur Baking, Caramel Sauce | delovno — zaokrožene količine | R0135; R0118 |
 | [R0151](R0151-karamelni-in-izomaltni-okraski.md) | Karamelni in izomaltni okraski | 4.3 Sladkor in karamela | karamelni drobci; izomalt; okraski | Wikibooks, Isomalt in Caramel; CC BY-SA 4.0 | delovno — vlečene niti za dopolnitev | R0148; R0149 |
+| [R0253](R0253-sladkorna-kupola.md) | Prozorna sladkorna kupola (snežna krogla iz sladkorja) | 4.3 Sladkor in karamela | sladkor; kupola; amezaiku; okras; Instagram | mokka (@mokka.house), Instagram Reel | delovno — ni preizkušeno | R0148, R0218, R0151 |
 | [R0152](R0152-creme-brulee.md) | Crème brûlée | 6.3 Hladne sladice | crème brûlée; vodna kopel | Wikibooks, Crème Brûlée I in II; CC BY-SA 4.0 | delovno — masa sladkorja za dopolnitev | — |
 | [R0153](R0153-creme-caramel.md) | Crème caramel | 6.3 Hladne sladice | crème caramel; flan; karamela | Koch-Wiki, Crème caramel; CC BY-SA 3.0 | delovno — ni preizkušeno | R0149 |
 | [R0154](R0154-panna-cotta.md) | Panna cotta | 6.3 Hladne sladice | panna cotta; želatina | Wikibooks, Panna Cotta (Basic); CC BY-SA 4.0 | delovno — masa sladkorja za preverbo | R0150 |
@@ -371,6 +375,7 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 
 ## Dnevnik
 
+- 27. 11. 2026: iz štirih Instagram Reelsov dodani R0253 prozorna sladkorna kupola (4.3), R0254 kristalizirana čokolada (1.4), R0255 rolada iz rdečega okuna s farso iz kozic (11.2) in R0256 piščančja ballotine (novo 11.3 Perutnina). Pri R0255 in R0256 so količine za dopolnitev. Sladkega biskvita iz sifona v mikrovalovki v reelsih ni bilo; spletni recepti niso bili dosegljivi, zato ni dodan. Aktivnih vnosov 255, naslednji ID R0257.
 - 26. 11. 2026: na uporabnikovo željo dodan R0252 vlažen čokoladni biskvit z oljem in kavo (Moje Wypieki po Ini Garten, izbran v klepetu 24. 11. 2026) v novo podpoglavje 3.4 Čokoladni biskviti, z zamenjavo pinjenca s kislo smetano in mlekom. Aktivnih vnosov 251, naslednji ID R0253.
 - 26. 11. 2026: 50 receptov dopolnjenih z razdelkom »Hitra izvedba za tekmovanje« (uredniški nasveti za časovno optimizacijo, nepreizkušeni).
 - 26. 11. 2026: dodani R0232–R0251 in osvežena Word ter PDF. [Pregled novih receptov](../reference/tuja-kulinarika-2026-11-26.md).

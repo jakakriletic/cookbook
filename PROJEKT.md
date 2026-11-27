@@ -6,6 +6,8 @@ Osebna kuharska knjiga za pripravo na MasterChef. Namen je hiter pregled med vaj
 
 ## Stanje
 
+27. 11. 2026 — reelsi: dodani R0253 prozorna sladkorna kupola (4.3, mokka), R0254 kristalizirana čokolada (1.4, the_geordie_chef), R0255 rolada iz rdečega okuna s farso iz kozic in omako choron (11.2, Mile Pupovac) in R0256 piščančja ballotine s tartufovim moussom (novo 11.3 Perutnina, Chef Francis Pascal). Pri R0255 in R0256 so vse količine za dopolnitev. Sladki biskvit iz sifona v mikrovalovki (uporabnik ga želi pod MasterChef hitre recepte) še ni dodan, ker viri niso bili dosegljivi. 255 receptov, 196 strani, naslednji ID R0257.
+
 27. 11. 2026 — hitri crumble: na uporabnikovo željo je v R0190 dodan razdelek »Hitra izvedba za tekmovanje«, izrecno naslovljen »MasterChef varianta: hitri crumble s stopljenim maslom« (enake količine 120 : 60 : 60; uredniško, ni preizkušeno). Word in PDF ponovno sestavljena: 251 receptov, 192 strani.
 
 26. 11. 2026 — čokoladni biskvit: na uporabnikovo željo dodan R0252 vlažen čokoladni biskvit z oljem in kavo (Moje Wypieki po Ini Garten, izbran v klepetu 24. 11. 2026) v novo podpoglavje 3.4 Čokoladni biskviti. Vsebuje zamenjavo pinjenca s kislo smetano (160 g + 80 ml mleka) in druge zamenjave kot variante. V zbirki je 251 receptov, naslednji ID R0253. Word in PDF sta osvežena: 251 receptov, 13 poglavij, 192 strani; recept je na oštevilčeni strani 41.
@@ -143,7 +145,7 @@ Zgradba je poenotena 11. 11. 2026 na uporabnikovo željo, da bo hitro jasno, kje
 | 8 Okisovanje | 8.1 Hitro okisanje | okisanje in vlaganje zelenjave in sadja (fermentacija naj dobi svoje podpoglavje) |
 | 9 Omake | 9.1 Matične in izpeljane omake · 9.2 Maslene omake · 9.3 Omake za ribe in morske sadeže | tople in hladne omake, emulzije, prelivi; pregled `recepti/04-04-maticne-in-izpeljane-omake.md` na začetku 9.1 |
 | 10 Priloge | 10.1 Krompir · 10.2 Pireji · 10.3 Riž in rižota · 10.4 Zelenjavne priloge · 10.5 Solate | krompir, pireji, riž, zelenjavne priloge, solate in solatni prelivi; pregled `recepti/05-04-pireji-in-kreme.md` na začetku 10.2 |
-| 11 Glavne jedi | 11.1 Fine dining | končne jedi z ribami, mesom in perutnino |
+| 11 Glavne jedi | 11.1 Fine dining · 11.2 Ribe in morski sadeži · 11.3 Perutnina | končne jedi z ribami, mesom in perutnino |
 | 12 Tuja kulinarika | 12.1 Peru · 12.2 Kitajska · 12.3 Italijanske jedi · 12.4 Japonska · 12.5 Koreja · 12.6 Tajska · 12.7 Vietnam · 12.8 Indija · 12.9 Mehika | jedi in samostojne komponente po kuhinjah |
 | 13 Jules Cooking | 13.1 Emulzije in olja · 13.2 Farse · 13.3 Ceviche · 13.4 Kvašene sladice · 13.5 Sirupi in sadni geli · 13.6 Kreme in moussi · 13.7 Okraski in vložki · 13.8 Sladice iz kuhanega testa · 13.9 Geli in redukcije · 13.10 Hrustljave lupine · 13.11 Tartelete · 13.12 Karamele in pralineji | vsi recepti Jules Cooking |
 
