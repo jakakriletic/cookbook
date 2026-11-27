@@ -2,7 +2,7 @@
 
 Posodobljeno: 27. 11. 2026.
 
-Za vključitev izbranih vnosov: **256** (R0001–R0045 in R0047–R0257). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0258**.
+Za vključitev izbranih vnosov: **257** (R0001–R0045 in R0047–R0258). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0259**.
 
 **Aktualna izdaja, 26. 11. 2026:** [Wordova knjiga](../outputs/moj-kuharski-zvezek.docx) in [PDF](../outputs/moj-kuharski-zvezek.pdf) imata 251 receptov, 13 poglavij in 192 strani, v novem strnjenem slogu (recepti v dveh stolpcih). Evidenca izdaje: `reference/izdaja-2026-11-26.md`.
 
@@ -220,6 +220,7 @@ Zgradba je poenotena 11. 11. 2026: številke v stolpcu »Glavno poglavje« so en
 | [R0254](R0254-kristalizirana-cokolada.md) | Kristalizirana čokolada | 1.4 Čokolada | čokolada; kristalizacija; hrustljav dodatek; Instagram | the_geordie_chef, Instagram Reel | delovno — enota °C za preverbo; ni preizkušeno | R0148, R0149, R0155 |
 | [R0220](R0220-karamelizirani-mandlji.md) | Karamelizirani mandlji | 4.3 Sladkor in karamela | mandlji; karamelizirani oreščki; sladkor; hrustljav dodatek | Plaisir et Equilibre (Chef Simon, Les Gourmets), Amandes caramélisées | delovno — ni preizkušeno | R0035, R0136 |
 | [R0221](R0221-zelatina.md) | Želatina: namakanje, uporaba in pretvorbe | 7.5 Tehnike | želatina; Bloom; lističi; prah | Wikibooks Cookbook, Gelatin; CC BY-SA 4.0 | delovno — ni preizkušeno | R0038, R0154, R0195 |
+| [R0258](R0258-agar-s-sadjem.md) | Agar s sadjem: geli, tekoči gel in perlice (MasterChef kartica) | 7.5 Tehnike | agar; tekoči gel; perlice; kislina; brez želatine; MasterChef | uredniški povzetek; R0094 in iskalni povzetki virov | delovno — uredniško, ni preizkušeno | R0221, R0094, R0038, R0257 |
 | [R0222](R0222-kvenele.md) | Kvenele z dvema žlicama | 7.5 Tehnike | kvenele; quenelle; oblikovanje; krožnik | Chef Simon, Former des quenelles à la cuiller | delovno — ni preizkušeno | R0049, R0155, R0165 |
 | [R0223](R0223-orehova-potica.md) | Orehova potica | 6.10 Slovenske sladice | potica; orehi; kvašeno testo; potičnica | Slovenian Kitchen (Sara Kališnik), Walnut Potica | delovno — ni preizkušeno | R0081, R0224 |
 | [R0224](R0224-prekmurska-gibanica.md) | Prekmurska gibanica | 6.10 Slovenske sladice | gibanica; Prekmurje; vlečeno testo; mak | Wikibooks Cookbook, Prekmurska Gibanica (Slovenian Layered Strudel; CC BY-SA 4.0 | delovno — ni preizkušeno | R0059, R0223 |
@@ -376,6 +377,7 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 
 ## Dnevnik
 
+- 27. 11. 2026: na uporabnikovo željo dodan R0258, MasterChef kartica o agarju s sadjem (7.5 Tehnike): odmerki, vretje, kislo sadje (sok po vretju), encimsko sadje, tekoči gel, perlice. Uredniški povzetek, ni preizkušeno. Aktivnih vnosov 257, naslednji ID R0259.
 - 27. 11. 2026: na uporabnikovo željo dodan R0257 sadni mousse iz sifona brez želatine (5.2, uredniški MasterChef hitri recept, dve različici: s smetano in z agarjem) in v R0038 »MasterChef varianta« z agarjem ter seznam drugih rešitev brez želatine (tudi za zelenjavni mousse). Viri iSi in Chef Simon iz seje niso bili dosegljivi. Aktivnih vnosov 256, naslednji ID R0258.
 - 27. 11. 2026: iz štirih Instagram Reelsov dodani R0253 prozorna sladkorna kupola (4.3), R0254 kristalizirana čokolada (1.4), R0255 rolada iz rdečega okuna s farso iz kozic (11.2) in R0256 piščančja ballotine (novo 11.3 Perutnina). Pri R0255 in R0256 so količine za dopolnitev. Sladkega biskvita iz sifona v mikrovalovki v reelsih ni bilo; spletni recepti niso bili dosegljivi, zato ni dodan. Aktivnih vnosov 255, naslednji ID R0257.
 - 26. 11. 2026: na uporabnikovo željo dodan R0252 vlažen čokoladni biskvit z oljem in kavo (Moje Wypieki po Ini Garten, izbran v klepetu 24. 11. 2026) v novo podpoglavje 3.4 Čokoladni biskviti, z zamenjavo pinjenca s kislo smetano in mlekom. Aktivnih vnosov 251, naslednji ID R0253.

@@ -10,6 +10,8 @@
 
 27. 11. 2026 — mousse brez želatine: R0257 sadni mousse iz sifona (5.2, uredniški MasterChef hitri recept, ni preizkušen) in v R0038 MasterChef varianta z agarjem ter druge rešitve brez želatine. Klasičnega francoskega čokoladnega moussa samo z jajci in čokolado (brez smetane) v knjigi ni; najbližji je R0036. 256 receptov, naslednji ID R0258.
 
+27. 11. 2026 — R0258 MasterChef kartica »Agar s sadjem« v 7.5 Tehnike (uporabniku agar pri kislem sadju ni uspeval: mandarinin gel, limonine perlice). 257 receptov, naslednji ID R0259.
+
 Delovna mapa v tej seji: `C:\Users\jakak\Desktop\cookbook` (uporabnik jo je izrecno določil 5. 11. 2026).
 Z uporabnikom komuniciraj v slovenščini, sproščeno; recepte piši v jasni knjižni slovenščini.
 

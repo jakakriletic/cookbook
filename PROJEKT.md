@@ -6,6 +6,8 @@ Osebna kuharska knjiga za pripravo na MasterChef. Namen je hiter pregled med vaj
 
 ## Stanje
 
+27. 11. 2026 — agar: dodan R0258 »Agar s sadjem: geli, tekoči gel in perlice (MasterChef kartica)« v 7.5 Tehnike, ob R0221 Želatina. Ključno: agar sam da krhek žele, svilenkast je šele kot tekoči gel; pri kislem sadju agar zavri v vodi in sok dodaj po vretju. Uredniško, ni preizkušeno. 257 receptov, naslednji ID R0259.
+
 27. 11. 2026 — mousse brez želatine: dodan R0257 sadni mousse iz sifona (različici s smetano in z agarjem; uredniško, ni preizkušeno), R0038 ima MasterChef varianto z agarjem (1 g na 100 g po R0094) in seznam rešitev brez želatine (sifon, bela čokolada, mascarpone, italijanska meringa, zelenjavni mousse). Uporabnik je vprašal po klasičnem francoskem čokoladnem moussu (samo čokolada, rumenjaki, sneg); v knjigi ga ni, najbližji je R0036 z ganašem iz 75 g smetane. 256 receptov, naslednji ID R0258.
 
 27. 11. 2026 — reelsi: dodani R0253 prozorna sladkorna kupola (4.3, mokka), R0254 kristalizirana čokolada (1.4, the_geordie_chef), R0255 rolada iz rdečega okuna s farso iz kozic in omako choron (11.2, Mile Pupovac) in R0256 piščančja ballotine s tartufovim moussom (novo 11.3 Perutnina, Chef Francis Pascal). Pri R0255 in R0256 so vse količine za dopolnitev. Sladki biskvit iz sifona v mikrovalovki (uporabnik ga želi pod MasterChef hitre recepte) še ni dodan, ker viri niso bili dosegljivi. 255 receptov, 196 strani, naslednji ID R0257.
