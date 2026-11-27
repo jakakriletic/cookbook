@@ -43,7 +43,7 @@ Najpreprostejše testo za tanke, krhke kornete: vse se zmeša z metlico v eni sk
 ## Hitra izvedba za tekmovanje
 
 - Testo je hitro že samo po sebi: zmešaj ga, medtem ko se pekač greje.
-- Če ni pekača za kornete: maso na silikonski podlagi razmaži v zelo tanke kroge in jih speci kot [tuiles](R0033-tuiles.md) (tam 170 °C). Temperatura in čas za to maso sta **za dopolnitev**; peci do enakomerno zlate barve in krog takoj zvij.
+- Če ni pekača za kornete: maso na silikonski podlagi razmaži v zelo tanke kroge in jih speci kot tuiles (te se pečejo pri 170 °C). Temperatura in čas za to maso sta **za dopolnitev**; peci do enakomerno zlate barve in krog takoj zvij.
 - Zvijaj le enega naenkrat. Ko se krog ohladi, se zlomi; vrni ga za nekaj sekund na toploto, da se zmehča.
 
 ## Kritične točke in triki
