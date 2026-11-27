@@ -43,6 +43,21 @@ Bogato kvašeno testo z rumenjaki, mlekom v prahu, rumom in limonino lupinico. D
 6. **Vzhajanje in oblikovanje.** Za dopolnitev.
 7. **Cvrtje.** Krofe cvri v olju pri 160 °C ali manj. Čas cvrtja za dopolnitev.
 
+## Kontrola temperatur
+
+Za enak rezultat vsakič izmeri in zapiši temperaturo prostora, moke in mleka, testa po gnetenju ter čase vzhajanja. Cilji v tabeli so iz strokovnih virov za kvašene krofe in pšenično testo, ne iz uporabnikovega recepta.
+
+| Faza | Cilj |
+| --- | ---: |
+| Testo ob koncu gnetenja (vbodni termometer v sredino) | 23–25 °C |
+| Končno vzhajanje oblikovanih krofov | 25–27 °C, pokrito, do podvojitve |
+| Kožica pred cvrtjem (odkrito) | 10–15 min |
+| Olje (uporabnikov recept) | največ 160 °C |
+
+- **Testo je pretoplo ali prehladno:** potrebno temperaturo tekočine izračunaj po formuli pekov: (ciljna temperatura testa × 3) − temperatura prostora − temperatura moke − segrevanje v mešalniku. Mešalnik testo med gnetenjem segreje za približno 12–13 °C, ročno gnetenje za 3–4 °C. Pri receptu z nastavkom pomnoži s 4 in odštej še temperaturo nastavka. Tvoje segrevanje izmeriš enkrat: temperatura testa po gnetenju minus povprečje prostora, moke in tekočine, vse krat 3.
+- **Mleko 30–35 °C** v tem receptu služi za preverjanje kvasa. Če testo po 17 minutah gnetenja preseže 25 °C, naslednjič vzemi hladnejše rumenjake ali moko; maslo se pri višji temperaturi začne topiti in testo postane mastno.
+- **Bel obroč:** krofe položi v olje z zgornjo stranjo navzdol, posodo za prvo stran pokrij, nato obrni in cvri odkrito.
+
 ## Kritične točke in triki
 
 - **Preveri kvas:** če se v toplem mleku s sladkorjem ne napihne, ga zamenjaj.
@@ -58,3 +73,9 @@ Bogato kvašeno testo z rumenjaki, mlekom v prahu, rumom in limonino lupinico. D
 - Količine nespremenjene. Uporabnikov zapis »20 mleka v prahu« je prebran kot 20 g. Vrsta kvasa ni navedena; 40 g je količina, običajna za svež kvas, vendar to **preveri**. Ni jasno, ali je 10 g sladkorja za kvasec del navedenih 60 g. Uporabnik limonine lupinice v postopku ni omenil; uredniško je dodana v korak 3.
 - Za dopolnitev: izplen in masa posameznega krofa, čas in način vzhajanja, oblikovanje, čas cvrtja in obračanje, polnilo in posip.
 - Uredniško: naslovi korakov, uvod, kritični točki in predlog polnila (sklic na R0028). Ni preizkušeno.
+- 27. 11. 2026, dopolnitev na uporabnikovo željo (temperature za ponovljivost; recept sam ostaja nespremenjen). Viri:
+  - Rouxbe, Yeast-Raised Doughnuts (prebrano v brskalniku): testo ob koncu gnetenja 23–25 °C, test glutenske opne, vzhajalna komora 25–26 °C, končno vzhajanje približno 45 minut do podvojitve, olje 175 °C.
+  - Bake Magazine, Chocolate Brioche Donuts (povzetek iskanja): končno vzhajanje pri 27 °C (80 °F) 45–60 minut. **Preveri.**
+  - King Arthur Baking, Desired dough temperature (prebrano v brskalniku): idealno pšenično testo 24–26 °C (75–78 °F), formula × 3 (z nastavkom × 4), segrevanje v mešalniku 22–24 °F, ročno 6–8 °F; pretvorba razlike v °C (× 5/9) uredniška.
+  - Kožica 10–15 minut odkrito in pokrov za bel obroč: nemški in avstrijski viri za Krapfen (ORF, recept za Faschingskrapfen; infranken.de) ter slovenski članki (N1, Siol), iz povzetkov iskanja. **Preveri.**
+  - Uredniško: navodilo za meritve in zapis, popravek prek hladnejših rumenjakov ali moke ter opomba o topljenju masla. Viri za olje navajajo 160–175 °C; uporabnikovih 160 °C ostane.
