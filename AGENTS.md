@@ -8,6 +8,8 @@
 
 27. 11. 2026 — iz Instagram Reelsov dodani R0253 prozorna sladkorna kupola (4.3), R0254 kristalizirana čokolada (1.4), R0255 rolada iz rdečega okuna s farso iz kozic (11.2) in R0256 piščančja ballotine (novo 11.3 Perutnina); pri R0255/R0256 so količine za dopolnitev. Sladkega biskvita iz sifona v mikrovalovki še ni: uporabnik ga želi kot MasterChef hitri recept, spletni viri (gastronomixs.com, recipes.cooklang.org, sbs.com.au, dodani v okolje) iz seje niso bili dosegljivi. V zbirki je 255 receptov, naslednji ID R0257; Word in PDF imata 196 strani.
 
+27. 11. 2026 — mousse brez želatine: R0257 sadni mousse iz sifona (5.2, uredniški MasterChef hitri recept, ni preizkušen) in v R0038 MasterChef varianta z agarjem ter druge rešitve brez želatine. Klasičnega francoskega čokoladnega moussa samo z jajci in čokolado (brez smetane) v knjigi ni; najbližji je R0036. 256 receptov, naslednji ID R0258.
+
 Delovna mapa v tej seji: `C:\Users\jakak\Desktop\cookbook` (uporabnik jo je izrecno določil 5. 11. 2026).
 Z uporabnikom komuniciraj v slovenščini, sproščeno; recepte piši v jasni knjižni slovenščini.
 

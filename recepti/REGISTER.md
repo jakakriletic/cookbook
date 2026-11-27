@@ -2,7 +2,7 @@
 
 Posodobljeno: 27. 11. 2026.
 
-Za vključitev izbranih vnosov: **255** (R0001–R0045 in R0047–R0256). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0257**.
+Za vključitev izbranih vnosov: **256** (R0001–R0045 in R0047–R0257). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0258**.
 
 **Aktualna izdaja, 26. 11. 2026:** [Wordova knjiga](../outputs/moj-kuharski-zvezek.docx) in [PDF](../outputs/moj-kuharski-zvezek.pdf) imata 251 receptov, 13 poglavij in 192 strani, v novem strnjenem slogu (recepti v dveh stolpcih). Evidenca izdaje: `reference/izdaja-2026-11-26.md`.
 
@@ -52,6 +52,7 @@ Zgradba je poenotena 11. 11. 2026: številke v stolpcu »Glavno poglavje« so en
 | [R0045](R0045-cokoladni-mousse-chiboust.md) | Čokoladni mousse na osnovi Chiboust | 5.1 Čokoladni moussi | mousse; čokolada | Matt Adlard, Chocolate Mousse Guide, Chiboust Base | delovno; količine preverjene z virom | [pregled 1.9](01-09-moussi.md) |
 | [R0084](R0084-mousse-iz-bele-cokolade.md) | Mousse iz bele čokolade | 5.1 Čokoladni moussi | mousse; bela čokolada; mlečni ganaš; brez jajc | uredniška prilagoditev, tehnika po L’École Valrhona | delovno — ni preizkušeno | R0036; R0043; [pregled 1.9](01-09-moussi.md) |
 | [R0038](R0038-sadni-mousse-pire-smetana.md) | Sadni mousse iz pireja, želatine in smetane | 5.2 Sadni moussi | mousse; sadje | Ravifruit, Recettes – Recipes, 11/2014, stran 2 | delovno; količine preverjene z virom | [pregled 1.9](01-09-moussi.md) |
+| [R0257](R0257-sadni-mousse-iz-sifona.md) | Sadni mousse iz sifona brez želatine (MasterChef hitra izvedba) | 5.2 Sadni moussi | mousse; espuma; sifon; brez želatine; agar; MasterChef | uredniški recept za vajo; agar po R0094 | delovno — uredniško, ni preizkušeno | R0038, R0094, R0230 |
 | [R0044](R0044-sadni-mousse-italijanska-meringa.md) | Sadni mousse z italijansko meringo | 5.2 Sadni moussi | mousse; sadje | Ravifruit, Recettes – Recipes, 11/2014, stran 2 | delovno; količine preverjene z virom | [pregled 1.9](01-09-moussi.md) |
 | [R0040](R0040-pasijonkin-mousse-pate-a-bombe.md) | Pasijonkin mousse s pâte à bombe | 5.2 Sadni moussi | mousse; sadje | Sally Elias, objava z dovoljenjem iz The Pastry Chef’s Little Black Book | delovno; količine preverjene z virom | [pregled 1.9](01-09-moussi.md) |
 | [R0042](R0042-sadni-bavarois-banana-pasijonka.md) | Sadni bavarois — banana in pasijonka | 5.2 Sadni moussi | mousse; sadje | Benoit Blin za Ponthier, Exotic fruits bavarois, komponenta 3 | delovno; količine preverjene z virom | [pregled 1.9](01-09-moussi.md) |
@@ -375,6 +376,7 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 
 ## Dnevnik
 
+- 27. 11. 2026: na uporabnikovo željo dodan R0257 sadni mousse iz sifona brez želatine (5.2, uredniški MasterChef hitri recept, dve različici: s smetano in z agarjem) in v R0038 »MasterChef varianta« z agarjem ter seznam drugih rešitev brez želatine (tudi za zelenjavni mousse). Viri iSi in Chef Simon iz seje niso bili dosegljivi. Aktivnih vnosov 256, naslednji ID R0258.
 - 27. 11. 2026: iz štirih Instagram Reelsov dodani R0253 prozorna sladkorna kupola (4.3), R0254 kristalizirana čokolada (1.4), R0255 rolada iz rdečega okuna s farso iz kozic (11.2) in R0256 piščančja ballotine (novo 11.3 Perutnina). Pri R0255 in R0256 so količine za dopolnitev. Sladkega biskvita iz sifona v mikrovalovki v reelsih ni bilo; spletni recepti niso bili dosegljivi, zato ni dodan. Aktivnih vnosov 255, naslednji ID R0257.
 - 26. 11. 2026: na uporabnikovo željo dodan R0252 vlažen čokoladni biskvit z oljem in kavo (Moje Wypieki po Ini Garten, izbran v klepetu 24. 11. 2026) v novo podpoglavje 3.4 Čokoladni biskviti, z zamenjavo pinjenca s kislo smetano in mlekom. Aktivnih vnosov 251, naslednji ID R0253.
 - 26. 11. 2026: 50 receptov dopolnjenih z razdelkom »Hitra izvedba za tekmovanje« (uredniški nasveti za časovno optimizacijo, nepreizkušeni).
