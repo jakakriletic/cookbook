@@ -2,7 +2,7 @@
 
 Posodobljeno: 27. 11. 2026.
 
-Za vključitev izbranih vnosov: **283** (R0001–R0045 in R0047–R0285). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0286**.
+Za vključitev izbranih vnosov: **284** (R0001–R0045 in R0047–R0286). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0287**.
 
 **Aktualna izdaja, 27. 11. 2026:** [Wordova knjiga](../outputs/moj-kuharski-zvezek.docx) in [PDF](../outputs/moj-kuharski-zvezek.pdf) imata 282 receptov, 13 poglavij in 221 strani (Word). Kazalo zgoščeno na 4 strani, bližnjice z oznako »Hitreje«. Evidenca: `reference/izdaja-2026-11-27.md`.
 
@@ -239,6 +239,7 @@ Zgradba je poenotena 11. 11. 2026: številke v stolpcu »Glavno poglavje« so en
 | [R0223](R0223-orehova-potica.md) | Orehova potica | 6.10 Slovenske sladice | potica; orehi; kvašeno testo; potičnica | Slovenian Kitchen (Sara Kališnik), Walnut Potica | delovno — ni preizkušeno | R0081, R0224 |
 | [R0224](R0224-prekmurska-gibanica.md) | Prekmurska gibanica | 6.10 Slovenske sladice | gibanica; Prekmurje; vlečeno testo; mak | Wikibooks Cookbook, Prekmurska Gibanica (Slovenian Layered Strudel; CC BY-SA 4.0 | delovno — ni preizkušeno | R0059, R0223 |
 | [R0225](R0225-sirovi-struklji.md) | Kuhani skutni štruklji z drobtinami in kompotom | 6.10 Slovenske sladice | štruklji; skuta; kisla smetana; drobtine | Slovenian Kitchen (Sara Kališnik), Sirovi štruklji | delovno — ni preizkušeno | R0059, R0079 |
+| [R0286](R0286-krofi.md) | Krofi (Uber krofi 2.0) | 6.10 Slovenske sladice | krofi; kvašeno testo; cvrtje; rumenjaki | uporabnikov recept | delovno — vzhajanje, oblikovanje in izplen za dopolnitev; ni preizkušeno | R0028 |
 | [R0226](R0226-losos-s-ribjo-farso.md) | Losos z ribjo farso iz obrezkov, kuhan v sopari | 11.2 Ribe in morski sadeži | losos; farsa; sopara; Instagram | Monika Cubela, Instagram Reel | delovno — ni preizkušeno | R0049, R0159, R0222 |
 | [R0227](R0227-buckin-rouleau-z-jastogom.md) | Bučkin rouleau z jastogovim tartarjem | 11.2 Ribe in morski sadeži | bučke; jastog; garnitura; Instagram | Chef Rohit, Instagram Reel | delovno — ni preizkušeno | R0171, R0226 |
 | [R0228](R0228-hrustljav-ocvrt-por.md) | Hrustljav ocvrt por z blanširanjem | 10.6 Hrustljavi okraski | por; cvrtje; blanširanje; Instagram | Shane Spencer, Instagram Reel | delovno — ni preizkušeno | R0167, R0171 |
@@ -412,6 +413,7 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 - 27. 11. 2026: dodan R0282 Nadevi za mesne rolade (novo 7.6, ena stran s karticami). Aktivnih vnosov 281, naslednji ID R0283.
 - 27. 11. 2026: dodan R0283 sladki vaflji (Chef Simon, Gaufres) v 6.2 Tople sladice. Aktivnih vnosov 282, naslednji ID R0284.
 - 27. 11. 2026: dodan R0285 shokupan z yudane (uporabnikov recept) v 2.6 Kruh in žemljice.
+- 27. 11. 2026: dodan R0286 krofi (uporabnikov recept »Uber krofi 2.0«) v 6.10 Slovenske sladice.
 - 27. 11. 2026: na uporabnikovo željo dopolnjene količine matičnih omak (R0001, R0003, R0007, R0008, R0024 neposredno; R0005, R0006, R0010 s klasičnimi variantami s količinami) po Chef Simonu, Wikibooks in Wikilivres. Dodanih 18 receptov: školjke R0259–R0262 (novo 11.4), tatarji R0263–R0267 (novo 11.5), hobotnica in lignji R0268–R0271 (novo 11.6), tehnike R0272–R0276 (7.5: rezi, paniranje, pivsko testo, tempura, zeliščno olje). Brez količin ostajajo Fallowove ribje omake (9.3), soubise, zeliščni velouté, paradižnikova omaka, testenine Chef Italiano in recepti iz reelsov. Aktivnih vnosov 275, naslednji ID R0277.
 - 27. 11. 2026: na uporabnikovo željo dodan R0258, MasterChef kartica o agarju s sadjem (7.5 Tehnike): odmerki, vretje, kislo sadje (sok po vretju), encimsko sadje, tekoči gel, perlice. Uredniški povzetek, ni preizkušeno. Aktivnih vnosov 257, naslednji ID R0259.
 - 27. 11. 2026: na uporabnikovo željo dodan R0257 sadni mousse iz sifona brez želatine (5.2, uredniški MasterChef hitri recept, dve različici: s smetano in z agarjem) in v R0038 »MasterChef varianta« z agarjem ter seznam drugih rešitev brez želatine (tudi za zelenjavni mousse). Viri iSi in Chef Simon iz seje niso bili dosegljivi. Aktivnih vnosov 256, naslednji ID R0258.

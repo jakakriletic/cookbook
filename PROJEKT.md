@@ -6,6 +6,8 @@ Osebna kuharska knjiga za pripravo na MasterChef. Namen je hiter pregled med vaj
 
 ## Stanje
 
+27. 11. 2026 — dodan R0286 krofi (uporabnikov recept »Uber krofi 2.0«) v 6.10 Slovenske sladice; vzhajanje, oblikovanje, izplen in čas cvrtja za dopolnitev. Naslednji ID R0287.
+
 27. 11. 2026 — dodan R0285 shokupan (japonski mlečni kruh z yudane, uporabnikov recept v metrični različici) v 2.6 Kruh in žemljice. Naslednji ID R0286.
 
 27. 11. 2026 — dodan R0283 sladki vaflji (Chef Simon, Gaufres, 15 vafljev) v 6.2 Tople sladice. 282 receptov, naslednji ID R0284.
