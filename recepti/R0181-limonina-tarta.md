@@ -23,7 +23,7 @@ Krhka podlaga, kisla limonina krema, zgoščena s koruznim škrobom, in po želj
 ### Podlaga
 | Sestavina | Količina |
 | --- | ---: |
-| [Krhko testo sablé](R0180-krhko-testo-sable.md) | 1 količina |
+| [Mandljevo krhko testo](R0277-mandljevo-krhko-testo.md) | 1 količina |
 
 ### Limonina krema
 | Sestavina | Količina |
@@ -75,7 +75,7 @@ Krhka podlaga, kisla limonina krema, zgoščena s koruznim škrobom, in po želj
 
 ## Povezani recepti
 
-- [Krhko testo sablé](R0180-krhko-testo-sable.md), [italijanska meringa](R0147-italijanska-meringa.md).
+- [Mandljevo krhko testo](R0277-mandljevo-krhko-testo.md), [krhko testo sablé](R0180-krhko-testo-sable.md), [italijanska meringa](R0147-italijanska-meringa.md).
 
 ## Uredniška evidenca
 
@@ -83,3 +83,4 @@ Krhka podlaga, kisla limonina krema, zgoščena s koruznim škrobom, in po želj
 - Vir prebran 26. 11. 2026 (strukturirani podatki, koraki in sklepni razdelek o kremi in meringi); kratko samostojno ubesedeno. Količine nespremenjene (25 cl → 250 ml). Vir opozarja, da se količine lahko spreminjajo glede na kakovost in maso jajc.
 - Vir za podlago uporabi »pâte sablée amande« po svoji tehnični kartici; tu je sklic na R0180 (osnovno testo sablé istega avtorja). Razlika: brez mandljev.
 - Odprto: temperatura peke na slepo (vir je ne navaja; isti avtor pri jagodni tarti 170 °C približno 20 minut), premer modela. Ni preizkušeno.
+- 27. 11. 2026: podlaga zdaj vodi na R0277 (pâte sablée amande, Chef Simon), ki jo vir dejansko uporabi; R0180 ostaja kot alternativa.

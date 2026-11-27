@@ -2,7 +2,7 @@
 
 Posodobljeno: 27. 11. 2026.
 
-Za vključitev izbranih vnosov: **275** (R0001–R0045 in R0047–R0276). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0277**.
+Za vključitev izbranih vnosov: **276** (R0001–R0045 in R0047–R0277). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0278**.
 
 **Aktualna izdaja, 26. 11. 2026:** [Wordova knjiga](../outputs/moj-kuharski-zvezek.docx) in [PDF](../outputs/moj-kuharski-zvezek.pdf) imata 251 receptov, 13 poglavij in 192 strani, v novem strnjenem slogu (recepti v dveh stolpcih). Evidenca izdaje: `reference/izdaja-2026-11-26.md`.
 
@@ -178,6 +178,7 @@ Zgradba je poenotena 11. 11. 2026: številke v stolpcu »Glavno poglavje« so en
 | [R0178](R0178-coleslaw.md) | Zeljna solata coleslaw | 10.5 Solate | zelje; solata; majoneza; coleslaw | Wikibooks Cookbook, Coleslaw I; CC BY-SA 4.0 | delovno — ni preizkušeno | — |
 | [R0179](R0179-krhko-testo-brisee.md) | Krhko testo brisée (pâte brisée) | 2.1 Osnovna testa | krhko testo; pâte brisée; tarte; quiche | Chef Simon, Pâte brisée | delovno — ni preizkušeno | R0030, R0180, R0183, R0184 |
 | [R0180](R0180-krhko-testo-sable.md) | Krhko testo sablé (pâte sablée) | 2.1 Osnovna testa | krhko testo; pâte sablée; tarte; Francija | Chef Simon, Pâte sablée | delovno — ni preizkušeno | R0030, R0179, R0181, R0182 |
+| [R0277](R0277-mandljevo-krhko-testo.md) | Mandljevo krhko testo za tarte (pâte sablée amande) | 2.1 Osnovna testa | krhko testo; tarta; mandlji; kakav; MasterChef; sekljalnik | Chef Simon, Pâte sablée amande; kakav Atelier et Saveurs | delovno — kakavova varianta za preverbo; ni preizkušeno | R0181, R0180, R0030 |
 | [R0181](R0181-limonina-tarta.md) | Limonina tarta (tarte au citron) | 6.5 Tarte | tarta; limona; limonina krema; meringa | Chef Simon, Tarte au citron | delovno — ni preizkušeno | R0147, R0180 |
 | [R0182](R0182-jagodna-tarta.md) | Jagodna tarta s kremo diplomat | 6.5 Tarte | tarta; jagode; maline; krema diplomat | Chef Simon, Tarte aux fraises | delovno — ni preizkušeno | R0028, R0139, R0180 |
 | [R0183](R0183-tarte-tatin.md) | Tarte Tatin | 6.5 Tarte | tarta; tarte Tatin; jabolka; karamela | Chef Simon, Tarte Tatin | delovno — ni preizkušeno | R0144, R0149, R0179 |
@@ -395,6 +396,7 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 
 ## Dnevnik
 
+- 27. 11. 2026: dodan R0277 mandljevo krhko testo za tarte (Chef Simon, pâte sablée amande) z MasterChef varianto v sekljalniku brez počitka in kakavovo varianto (Atelier et Saveurs, iz povzetka, za preverbo); R0181 limonina tarta zdaj vodi nanj. Poslani reel DgM92bZtNAh tarte ne vsebuje. Aktivnih vnosov 276, naslednji ID R0278.
 - 27. 11. 2026: na uporabnikovo željo dopolnjene količine matičnih omak (R0001, R0003, R0007, R0008, R0024 neposredno; R0005, R0006, R0010 s klasičnimi variantami s količinami) po Chef Simonu, Wikibooks in Wikilivres. Dodanih 18 receptov: školjke R0259–R0262 (novo 11.4), tatarji R0263–R0267 (novo 11.5), hobotnica in lignji R0268–R0271 (novo 11.6), tehnike R0272–R0276 (7.5: rezi, paniranje, pivsko testo, tempura, zeliščno olje). Brez količin ostajajo Fallowove ribje omake (9.3), soubise, zeliščni velouté, paradižnikova omaka, testenine Chef Italiano in recepti iz reelsov. Aktivnih vnosov 275, naslednji ID R0277.
 - 27. 11. 2026: na uporabnikovo željo dodan R0258, MasterChef kartica o agarju s sadjem (7.5 Tehnike): odmerki, vretje, kislo sadje (sok po vretju), encimsko sadje, tekoči gel, perlice. Uredniški povzetek, ni preizkušeno. Aktivnih vnosov 257, naslednji ID R0259.
 - 27. 11. 2026: na uporabnikovo željo dodan R0257 sadni mousse iz sifona brez želatine (5.2, uredniški MasterChef hitri recept, dve različici: s smetano in z agarjem) in v R0038 »MasterChef varianta« z agarjem ter seznam drugih rešitev brez želatine (tudi za zelenjavni mousse). Viri iSi in Chef Simon iz seje niso bili dosegljivi. Aktivnih vnosov 256, naslednji ID R0258.

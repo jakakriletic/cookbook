@@ -6,6 +6,8 @@ Osebna kuharska knjiga za pripravo na MasterChef. Namen je hiter pregled med vaj
 
 ## Stanje
 
+27. 11. 2026 — tarta: uporabnik je želel hitro MasterChef testo za tarto iz blenderja, krhko, a obstojne oblike, v beli in kakavovi različici. Dodan R0277 (pâte sablée amande po Chef Simonu, slepa peka po Chef Simonu, varianta v sekljalniku uredniška, kakavova po Atelier et Saveurs iz povzetka). R0181 vodi na R0277. 276 receptov, naslednji ID R0278.
+
 27. 11. 2026 — dopolnitev osnov: količine matičnih omak (bešamel po Fallowovem razmerju 1 : 1 : 10, velouté, holandska, béarnaise in beurre rouge po Chef Simonu; espagnole po Escoffierju, bigarade in katalonska romesco kot variante ob Fallowovih izvedbah). Nova podpoglavja 11.4 Školjke (R0259–R0262), 11.5 Tatarji (R0263–R0267), 11.6 Hobotnica in lignji (R0268–R0271) ter v 7.5 Tehnike R0272–R0276 (rezi, paniranje, pivsko testo, tempura, zeliščno olje; R0276 je izrecna izjema od pravila enega mesta, komponenta iz R0048). Viri: Chef Simon (sitemap chefsimon.com, JSON-LD), Slovenian Kitchen, Wikibooks in Wikilivres (CC BY-SA). Brez količin ostajajo 9.3, R0002, R0004, R0009, Chef Italiano in reelsi (YouTube in aplikacija Gronda nedostopna). 275 receptov, naslednji ID R0277.
 
 27. 11. 2026 — agar: dodan R0258 »Agar s sadjem: geli, tekoči gel in perlice (MasterChef kartica)« v 7.5 Tehnike, ob R0221 Želatina. Ključno: agar sam da krhek žele, svilenkast je šele kot tekoči gel; pri kislem sadju agar zavri v vodi in sok dodaj po vretju. Uredniško, ni preizkušeno. 257 receptov, naslednji ID R0259.

@@ -14,6 +14,8 @@
 
 27. 11. 2026 — količine matičnih omak dopolnjene (Chef Simon, Wikibooks, Fallowovo razmerje); nova 11.4 Školjke, 11.5 Tatarji, 11.6 Hobotnica in lignji ter tehnike R0272–R0276 v 7.5. Chef Simon je dosegljiv prek sitemapa (chefsimon.com/sitemaps/sitemap1–3.xml.gz) in JSON-LD na strani; Wikibooks z `action=raw` in počasnim tempom (omejitev zahtev). 275 receptov, naslednji ID R0277.
 
+27. 11. 2026 — R0277 mandljevo krhko testo (2.1, Chef Simon) z MasterChef varianto v sekljalniku ter belo in kakavovo različico; kakavova je iz povzetka iskalnika, za preverbo. 276 receptov, naslednji ID R0278.
+
 Delovna mapa v tej seji: `C:\Users\jakak\Desktop\cookbook` (uporabnik jo je izrecno določil 5. 11. 2026).
 Z uporabnikom komuniciraj v slovenščini, sproščeno; recepte piši v jasni knjižni slovenščini.
 
