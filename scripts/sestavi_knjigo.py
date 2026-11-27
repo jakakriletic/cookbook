@@ -328,10 +328,14 @@ styles['Ingredient'].paragraph_format.line_spacing = 1.1
 styles['Bullet'].paragraph_format.line_spacing = 1.15
 styles['Lead'].paragraph_format.line_spacing = 1.15
 
-for name, size, indent, bold in (('TOC 1', 10.5, 0, True), ('TOC 2', 9.5, 3, True), ('TOC 3', 9.5, 6, False)):
-    s = set_style(name, BODY, size, GREEN if name == 'TOC 2' else INK, bold)
+# Wordova vgrajena imena so »toc 1« … »toc 3«; z imenom »TOC 1« Word ob osvežitvi kazala
+# uporabi svoj privzeti slog (12 pt, 5 pt za odstavkom) in kazalo se raztegne.
+for name, size, indent, bold in (('toc 1', 10.5, 0, True), ('toc 2', 9.5, 3, True), ('toc 3', 9.5, 6, False)):
+    s = set_style(name, BODY, size, GREEN if name == 'toc 2' else INK, bold)
+    s.style_id = 'TOC' + name[-1]  # Word slog prepozna po ID »TOC1«, ne »toc1«
+    s.element.attrib.pop(qn('w:customStyle'), None)  # vgrajen slog, sicer ga Word nadomesti
     s.paragraph_format.left_indent = Mm(indent)
-    s.paragraph_format.space_before = Pt(7 if name == 'TOC 1' else (3 if name == 'TOC 2' else 0))
+    s.paragraph_format.space_before = Pt(7 if name == 'toc 1' else (3 if name == 'toc 2' else 0))
     s.paragraph_format.space_after = Pt(0.5)
     s.paragraph_format.line_spacing = 1.05
 
@@ -623,7 +627,14 @@ def render(bl, step_style='Step'):
             n += 1
             p = add_p(step_style)
             r = p.add_run(f'{n}.'); r.bold = True; r.font.color.rgb = RGBColor.from_string(GREEN)
-            p.add_run('\t'); inline(p, text)
+            p.add_run('\t')
+            # »*(Hack: …)*« na koncu koraka: bližnjica v svoji vrstici z oznako »Hitreje«.
+            hm = re.search(r'\s*\*\(Hack[^:]*:\s*(.+?)\)\*\s*$', text)
+            inline(p, text[:hm.start()] if hm else text)
+            if hm:
+                p.add_run().add_break()
+                r = p.add_run('Hitreje: '); r.bold = True; r.font.color.rgb = RGBColor.from_string(COPPER)
+                inline(p, hm[1], color=MUTED)
             dump.append(f'{n}. {text}')
         elif kind == 'bullet':
             lead_in = re.match(r'^\*\*([^*]+)\*\*', val)
