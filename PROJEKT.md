@@ -6,6 +6,8 @@ Osebna kuharska knjiga za pripravo na MasterChef. Namen je hiter pregled med vaj
 
 ## Stanje
 
+27. 11. 2026 — dodan R0288 sticky toffee pudding po Fallowu (opis videa dNs2y12zgIg) v 6.2 Tople sladice. 287 receptov, naslednji ID R0289.
+
 27. 11. 2026 — R0286 krofi dobil razdelek »Kontrola temperatur« (Rouxbe, King Arthur); dodan R0287 krofi s tangzhongom kot uredniška varianta (5 % moke, +40 g mleka). 286 receptov, naslednji ID R0288.
 
 27. 11. 2026 — dodan R0286 krofi (uporabnikov recept »Uber krofi 2.0«) v 6.10 Slovenske sladice; vzhajanje, oblikovanje, izplen in čas cvrtja za dopolnitev. Naslednji ID R0287.

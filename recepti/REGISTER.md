@@ -2,9 +2,9 @@
 
 Posodobljeno: 27. 11. 2026.
 
-Za vključitev izbranih vnosov: **286** (R0001–R0045 in R0047–R0287). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0288**.
+Za vključitev izbranih vnosov: **287** (R0001–R0045 in R0047–R0288). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0289**.
 
-**Aktualna izdaja, 27. 11. 2026:** [Wordova knjiga](../outputs/moj-kuharski-zvezek.docx) in [PDF](../outputs/moj-kuharski-zvezek.pdf) imata 286 receptov, 13 poglavij in 226 strani (Word). Kazalo zgoščeno na 4 strani, bližnjice z oznako »Hitreje«. Evidenca: `reference/izdaja-2026-11-27.md`.
+**Aktualna izdaja, 27. 11. 2026:** [Wordova knjiga](../outputs/moj-kuharski-zvezek.docx) in [PDF](../outputs/moj-kuharski-zvezek.pdf) imata 287 receptov, 13 poglavij in 227 strani (Word). Kazalo zgoščeno na 4 strani, bližnjice z oznako »Hitreje«. Evidenca: `reference/izdaja-2026-11-27.md`.
 
 **Prejšnja izdaja, 26. 11. 2026:** [Wordova knjiga](../outputs/moj-kuharski-zvezek.docx) in [PDF](../outputs/moj-kuharski-zvezek.pdf) imata 251 receptov, 13 poglavij in 192 strani, v novem strnjenem slogu (recepti v dveh stolpcih). Evidenca izdaje: `reference/izdaja-2026-11-26.md`.
 
@@ -197,6 +197,7 @@ Zgradba je poenotena 11. 11. 2026: številke v stolpcu »Glavno poglavje« so en
 | [R0191](R0191-jabolcni-crumble.md) | Jabolčni crumble z borovnicami | 6.2 Tople sladice | crumble; jabolka; borovnice; Francija | Chef Simon, Crumble pommes myrtilles | delovno — ni preizkušeno | R0190 |
 | [R0192](R0192-jabolcni-crisp.md) | Jabolčni crisp z ovsenimi kosmiči | 6.2 Tople sladice | crisp; crumble; jabolka; ovseni kosmiči | Wikibooks Cookbook, Apple Crisp I; CC BY-SA 4.0 | delovno — ni preizkušeno | R0190 |
 | [R0283](R0283-sladki-vaflji.md) | Sladki vaflji (gaufres) | 6.2 Tople sladice | vaflji; gaufres; pecilni prašek; Francija | Chef Simon, Gaufres | delovno — ni preizkušeno | R0150; R0199; R0206; R0210 |
+| [R0288](R0288-sticky-toffee-pudding.md) | Sticky toffee pudding po Fallowu | 6.2 Tople sladice | dateljni; karamela; goveji loj; Velika Britanija | Fallow, Michelin Sticky Toffee Pudding at Home (YouTube) | delovno — velikost modela za dopolnitev; ni preizkušeno | R0029; R0150; R0155 |
 | [R0193](R0193-sabayon.md) | Sabayon z marsalo (zabaione) | 1.1 Osnovne kreme | sabayon; zabaione; rumenjaki; marsala | Wikilivres, Livre de cuisine/Sabayon; CC BY-SA 4.0 | delovno — ni preizkušeno | R0194 |
 | [R0194](R0194-sabayon-brez-alkohola.md) | Sabayon brez alkohola | 1.1 Osnovne kreme | sabayon; rumenjaki; pomarančni sok; krema | Chef Simon, Sabayon sans alcool | delovno — ni preizkušeno | R0193 |
 | [R0195](R0195-zrcalna-glazura.md) | Zrcalna glazura (glaçage miroir) | 1.5 Glazure in sladke omake | glazura; zrcalna glazura; čokolada; želatina | Empreinte Sucrée (Chef Simon, Les Gourmets), Glaçage miroir au | delovno — ni preizkušeno | R0143, R0196, R0221 |
@@ -417,6 +418,7 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 - 27. 11. 2026: dodan R0285 shokupan z yudane (uporabnikov recept) v 2.6 Kruh in žemljice.
 - 27. 11. 2026: dodan R0286 krofi (uporabnikov recept »Uber krofi 2.0«) v 6.10 Slovenske sladice.
 - 27. 11. 2026: dodan R0287 krofi s tangzhongom, uredniška varianta R0286 (+40 g mleka, 5 % moke v tangzhongu).
+- 27. 11. 2026: dodan R0288 sticky toffee pudding po Fallowu (YouTube, opis videa) v 6.2 Tople sladice.
 - 27. 11. 2026: dodan R0284 hrustljavi korneti iz vafeljnega testa (MasterChef kartica, King Arthur / Jeni Britton Bauer) v 6.4 Sladoledi in sorbeti; različica v pečici brez pekača je uredniška, čas in temperatura za dopolnitev. Hkrati je druga seja dodala R0285. Aktivnih vnosov 284, naslednji ID R0286.
 - 27. 11. 2026: na uporabnikovo željo dopolnjene količine matičnih omak (R0001, R0003, R0007, R0008, R0024 neposredno; R0005, R0006, R0010 s klasičnimi variantami s količinami) po Chef Simonu, Wikibooks in Wikilivres. Dodanih 18 receptov: školjke R0259–R0262 (novo 11.4), tatarji R0263–R0267 (novo 11.5), hobotnica in lignji R0268–R0271 (novo 11.6), tehnike R0272–R0276 (7.5: rezi, paniranje, pivsko testo, tempura, zeliščno olje). Brez količin ostajajo Fallowove ribje omake (9.3), soubise, zeliščni velouté, paradižnikova omaka, testenine Chef Italiano in recepti iz reelsov. Aktivnih vnosov 275, naslednji ID R0277.
 - 27. 11. 2026: na uporabnikovo željo dodan R0258, MasterChef kartica o agarju s sadjem (7.5 Tehnike): odmerki, vretje, kislo sadje (sok po vretju), encimsko sadje, tekoči gel, perlice. Uredniški povzetek, ni preizkušeno. Aktivnih vnosov 257, naslednji ID R0259.
