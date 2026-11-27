@@ -6,6 +6,8 @@ Osebna kuharska knjiga za pripravo na MasterChef. Namen je hiter pregled med vaj
 
 ## Stanje
 
+27. 11. 2026 — novo podpoglavje 7.6 Nadevi za rolade z R0282 (osem nadevov na eni strani: piščančja in telečja mousseline po Chefu Simonu, duxelles, špinača in rikota, fige in modri sir, suhe slive v slanini, sicilijanski nadev, Rinderrouladen). Nova postavitev `postavitev: plosca` v `sestavi_knjigo.py`: kartice ### v razdelku »## Nadevi«, mreža 2 × n na eni strani, začne se na novi strani. Opozorilo: `clean_text` izloči stavke z besedo »knjiga«; v receptih se ji izogni. 281 receptov, naslednji ID R0283 (R0281 je hkrati dobila druga seja za koralne čipke).
+
 27. 11. 2026 — dodan R0281, slane koralne čipke iz ponve, kot MasterChef kartica v 7.5 Tehnike. V zbirki je 280 receptov, naslednji ID je R0282.
 
 27. 11. 2026 — nova izdaja DOCX/PDF: 279 receptov (z R0280), 218 strani (Word). Popravljeni slogi kazala (6 → 4 strani), bližnjice »*(Hack: …)*« se tiskajo v svoji vrstici z oznako »Hitreje:«. Odprte možnosti zgoščevanja v `reference/izdaja-2026-11-27.md`.

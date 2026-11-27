@@ -666,6 +666,56 @@ def section_title(name):
     p.paragraph_format.keep_with_next = CUR is None
     return p
 
+for name, font, size, color, bold, after in (('Card Title', HEAD, 11.5, GREEN, True, 1),
+                                              ('Card Meta', BODY, 8.5, COPPER, True, 2),
+                                              ('Card Body', BODY, 9.5, INK, False, 2)):
+    s = set_style(name, font, size, color, bold, False, 0, after)
+    s.paragraph_format.line_spacing = 1.08
+
+def sheet(r, h2_text):
+    """Pregledna stran (postavitev: plosca): kartice v mreži 2 × n. Vsaka kartica ima pod ### naslov,
+    ležečo vrstico z namenom in odstavke »**Sestavine:**« ter »**Postopek:**«."""
+    if h2_text:
+        p = add_p('Heading 2'); p.add_run(h2_text); p.paragraph_format.page_break_before = True
+    p = add_p('Heading 3'); p.add_run(r['title']); bookmark(p, r['id'])
+    p.paragraph_format.space_before = Pt(2)
+    cards, after = [], []
+    for name, bl in sections(blocks(r['body'])):
+        if name is None:
+            lead = [v for k, v in bl if k == 'p']
+            if lead:
+                para(clean_text(strip_ids(lead[0])), 'Lead')
+        elif name == 'Nadevi':
+            for kind, val in bl:
+                if kind == 'h3':
+                    cards.append([val, []])
+                elif cards:
+                    cards[-1][1].append(val)
+        elif SECTION_MAP.get(name, name) is not None and has_content(bl):
+            after.append((SECTION_MAP.get(name, name), bl))
+    t = doc.add_table(rows=(len(cards) + 1) // 2, cols=2)
+    t.autofit = False
+    half = TEXT_W / 2
+    for i, (title, paras) in enumerate(cards):
+        cell = t.cell(i // 2, i % 2)
+        cell_props(cell, half, BOX if (i // 2 + i % 2) % 2 == 0 else None, left=140, right=140, top=90, bottom=90)
+        use(cell)
+        para(clean_text(title), 'Card Title')
+        for val in paras:
+            text = clean_text(strip_ids(val))
+            if not text:
+                continue
+            if val.startswith('*') and not val.startswith('**'):
+                para(text.strip('*'), 'Card Meta')
+            else:
+                para(text, 'Card Body')
+        dump.append(f'[kartica] {title}')
+    for row in t.rows:
+        row._tr.get_or_add_trPr().append(OxmlElement('w:cantSplit'))
+    use(None)
+    for target, bl in after:
+        section_title(target); render(bl)
+
 # --- Naslovnica ------------------------------------------------------------
 n_ch = len(chapter_no)
 p = para('OSEBNA KUHARSKA KNJIGA', 'Eyebrow'); p.paragraph_format.space_before = Mm(55)
@@ -806,6 +856,10 @@ for subnum in sorted(group, key=lambda number: (order[int(number.split('.')[0])]
                     style = 'Compact Facts' if name is None and not val.startswith('**Razmerje') else ('Compact Method' if name == 'Postopek' else 'Compact Body')
                     p = doc.add_paragraph(style=style); inline(p, text)
                     dump.append(text.replace('**', ''))
+            manifest.append({'id': r['id'], 'title': r['title'], 'number': disp_sub, 'source': r['file']})
+            continue
+        if r['meta'].get('postavitev') == 'plosca':
+            sheet(r, None if h2_done else h2_text); h2_done = True
             manifest.append({'id': r['id'], 'title': r['title'], 'number': disp_sub, 'source': r['file']})
             continue
         secs = sections(blocks(r['body']))
