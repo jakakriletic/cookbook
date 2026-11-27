@@ -6,7 +6,7 @@ Osebna kuharska knjiga za pripravo na MasterChef. Namen je hiter pregled med vaj
 
 ## Stanje
 
-27. 11. 2026 — nova izdaja DOCX/PDF: 278 receptov, 217 strani (Word). Popravljeni slogi kazala (6 → 4 strani), bližnjice »*(Hack: …)*« se tiskajo v svoji vrstici z oznako »Hitreje:«. Odprte možnosti zgoščevanja v `reference/izdaja-2026-11-27.md`.
+27. 11. 2026 — nova izdaja DOCX/PDF: 279 receptov (z R0280), 218 strani (Word). Popravljeni slogi kazala (6 → 4 strani), bližnjice »*(Hack: …)*« se tiskajo v svoji vrstici z oznako »Hitreje:«. Odprte možnosti zgoščevanja v `reference/izdaja-2026-11-27.md`.
 
 27. 11. 2026 — razširjen R0157 v 7.4 s pečenostjo zrezkov, počasno peko, divjačino in morskimi sadeži.
 

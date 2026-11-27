@@ -4,7 +4,7 @@ Posodobljeno: 27. 11. 2026.
 
 Za vključitev izbranih vnosov: **279** (R0001–R0045 in R0047–R0280). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0281**.
 
-**Aktualna izdaja, 27. 11. 2026:** [Wordova knjiga](../outputs/moj-kuharski-zvezek.docx) in [PDF](../outputs/moj-kuharski-zvezek.pdf) imata 278 receptov, 13 poglavij in 217 strani (Word). Kazalo zgoščeno na 4 strani, bližnjice z oznako »Hitreje«. Evidenca: `reference/izdaja-2026-11-27.md`.
+**Aktualna izdaja, 27. 11. 2026:** [Wordova knjiga](../outputs/moj-kuharski-zvezek.docx) in [PDF](../outputs/moj-kuharski-zvezek.pdf) imata 279 receptov, 13 poglavij in 218 strani (Word). Kazalo zgoščeno na 4 strani, bližnjice z oznako »Hitreje«. Evidenca: `reference/izdaja-2026-11-27.md`.
 
 **Prejšnja izdaja, 26. 11. 2026:** [Wordova knjiga](../outputs/moj-kuharski-zvezek.docx) in [PDF](../outputs/moj-kuharski-zvezek.pdf) imata 251 receptov, 13 poglavij in 192 strani, v novem strnjenem slogu (recepti v dveh stolpcih). Evidenca izdaje: `reference/izdaja-2026-11-26.md`.
 
