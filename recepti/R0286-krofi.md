@@ -66,6 +66,7 @@ Za enak rezultat vsakič izmeri in zapiši temperaturo prostora, moke in mleka, 
 ## Serviranje in povezani recepti
 
 - Polnilo po želji, na primer [slaščičarska krema](R0028-slascicarska-krema.md).
+- Varianta z bolj puhasto sredico: [krofi s tangzhongom](R0287-krofi-s-tangzhongom.md).
 
 ## Uredniška evidenca
 

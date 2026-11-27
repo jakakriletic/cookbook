@@ -6,6 +6,8 @@ Osebna kuharska knjiga za pripravo na MasterChef. Namen je hiter pregled med vaj
 
 ## Stanje
 
+27. 11. 2026 — R0286 krofi dobil razdelek »Kontrola temperatur« (Rouxbe, King Arthur); dodan R0287 krofi s tangzhongom kot uredniška varianta (5 % moke, +40 g mleka). 286 receptov, naslednji ID R0288.
+
 27. 11. 2026 — dodan R0286 krofi (uporabnikov recept »Uber krofi 2.0«) v 6.10 Slovenske sladice; vzhajanje, oblikovanje, izplen in čas cvrtja za dopolnitev. Naslednji ID R0287.
 
 27. 11. 2026 — dodan R0284 hrustljavi korneti iz vafeljnega testa (MasterChef kartica, King Arthur / Jeni Britton Bauer, 8 kornetov) v 6.4 Sladoledi in sorbeti. Pekač za kornete; različica v pečici je uredniška, čas in temperatura za dopolnitev. Skupaj z R0285 (druga seja) 284 receptov, naslednji ID R0286.
