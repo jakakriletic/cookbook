@@ -2,9 +2,9 @@
 
 Posodobljeno: 27. 11. 2026.
 
-Za vključitev izbranih vnosov: **279** (R0001–R0045 in R0047–R0280). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0281**.
+Za vključitev izbranih vnosov: **280** (R0001–R0045 in R0047–R0281). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0282**.
 
-**Aktualna izdaja, 27. 11. 2026:** [Wordova knjiga](../outputs/moj-kuharski-zvezek.docx) in [PDF](../outputs/moj-kuharski-zvezek.pdf) imata 279 receptov, 13 poglavij in 218 strani (Word). Kazalo zgoščeno na 4 strani, bližnjice z oznako »Hitreje«. Evidenca: `reference/izdaja-2026-11-27.md`.
+**Aktualna izdaja, 27. 11. 2026:** [Wordova knjiga](../outputs/moj-kuharski-zvezek.docx) in [PDF](../outputs/moj-kuharski-zvezek.pdf) imata 280 receptov, 13 poglavij in 219 strani (Word). Kazalo zgoščeno na 4 strani, bližnjice z oznako »Hitreje«. Evidenca: `reference/izdaja-2026-11-27.md`.
 
 **Prejšnja izdaja, 26. 11. 2026:** [Wordova knjiga](../outputs/moj-kuharski-zvezek.docx) in [PDF](../outputs/moj-kuharski-zvezek.pdf) imata 251 receptov, 13 poglavij in 192 strani, v novem strnjenem slogu (recepti v dveh stolpcih). Evidenca izdaje: `reference/izdaja-2026-11-26.md`.
 
@@ -226,6 +226,7 @@ Zgradba je poenotena 11. 11. 2026: številke v stolpcu »Glavno poglavje« so en
 | [R0220](R0220-karamelizirani-mandlji.md) | Karamelizirani mandlji | 4.3 Sladkor in karamela | mandlji; karamelizirani oreščki; sladkor; hrustljav dodatek | Plaisir et Equilibre (Chef Simon, Les Gourmets), Amandes caramélisées | delovno — ni preizkušeno | R0035, R0136 |
 | [R0221](R0221-zelatina.md) | Želatina: namakanje, uporaba in pretvorbe | 7.5 Tehnike | želatina; Bloom; lističi; prah | Wikibooks Cookbook, Gelatin; CC BY-SA 4.0 | delovno — ni preizkušeno | R0038, R0154, R0195 |
 | [R0258](R0258-agar-s-sadjem.md) | Agar s sadjem: geli, tekoči gel in perlice (MasterChef kartica) | 7.5 Tehnike | agar; tekoči gel; perlice; kislina; brez želatine; MasterChef | uredniški povzetek; R0094 in iskalni povzetki virov | delovno — uredniško, ni preizkušeno | R0221, R0094, R0038, R0257 |
+| [R0281](R0281-slane-koralne-cipke.md) | Slane koralne čipke iz ponve (MasterChef kartica) | 7.5 Tehnike | MasterChef; čipke; hrustljav okras | Stephanie Hamilton, ChefSteps Community | delovno | R0033, R0228 |
 | [R0222](R0222-kvenele.md) | Kvenele z dvema žlicama | 7.5 Tehnike | kvenele; quenelle; oblikovanje; krožnik | Chef Simon, Former des quenelles à la cuiller | delovno — ni preizkušeno | R0049, R0155, R0165 |
 | [R0272](R0272-osnovni-rezi-zelenjave.md) | Osnovni rezi zelenjave in zelišč | 7.5 Tehnike | rezi; julienne; brunoise; chiffonade | Wikibooks, Knife Skills; CC BY-SA 4.0; Chef Simon | delovno — ni preizkušeno | R0170 |
 | [R0273](R0273-paniranje-po-anglesko.md) | Paniranje po angleško (moka, jajce, drobtine) | 7.5 Tehnike | paniranje; drobtine; zrezek; riba | Chef Simon, Escalope panée à l'anglaise; Merlan pané | delovno — ni preizkušeno | R0114 |
