@@ -16,7 +16,7 @@
 
 27. 11. 2026 — R0277 mandljevo krhko testo (2.1, Chef Simon) z MasterChef varianto v sekljalniku ter belo in kakavovo različico; kakavova je iz povzetka iskalnika, za preverbo. 276 receptov, naslednji ID R0278.
 
-27. 11. 2026 — YouTube videa bG2nwUSWezg in IIGLJKD0t_8 obdelana kot R0278 in R0279 (12.8). Opis in metapodatke YouTuba je mogoče brati v vgrajenem brskalniku (window.ytInitialPlayerResponse), ko seja teče na uporabnikovem računalniku. Še ponujeno: oklepaji s hacki pri obstoječih receptih v 12.8.
+27. 11. 2026 — YouTube videa bG2nwUSWezg in IIGLJKD0t_8 obdelana kot R0278 in R0279 (12.8). Opis in metapodatke YouTuba je mogoče brati v vgrajenem brskalniku (window.ytInitialPlayerResponse), ko seja teče na uporabnikovem računalniku. Hacki za ekonom lonec dodani tudi k R0243 in R0246; oblika v postopku: »*(Hack: …)*«, čas iz virov, v evidenci za preverbo.
 
 27. 11. 2026 — R0280 karpačo iz kozic s stiskalnico za tortilje (11.5, preimenovano v Tatarji in karpači; Gronda, količine za dopolnitev). 279 receptov, naslednji ID R0281.
 

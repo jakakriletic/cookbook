@@ -14,7 +14,7 @@ datum_prejema: "2026-11-26"
 
 **Izplen:** 2 porciji.
 
-**Okvirni čas:** 35 minut.
+**Okvirni čas:** 35 minut (v ekonom loncu manj).
 
 ## Sestavine
 
@@ -33,6 +33,10 @@ datum_prejema: "2026-11-26"
 
 ## Postopek
 
-1. Lečo spiraj, dokler voda ni skoraj bistra. Z vodo in kurkumo jo zavri ter posnemi peno. Dodaj na kocke narezan paradižnik in rahlo kuhaj 15–20 minut, da zrna razpadejo.
+1. Lečo spiraj, dokler voda ni skoraj bistra. Z vodo in kurkumo jo zavri ter posnemi peno. Dodaj na kocke narezan paradižnik in rahlo kuhaj 15–20 minut, da zrna razpadejo. *(Hack: v ekonom loncu 2–3 piske na srednjem ognju, nato pusti, da tlak pade sam. Peno posnemi pred zapiranjem pokrova.)*
 2. Posoli in premešaj z metlico. Gostoto uravnaj z malo vroče vode. Leča naj počasi steče z zajemalke.
 3. V majhni ponvi segrej ghi. Dodaj kumin, ko zadiši, pa še na lističe narezan česen in prelomljen čili. Ko česen svetlo pozlati, takoj prelij čez lečo. Dodaj limonin sok in nekaj začimbnega preliva pusti vidnega na vrhu.
+
+## Uredniška evidenca
+
+- 27. 11. 2026: na uporabnikovo željo dodan hack za ekonom lonec (2–3 piski na srednjem ognju za razpolovljeno rdečo lečo, naravno spuščanje tlaka) po Pots and Pans (Pressure Cooker Guide: Whistles Needed to Cook Masoor Dal) in Indian Healthy Recipes (Masoor Dal); viri navajajo 1–6 piskov, izbran najpogostejši razpon. Iz povzetka iskanja, strani niso bile neposredno prebrane. **Preveri** pred tiskom.
