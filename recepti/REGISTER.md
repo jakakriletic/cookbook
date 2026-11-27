@@ -2,7 +2,7 @@
 
 Posodobljeno: 27. 11. 2026.
 
-Za vključitev izbranih vnosov: **276** (R0001–R0045 in R0047–R0277). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0278**.
+Za vključitev izbranih vnosov: **278** (R0001–R0045 in R0047–R0279). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0280**.
 
 **Aktualna izdaja, 26. 11. 2026:** [Wordova knjiga](../outputs/moj-kuharski-zvezek.docx) in [PDF](../outputs/moj-kuharski-zvezek.pdf) imata 251 receptov, 13 poglavij in 192 strani, v novem strnjenem slogu (recepti v dveh stolpcih). Evidenca izdaje: `reference/izdaja-2026-11-26.md`.
 
@@ -140,6 +140,8 @@ Zgradba je poenotena 11. 11. 2026: številke v stolpcu »Glavno poglavje« so en
 | [R0243](R0243-rdeca-leca-z-zacimbnim-prelivom-masoor-dal-tadka.md) | Rdeča leča z začimbnim prelivom (masoor dal tadka) | 12.8 Indija | praženje začimb v ghiju | Uredniška receptura za vajo | delovno — ni preizkušeno | — |
 | [R0244](R0244-cebulni-pakori-s-koriandrovim-jogurtom.md) | Čebulni pakori s koriandrovim jogurtom | 12.8 Indija | vezava s čičerikino moko | Uredniška receptura za vajo | delovno — ni preizkušeno | — |
 | [R0245](R0245-plastena-paratha-z-ghijem.md) | Plastena paratha z ghijem | 12.8 Indija | plastenje z gubanjem | Uredniška receptura za vajo | delovno — ni preizkušeno | — |
+| [R0278](R0278-radzastanski-rdeci-curry-z-ovcetino-laal-maas.md) | Radžastanski rdeči curry z ovčetino (laal maas) | 12.8 Indija | dušenje; čilijeva pasta; ekonom lonec | HomeCookingShow (YouTube bG2nwUSWezg) | delovno — cele začimbe za dopolnitev; hack za preverbo; ni preizkušeno | R0162; R0245 |
+| [R0279](R0279-kofte-iz-paneerja-v-kremni-omaki-malai-kofta.md) | Kofte iz paneerja v kremni omaki (malai kofta) | 12.8 Indija | cvrtje kroglic; gladka omaka; ekonom lonec | HomeCookingShow (YouTube IIGLJKD0t_8) | delovno — več količin za dopolnitev; hacka za preverbo; ni preizkušeno | R0242; R0245 |
 | [R0246](R0246-korenckova-halva-s-kardamomom-gajar-ka-halwa.md) | Korenčkova halva s kardamomom (gajar ka halwa) | 12.8 Indija | redukcija mleka | Uredniška receptura za vajo | delovno — ni preizkušeno | — |
 | [R0247](R0247-koruzne-tortilje-iz-mase-harine.md) | Koruzne tortilje iz mase harine | 12.9 Mehika | stiskanje in peka tortilj | Uredniška receptura za vajo, tehnična podlaga: Rick Bayless | delovno — ni preizkušeno | — |
 | [R0248](R0248-zeleni-pipian-iz-bucnih-semen.md) | Zeleni pipián iz bučnih semen | 12.9 Mehika | zgoščevanje s semeni | Uredniška receptura za vajo, tehnična podlaga: Rick Bayless | delovno — ni preizkušeno | — |
@@ -397,6 +399,7 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 ## Dnevnik
 
 - 27. 11. 2026: dodan R0277 mandljevo krhko testo za tarte (Chef Simon, pâte sablée amande) z MasterChef varianto v sekljalniku brez počitka in kakavovo varianto (Atelier et Saveurs, iz povzetka, za preverbo); R0181 limonina tarta zdaj vodi nanj. Poslani reel DgM92bZtNAh tarte ne vsebuje. Aktivnih vnosov 276, naslednji ID R0278.
+- 27. 11. 2026: v 12.8 Indija dodana R0278 laal maas in R0279 malai kofta (HomeCookingShow, YouTube; iz opisa videa). Hacki za pospešitev (ekonom lonec) v oklepajih, časi iz receptnih strani, za preverbo. Aktivnih vnosov 278, naslednji ID R0280.
 - 27. 11. 2026: na uporabnikovo željo dopolnjene količine matičnih omak (R0001, R0003, R0007, R0008, R0024 neposredno; R0005, R0006, R0010 s klasičnimi variantami s količinami) po Chef Simonu, Wikibooks in Wikilivres. Dodanih 18 receptov: školjke R0259–R0262 (novo 11.4), tatarji R0263–R0267 (novo 11.5), hobotnica in lignji R0268–R0271 (novo 11.6), tehnike R0272–R0276 (7.5: rezi, paniranje, pivsko testo, tempura, zeliščno olje). Brez količin ostajajo Fallowove ribje omake (9.3), soubise, zeliščni velouté, paradižnikova omaka, testenine Chef Italiano in recepti iz reelsov. Aktivnih vnosov 275, naslednji ID R0277.
 - 27. 11. 2026: na uporabnikovo željo dodan R0258, MasterChef kartica o agarju s sadjem (7.5 Tehnike): odmerki, vretje, kislo sadje (sok po vretju), encimsko sadje, tekoči gel, perlice. Uredniški povzetek, ni preizkušeno. Aktivnih vnosov 257, naslednji ID R0259.
 - 27. 11. 2026: na uporabnikovo željo dodan R0257 sadni mousse iz sifona brez želatine (5.2, uredniški MasterChef hitri recept, dve različici: s smetano in z agarjem) in v R0038 »MasterChef varianta« z agarjem ter seznam drugih rešitev brez želatine (tudi za zelenjavni mousse). Viri iSi in Chef Simon iz seje niso bili dosegljivi. Aktivnih vnosov 256, naslednji ID R0258.
