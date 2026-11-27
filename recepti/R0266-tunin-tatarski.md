@@ -2,7 +2,7 @@
 id: R0266
 naslov: "Tunin tatarski z azijskimi okusi"
 poglavje: "Glavne jedi"
-podpoglavje: "Tatarji"
+podpoglavje: "Tatarji in karpači"
 oznake: [tatarski, tuna, surova riba, sezam, ingver, limeta, Azija]
 izvor: "Chef Simon, Tartare de thon aux saveurs asiatiques"
 vir: "https://chefsimon.com/gourmets/chef-simon/recettes/tartare-de-thon-aux-saveurs-asiatiques"

@@ -2,7 +2,7 @@
 
 Posodobljeno: 27. 11. 2026.
 
-Za vključitev izbranih vnosov: **278** (R0001–R0045 in R0047–R0279). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0280**.
+Za vključitev izbranih vnosov: **279** (R0001–R0045 in R0047–R0280). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0281**.
 
 **Aktualna izdaja, 26. 11. 2026:** [Wordova knjiga](../outputs/moj-kuharski-zvezek.docx) in [PDF](../outputs/moj-kuharski-zvezek.pdf) imata 251 receptov, 13 poglavij in 192 strani, v novem strnjenem slogu (recepti v dveh stolpcih). Evidenca izdaje: `reference/izdaja-2026-11-26.md`.
 
@@ -245,11 +245,12 @@ Zgradba je poenotena 11. 11. 2026: številke v stolpcu »Glavno poglavje« so en
 | [R0260](R0260-klapavice-po-marinarsko.md) | Klapavice po marinarsko (moules marinière) | 11.4 Školjke | klapavice; belo vino; Francija | Chef Simon, Moules marinière | delovno — ni preizkušeno | R0259, R0167 |
 | [R0261](R0261-srcanke-po-marinarsko.md) | Srčanke po marinarsko (coques marinières) | 11.4 Školjke | srčanke; vongole; razpeskanje | Chef Simon, Coques marinières | delovno — ni preizkušeno | R0164, R0260 |
 | [R0262](R0262-pokrovace-na-rjavem-maslu.md) | Pokrovače na rjavem maslu (noix de Saint-Jacques sautées) | 11.4 Školjke | pokrovače; rjavo maslo; odpiranje | Chef Simon, Noix de saint Jacques sautées | delovno — ni preizkušeno | R0114, R0161 |
-| [R0263](R0263-goveji-tatarski-biftek.md) | Goveji tatarski biftek po francosko (tartare de bœuf) | 11.5 Tatarji | tatarski; govedina; surovo | Chef Simon, Tartare de boeuf | delovno — ni preizkušeno | R0264, R0167 |
-| [R0264](R0264-slovenski-tatarski-biftek.md) | Slovenski tatarski biftek | 11.5 Tatarji | tatarski; govedina; Slovenija | Slovenian Kitchen, Tatarski biftek | delovno — ni preizkušeno | R0263, R0115 |
-| [R0265](R0265-lososov-tatarski.md) | Lososov tatarski s kaprami in pehtranom | 11.5 Tatarji | tatarski; losos; surova riba | Chef Simon, Tartare de saumon | delovno — ni preizkušeno | R0266, R0267 |
-| [R0266](R0266-tunin-tatarski.md) | Tunin tatarski z azijskimi okusi | 11.5 Tatarji | tatarski; tuna; sezam | Chef Simon, Tartare de thon aux saveurs asiatiques | delovno — masa tune za dopolnitev | R0265, R0132 |
-| [R0267](R0267-tatarski-iz-bele-ribe.md) | Tatarski iz bele ribe s citrusi in limonsko travo | 11.5 Tatarji | tatarski; bela riba; citrusi | Chef Simon, Tartare de poisson cru | delovno — ni preizkušeno | R0054, R0265 |
+| [R0263](R0263-goveji-tatarski-biftek.md) | Goveji tatarski biftek po francosko (tartare de bœuf) | 11.5 Tatarji in karpači | tatarski; govedina; surovo | Chef Simon, Tartare de boeuf | delovno — ni preizkušeno | R0264, R0167 |
+| [R0264](R0264-slovenski-tatarski-biftek.md) | Slovenski tatarski biftek | 11.5 Tatarji in karpači | tatarski; govedina; Slovenija | Slovenian Kitchen, Tatarski biftek | delovno — ni preizkušeno | R0263, R0115 |
+| [R0265](R0265-lososov-tatarski.md) | Lososov tatarski s kaprami in pehtranom | 11.5 Tatarji in karpači | tatarski; losos; surova riba | Chef Simon, Tartare de saumon | delovno — ni preizkušeno | R0266, R0267 |
+| [R0266](R0266-tunin-tatarski.md) | Tunin tatarski z azijskimi okusi | 11.5 Tatarji in karpači | tatarski; tuna; sezam | Chef Simon, Tartare de thon aux saveurs asiatiques | delovno — masa tune za dopolnitev | R0265, R0132 |
+| [R0267](R0267-tatarski-iz-bele-ribe.md) | Tatarski iz bele ribe s citrusi in limonsko travo | 11.5 Tatarji in karpači | tatarski; bela riba; citrusi | Chef Simon, Tartare de poisson cru | delovno — ni preizkušeno | R0054, R0265 |
+| [R0280](R0280-karpaco-iz-kozic.md) | Karpačo iz kozic s stiskalnico za tortilje in majonezo iz kozičjih glav | 11.5 Tatarji in karpači | karpačo; kozice; stiskalnica za tortilje; majoneza; MasterChef; Instagram | Gronda, Instagram Reel; chef Danilo Cortellini | delovno — količine za dopolnitev | R0265, R0115 |
 | [R0268](R0268-ciscenje-in-kuhanje-hobotnice.md) | Hobotnica: čiščenje in kuhanje v začinjeni vodi | 11.6 Hobotnica in lignji | hobotnica; čiščenje; kuhanje | Chef Simon, Préparation du poulpe; Avis de Gourmets, Cuisson du poulpe | delovno — koraki kuhanja delno uredniški | R0269 |
 | [R0269](R0269-hobotnica-po-provansalsko.md) | Hobotnica po provansalsko | 11.6 Hobotnica in lignji | hobotnica; paradižnik; dušenje | Chef Simon, Poulpes à la provençale | delovno — masa hobotnice za dopolnitev | R0268, R0009 |
 | [R0270](R0270-ocvrti-lignji.md) | Hrustljavi ocvrti lignji (calamari) | 11.6 Hobotnica in lignji | lignji; cvrtje; koruzni zdrob | Wikibooks, Crispy Calamari; CC BY-SA 4.0 | delovno — sol in poper za preverbo | R0271, R0274 |
@@ -398,6 +399,7 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 
 ## Dnevnik
 
+- 27. 11. 2026: iz Grondinega reela dodan R0280 karpačo iz kozic s stiskalnico za tortilje in majonezo iz kozičjih glav (chef Danilo Cortellini); količine za dopolnitev. Podpoglavje 11.5 preimenovano v »Tatarji in karpači«. Aktivnih vnosov 279, naslednji ID R0281.
 - 27. 11. 2026: dodan R0277 mandljevo krhko testo za tarte (Chef Simon, pâte sablée amande) z MasterChef varianto v sekljalniku brez počitka in kakavovo varianto (Atelier et Saveurs, iz povzetka, za preverbo); R0181 limonina tarta zdaj vodi nanj. Poslani reel DgM92bZtNAh tarte ne vsebuje. Aktivnih vnosov 276, naslednji ID R0278.
 - 27. 11. 2026: v 12.8 Indija dodana R0278 laal maas in R0279 malai kofta (HomeCookingShow, YouTube; iz opisa videa). Hacki za pospešitev (ekonom lonec) v oklepajih, časi iz receptnih strani, za preverbo. Aktivnih vnosov 278, naslednji ID R0280.
 - 27. 11. 2026: na uporabnikovo željo dopolnjene količine matičnih omak (R0001, R0003, R0007, R0008, R0024 neposredno; R0005, R0006, R0010 s klasičnimi variantami s količinami) po Chef Simonu, Wikibooks in Wikilivres. Dodanih 18 receptov: školjke R0259–R0262 (novo 11.4), tatarji R0263–R0267 (novo 11.5), hobotnica in lignji R0268–R0271 (novo 11.6), tehnike R0272–R0276 (7.5: rezi, paniranje, pivsko testo, tempura, zeliščno olje). Brez količin ostajajo Fallowove ribje omake (9.3), soubise, zeliščni velouté, paradižnikova omaka, testenine Chef Italiano in recepti iz reelsov. Aktivnih vnosov 275, naslednji ID R0277.

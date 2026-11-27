@@ -2,7 +2,7 @@
 id: R0263
 naslov: "Goveji tatarski biftek po francosko (tartare de bœuf)"
 poglavje: "Glavne jedi"
-podpoglavje: "Tatarji"
+podpoglavje: "Tatarji in karpači"
 oznake: [tatarski biftek, govedina, surovo meso, rumenjak, Francija, bistro]
 izvor: "Chef Simon, Tartare de boeuf"
 vir: "https://chefsimon.com/gourmets/chef-simon/recettes/tartare-de-boeuf--4"

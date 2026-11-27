@@ -6,6 +6,8 @@ Osebna kuharska knjiga za pripravo na MasterChef. Namen je hiter pregled med vaj
 
 ## Stanje
 
+27. 11. 2026 — karpačo: R0280 karpačo iz kozic s stiskalnico za tortilje (Gronda, chef Danilo Cortellini; količine samo »na zahtevo«, za dopolnitev); 11.5 preimenovano v Tatarji in karpači. 279 receptov, naslednji ID R0281.
+
 27. 11. 2026 — 12.8 Indija: iz dveh videov HomeCookingShow, ki ju je poslal uporabnik, dodana R0278 laal maas in R0279 malai kofta. Recept je vzet iz opisa videa, prebranega v vgrajenem brskalniku na uporabnikovem računalniku (domači IP, brez bot-preverjanja). Na uporabnikovo željo so v postopku hacki za pospešitev v oklepajih (»*(Hack: …)*«, npr. ekonom lonec), s časi iz receptnih strani, označeni za preverbo. 278 receptov, naslednji ID R0280.
 
 27. 11. 2026 — tarta: uporabnik je želel hitro MasterChef testo za tarto iz blenderja, krhko, a obstojne oblike, v beli in kakavovi različici. Dodan R0277 (pâte sablée amande po Chef Simonu, slepa peka po Chef Simonu, varianta v sekljalniku uredniška, kakavova po Atelier et Saveurs iz povzetka). R0181 vodi na R0277. 276 receptov, naslednji ID R0278.
@@ -155,7 +157,7 @@ Zgradba je poenotena 11. 11. 2026 na uporabnikovo željo, da bo hitro jasno, kje
 | 8 Okisovanje | 8.1 Hitro okisanje | okisanje in vlaganje zelenjave in sadja (fermentacija naj dobi svoje podpoglavje) |
 | 9 Omake | 9.1 Matične in izpeljane omake · 9.2 Maslene omake · 9.3 Omake za ribe in morske sadeže | tople in hladne omake, emulzije, prelivi; pregled `recepti/04-04-maticne-in-izpeljane-omake.md` na začetku 9.1 |
 | 10 Priloge | 10.1 Krompir · 10.2 Pireji · 10.3 Riž in rižota · 10.4 Zelenjavne priloge · 10.5 Solate | krompir, pireji, riž, zelenjavne priloge, solate in solatni prelivi; pregled `recepti/05-04-pireji-in-kreme.md` na začetku 10.2 |
-| 11 Glavne jedi | 11.1 Fine dining · 11.2 Ribe in morski sadeži · 11.3 Perutnina · 11.4 Školjke · 11.5 Tatarji · 11.6 Hobotnica in lignji | končne jedi z ribami, mesom in perutnino |
+| 11 Glavne jedi | 11.1 Fine dining · 11.2 Ribe in morski sadeži · 11.3 Perutnina · 11.4 Školjke · 11.5 Tatarji in karpači · 11.6 Hobotnica in lignji | končne jedi z ribami, mesom in perutnino |
 | 12 Tuja kulinarika | 12.1 Peru · 12.2 Kitajska · 12.3 Italijanske jedi · 12.4 Japonska · 12.5 Koreja · 12.6 Tajska · 12.7 Vietnam · 12.8 Indija · 12.9 Mehika | jedi in samostojne komponente po kuhinjah |
 | 13 Jules Cooking | 13.1 Emulzije in olja · 13.2 Farse · 13.3 Ceviche · 13.4 Kvašene sladice · 13.5 Sirupi in sadni geli · 13.6 Kreme in moussi · 13.7 Okraski in vložki · 13.8 Sladice iz kuhanega testa · 13.9 Geli in redukcije · 13.10 Hrustljave lupine · 13.11 Tartelete · 13.12 Karamele in pralineji | vsi recepti Jules Cooking |
 

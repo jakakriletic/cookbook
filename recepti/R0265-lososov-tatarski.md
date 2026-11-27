@@ -2,7 +2,7 @@
 id: R0265
 naslov: "Lososov tatarski s kaprami in pehtranom"
 poglavje: "Glavne jedi"
-podpoglavje: "Tatarji"
+podpoglavje: "Tatarji in karpači"
 oznake: [tatarski, losos, surova riba, kapre, pehtran, Francija]
 izvor: "Chef Simon, Tartare de saumon"
 vir: "https://chefsimon.com/gourmets/chef-simon/recettes/tartare-de-saumon--6"

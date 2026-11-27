@@ -2,7 +2,7 @@
 id: R0264
 naslov: "Slovenski tatarski biftek"
 poglavje: "Glavne jedi"
-podpoglavje: "Tatarji"
+podpoglavje: "Tatarji in karpači"
 oznake: [tatarski biftek, govedina, surovo meso, majoneza, inčuni, Slovenija, praznično]
 izvor: "Slovenian Kitchen (Sara Kališnik), Tatarski biftek"
 vir: "https://www.slovenian-kitchen.com/slovenski-koticek/tatarski-biftek"

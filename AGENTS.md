@@ -18,6 +18,8 @@
 
 27. 11. 2026 — YouTube videa bG2nwUSWezg in IIGLJKD0t_8 obdelana kot R0278 in R0279 (12.8). Opis in metapodatke YouTuba je mogoče brati v vgrajenem brskalniku (window.ytInitialPlayerResponse), ko seja teče na uporabnikovem računalniku. Še ponujeno: oklepaji s hacki pri obstoječih receptih v 12.8.
 
+27. 11. 2026 — R0280 karpačo iz kozic s stiskalnico za tortilje (11.5, preimenovano v Tatarji in karpači; Gronda, količine za dopolnitev). 279 receptov, naslednji ID R0281.
+
 Delovna mapa v tej seji: `C:\Users\jakak\Desktop\cookbook` (uporabnik jo je izrecno določil 5. 11. 2026).
 Z uporabnikom komuniciraj v slovenščini, sproščeno; recepte piši v jasni knjižni slovenščini.
 

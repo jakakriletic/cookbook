@@ -2,7 +2,7 @@
 id: R0267
 naslov: "Tatarski iz bele ribe s citrusi in limonsko travo"
 poglavje: "Glavne jedi"
-podpoglavje: "Tatarji"
+podpoglavje: "Tatarji in karpači"
 oznake: [tatarski, bela riba, brancin, trska, surova riba, limeta, limonska trava]
 izvor: "Chef Simon, Tartare de poisson cru"
 vir: "https://chefsimon.com/gourmets/chef-simon/recettes/tartare-de-poisson-cru"
