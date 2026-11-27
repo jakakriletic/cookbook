@@ -14,18 +14,18 @@ datum_prejema: "2026-10-31"
 
 Rdeča sestra beurre blanc: maslena emulzija na redukciji rdečega vina in vinskega kisa. Kislina in tanini vina prerežejo bogastvo, zato je omaka primerna za mesnate ribe in rdeče meso. Beurre blanc pa sodi k nežni ribi, morski hrani in zelenjavi.
 
-**Izplen:** za dopolnitev.
+**Izplen:** za 4 osebe.
 
 ## Sestavine
 
 | Sestavina | Količina |
 | --- | ---: |
-| Kakovostno rdeče vino | za dopolnitev |
-| Kis iz rdečega vina | za dopolnitev |
-| Šalotka, drobno narezana | za dopolnitev |
-| Česen | za dopolnitev |
-| Arome | vrsta in količina za dopolnitev |
-| Hladno maslo, na kocke | za dopolnitev |
+| Kakovostno, polno rdeče vino | 300 ml |
+| Kis iz rdečega vina ali belo vino | kanček kisa ali 100 ml belega vina |
+| Šalotka, drobno narezana | 3 |
+| Česen | 3 stroki |
+| Arome: timijan, lovor, poper v zrnu, klinček | po okusu |
+| Hladno maslo, na kocke | 200 g |
 | Smetana | kanček |
 
 ## Posebna oprema
@@ -54,3 +54,4 @@ V videu: ob rombu (turbot) s slanino in kapljicami olja. Beurre blanc ima po pot
 - Vir: Fallow, »One of the best sauces you've never heard of«, kratek video (54 s), 4. 10. 2026. Izvorni zapis v `reference/videi-2026-10-31.md`.
 - Ureditev: kratek video je urejen v celoten recept, brez dodanih količin.
 - Odprto: vse količine, vrsta arom in izplen.
+- 27. 11. 2026: na uporabnikovo željo dopolnjene količine. Količine po Chef Simon, Sauce vin rouge (4 osebe; 3 dl polnega rdečega vina, 1 dl belega vina, 200 g masla, 3 stroki česna, 3 šalotke, timijan, lovor, poper v zrnu, klinčki, po želji kanček sojine omake; redukcija na polovico, precejanje, ponovna redukcija do sijaja, nato maslo), prebrano 27. 11. 2026. Fallow uporabi kis iz rdečega vina, Chef Simon belo vino; količina kisa pri Fallowu ni podana.

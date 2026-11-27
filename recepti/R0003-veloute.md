@@ -14,18 +14,19 @@ datum_prejema: "2026-10-29"
 
 Žametna matična omaka iz svetlega fonda in rouxa. V tej izvedbi je uporabljen svetli piščančji fond iz nepraženih kosti.
 
-**Izplen:** za dopolnitev.
+**Izplen:** približno 1 l.
 
-**Razmerje po masi: 1 maslo : 1 moka** za roux. Za količino tekočine je izhodišče [bešamel](R0001-besamel.md), 1 : 1 : 10.
+**Razmerje po masi: 1 maslo : 1 moka : 20 fond** (50 g, 50 g, 1 l). Velouté je redkejši od [bešamela](R0001-besamel.md) (1 : 1 : 10).
 
 ## Sestavine
 
 | Sestavina | Količina |
 | --- | ---: |
-| Maslo | za dopolnitev |
-| Moka | približno enaka količina kot masla; masa za dopolnitev |
-| Svetli piščančji fond | za dopolnitev |
-| Sol | za dopolnitev |
+| Maslo | 50 g |
+| Moka | 50 g |
+| Svetli piščančji fond | 1 l |
+| Gosta kisla smetana (crème fraîche), po želji | 1 žlica |
+| Sol | po okusu |
 
 ## Postopek
 
@@ -57,3 +58,4 @@ Avtor omeni tudi dodatek gorčice za omako k piščančjim prsim. Količina za t
 - Ureditev: ohranjena konkretna izbira fonda; primerjava z bešamelom je zgoščena v opis postopka.
 - Odprto: absolutne količine, izplen in čas kuhanja. Razmerje masla in moke se v govoru navezuje na približno razmerje pri bešamelu.
 - 11. 11. 2026: na uporabnikovo željo dodana vrstica »Razmerje po masi« pod izplenom. Razmerje rouxa 1 : 1 je klasično; izhodišče 1 : 1 : 10 je preneseno z bešamela in ni podatek iz tega videa. Pregled: `reference/razmerja-2026-11-11.md`.
+- 27. 11. 2026: na uporabnikovo željo dopolnjene količine. Količine po Chef Simon, Velouté (50 g masla, 50 g moke, 1 l perutninskega ali telečjega fonda ali ribjega fumeta, ena dobra žlica crème fraîche), prebrano 27. 11. 2026. Crème fraîche je po želji, Fallow je ne uporabi. Razmerje 1 : 1 : 20 nadomesti prejšnje uredniško izhodišče 1 : 1 : 10. Izplen je ocena po volumnu fonda.

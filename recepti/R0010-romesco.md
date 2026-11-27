@@ -42,6 +42,15 @@ Mešalnik.
 
 Avtor paradižnikovo osnovo pred miksanjem ohladi zaradi končne barve. Cilj ni povsem gladka, precejena omaka, temveč povezana omaka z nekaj teksture mandljev.
 
+## Varianta: katalonska romesco
+
+**Katalonska romesco.** **3** posušene paprike ñora (ali 3 žlice njihove mezge), **1** majhna glavica česna, **2** večja paradižnika, **10** popečenih lešnikov, **10** popečenih mandljev, **1** rezina ocvrtega kruha ali prepečenec, **½** majhnega čilija, **8 žlic** ekstra deviškega oljčnega olja, **2 žlici** kisa, sol in poper.
+
+1. **Peci.** Paradižnik in česen premaži z oljem, zavij v folijo in peci pri **200 °C** približno **25–30 minut**. Ohladi in olupi.
+2. **Stri.** Mezgo paprik, oreščke in kruh stri v možnarju.
+3. **Zmiksaj.** Dodaj paradižnik in česen ter zmiksaj. Postopoma vmešaj olje, nato kis. Začini.
+4. **Počitek.** Pusti stati vsaj 1 uro, najbolje do naslednjega dne.
+
 ## Serviranje in povezani recepti
 
 V videu postreženo s pečenim lignjem. Priprava lignja, česen v ponvi in zaključni limonin sok na krožniku niso del te recepture omake.
@@ -53,3 +62,4 @@ Osnova: [R0009 Paradižnikova omaka](R0009-paradiznikova-omaka.md).
 - Vir: Fallow, 17:49–19:55; izvorni zapis v `reference/fallow-maticne-omake-2024.md`.
 - Ureditev: ohranjena avtorjeva različica iz kuhane paradižnikove osnove; kruh, suhe paprike in druge sestavine drugih receptur niso dodani.
 - Odprto: vse količine in razmerja, izplen, vrsta kisa in olja, začinjanje ter časi in temperature peke paprike in mandljev. Omemba česna okoli 18:58 sovpada s pripravo lignja; preveriti je treba, ali ga avtor doda tudi v mešalnik. Do preverbe ni naveden kot potrjena sestavina omake.
+- 27. 11. 2026: na uporabnikovo željo dopolnjene količine. Fallowova izvedba ostaja brez količin. Dodana varianta po Wikilivres, Livre de cuisine/Sauce romesco, rev. 452834 (CC BY-SA 4.0), prebrano 27. 11. 2026; »nöra« je zapisana kot ñora.

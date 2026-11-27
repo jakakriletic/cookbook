@@ -14,7 +14,7 @@ datum_prejema: "2026-10-29"
 
 Hollandaise je topla emulzija rumenjakov, masla in kisline. V videu avtor rumenjakom in kisu doda vodo ter osnovo stepe nad vodno kopeljo.
 
-**Izplen:** za dopolnitev.
+**Izplen:** za 6 oseb.
 
 **Razmerje po masi: 5 prečiščeno maslo : 1 rumenjak : 1 tekočina.** Podrobnosti so v razdelku o razmerju spodaj.
 
@@ -22,13 +22,12 @@ Hollandaise je topla emulzija rumenjakov, masla in kisline. V videu avtor rumenj
 
 | Sestavina | Količina |
 | --- | ---: |
-| Rumenjaki | za dopolnitev |
-| Kis | vrsta in količina za dopolnitev |
-| Voda | približno 100 ml za avtorjevo nedoločeno količino omake |
-| Stopljeno maslo | za dopolnitev |
-| Dodatna voda za uravnavanje gostote | po potrebi; količina za dopolnitev |
-
-Podatek o vodi je nepopoln brez količine rumenjakov in masla; celotno razmerje je **za dopolnitev**.
+| Rumenjaki | 3 |
+| Kis ali limonin sok | 1 žlička |
+| Voda | 50 ml |
+| Stopljeno maslo | 250 g |
+| Sol, po želji kajenski poper | po okusu |
+| Dodatna topla voda za uravnavanje gostote | po potrebi |
 
 ## Posebna oprema
 
@@ -78,3 +77,4 @@ To razmerje je iz drugega videa in s prečiščenim maslom; zgornji postopek iz 
 - Ureditev: avtorjeva ocena približno 74 °C ni privzeta kot univerzalni cilj ali varnostno potrjen postopek. Razlaga o vplivu soli na beljakovine ni prenesena kot preverjeno dejstvo. Avtor pove, da na začetku ni dodal soli, končna količina pa ni podana.
 - Odprto: razmerje vseh sestavin, izplen, končno začinjanje, temperatura masla in preverjen režim priprave, toplega držanja ter shranjevanja. Gre za delovni tehnični zapis.
 - 11. 11. 2026: na uporabnikovo željo dodana vrstica »Razmerje po masi« pod izplenom. Razmerje je iz Fallowovega videa o razmerjih in je bilo že zapisano nižje v receptu. Pregled: `reference/razmerja-2026-11-11.md`.
+- 27. 11. 2026: na uporabnikovo željo dopolnjene količine. Količine po Chef Simon, Sauce hollandaise (6 oseb; 250 g masla, 3 rumenjaki, 1 žlička limoninega soka, 5 cl vode ali Noilly Prata, sol, kajenski poper po želji), prebrano 27. 11. 2026. Ujemajo se s Fallowovim razmerjem 5 : 1 : 1 (3 rumenjaki ≈ 50–60 g). Fallow v prvem videu uporabi kis in približno 100 ml vode za nedoločeno količino; zato je kis ohranjen kot možnost.

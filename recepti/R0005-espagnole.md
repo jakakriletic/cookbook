@@ -41,6 +41,22 @@ Bogata mesna omaka iz govejega fonda, slanine in zelenjavne osnove iz čebule, k
 
 Zelenjave ne zažgi in zapečenih ostankov ne pusti na dnu. Med kuhanjem pokušaj; okus je odvisen tudi od sladkobe zelenjave in moči fonda.
 
+## Varianta: klasična espagnole po Escoffierju
+
+**Klasična espagnole po Escoffierju.** Za približno **3,8 l** omake:
+
+- **450 g** rjavega rouxa (hladnega)
+- **5,7 l** temnega fonda
+- **8 žlic** paradižnikove mezge
+- **450 g** mirepoixa (čebula, korenje, stebelna zelena)
+- **1** šopek zelišč (bouquet garni)
+
+1. **Roux razredči.** Hladni roux razmešaj z malo hladnega fonda.
+2. **Fond zavri,** nato zmanjšaj ogenj. Roux temperiraj z zajemalko vročega fonda in ga ob stalnem mešanju vlij v fond, ki rahlo vre.
+3. **Dodaj** paradižnikovo mezgo, razredčeno s fondom, mirepoix in šopek zelišč.
+4. **Kuhaj** napol pokrito **2–3 ure**, sproti posnemaj. Če se preveč zgosti, dolij fond; omaka naj rahlo prevleče žlico.
+5. **Precedi** in temeljito razmasti. Hrani v hladilniku ali zamrzni v manjših porcijah.
+
 ## Serviranje in povezani recepti
 
 Osnova za [R0006 Pomarančno omako à l'orange](R0006-pomarancna-omaka.md), kjer se omaka tudi precedi.
@@ -50,3 +66,4 @@ Osnova za [R0006 Pomarančno omako à l'orange](R0006-pomarancna-omaka.md), kjer
 - Vir: Fallow, 07:39–10:50; izvorni zapis v `reference/fallow-maticne-omake-2024.md`.
 - Ureditev: naslov poudari avtorjevo izvedbo. Paradižnikov koncentrat in drugi dodatki iz drugih receptur niso dodani. Ni zamenjano z demi-glace.
 - Odprto: količine slanine, korenja, zelene in fonda, natančna masa moke, končno začinjanje samostojne osnove ter izplen. Sol in kis sta v prikazu izrecno dodana šele pomarančni izpeljanki.
+- 27. 11. 2026: na uporabnikovo željo dopolnjene količine. Fallowova izvedba ostaja brez količin (v videu niso navedene). Dodana varianta po Wikibooks, Cookbook:Espagnole Sauce (Escoffier), rev. 4518909 (CC BY-SA 4.0), ki navaja Escoffier, Le Guide culinaire (1907): 1 lb rjavega rouxa, 6 quarts temnega fonda, 8 žlic paradižnikove mezge, 1 lb mirepoixa, šopek zelišč, izplen 4 quarts. Preračun: 1 lb ≈ 450 g, 6 US qt ≈ 5,7 l, 4 US qt ≈ 3,8 l.

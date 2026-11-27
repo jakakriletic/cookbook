@@ -14,7 +14,7 @@ datum_prejema: "2026-10-29"
 
 Mlečna matična omaka, zgoščena s prežganjem iz masla in moke (roux). V prikazani izvedbi mleko odišavita čebula in klinčki, maslo pa je rahlo porjavelo.
 
-**Izplen:** za dopolnitev.
+**Izplen:** približno 1 l.
 
 **Razmerje po masi: 1 maslo : 1 moka : 10 mleko**, na primer 100 g masla, 100 g moke in 1 l mleka. Vir je Fallowov video o razmerjih; mleko se tam doda v treh delih, kuhanje traja 4–5 minut.
 
@@ -22,11 +22,11 @@ Mlečna matična omaka, zgoščena s prežganjem iz masla in moke (roux). V prik
 
 | Sestavina | Količina |
 | --- | ---: |
-| Maslo | za dopolnitev |
-| Moka | približno enaka količina kot masla; masa za dopolnitev |
-| Mleko | za dopolnitev |
-| Čebula, nabodena s klinčki | za dopolnitev |
-| Sol | za dopolnitev |
+| Maslo | 100 g |
+| Moka | 100 g |
+| Mleko | 1 l |
+| Čebula, nabodena z nekaj klinčki | 1 majhna |
+| Sol | po okusu |
 
 ## Postopek
 
@@ -45,6 +45,10 @@ Mleka ne prilij vsega naenkrat. Postopno dodajanje in temeljito mešanje sta v p
 - **Vroče mleko in metlica.** Mleko segrej v mikrovalovni pečici, medtem pripravi roux. Vroče mleko prilij v treh delih in vsakič močno mešaj z metlico; grudic ni in omaka se zgosti takoj.
 - **Aroma brez čakanja.** Čebulo s klinčki kuhaj kar v omaki in jo na koncu odstrani.
 
+## Varianta: redkejši bešamel
+
+**Redkejši bešamel.** Za redkejšo omako, npr. za lazanjo ali gratin, vzemi **70 g masla, 70 g moke in 1 l mleka**, po želji z nekaj muškatnega oreščka.
+
 ## Serviranje in povezani recepti
 
 Osnova za [R0002 Čebulno omako soubise](R0002-soubise.md) in [R0022 Omako Mornay](R0022-mornay.md). Razmerje je zbrano tudi v [R0023 Osnovna kuharska razmerja](R0023-osnovna-razmerja.md).
@@ -58,3 +62,4 @@ Osnova za [R0002 Čebulno omako soubise](R0002-soubise.md) in [R0022 Omako Morna
 - Ureditev: slovenski povzetek tehnike, poenotena imena in razdelitev na korake. Ohranjen je prikaz z rahlo porjavelim maslom.
 - Odprto: izplen in celoten čas priprave. Razmerje masla in moke je v prvem videu le približno.
 - 31. 10. 2026: dodano razmerje 1 : 1 : 10 iz videa Fallow »9 Ratios Every Chef Needs to Know« (7:01–8:34), ista tehnika z rahlo porjavelim maslom. Odprto vprašanje o razmerju je s tem zaprto; sestavine v preglednici ostajajo iz prvega videa.
+- 27. 11. 2026: na uporabnikovo željo dopolnjene količine. Maslo, moka in mleko po Fallowovem razmerju 1 : 1 : 10 (primer 100 g, 100 g, 1 l iz videa o razmerjih). Čebula: »1 small onion« po Wikibooks, Cookbook:Béchamel Sauce (Basic), rev. 4523785 (CC BY-SA 4.0); število klinčkov ni podano. Redkejša varianta: Chef Simon, Sauce béchamel (70 g masla, 70 g moke, 1 l mleka, muškatni orešček), prebrano 27. 11. 2026. Izplen približno 1 l je ocena po volumnu mleka.

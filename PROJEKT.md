@@ -6,6 +6,8 @@ Osebna kuharska knjiga za pripravo na MasterChef. Namen je hiter pregled med vaj
 
 ## Stanje
 
+27. 11. 2026 — dopolnitev osnov: količine matičnih omak (bešamel po Fallowovem razmerju 1 : 1 : 10, velouté, holandska, béarnaise in beurre rouge po Chef Simonu; espagnole po Escoffierju, bigarade in katalonska romesco kot variante ob Fallowovih izvedbah). Nova podpoglavja 11.4 Školjke (R0259–R0262), 11.5 Tatarji (R0263–R0267), 11.6 Hobotnica in lignji (R0268–R0271) ter v 7.5 Tehnike R0272–R0276 (rezi, paniranje, pivsko testo, tempura, zeliščno olje; R0276 je izrecna izjema od pravila enega mesta, komponenta iz R0048). Viri: Chef Simon (sitemap chefsimon.com, JSON-LD), Slovenian Kitchen, Wikibooks in Wikilivres (CC BY-SA). Brez količin ostajajo 9.3, R0002, R0004, R0009, Chef Italiano in reelsi (YouTube in aplikacija Gronda nedostopna). 275 receptov, naslednji ID R0277.
+
 27. 11. 2026 — agar: dodan R0258 »Agar s sadjem: geli, tekoči gel in perlice (MasterChef kartica)« v 7.5 Tehnike, ob R0221 Želatina. Ključno: agar sam da krhek žele, svilenkast je šele kot tekoči gel; pri kislem sadju agar zavri v vodi in sok dodaj po vretju. Uredniško, ni preizkušeno. 257 receptov, naslednji ID R0259.
 
 27. 11. 2026 — mousse brez želatine: dodan R0257 sadni mousse iz sifona (različici s smetano in z agarjem; uredniško, ni preizkušeno), R0038 ima MasterChef varianto z agarjem (1 g na 100 g po R0094) in seznam rešitev brez želatine (sifon, bela čokolada, mascarpone, italijanska meringa, zelenjavni mousse). Uporabnik je vprašal po klasičnem francoskem čokoladnem moussu (samo čokolada, rumenjaki, sneg); v knjigi ga ni, najbližji je R0036 z ganašem iz 75 g smetane. 256 receptov, naslednji ID R0258.
@@ -149,7 +151,7 @@ Zgradba je poenotena 11. 11. 2026 na uporabnikovo željo, da bo hitro jasno, kje
 | 8 Okisovanje | 8.1 Hitro okisanje | okisanje in vlaganje zelenjave in sadja (fermentacija naj dobi svoje podpoglavje) |
 | 9 Omake | 9.1 Matične in izpeljane omake · 9.2 Maslene omake · 9.3 Omake za ribe in morske sadeže | tople in hladne omake, emulzije, prelivi; pregled `recepti/04-04-maticne-in-izpeljane-omake.md` na začetku 9.1 |
 | 10 Priloge | 10.1 Krompir · 10.2 Pireji · 10.3 Riž in rižota · 10.4 Zelenjavne priloge · 10.5 Solate | krompir, pireji, riž, zelenjavne priloge, solate in solatni prelivi; pregled `recepti/05-04-pireji-in-kreme.md` na začetku 10.2 |
-| 11 Glavne jedi | 11.1 Fine dining · 11.2 Ribe in morski sadeži · 11.3 Perutnina | končne jedi z ribami, mesom in perutnino |
+| 11 Glavne jedi | 11.1 Fine dining · 11.2 Ribe in morski sadeži · 11.3 Perutnina · 11.4 Školjke · 11.5 Tatarji · 11.6 Hobotnica in lignji | končne jedi z ribami, mesom in perutnino |
 | 12 Tuja kulinarika | 12.1 Peru · 12.2 Kitajska · 12.3 Italijanske jedi · 12.4 Japonska · 12.5 Koreja · 12.6 Tajska · 12.7 Vietnam · 12.8 Indija · 12.9 Mehika | jedi in samostojne komponente po kuhinjah |
 | 13 Jules Cooking | 13.1 Emulzije in olja · 13.2 Farse · 13.3 Ceviche · 13.4 Kvašene sladice · 13.5 Sirupi in sadni geli · 13.6 Kreme in moussi · 13.7 Okraski in vložki · 13.8 Sladice iz kuhanega testa · 13.9 Geli in redukcije · 13.10 Hrustljave lupine · 13.11 Tartelete · 13.12 Karamele in pralineji | vsi recepti Jules Cooking |
 
