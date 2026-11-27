@@ -6,6 +6,8 @@ Osebna kuharska knjiga za pripravo na MasterChef. Namen je hiter pregled med vaj
 
 ## Stanje
 
+27. 11. 2026 — dodan R0285 shokupan (japonski mlečni kruh z yudane, uporabnikov recept v metrični različici) v 2.6 Kruh in žemljice. Naslednji ID R0286.
+
 27. 11. 2026 — dodan R0283 sladki vaflji (Chef Simon, Gaufres, 15 vafljev) v 6.2 Tople sladice. 282 receptov, naslednji ID R0284.
 
 27. 11. 2026 — novo podpoglavje 7.6 Nadevi za rolade z R0282 (osem nadevov na eni strani: piščančja in telečja mousseline po Chefu Simonu, duxelles, špinača in rikota, fige in modri sir, suhe slive v slanini, sicilijanski nadev, Rinderrouladen). Nova postavitev `postavitev: plosca` v `sestavi_knjigo.py`: kartice ### v razdelku »## Nadevi«, mreža 2 × n na eni strani, začne se na novi strani. Opozorilo: `clean_text` izloči stavke z besedo »knjiga«; v receptih se ji izogni. 281 receptov, naslednji ID R0283 (R0281 je hkrati dobila druga seja za koralne čipke).

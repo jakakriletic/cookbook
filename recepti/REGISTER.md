@@ -2,7 +2,7 @@
 
 Posodobljeno: 27. 11. 2026.
 
-Za vključitev izbranih vnosov: **282** (R0001–R0045 in R0047–R0283). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0284**.
+Za vključitev izbranih vnosov: **283** (R0001–R0045 in R0047–R0285). R0046 je na uporabnikovo željo umaknjen in ostaja arhiviran; njegovega ID ne uporabljaj ponovno. Vsi vključeni vnosi so **delovni**: R0001–R0010 in več novih vnosov imajo manjkajoče količine, nobena receptura še ni praktično preverjena. Naslednji ID: **R0286**.
 
 **Aktualna izdaja, 27. 11. 2026:** [Wordova knjiga](../outputs/moj-kuharski-zvezek.docx) in [PDF](../outputs/moj-kuharski-zvezek.pdf) imata 282 receptov, 13 poglavij in 221 strani (Word). Kazalo zgoščeno na 4 strani, bližnjice z oznako »Hitreje«. Evidenca: `reference/izdaja-2026-11-27.md`.
 
@@ -40,6 +40,7 @@ Zgradba je poenotena 11. 11. 2026: številke v stolpcu »Glavno poglavje« so en
 | [R0080](R0080-zemljice-za-burgerje.md) | Žemljice za burgerje v eni uri | 2.6 Kruh in žemljice | žemljice; burger buns; kvašeno testo; med | Backyahd BBQ, Burger Buns: Simple 1 Hour Recipe | delovno — ni preizkušeno | R0060, R0081 |
 | [R0081](R0081-testo-za-brios.md) | Testo za brioš s hladnim vzhajanjem čez noč | 2.6 Kruh in žemljice | brioš; kvašeno testo; maslo; hladno vzhajanje | uredniški recept po klasični formuli | delovno — ni preizkušeno | R0080, R0077, R0082 |
 | [R0082](R0082-hitre-briosne-zemljice.md) | Hitre briošne žemljice v 60 minutah | 2.6 Kruh in žemljice | brioš; žemljice; hitro; tekmovanje | uredniški tekmovalni recept | delovno — ni preizkušeno | R0081, R0080 |
+| [R0285](R0285-shokupan.md) | Shokupan (japonski mlečni kruh z yudane) | 2.6 Kruh in žemljice | kruh; yudane; Japonska; Pullman | uporabnikov recept (metrična različica) | delovno — ni preizkušeno | R0080; R0081 |
 | [R0031](R0031-biskvit-genoise.md) | Masleni biskvit génoise | 3.1 Klasični biskviti | biskvit; jajčna pena | King Arthur Test Kitchen | delovno | R0032 |
 | [R0050](R0050-pistacijev-biskvit-albouze.md) | Pistacijev biskvit s pistacijevo pasto | 3.2 Pistacijevi biskviti | biskvit; pistacija; pistacijeva pasta; meringa | Bruno Albouze, Pistachio Biscuit | delovno — ni preizkušeno | R0051; R0031 |
 | [R0051](R0051-pistacijev-biskvit-mlete-pistacije.md) | Pistacijev biskvit z mletimi pistacijami | 3.2 Pistacijevi biskviti | biskvit; pistacija; mlete pistacije | Wypieki Beaty, Pistachio sponge cake for a layer cake | delovno — ni preizkušeno | R0050; R0031 |
@@ -410,6 +411,7 @@ Skupni vir R0001–R0010: [Fallow — The 5 Sauces Every Chef Needs to Learn](ht
 - 27. 11. 2026: hacki za ekonom lonec dodani k R0243 (dal) in R0246 (korenčkova halva), za preverbo. Pri R0242, R0244 in R0245 hack ni smiseln (ni dolgega kuhanja).
 - 27. 11. 2026: dodan R0282 Nadevi za mesne rolade (novo 7.6, ena stran s karticami). Aktivnih vnosov 281, naslednji ID R0283.
 - 27. 11. 2026: dodan R0283 sladki vaflji (Chef Simon, Gaufres) v 6.2 Tople sladice. Aktivnih vnosov 282, naslednji ID R0284.
+- 27. 11. 2026: dodan R0285 shokupan z yudane (uporabnikov recept) v 2.6 Kruh in žemljice.
 - 27. 11. 2026: na uporabnikovo željo dopolnjene količine matičnih omak (R0001, R0003, R0007, R0008, R0024 neposredno; R0005, R0006, R0010 s klasičnimi variantami s količinami) po Chef Simonu, Wikibooks in Wikilivres. Dodanih 18 receptov: školjke R0259–R0262 (novo 11.4), tatarji R0263–R0267 (novo 11.5), hobotnica in lignji R0268–R0271 (novo 11.6), tehnike R0272–R0276 (7.5: rezi, paniranje, pivsko testo, tempura, zeliščno olje). Brez količin ostajajo Fallowove ribje omake (9.3), soubise, zeliščni velouté, paradižnikova omaka, testenine Chef Italiano in recepti iz reelsov. Aktivnih vnosov 275, naslednji ID R0277.
 - 27. 11. 2026: na uporabnikovo željo dodan R0258, MasterChef kartica o agarju s sadjem (7.5 Tehnike): odmerki, vretje, kislo sadje (sok po vretju), encimsko sadje, tekoči gel, perlice. Uredniški povzetek, ni preizkušeno. Aktivnih vnosov 257, naslednji ID R0259.
 - 27. 11. 2026: na uporabnikovo željo dodan R0257 sadni mousse iz sifona brez želatine (5.2, uredniški MasterChef hitri recept, dve različici: s smetano in z agarjem) in v R0038 »MasterChef varianta« z agarjem ter seznam drugih rešitev brez želatine (tudi za zelenjavni mousse). Viri iSi in Chef Simon iz seje niso bili dosegljivi. Aktivnih vnosov 256, naslednji ID R0258.
