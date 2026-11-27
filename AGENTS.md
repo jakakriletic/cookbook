@@ -16,6 +16,8 @@
 
 27. 11. 2026 — R0277 mandljevo krhko testo (2.1, Chef Simon) z MasterChef varianto v sekljalniku ter belo in kakavovo različico; kakavova je iz povzetka iskalnika, za preverbo. 276 receptov, naslednji ID R0278.
 
+27. 11. 2026 — **Čaka na obdelavo (YouTube iz oblaka blokira »Sign in to confirm you're not a bot«):** https://www.youtube.com/watch?v=bG2nwUSWezg (indijski recept za 12.8; uporabnik želi v oklepajih hacke za pospešitev, npr. ekonom lonec, s časi iz virov) in https://www.youtube.com/watch?v=IIGLJKD0t_8 (»še to kasneje«). Potrebni so naslov, opis, datoteka ali piškotki. Ponujeno tudi: oklepaji s hacki pri obstoječih receptih v 12.8.
+
 Delovna mapa v tej seji: `C:\Users\jakak\Desktop\cookbook` (uporabnik jo je izrecno določil 5. 11. 2026).
 Z uporabnikom komuniciraj v slovenščini, sproščeno; recepte piši v jasni knjižni slovenščini.
 
