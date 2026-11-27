@@ -39,7 +39,8 @@ Za pljučno pečenko, rostbif ali bržolo izberi končno temperaturo glede na ž
 
 ## Perutnina in divjačina
 
-- **Piščanec, puran, raca, gos, fazan in prepelica** — najmanj **74 °C**. Pri celi ptici preveri najdebelejši del prsi, notranji del stegna in predel ob krilu. Tudi sredica nadeva mora doseči **74 °C**.
+- **Račje prsi (medium rare)** — **54–57 °C v sredici po počitku**. Pri peki v ponvi jih odstavi pri približno 54 °C in pusti počivati. Ta kulinarični cilj je pod varnostnim priporočilom 74 °C za perutnino.
+- **Piščanec, puran, cela raca, gos, fazan in prepelica** — najmanj **74 °C**. Pri celi ptici preveri najdebelejši del prsi, notranji del stegna in predel ob krilu. Tudi sredica nadeva mora doseči **74 °C**.
 - **Piščančja stegna in krače** — za mehkejše temno meso ciljaj na **77–82 °C**.
 - **Srna, jelen, divji prašič, medved in poljski zajec** — za uplenjeno divjad uporabi previdnejši cilj **74 °C**, tudi pri mletem mesu. **Domači kunec** — **71 °C**.
 
@@ -58,3 +59,4 @@ Za pljučno pečenko, rostbif ali bržolo izberi končno temperaturo glede na ž
 - 27. 11. 2026 — razširjen pregled R0157. Varnostni minimumi za domače meso, ribe in kunce ter znaki pečenosti morskih sadežev so iz [FoodSafety.gov](https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures).
 - Številčni cilj za rake in školjke ter divjačino sledi [Health Canada](https://www.canada.ca/en/health-canada/services/general-food-safety-tips/safe-internal-cooking-temperatures.html) in [priporočilu za uplenjeno divjad](https://www.canada.ca/en/public-health/services/reports-publications/canada-communicable-disease-report-ccdr/monthly-issue/2024-50/issue-5-may-2024/outbreak-human-trichinellosis-arizona-minnesota-south-dakota-2022.html).
 - Kulinarične stopnje, razponi za rebra, pleče in perutnino: [ThermoWorks](https://www.thermoworks.com/content/pdf/smoke_x2_operating_instructions.pdf). Za goveje prsi tudi [ThermoWorks, Brisket](https://blog.thermoworks.com/180-smoked-brisket-thermaq-blue/).
+- Račje prsi medium rare in naknadno segrevanje med počitkom: [Traeger, Seared Duck Breasts](https://www.traeger.com/ca/en/recipes/seared-duck-breasts).
